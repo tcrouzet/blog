@@ -1,0 +1,122 @@
+<!DOCTYPE>
+		<html lang="fr" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+		<head profile="http://gmpg.org/xfn/11">
+		  <title>Quand Ulysses nous trahit</title>
+		  <meta charset="utf-8">
+		  <meta http-equiv="Cache-control" content="public">
+		  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		  <meta name="apple-mobile-web-app-capable" content="yes">
+		  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+		  <link href="../assets/minimal_static.css?1632977586" rel="stylesheet" type="text/css" media="screen" >
+		  <link href="../assets/minimal_static.css?1632977586" rel="stylesheet" type="text/css" media="print" >
+		  </head><body><article id="wrapper">
+
+<h1>Quand Ulysses nous trahit</h1>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version="1.0" encoding="UTF-8"?><html><body><p>Quand on &eacute;crit, il n&rsquo;y a rien de pire que de perdre confiance en
+son outil d&rsquo;&eacute;criture, de se sentir contraint par lui plut&ocirc;t que
+pousser en avant, surtout d&rsquo;avoir peur de perdre ses textes. C&rsquo;est
+d&rsquo;autant plus critique quand on travaille sur de multiples projets
+en parall&egrave;le.<!--more-->
+</p><p>Dans l&rsquo;environnement Apple, nous sommes nombreux &agrave; &eacute;crire avec
+Ulysses, un outil r&eacute;volutionnaire il y a quelques ann&eacute;es, mais qui,
+&agrave; force de vouloir &eacute;largir sa cible, <a href="https://tcrouzet.com/2019/05/04/ulysses-lex-meilleur-editeur-pour-ecrivain/">
+en oublie ses fondamentaux</a>.</p>
+<p>Quand <a href="http://www.fuirestunepulsion.net/">Guillaume
+Vissac</a> m&rsquo;a dit qu&rsquo;il n&rsquo;arrivait plus &agrave; resynchroniser la base
+de donn&eacute;es Ulysses, donc qu&rsquo;il n&rsquo;acc&eacute;dait plus &agrave; sa m&eacute;moire
+textuelle, son stress s&rsquo;est communiqu&eacute; &agrave; moi. Je me suis dit que je
+devais &ecirc;tre plus vigilant, ne plus faire confiance &agrave; Ulysses, si
+performant c&ocirc;t&eacute; sauvegarde en temps ordinaire que j&rsquo;en oublie sa
+faillibilit&eacute;, d&rsquo;autant que sa gestion des fichiers est pour le
+moins cryptique, pour ne pas dire dissimul&eacute;s comme s&rsquo;il s&rsquo;agissait
+d&rsquo;une volont&eacute; affich&eacute;e de nous compliquer la t&acirc;che, surtout de nous
+emp&ecirc;cher d&rsquo;utiliser en parall&egrave;le des outils concurrents.</p>
+<p>Il est temps pour moi d&rsquo;&ecirc;tre capable &agrave; tout instant de quitter
+Ulysses. Il est temps de remettre la main sur mes fichiers.</p>
+<h3>M&eacute;thode 1</h3>
+<p>Quand la fonction de synchronisation iCloud n&rsquo;est pas activ&eacute;e,
+Ulysses sauvegarde nos donn&eacute;es dans le dossier&nbsp;:</p>
+<blockquote><br>
+~/Library/Group\
+Containers/X5AZV975AG.com.soulmen.shared<br></blockquote>
+<p>Dans le cas de la synchronisation, ce qui est vivement
+conseill&eacute;, on retrouve les fichiers dans &nbsp;:</p>
+<blockquote><br>
+~/Library/Mobile\
+Documents/X5AZV975AG~com\soulmen\ulysses3/<br></blockquote>
+<p>Cela vaut pour les backups automatiques d&rsquo;Ulysses, qui
+s&rsquo;apparentent un gestionnaire de versions, puisque qu&rsquo;ils ne
+s&rsquo;effectuent pas en un lieu diff&eacute;rent de la zone de stockage
+traditionnelle.</p>
+<div class="image"><img src="../images/51812_back1.png" alt="Script Automator" width="1788" height="753"><div class="legend">Script Automator</div></div>
+<p>Depuis bien longtemps, j&rsquo;ai cr&eacute;&eacute; une app Automator qui compresse
+ce dossier de backup et l&rsquo;archive en local et sur mon Google Drive,
+puis m&rsquo;affiche un message &laquo;&nbsp;backup termin&eacute;&nbsp;&raquo;. Je lance
+cette t&acirc;che avec plus ou moins de r&eacute;gularit&eacute;, plus fr&eacute;quemment
+quand je travaille &agrave; des textes longs.</p>
+<div class="image"><img src="../images/51812_back2.png" alt="Sauvegarde cryptique" width="1302" height="1016"><div class="legend">Sauvegarde cryptique</div></div>
+<p>Le contenu de cette archive est compliqu&eacute;, ce qui nous en
+apprend beaucoup sur le m&eacute;pris des d&eacute;veloppeurs d&rsquo;Ulysses &agrave; l&rsquo;&eacute;gard
+des utilisateurs. Pourquoi ne pas nommer les dossiers par leur nom,
+quitte &agrave; ajouter un code derri&egrave;re pour diff&eacute;rencier les dossiers de
+m&ecirc;me nom&nbsp;? Pourquoi ne pas num&eacute;roter les feuilles dans leur
+ordre de classement&nbsp;? Pourquoi quand nous localisons cette
+archive hors d&rsquo;iCloud, sur Google Drive par exemple, est-elle
+d&eacute;grad&eacute;e&nbsp;? Je ne vois aucune raison technique, sinon la
+volont&eacute; de nous enfermer dans l&rsquo;univers Apple et de faire
+dispara&icirc;tre la mat&eacute;rialit&eacute; de nos donn&eacute;es.</p>
+<p>Ulysses est plus qu&rsquo;un &eacute;diteur de texte, c&rsquo;est un gestionnaire
+de projet, et nous l&rsquo;appr&eacute;cions pour cette fonction remarquable,
+dont j&rsquo;aurais bien du mal &agrave; me passer. Il ne se contente donc pas
+de sauvegarder nos textes, mais un ensemble de donn&eacute;es &agrave; leur sujet
+(tags, notes, objectifs, images, filtres, tris&hellip;), donn&eacute;es rang&eacute;es
+dans des fichiers XML, qui se retrouvent en bas de chaque
+arborescence en compagnie d&rsquo;un fichier TXT au format markdown.</p>
+<p>Avant que Guillaume ne me parle de son plantage, je me
+contentais de mon backup &eacute;pisodique, me disant que, en cas de
+drame, je me d&eacute;patouillerai &agrave; l&rsquo;aide de ce fatras de fichiers
+(r&eacute;installant Ulysses, &eacute;crasant son nouveau dossier d&rsquo;archive par
+le mien). La m&eacute;saventure de Guillaume, qui au final lui a fait
+perdre 48&nbsp;heures de travail, va m&rsquo;inciter &agrave; lancer mon backup
+quotidiennement (id&eacute;alement avec un utilitaire du type de <a href="https://www.dssw.co.uk/powermanager/">Power Management</a>).</p>
+<h3>M&eacute;thode 2</h3>
+<p>Une autre m&eacute;thode d&rsquo;archivage, plus transparente, implique
+d&rsquo;ajouter &agrave; Ulysses un dossier de sauvegarde externe, le mien est
+sur mon Google Drive, et, sur Ulysses, d&rsquo;y d&eacute;placer &agrave; &eacute;ch&eacute;ance
+r&eacute;guli&egrave;re les dossiers de travail. Ils sont alors automatiquement
+convertis en markdown, avec une structure lisible, mais en perdant
+au passage les enrichissements propres &agrave; Ulysses, toutes les
+fameuses donn&eacute;es stock&eacute;es dans les fichiers XML (qui nous
+appartiennent, mais qu&rsquo;Ulysses se refuse d&rsquo;exporter).</p>
+<div class="image"><img src="../images/51812_back3.png" alt="Donn&eacute;es Ulysses perdues" width="805" height="401"><div class="legend">Donn&eacute;es Ulysses perdues</div></div>
+<p>Avantage&nbsp;: on peut travailler sur ces fichiers externes
+avec d&rsquo;autres outils tout en les gardant accessibles sur Ulysses.
+Inconv&eacute;nient&nbsp;: une grande partie des fonctionnalit&eacute;s d&rsquo;Ulysses
+sont perdues, ce qui ne serait pas le cas si les donn&eacute;es &eacute;taient
+encod&eacute;es en XML en pied des fichiers markdown par exemple.</p>
+<div class="image"><img src="../images/51812_back4.png" alt="Architecture claire en markdown" width="568" height="662"><div class="legend">Architecture claire en markdown</div></div>
+<h3>M&eacute;thode 3</h3>
+<p>Depuis Ulysses, on peut d&eacute;placer les dossiers de travail sur le
+bureau ou un autre dossier. Les feuilles sont une &agrave; une converties
+en fichiers ULYZ, qui peuvent &ecirc;tre rouverts avec Ulysses, par
+exemple si on veut les transmettre &agrave; d&rsquo;autres utilisateurs sans ne
+rien perdre de nos m&eacute;tadonn&eacute;es. Mais, avec cette m&eacute;thode, on ne
+peut pas rouvrir directement toutes les feuilles d&rsquo;un dossier.
+Ulysses a oubli&eacute; qu&rsquo;un &eacute;crivain ne travaille pas seul, que parfois
+il collabore avec d&rsquo;autres &eacute;crivains et des correcteurs et des
+&eacute;diteurs, et qu&rsquo;il serait bon de pouvoir leur transmettre une copie
+d&rsquo;un morceau de notre environnement de cr&eacute;ation (et non pas
+seulement notre texte finalis&eacute;).</p>
+<p>Pour r&eacute;sumer. La m&eacute;thode 1 est la plus s&ucirc;re, la seule
+automatisable simplement, mais elle g&eacute;n&egrave;re des fichiers opaques. La
+seconde me servira le jour o&ugrave; je d&eacute;ciderai de quitter Ulysses. La
+troisi&egrave;me en l&rsquo;&eacute;tat a peu d&rsquo;int&eacute;r&ecirc;t, sauf pour transmettre
+ponctuellement des feuilles.</p>
+</body></html>
+
+<p class="date"><br/><a href="../2020/53854.html">Suite</a> | <a href="../2019/index.html">2019</a> | <a href="../index.html">Sommaire</a> | Texte publié dimanche 30 juin 2019</p>
+
+
+</article></body></html>
