@@ -1297,18 +1297,25 @@
   p, li {text-align:justify}
 
   @page {
-    size: 5080mm 5080mm;
+    /*size: 5080mm 5080mm;*/ /* 5mx5m*/
+    /*size: 420mm 297mm;*/ /* A3 paysage */
+    /*size: 594mm 420mm;*/ /* A2 paysage */
+    /*size: 840mm 594mm;*/ /* A1 paysage */
+    size: 1188mm 840mm; /* A0 paysage */
 }
 
   @media print {
-    body { overflow: auto; margin: 10mm; }
-    #wrapper{
-        margin: 10mm;
-        columns: 50;
+    body {
+        margin:0;
+        padding-left:15mm;
+        padding-right:15mm;
+        padding-top: 15mm;
+        padding-bottom: 15mm;
+        columns: 14;
         column-gap: 10mm;
     }
-    article > *:not(.bleed), #wrapper > *:not(.bleed) {
-        margin-left:0; margin-right: 0;
+    article{
+        margin: 0;
     }
     img, pre, blockquote, table, figure, .❝ {
         page-break-inside: avoid
