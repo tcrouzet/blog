@@ -8,13 +8,14 @@
 		  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 		  <meta name="apple-mobile-web-app-capable" content="yes">
 		  <meta name="apple-mobile-web-app-status-bar-style" content="black">
-		  <link href="../assets/minimal_static.css?1655110288" rel="stylesheet" type="text/css" media="screen" >
-		  <link href="../assets/minimal_static.css?1655110288" rel="stylesheet" type="text/css" media="print" >
+		  <link href="../assets/minimal_static.css" rel="stylesheet" type="text/css" media="screen" >
+		  <link href="../assets/minimal_static.css" rel="stylesheet" type="text/css" media="print" >
 		  </head><body><article id="wrapper">
 
 <h1>Les réseaux sociaux ont confisqué la métaphore du blog</h1>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<?xml version="1.0" encoding="UTF-8"?><html><body><p>Quand le blog na&icirc;t en 1994, c&rsquo;est pour continuer <em>La
+<?xml version="1.0" encoding="UTF-8"?><html><body><div class="image"><img src="../images/38295_screenshot.png" alt="" width="1775" height="1244"></div>
+<p>Quand le blog na&icirc;t en 1994, c&rsquo;est pour continuer <em>La
 Route</em> de Kerouak. Les articles se d&eacute;roulent en un long rouleau
 antichronologique. Quand un lecteur arrivait sur la page d&rsquo;accueil,
 la seule page d&rsquo;un blog, il savait imm&eacute;diatement qu&rsquo;il entrait dans
@@ -80,27 +81,26 @@ WordPress sont tomb&eacute;s dans le pi&egrave;ge de la m&eacute;taphore de la p
 ils ont enterr&eacute; le rouleau, pourtant toujours l&agrave; en substance dans
 leur base de donn&eacute;es. Rien n&rsquo;a chang&eacute; de ce c&ocirc;t&eacute;, c&rsquo;est la
 restitution que j&rsquo;ai d&ucirc; transformer.</p>
-<ol><br>
-<li>Quand le lecteur arrive sur un article appartenant &agrave; une s&eacute;rie,
+<ol><li>Quand le lecteur arrive sur un article appartenant &agrave; une s&eacute;rie,
 je dois l&rsquo;afficher &agrave; sa place chronologique, il suffit de quelques
 lignes de PHP dans WordPress pour le situer, mais j&rsquo;ai mis pas mal
-de temps &agrave; les optimiser.<br></li>
+de temps &agrave; les optimiser.</li>
 <li>Pour autant, je ne peux charger l&rsquo;ensemble d&rsquo;un rouleau,
 comportant potentiellement des dizaines d&rsquo;articles et pesant
 plusieurs m&eacute;gaoctets. Trop lourd pour le serveur, comme lourd pour
-le navigateur.<br></li>
+le navigateur.</li>
 <li>D&rsquo;autre part, je dois maintenir la validit&eacute; des URLs. Quand on
 arrive sur la page d&rsquo;un article, on arrive bel et bien sur cet
 article, c&rsquo;est tr&egrave;s important pour les moteurs de recherche et pour
 conserver l&rsquo;historique dans la blogosph&egrave;re (pour ce qu&rsquo;il en
-reste).<br></li>
+reste).</li>
 <li>C&rsquo;est seulement quand le lecteur joue du scrolling haut ou bas
 que les autres articles du rouleau se chargent progressivement (et
 de mani&egrave;re transparente pour le lecteur). Cela impose pas mal
-d&rsquo;Ajax combin&eacute; avec du jQuery.<br></li>
+d&rsquo;Ajax combin&eacute; avec du jQuery.</li>
 <li>&Agrave; ce moment, il est n&eacute;cessaire d&rsquo;&eacute;liminer toutes les traces
 lat&eacute;rales, tous ces hors-texte, toutes ces marges qui nuisent &agrave; la
-lecture. Le texte et rien que le texte.<br></li>
+lecture. Le texte et rien que le texte.</li>
 <li>Avec cette id&eacute;e du rouleau de Kerouac, j&rsquo;ai aussi &eacute;limin&eacute; les
 pieds d&rsquo;article habituels sur un blog (listes des tags, des
 cat&eacute;gories, commentaires, recommandations sociales&hellip;). J&rsquo;ai utilis&eacute;
@@ -110,11 +110,11 @@ plus &laquo;&nbsp;&Ccedil;a, tu ne l&rsquo;as pas dit.&nbsp;&raquo; Maintenant, 
 souvent, le &laquo;&nbsp;&ccedil;a&nbsp;&raquo; se trouvera plus bas. Parce qu&rsquo;un
 blogueur n&rsquo;est pas un journaliste qui doit tout dire dans chacun de
 ses papiers. Mon texte, c&rsquo;est mon rouleau, jamais un article
-individuel.<br></li>
+individuel.</li>
 <li>J&rsquo;ai rassembl&eacute; la navigation dans une barre qui se modifie
 automatiquement en fonction du billet en cours de lecture. Les
 commentaires ne s&rsquo;affichent qu&rsquo;&agrave; la demande, de m&ecirc;me les tags et
-autres babioles.<br></li>
+autres babioles.</li>
 </ol>
 <p>Quand j&rsquo;ai d&eacute;couvert mes <a href="http://blog.tcrouzet.com/2014/11/13/le-je-lappareil-photo-et-limprimante/1/">
 Vagabondages</a> affich&eacute;s sur ce mode, j&rsquo;ai pris conscience de leur
