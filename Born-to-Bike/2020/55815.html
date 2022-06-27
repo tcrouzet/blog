@@ -1,0 +1,111 @@
+<!DOCTYPE>
+		<html lang="fr" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+		<head profile="http://gmpg.org/xfn/11">
+		  <title>Optimiser les cartes des GPS Garmin</title>
+		  <meta charset="utf-8">
+		  <meta http-equiv="Cache-control" content="public">
+		  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		  <meta name="apple-mobile-web-app-capable" content="yes">
+		  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+		  <link href="../../assets/minimal_static.css" rel="stylesheet" type="text/css" media="screen" >
+		  <link href="../../assets/minimal_static.css" rel="stylesheet" type="text/css" media="print" >
+		  </head><body><article id="wrapper">
+
+<h1>Optimiser les cartes des GPS Garmin</h1>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version="1.0" encoding="UTF-8"?><html><body><p><img width="1024" height="640" src="https://tcrouzet.com/images_tc//2020/10/mapcode-1024x640.jpg" class="attachment-large size-large" alt="Faut entrer dans le code" loading="lazy" srcset="https://tcrouzet.com/images_tc/2020/10/mapcode-1024x640.jpg 1024w, https://tcrouzet.com/images_tc/2020/10/mapcode-768x480.jpg 768w, https://tcrouzet.com/images_tc/2020/10/mapcode-250x156.jpg 250w, https://tcrouzet.com/images_tc/2020/10/mapcode.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px">J&rsquo;utilise un GPS pour
+suivre des traces, que ce soit en bikepacking, ou lors de
+randonn&eacute;es organis&eacute;es par des tiers, ou m&ecirc;me lorsque je trace mes
+propres parcours. Mon probl&egrave;me&nbsp;: la plupart des cartes
+disponibles pour Garmin sont surcharg&eacute;es d&rsquo;informations et de
+couleurs, et la trace se confond souvent avec elles, surtout en
+plein soleil, et la suivre devient alors difficile. J&rsquo;ai donc
+d&eacute;cid&eacute; de cr&eacute;er une carte optimis&eacute;e.<!--more--></p>
+<h3>Rendu avec carte Garmin</h3>
+<div class="image"><img src="../../images/55815_newmap-garmin-1024x700.jpg" alt="Rendu Garmin" width="1024" height="700"><div class="legend">Rendu Garmin</div></div>
+<p>Selon moi, la carte fournie par Garmin est trop color&eacute;e pour le
+suivi de trace (ce serait possible si Garmin offrait la possibilit&eacute;
+de calibrer la taille de la trace, ce qui n&rsquo;est pas le cas sur mon
+nouveau 530 et ne l&rsquo;&eacute;tait pas davantage sur mon 820). On ne peut
+que changer la couleur de la trace (et cela fastidieusement au coup
+par coup). Notez que la capture d'&eacute;cran effectu&eacute;e sur BaseCamp est
+tr&egrave;s flatteuse.</p>
+<h3>Rendu avec carte OSM new style</h3>
+<div class="image"><img src="../../images/55815_newmap-newstyle-1024x700.jpg" alt="Rendu OSM new style" width="1024" height="700"><div class="legend">Rendu OSM new style</div></div>
+<p>Jusqu&rsquo;alors ma favorite, <a href="http://garmin.openstreetmap.nl/">la version OSM t&eacute;l&eacute;chargeable
+gratuitement</a> reste quelque peu baroque, avec notamment des
+routes souvent color&eacute;es.</p>
+<h3>Rendu avec ma carte</h3>
+<div class="image"><img src="../../images/55815_newmap-minimalist-1024x700.jpg" alt="Rendu OSM minimaliste" width="1024" height="700"><div class="legend">Rendu OSM minimaliste</div></div>
+<p>J&rsquo;ai donc cr&eacute;&eacute; une trace OSM minimaliste, sans POI, sans texte,
+sans couleur ou presque. Au passage, j&rsquo;ai fait passer le fichier
+France de 1,6&nbsp;Go &agrave; 320&nbsp;Mo, tout en incluant les donn&eacute;es
+altim&eacute;triques.</p>
+<p><a href="https://mega.nz/file/19FliI6a#sCYLfnpTCWx99PMWHVEUaq-IARhWUgK21BnswbvXXjQ">
+Vous pouvez t&eacute;l&eacute;charger la carte</a> (je ne vous garantis pas de la
+mettre &agrave; jour souvent). Pour l&rsquo;installer, copiez le fichier dans le
+dossier Garmin de votre GPS. Si une carte du m&ecirc;me nom existe,
+renommez-l&agrave;. Il vous reste &agrave; dire au GPS d&rsquo;utiliser de pr&eacute;f&eacute;rence
+la nouvelle carte (ce qui revient &agrave; d&eacute;sactiver les autres).
+Attention, cette carte n'est pas routable et ne sert que lors du
+suivi de traces (sur les nouveaux Garmin on peut cr&eacute;er des profils
+avec des cartes diff&eacute;rentes).</p>
+<h3>Rendu avec carte IGN</h3>
+<div class="image"><img src="../../images/55815_newmap-ign-1024x700.jpg" alt="Rendu IGN" width="1024" height="700"><div class="legend">Rendu IGN</div></div>
+<p>Sur le Garmin 820, je n&rsquo;utilisais pas l&rsquo;IGN parce que
+l&rsquo;affichage se tra&icirc;nait tout en manquant de pr&eacute;cision. Avec le 530,
+c&rsquo;est nettement plus fluide et le contraste de la trace est bien
+meilleur que sur les cartes Garmin ou OSM. C&rsquo;est une alternative
+on&eacute;reuse &agrave; mon bricolage.</p>
+<h3>Geek only</h3>
+<p>Je r&eacute;sume comment je m&rsquo;y suis pris pour fabriquer cette carte,
+tout en faisant hurler le Mac (la m&ecirc;me manip marche sous
+Windows).</p>
+<ol><li><a href="https://www.java.com/fr/download/">Installer
+Java</a>.</li>
+<li><a href="https://www.oracle.com/java/technologies/javase-jdk15-downloads.html">
+Installer Java SE Development Kit</a>.</li>
+<li>Cr&eacute;er un dossier de travail (dans mon cas
+<em>/Users/thierrycrouzet/Documents/GarminMaps/tools/</em>).</li>
+<li><a href="https://download.geofabrik.de/europe/france.html">T&eacute;l&eacute;charger dans
+le dossier <em>tools</em> la derni&egrave;re source OSM pour France</a>
+(<a href="http://download.openstreetmap.fr/extracts/europe/">possibilit&eacute; de
+t&eacute;l&eacute;charger les r&eacute;gions, les d&eacute;partements, d&rsquo;autres pays&hellip;</a>). Ce
+fichier a pour nom&nbsp;: <em>france-latest.osm.pbf</em>.</li>
+<li><a href="http://www.mkgmap.org.uk/download/splitter.html">T&eacute;l&eacute;charger
+Splitter</a>, un logiciel qui d&eacute;coupera la carte OSM pour que le
+Mac puisse la dig&eacute;rer.</li>
+<li><a href="http://www.mkgmap.org.uk/download/mkgmap.html">T&eacute;l&eacute;charger
+Mkgmap</a>, un logiciel qui recollera les bouts et cr&eacute;era une carte
+au format Garmin.</li>
+<li><a href="https://mega.nz/file/RplyUa7L#DZtAnF6QgfrxCWEquqLv0rAyeDAopUPBH-De1C_xscY">
+T&eacute;l&eacute;charger les styles de la nouvelle carte</a> (voil&agrave; qui m&rsquo;a pris
+la t&ecirc;te et je suis loin d&rsquo;&ecirc;tre devenu un expert du sujet). Reste
+pas mal de boulot &agrave; faire pour cr&eacute;er la carte optimale.</li>
+<li>D&eacute;compresser le dossier <em>mystyle</em>. Il contient les
+fichiers texte qui contr&ocirc;lent le rendu de la carte.</li>
+<li>Ouvrir le terminal et aller dans <em>tools</em> avec un <em>cd
+/Users/thierrycrouzet/Documents/GarminMaps/tools/</em>.</li>
+<li>Ex&eacute;cuter Spliter avec <em>java -Xmx3000m -jar
+splitter/splitter.jar --max-nodes=1100000 france-latest.osm.pbf
+--output-dir=outputsplit</em>. &Ccedil;a prend un bon moment.</li>
+<li>Ex&eacute;cuter Mkgmap avec <em>java -Xmx3000m -jar mkgmap/mkgmap.jar
+--style-file=mystyle --output-dir=output --no-net --product-id=1
+--overview-mapname="OSM minimalist" --family-name="OSM minimalist"
+--series-name="OSM minimalist" --description="OSM minimalist"
+--area-name="OSM minimalist" --gmapsupp -c
+outputsplit/template.args</em>. C&rsquo;est reparti pour au moins aussi
+longtemps.</li>
+<li>La carte <em>gmapsupp.img</em> se retrouve dans le dossier
+<em>output</em>.</li>
+<li>J&rsquo;ai d&ucirc; picorer des infos <a href="https://wiki.openstreetmap.org/wiki/FR:Mkgmap">ici</a> et <a href="https://github.com/ligfietser/mkgmap-style-sheets">l&agrave;</a> ou
+encore <a href="https://www.cferrero.net/maps/guide_to_mkgmap_style_files.html">l&agrave;</a>
+avant de m&rsquo;en sortir, et aussi en t&acirc;tonnant beaucoup.</li>
+</ol>
+</body></html>
+
+<p class="date"><br/><a href="../2020/55959.html">Suite</a> | <a href="../2020/index.html">2020</a> | <a href="../index.html">Sommaire</a> | Texte publié vendredi 23 octobre 2020</p>
+
+
+</article></body></html>

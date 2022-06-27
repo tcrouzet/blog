@@ -1,0 +1,107 @@
+<!DOCTYPE>
+		<html lang="fr" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+		<head profile="http://gmpg.org/xfn/11">
+		  <title>Comment spammer Twitter</title>
+		  <meta charset="utf-8">
+		  <meta http-equiv="Cache-control" content="public">
+		  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		  <meta name="apple-mobile-web-app-capable" content="yes">
+		  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+		  <link href="../assets/minimal_static.css" rel="stylesheet" type="text/css" media="screen" >
+		  <link href="../assets/minimal_static.css" rel="stylesheet" type="text/css" media="print" >
+		  </head><body><article id="wrapper">
+
+<h1>Comment spammer Twitter</h1>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version="1.0" encoding="UTF-8"?><html><body><p><img width="200" height="319" src="https://tcrouzet.com/images_tc//2013/02/4t200.jpg" class="attachment-large size-large" alt="" loading="lazy">Je vois tant de
+comptes corrompus, tant de tricheries que, <a href="http://blog.tcrouzet.com/2009/09/24/qui-a-la-plus-grosse-quequette-sur-twitter/">
+encore une fois</a>, j&rsquo;ai envie de les d&eacute;noncer pour d&eacute;noncer tout
+un &eacute;cosyst&egrave;me d&eacute;sormais vici&eacute;.<!--more--></p>
+<p>Et autant jouer avec, donner un exemple &agrave; une &eacute;chelle modeste,
+et presque humanitaire. Montrer comment on peut promouvoir un
+livre. Le mien, bien s&ucirc;r. <a href="http://blog.tcrouzet.com/la-quatrieme-theorie/"><em>La quatri&egrave;me
+th&eacute;orie</em></a> qui sort le 27 mars chez Fayard.</p>
+<p>La m&eacute;thode ne n&eacute;cessite aucune programmation.</p>
+<ol>
+<li>Rep&eacute;rer en temps r&eacute;el les cibles avec une requ&ecirc;te de
+recherche.</li>
+<li>Envoyez aux cibles un message.</li>
+</ol>
+<p>Des centaines d&rsquo;agences de marketing usent et abusent de cette
+technique, qui pour de bonnes causes garde un certain int&eacute;r&ecirc;t.</p>
+<h3>Qui spammer</h3>
+<p>Dans mon exemple, je vais donc rester modeste. Chaque fois que
+quelqu&rsquo;un parlera de &laquo;&nbsp;twitt&eacute;rature&nbsp;&raquo;, je lui indiquerai
+que j&rsquo;ai &eacute;crit un article sur <a href="http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-liens/">
+l&rsquo;histoire de la twitt&eacute;rature</a>.</p>
+<p>Pour d&eacute;tecter mes cibles, une requ&ecirc;te sur un hashtag ou un mot
+cl&eacute; fera l&rsquo;affaire. Pour un temps encore, Twitter nous fournit un
+URL tr&egrave;s pratique&nbsp;:</p>
+<blockquote>
+http://search.twitter.com/search.atom?q=mot_cl&eacute;</blockquote>
+<p>Cet URL ouvre un fil RSS avec les derniers r&eacute;sultats. Dans mon
+cas&nbsp;:</p>
+<blockquote><a href="http://search.twitter.com/search.atom?q=twitt%C3%A9rature+OR+tweet-nouvelle+lang:fr">
+http://search.twitter.com/search.atom?q=twitt&eacute;rature+OR+tweet-nouvelle+lang:fr</a></blockquote>
+<h3>Ne pas matraquer</h3>
+<p>Hors de question d&rsquo;envoyer plus d&rsquo;une fois un message &agrave; une
+cible potentielle. Il faut donc archiver le nom des cibles et
+&eacute;viter les doublons.</p>
+<p>Cette op&eacute;ration qui jadis aurait demand&eacute; un peu de programmation
+s&rsquo;effectue en quelques secondes gr&acirc;ce &agrave; <a href="https://ifttt.com">IFTTT</a> et <a href="https://drive.google.com/">Google Drive</a>.</p>
+<p>Sous IFTTT, je cr&eacute;e une r&egrave;gle qui chaque fois que le fil RSS
+s&rsquo;actualise envoie les donn&eacute;es dans un tableau cr&eacute;&eacute; sous Google
+Drive.</p>
+<div class="image"><img src="../images/31090_spam1.png" alt="IFTTT 1" width="989" height="1545"><div class="legend">IFTTT 1</div></div>
+<p>Les champs parlent d&rsquo;eux-m&ecirc;mes. Adresse du fil RSS, nom du
+tableau, dossier o&ugrave; il est rang&eacute; sous Google Drive. Toute
+l&rsquo;intelligence se concentre sur le dernier champ. Dans chaque ligne
+du tableau, en plus des donn&eacute;es qui proviennent du fil RSS,
+j&rsquo;ajoute des formules. La premi&egrave;re d&eacute;termine le @ de la cible. La
+seconde compte le nom d&rsquo;apparition du @ dans le tableau. La
+troisi&egrave;me fait appel &agrave; une fonction que j&rsquo;ai bricol&eacute;e et qui
+reformate la date.</p>
+<p>Sous Google Drive, j&rsquo;ai donc cr&eacute;&eacute; un tableau intitul&eacute;
+&laquo;&nbsp;twitterature&nbsp;&raquo; (<a href="https://docs.google.com/spreadsheet/ccc?key=0AiBY7ykSG8t6dFZYOVFaSjB3cHpZYnVZZTU1bjFzNmc&amp;usp=sharing">que
+vous pouvez ouvrir</a>). IFTTT envoie automatiquement les donn&eacute;es
+dans la feuille &laquo;&nbsp;Sheet1&nbsp;&raquo;.</p>
+<div class="image"><img src="../images/31090_spam2-1024x844.png" alt="Sheet1" width="1024" height="844"><div class="legend">Sheet1</div></div>
+<p>Les autres feuilles m&rsquo;aident &agrave; trier les donn&eacute;es dans l&rsquo;ordre
+antichronologique, &agrave; &eacute;carter les cibles en doublons, &agrave; v&eacute;rifier que
+les messages contiennent bien le mot-cl&eacute; recherch&eacute; et ne pointent
+pas d&eacute;j&agrave; vers moi.</p>
+<div class="image"><img src="../images/31090_spam3-1024x844.png" alt="Donn&eacute;es filtr&eacute;es" width="1024" height="844"><div class="legend">Donn&eacute;es filtr&eacute;es</div></div>
+<p>Au final, j&rsquo;obtiens un tableau avec les noms de mes cibles, la
+derni&egrave;re en date en haut de la liste.</p>
+<h3>Transformer l&rsquo;archive en fil RSS</h3>
+<p>IFTTT ne sait pas encore utiliser des tableaux Google Drive pour
+d&eacute;clencher des actions. Il faut transformer le tableau en fil RSS.
+Je n&rsquo;ai pas trouv&eacute; comment cr&eacute;er un fil propre directement avec
+Google, j&rsquo;ai utilis&eacute; une WebApp&nbsp;: <a href="http://mashe.hawksey.info/2012/08/templated-export-for-google-spreadsheets/">
+Templated Export for Google Spreadsheets</a>.</p>
+<div class="image"><img src="../images/31090_spam4.png" alt="spam4" width="907" height="665"><div class="legend">spam4</div></div>
+<p>Dans l&rsquo;application j&rsquo;indique la cl&eacute; du tableau (visible dans
+l&rsquo;URL), la plage de cellules &agrave; exporter, puis je d&eacute;finis en-t&ecirc;te,
+corps et pieds de mon fil RSS (pour gagner du temps, <a href="http://blog.tcrouzet.com/images_tc/2013/02/TemplatedExportBackup.zip">
+importez mon templateTemplatedExportBackup</a>).</p>
+<p>Il ne reste qu&rsquo;&agrave; publier l&rsquo;URL, en veillant &agrave; le rendre public.
+<a href="https://script.googleusercontent.com/a/macros/tcrouzet.com/echo?user_content_key=9Fk0aZtiJrx7JX25RI7xTKHNotApQWsPiTSugDPDBBgYXYzt6BrMIRX9JkX_Q27m6pjhS-4usPsZupWu27vELzsTJnCSb4xmOJmA1Yb3SEsKFZqtv3DaNYcMrmhZHmUMi80zadyHLKDuE4OM1Xou3CbWYcfMZpSH68n4RAo2RJyLoX8PfsiHKZ9sFnGLq3KJS8Lji8e3XvdzTgdPpJyKweAsE8hrKypHYAp_lQqK7-A6hKWAkHqsuc9yOkEvUYC_7BGWuhy35Hev6_VAgtvYnnX0za6dEiW5Ml0Z3HohRVhbv2QsER5KXw&amp;lib=MGlh2xigtvLKmIg0Au-am1SLIwXiD5OKf">
+Vous obtenez un beau fil RSS qui liste les gens qui discutent de
+twitt&eacute;rature sur Twitter.</a></p>
+<h3>Utiliser le fil RSS comme d&eacute;clencheur</h3>
+<p>De retour sur IFTTT, je cr&eacute;e une action qui &agrave; chaque nouvelle
+cible poste un message depuis mon compte. C&rsquo;est termin&eacute;.</p>
+<div class="image"><img src="../images/31090_spam5.png" alt="IFTTT 2" width="963" height="1202"><div class="legend">IFTTT 2</div></div>
+<p>J&rsquo;esp&egrave;re que mes cibles trouveront mon message int&eacute;ressant et ne
+vont pas me bannir. Les tricheurs professionnels, eux, cr&eacute;ent des
+comptes d&eacute;di&eacute;s au spam, &ccedil;a va de soi. Et ils ne crient pas sur tous
+les toits qu&rsquo;ils spamment, m&ecirc;me de mani&egrave;re intelligente. Que de
+d&eacute;tours pour vous dire de commander mon prochain livre. Ouf, c&rsquo;est
+vraiment termin&eacute; cette fois.</p>
+</body></html>
+
+<p class="date"><br/><a href="../2013/31215.html">Suite</a> | <a href="../2013/index.html">2013</a> | <a href="../index.html">Sommaire</a> | Texte publié vendredi 22 février 2013</p>
+
+
+</article></body></html>
