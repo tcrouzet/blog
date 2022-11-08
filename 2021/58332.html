@@ -1,0 +1,257 @@
+<!DOCTYPE>
+		<html lang="fr" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+		<head profile="http://gmpg.org/xfn/11">
+		  <title>Comment suivre une trace GPS en bikepacking</title>
+		  <meta charset="utf-8">
+		  <meta http-equiv="Cache-control" content="public">
+		  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		  <meta name="apple-mobile-web-app-capable" content="yes">
+		  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+		  <link href="../assets/minimal_static.css" rel="stylesheet" type="text/css" media="screen" >
+		  <link href="../assets/minimal_static.css" rel="stylesheet" type="text/css" media="print" >
+		  </head><body><article id="wrapper">
+
+<h1>Comment suivre une trace GPS en bikepacking</h1>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version="1.0" encoding="UTF-8"?><html><body><div class="image"><img src="../images/58332_IMG_8118-1.jpeg" alt="Exploration" width="1600" height="1200"><div class="legend">Exploration</div></div>
+<p>L&rsquo;affaire n&rsquo;est pas aussi simple qu&rsquo;il y para&icirc;t. Suivre une
+trace durant plusieurs jours en bikepacking ne se limite pas &agrave;
+maintenir une fl&egrave;che sur une ligne au milieu de l&rsquo;&eacute;cran du GPS.
+<!--more--></p>
+<p>Une strat&eacute;gie efficace&nbsp;implique&nbsp;:</p>
+<ol><li>De suivre la trace le plus simplement possible.</li>
+<li>D&rsquo;optimiser la consommation du GPS, surtout si on n&rsquo;a pas de
+dynamo comme moi.</li>
+<li>
+<p>D&rsquo;optimiser la r&eacute;activit&eacute; du GPS, pour qu&rsquo;il ne passe pas son
+temps &agrave; faire autre chose que nous guider.</p>
+</li>
+<li>
+<p>De visualiser les points d&rsquo;int&eacute;r&ecirc;t (POI/waypoints), par exemple
+pour ne pas manquer un point d&rsquo;eau, qui peut se trouver &agrave; proximit&eacute;
+de la trace.</p>
+</li>
+<li>
+<p>De visualiser les variantes du parcours, par exemple pour &eacute;viter
+un secteur fr&eacute;quemment inond&eacute;.</p>
+</li>
+<li>
+<p>De trouver des itin&eacute;raires de secours, au cas o&ugrave; la trace
+s&rsquo;av&egrave;re impraticable, par exemple si les ronces l&rsquo;envahissent ou
+une nouvelle barri&egrave;re la bloque (parfois elles apparaissent du jour
+au lendemain, m&eacute;saventure constat&eacute;e sur <a href="https://tcrouzet.com/2020/12/14/gravel-le-tour-de-sete-agglopole-mediterranee/">
+mon tour du pays de Thau</a>).</p>
+</li>
+</ol>
+<p>Voici comment je m&rsquo;appr&ecirc;te &agrave; r&eacute;soudre ce cahier des charges
+<a href="https://tcrouzet.com/gth/">lors de la GTH</a>.</p>
+<h3>1. La qualit&eacute; du fichier GPX</h3>
+<p>Il ne s&rsquo;agit pas de juger du trajet, mais du fichier, &agrave; savoir
+du nombre de points qui le composent. Quand nous enregistrons une
+sortie, notre GPS sauvegarde un point tous les quelques m&egrave;tres.
+Nous n&rsquo;avons pas besoin d&rsquo;autant d&rsquo;informations pour suivre une
+trace. Il faut donc cr&eacute;er des fichiers all&eacute;g&eacute;s, sauf que les
+algorithmes de filtrage de traces que j&rsquo;ai utilis&eacute;s, notamment ceux
+de <a href="https://www.garmin.com/fr-FR/software/basecamp/">Garmin
+BaseCamp</a>, ne sont pas hyperefficaces. Je reconstitue donc les
+traces que je partage &agrave; la main. Loin d&rsquo;&ecirc;tre r&eacute;barbatif, cet
+exercice me permet d&rsquo;&eacute;tudier la carte en d&eacute;tail, souvent d&rsquo;avoir
+des id&eacute;es de nouvelles explorations.</p>
+<p>Par exemple, la trace de la GTH, une trace VTT avec beaucoup de
+chemins et de singles, donc de tours et d&eacute;tours, n&eacute;cessite moins de
+10&nbsp;000 points pour 530&nbsp;km. Je pense que le ratio
+10&nbsp;000 points/500&nbsp;km est un bon crit&egrave;re pour estimer la
+qualit&eacute; technique d&rsquo;une trace VTT ou gravel. Un GPS pouvant en
+g&eacute;n&eacute;ral avaler une trace de 100&nbsp;000 points, &ccedil;a laisse de quoi
+voir venir, en un seul fichier.</p>
+<p>Certains organisateurs d&rsquo;&eacute;v&egrave;nements proposent des fichiers avec
+des ratios points/km beaucoup plus lourds, ce qui les oblige &agrave;
+segmenter leur parcours et nous impose de charger un nouveau
+segment quand nous en terminons un. Pour s&rsquo;&eacute;viter cette corv&eacute;e et
+ne pas s&rsquo;occuper du GPS lors des voyages de plusieurs jours, il
+faut donc si possible utiliser un seul fichier optimis&eacute;. Je pense
+qu'il n'y a aucun probl&egrave;me &agrave; disposer d'un seul fichier pour la
+totalit&eacute; d'une Tour Divide, par exemple (la trace totale &eacute;tant
+ridiculement petite &agrave; cause des infinis bouts de droit).</p>
+<p>Par ailleurs, une longue trace sans POI me para&icirc;t un travail ni
+fait ni &agrave; faire, surtout si elle est destin&eacute;e &agrave; &ecirc;tre partag&eacute;e comme
+celle de la GTH et parcourue par des cyclistes de profils tr&egrave;s
+diff&eacute;rents. Quand j'effectue les reconnaissances, je d&eacute;couvre les
+points d'eau, les boulangeries, les restaurants&hellip; Il me para&icirc;t
+fondamental de les associer &agrave; la trace pour ne pas laisser les
+bikepackers dans le flou, par exemple en leur permettant d'estimer
+la quantit&eacute; d'eau &agrave; transporter sur les diff&eacute;rents secteurs. Je
+trouve d'autres POI en travaillant ma trace sur Google Map ou OSM
+(Open Street Map). Par exemple, OSM r&eacute;f&eacute;rence de nombreux point
+d'eau, mais de mani&egrave;re tr&egrave;s incompl&egrave;te. C'est en mixant diverses
+sources que j'enrichis ma carte avant le d&eacute;part.</p>
+<p>Des grincheux disent que l'aventure, c'est partir dans le flou.
+En plein &eacute;t&eacute;, je n'aimerais pas me retrouver sans eau sur les
+sommets de l'Espinouse ou au milieu du Larzac. Pour moi, l'aventure
+se pr&eacute;pare avec s&eacute;rieux pour que je puisse la vivre avec le moins
+de pens&eacute;es parasites. Aux US, j'ai vu des gars partir dans des
+raids sans se pr&eacute;parer et abandonner d&egrave;s la premi&egrave;re journ&eacute;e.</p>
+<div class="image"><img src="../images/58332_gpsgth-07-1024x614.jpg" alt="Les POI essentiels sur la GTH" width="1024" height="614"><div class="legend">Les POI essentiels sur la GTH</div></div>
+<h3>2. Ma solution de secours</h3>
+<p>Un GPS peut tomber en panne. Certains bikepackers partent avec
+deux GPS, just in case. Je ne suis pas aussi maniaque. J&rsquo;ai mon
+t&eacute;l&eacute;phone en backup. Il peut me servir de GPS de guidage, mais
+m&rsquo;offre bien plus de services qu&rsquo;un GPS (pour un tr&egrave;s long voyage,
+j&rsquo;emporterais un support <a href="https://www.quadlockcase.com/">Quad Lock</a> pour mon t&eacute;l&eacute;phone en
+plus du support GPS).</p>
+<div class="image"><img src="../images/58332_gpsgth-01-1024x275.png" alt="Exportation KMZ depuis GoogleMap" width="1024" height="275"><div class="legend">Exportation KMZ depuis GoogleMap</div></div>
+<p>Sur iPhone, je ne pourrais pas me passer de l&rsquo;application
+<a href="https://mapout.app/">MapOut</a>. Avant tout voyage, je la
+charge avec la trace, ses variantes et ses points d&rsquo;int&eacute;r&ecirc;t. Pour
+la GTH, j&rsquo;exporte <a href="https://www.google.com/maps/d/edit?mid=1glqm485m-Oo25P1jFNsgr6k7Z5-bl8AD&amp;usp=sharing">
+la carte Google Map compl&egrave;te en KML</a>. Pour cela, je clique sur
+les trois points &agrave; droite du titre de la carte et ouvre le menu o&ugrave;
+se trouve la commande d'exportation. Je choisis le format KML et
+attache le fichier g&eacute;n&eacute;r&eacute; &agrave; un mail que j&rsquo;envoie &agrave; l&rsquo;adresse &agrave; mon
+nom cr&eacute;&eacute;e par MapOut. Je retrouve alors le tout sur mon t&eacute;l&eacute;phone,
+avec la possibilit&eacute; de t&eacute;l&eacute;charger gratuitement les fonds de cartes
+OSM. MapOut m&rsquo;aide a retrouver les points d&rsquo;int&eacute;r&ecirc;t et &agrave;
+&eacute;ventuellement d&eacute;couvrir des variantes, le tout en maintenant mon
+t&eacute;l&eacute;phone en mode avion. Je peux aussi analyser des secteurs en
+d&eacute;tails et visualiser leur profil.</p>
+<div class="image"><img src="../images/58332_gpsgth-03-1024x735.jpg" alt="MapOut sur iPhone" width="1024" height="735"><div class="legend">MapOut sur iPhone</div></div>
+<p>En parall&egrave;le, j'ai longtemps utilis&eacute; l'application <a href="https://www.twonav.com/fr/logiciels/app">TwoNav</a> sur laquelle
+je pr&eacute;chargeais les raster maps IGN (fichiers d'extension RMAP). Je
+la trouve lente, peu ergonomique, moins pratique que MapOut
+(transfert de fichier via FTP), mais parfois l'IGN est plus pr&eacute;cise
+que l'OSM. En revanche, en cas de bug du GPS, TwoNav guide bien
+plus agr&eacute;ablement que MapOut. L'application peut-&ecirc;tre connect&eacute;e &agrave;
+de nombreuses plateformes de partage de traces (Wikiloc, GPSies,
+TraceGPS, OpenRunner, LaTrace, UtagawaVTT&hellip;). Pour suivre une trace
+si je n'ai pas de GPS ou le mien tombe en rade, je pr&eacute;f&egrave;re
+toutefois Komoot (sur lequel je t&eacute;l&eacute;charge toujours ma trace avant
+le d&eacute;part).</p>
+<div class="image"><img src="../images/58332_gpsgth-05-1024x736.jpg" alt="TwoNav" width="1024" height="736"><div class="legend">TwoNav</div></div>
+<p>&Agrave; TwoNav, je pr&eacute;f&egrave;re d&eacute;sormais <a href="http://xn--iphignie-f1a.com/">iPhiG&eacute;Nie</a>, avec un abonnement
+pour la cartographie IGN. Cette app m'est surtout indispensable
+lors des reconnaissances. Je n'ai jamais eu &agrave; l'utiliser pour le
+guidage, m&ecirc;me si d'apr&egrave;s les copains elle fait tr&egrave;s bien le
+job.</p>
+<h3>3. Configuration minimaliste</h3>
+<p>La suite est sp&eacute;cifique &agrave; mon Garmin 530, et d&rsquo;une mani&egrave;re
+g&eacute;n&eacute;rale aux Garmin de la s&eacute;rie 30. Bien que d&eacute;j&agrave; familiaris&eacute; avec
+les Garmin, j&rsquo;ai eu besoin de trois mois pour trouver une m&eacute;thode
+qui me convienne pour les longues traces avec le 530. J&rsquo;ai vite
+compris le probl&egrave;me lors d&rsquo;une reconnaissance sur <a href="https://tcrouzet.com/gth/">la GTH</a>. Quand j&rsquo;ai charg&eacute; la trace
+compl&egrave;te, mon GPS a moulin&eacute; durant pr&egrave;s de 15&nbsp;minutes d&rsquo;avant
+d&rsquo;&ecirc;tre op&eacute;rationnel.</p>
+<p>En plus de plomber la batterie, ce calcul pr&eacute;pare le routage, de
+fa&ccedil;on que le GPS puisse indiquer &agrave; l&rsquo;avance quand tourner, alerter
+en cas de hors trace et ramener sur l&rsquo;itin&eacute;raire. Entrer dans un
+sous-bois pour pisser suffit parfois &agrave; relancer un calcul. Pire, le
+530 affiche en permanence sa trace de routage, en magenta, qui
+passe l&agrave; o&ugrave; il lui semble judicieux de passer, snobant la trace
+d&eacute;sir&eacute;e, tout cela parce que la cartographie Garmin ne conna&icirc;t pas
+le magnifique single d&eacute;nich&eacute; par le traceur. En Gros, le Garmin
+tente de mimer un GPS automobile, sauf que je suis &agrave; v&eacute;lo.</p>
+<p>Pour &eacute;viter le probl&egrave;me des longs recalculs, beaucoup de
+bikepackers d&eacute;coupent leurs traces en segments. Encore une fois, je
+ne m&rsquo;emb&ecirc;te pas avec &ccedil;a. Je d&eacute;marre le GPS le matin et je p&eacute;dale
+sans attendre. Je n&rsquo;ai pas non plus envie qu&rsquo;il recalcule chaque
+fois que je m&rsquo;&eacute;loigne de la trace pour observer un point de vue, me
+ravitailler dans une boulangerie ou farnienter en terrasse de caf&eacute;.
+Si je sors de la trace, c&rsquo;est que je le veux bien ou n&rsquo;ai pas le
+choix. En g&eacute;n&eacute;ral, je sais la retrouver en revenant sur mes pas,
+sinon j&rsquo;utilise mon t&eacute;l&eacute;phone pour d&eacute;nicher un chemin qui me
+convient, ne faisant pas confiance &agrave; l&rsquo;algorithme de Garmin.</p>
+<div class="image"><img src="../images/58332_gpsgth-04.jpg" alt="Pas de recalcul sur mon Garmin" width="844" height="565"><div class="legend">Pas de recalcul sur mon Garmin</div></div>
+<p>Si Garmin avait propos&eacute; tout simplement une option pour
+d&eacute;sactiver le recalcul d&rsquo;itin&eacute;raire, je n&rsquo;aurais pas pataug&eacute; durant
+plusieurs semaines avant de d&eacute;couvrir le bon stratag&egrave;me.</p>
+<ol><li>Menu &gt; Settings &gt; Activity Profiles, je choisis mon
+profil, puis dans Navigation &gt; Routing, je fixe le Routing Mode
+&agrave; VTT, puis je d&eacute;sactive le recalcul du parcours quand je quitte la
+trace (cette option de d&eacute;sactivation n&rsquo;est pas disponible avec tous
+les modes de routage, voil&agrave; pourquoi j&rsquo;ai mis longtemps avant de la
+d&eacute;couvrir &mdash;&nbsp;il faut choisir un routage pour pouvoir d&eacute;sactiver
+le routage, je cherche plus &agrave; comprendre).</li>
+<li>
+<p>Menu &gt; Navigation &gt; Courses &gt; Course Options, je
+d&eacute;sactive Off Course Warnings, car cette option demande le recalcul
+de l&rsquo;itin&eacute;raire m&ecirc;me quand ce mode est d&eacute;sactiv&eacute;. En g&eacute;n&eacute;ral, je
+d&eacute;sactive aussi Turn Guidance.</p>
+</li>
+</ol>
+<p>Apr&egrave;s ces r&eacute;glages, <a href="https://tcrouzet.com/2020/10/16/pourquoi-jai-rachete-gps-garmin/">et
+bien d&rsquo;autres</a>, ma trace s&rsquo;affiche &agrave; l&rsquo;&eacute;cran et mon GPS me
+laisse tranquille. Le chargement d&rsquo;un long parcours comme celui de
+la GTH est imm&eacute;diat.</p>
+<h3>Les variantes</h3>
+<p>Cette imm&eacute;diatet&eacute; est d&rsquo;autant plus vitale si on veut suivre une
+variante. On peut arr&ecirc;ter la trace en cours, en charger une autre,
+la suivre, puis recharger la trace g&eacute;n&eacute;rale une fois arriv&eacute; au bout
+de la variante.</p>
+<div class="image"><img src="../images/58332_gpsgth-06.jpg" alt="Une trace en fond de carte" width="474" height="469"><div class="legend">Une trace en fond de carte</div></div>
+<p>Mais comment savoir qu&rsquo;il existe une variante ou un parcours
+pour &eacute;viter une difficult&eacute;&nbsp;? Garmin propose une astuce
+int&eacute;ressante (oui, c&rsquo;est possible). Depuis le menu Find a Course,
+on choisi une trace et alors un menu s&rsquo;affiche &agrave; partir duquel on
+peut lancer l&rsquo;activit&eacute;, mais aussi acc&eacute;der au menu Settings qui
+permet de choisir l&rsquo;option Always Dispay pour la trace choisie.
+Ainsi elle est toujours affich&eacute;e &agrave; l&rsquo;&eacute;cran, m&ecirc;me quand on ne la
+suit pas. On peut m&ecirc;me choisir sa couleur. Elle se retrouve partie
+prenante du fond de carte. On voit ainsi appara&icirc;tre les
+embranchements des variantes m&ecirc;me quand on est sur la trace
+principale. On ne peut pas les confondre, car le trait est plus fin
+(un peu trop fin &agrave; mon go&ucirc;t).</p>
+<h3>Le bon fond de carte</h3>
+<p>Garmin propose une carte OSM remachin&eacute;e, que je n&rsquo;appr&eacute;cie
+gu&egrave;re. Je pr&eacute;f&egrave;re rouler avec l&rsquo;IGN en arri&egrave;re-plan, parfois moins
+contrast&eacute;e, mais qui facilite souvent le choix de la bonne voie
+lors des embranchements compliqu&eacute;s.</p>
+<h3>Les POI</h3>
+<p>La plupart des GPS acceptent un nombre limit&eacute; de POI/Waypoints,
+200 pour les Garmin. Je ne charge sur mon GPS que les points d&rsquo;eau
+et de ravitaillement, tous les autres &eacute;tant disponibles sur
+MapOut.</p>
+<p>La proc&eacute;dure n&rsquo;est pas directe&nbsp;:</p>
+<ol><li>Depuis le Google Map de la GTH, j&rsquo;exporte le calque KMZ
+correspondant aux POI &agrave; transf&eacute;rer.</li>
+<li>
+<p>J&rsquo;ouvre ce fichier dans Garmin Base Camp.</p>
+</li>
+<li>
+<p>Je le transf&egrave;re vers le GPS, comme je le fais avec une trace
+ordinaire, mais en cochant l'option Waypoints.</p>
+</li>
+</ol>
+<p>Chez Garmin, les POI ne sont pas associ&eacute;s &agrave; la trace, mais au
+fond de carte, dont ils deviennent des rep&egrave;res, qui apparaissent
+quand on approche d&rsquo;eux.</p>
+<div class="image"><img src="../images/58332_gpsgth-02-1024x640.jpg" alt="Exportation des POI vers le GPS" width="1024" height="640"><div class="legend">Exportation des POI vers le GPS</div></div>
+<p>En th&eacute;orie, on peut envoyer en m&ecirc;me temps la trace, les
+variantes et les POI au Garmin (mais chez moi cette proc&eacute;dure
+plante).</p>
+<ol><li>Depuis le Google Map de la GTH, exporter en KMZ la totalit&eacute; de
+la carte.</li>
+<li>
+<p>Ouvrir ce fichier dans Garmin Base Camp.</p>
+</li>
+<li>
+<p>Transf&eacute;rer le tout vers le GPS, comme pour une trace ordinaire,
+mais en cochant l&rsquo;option Waypoints.</p>
+</li>
+</ol>
+<p>Tout cela reste bien compliqu&eacute;. Les services de partage de
+traces, comme Komoot, OpenRunner ou UtagawavVTT ont encore beaucoup
+de progr&egrave;s &agrave; effectuer. Suivant l&rsquo;exemple de <a href="https://ridewithgps.com/">RideWithGPS</a>, service payant pour ses
+options les plus int&eacute;ressantes, ils devraient accepter des traces
+avec POI pour commencer. Les cr&eacute;ateurs d&rsquo;&eacute;preuves pourraient ainsi
+rassembler leurs donn&eacute;es en un seul endroit. Pour ma part, je
+continuerai &agrave; passer par Google Map tant que je n&rsquo;aurais pas trouv&eacute;
+mieux.</p>
+<p>J'avoue que je pr&eacute;f&egrave;re me casser la t&ecirc;te avant le d&eacute;part pour
+minimiser les emmerdes par la suite. Le minimalisme exige un long
+travail pr&eacute;paratoire, c'est le paradoxe.</p>
+</body></html>
+
+<p class="date"><br/><a href="../2021/58371.html">Suite</a> | <a href="../2021/index.html">2021</a> | <a href="../index.html">Sommaire</a> | Texte publié mercredi 24 mars 2021</p>
+
+
+</article></body></html>
