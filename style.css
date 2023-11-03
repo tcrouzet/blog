@@ -27,11 +27,11 @@ html,body,p,ol,ul,li,blockquote,figure,fieldset,form,legend,textarea,pre,iframe,
 
  @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?u802fw');
-  src:  url('fonts/icomoon.eot?u802fw#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?u802fw') format('truetype'),
-    url('fonts/icomoon.woff?u802fw') format('woff'),
-    url('fonts/icomoon.svg?u802fw#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?f63adx');
+  src:  url('fonts/icomoon.eot?f63adx#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?f63adx') format('truetype'),
+    url('fonts/icomoon.woff?f63adx') format('woff'),
+    url('fonts/icomoon.svg?f63adx#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -872,12 +872,28 @@ div.sharebas{
 a.all{margin-left: 1rem;}
 a.all:before{color:var(--color--medium);font: 400 1.3rem/1 icomoon!important;content:'\e933'}
 
-a.icon:before{vertical-align: -0.3rem;padding: 0 0.4rem 0 0}
+a.icon:before{vertical-align: -0.3rem;padding: 0 0.8rem 0 0}
 a.icon_com:before{color:var(--color--social);font: 400 1.3rem/1 icomoon!important;content:'\e902'}
-a.icon_fb:before{color:var(--color--social);font: 400 1.3rem/1 icomoon!important;content:'\e904'}
-a.icon_twitter:before{color:var(--color--social);font: 400 1.4rem/1 icomoon!important;content:'\e907'}
-a.icon_linkedin:before{color:var(--color--social);font: 400 1.4rem/1 icomoon!important;content:'\e903'}
+/*a.icon_fb:before{color:var(--color--social);font: 400 1.3rem/1 icomoon!important;content:'\e904'}*/
+/*a.icon_twitter:before{color:var(--color--social);font: 400 1.4rem/1 icomoon!important;content:'\e907'}*/
+a.icon_mail:before{color:var(--color--social);font: 400 1.4rem/1 icomoon!important;content:'\e945'}
+a.icon_share:before{color:var(--color--social);font: 400 1.4rem/1 icomoon!important;content:'\ea7d'}
+/*a.icon_linkedin:before{color:var(--color--social);font: 400 1.4rem/1 icomoon!important;content:'\e903'}*/
 
+#copyMessage {
+  visibility: hidden;
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  border-radius: 8px;
+  padding: 16px;
+  position: fixed;
+  z-index: 99999;
+  left: 50%;
+  top: 25%;  /* Centrer verticalement */
+  font-size: 1.2rem;
+  transform: translate(-50%, -50%);  /* Déplace l'élément de -50% de sa largeur et hauteur */
+}
 
 .crunchify-social {
   margin-top: -0.2em;
