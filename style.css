@@ -468,6 +468,19 @@ h1.menu{
   padding-right: var(--page-guter);
 }
 
+.post pre{
+  max-width: 60ch;
+  text-align:left;
+  margin-top: var(--margin-top-post);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--page-guter);
+  padding-right: var(--page-guter);
+  background-color: var(--color--contrast);
+  color: var(--color--bg);
+  hyphens: none;
+}
+
 .post ul,.post ol{
   padding-left: 2rem;
   padding-right: 1rem;
