@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2024/04/30/no-more_wordpress/index.html</loc>
+    <lastmod>2024-04-30T20:30:35+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/04/nomore01.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2024/04/17/quel-est-le-workflow-ideal-pour-lecriture-web/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
