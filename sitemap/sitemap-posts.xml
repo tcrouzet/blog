@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2024/05/03/avril2024/index.html</loc>
+    <lastmod>2024-05-03T10:49:24+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/05/2024-04-16-162136-Nizas.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2024/04/30/no-more_wordpress/index.html</loc>
-    <lastmod>2024-05-01T08:31:28+02:00</lastmod>
+    <lastmod>2024-05-02T19:52:03+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/04/nomore01.webp</image:loc>
     </image:image>
@@ -4605,7 +4612,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2014/10/08/quand-le-web-aura-t-il-le-meme-statut-symbolique-que-le-livre/index.html</loc>
-    <lastmod>2024-05-01T09:57:04+02:00</lastmod>
+    <lastmod>2024-05-01T14:10:42+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2014/10/book.webp</image:loc>
     </image:image>
