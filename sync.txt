@@ -1,35 +1,20 @@
-Completed 21.2 KiB/~282.4 KiB (131.2 KiB/s) with ~8 file(s) remaining (calculating...)
-upload: ../../static/2024/04/30/no-more_wordpress/index.html to s3://tcrouzet.com/2024/04/30/no-more_wordpress/index.html
-Completed 21.2 KiB/~282.4 KiB (131.2 KiB/s) with ~7 file(s) remaining (calculating...)
-Completed 25.3 KiB/~282.4 KiB (134.5 KiB/s) with ~7 file(s) remaining (calculating...)
-upload: ../../static/404.html to s3://tcrouzet.com/404.html                           
-Completed 25.3 KiB/~282.4 KiB (134.5 KiB/s) with ~6 file(s) remaining (calculating...)
-Completed 42.1 KiB/~282.4 KiB (173.7 KiB/s) with ~6 file(s) remaining (calculating...)
-upload: ../../static/2024/04/30/no-more_wordpress/content.html to s3://tcrouzet.com/2024/04/30/no-more_wordpress/content.html
-Completed 42.1 KiB/~282.4 KiB (173.7 KiB/s) with ~5 file(s) remaining (calculating...)
-Completed 72.6 KiB/~282.4 KiB (262.4 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/2024/05/13/i727-2024-moments/content.html to s3://tcrouzet.com/2024/05/13/i727-2024-moments/content.html
-Completed 72.6 KiB/~282.4 KiB (262.4 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 102.6 KiB/~282.4 KiB (343.1 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html              
-Completed 102.6 KiB/~282.4 KiB (343.1 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 137.5 KiB/~282.4 KiB (441.5 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/2024/05/13/i727-2024-moments/index.html to s3://tcrouzet.com/2024/05/13/i727-2024-moments/index.html
-Completed 137.5 KiB/~282.4 KiB (441.5 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 176.6 KiB/~282.4 KiB (474.1 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
-Completed 176.6 KiB/~282.4 KiB (474.1 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 282.4 KiB/~282.4 KiB (650.5 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 15.6 KiB/~180.5 KiB (85.7 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/2023/02/10/comment-installer-une-trace-sur-garmin/content.html to s3://tcrouzet.com/2023/02/10/comment-installer-une-trace-sur-garmin/content.html
+Completed 15.6 KiB/~180.5 KiB (85.7 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 35.6 KiB/~180.5 KiB (114.1 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/2023/02/10/comment-installer-une-trace-sur-garmin/index.html to s3://tcrouzet.com/2023/02/10/comment-installer-une-trace-sur-garmin/index.html
+Completed 35.6 KiB/~180.5 KiB (114.1 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 74.6 KiB/~180.5 KiB (139.8 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml               
+Completed 74.6 KiB/~180.5 KiB (139.8 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 180.5 KiB/~180.5 KiB (288.8 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 282.4 KiB/~282.4 KiB (650.5 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 288.7 KiB/291.1 KiB (52.7 KiB/s) with 4 file(s) remaining                    
-upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
-Completed 288.7 KiB/291.1 KiB (52.7 KiB/s) with 3 file(s) remaining
-Completed 289.0 KiB/291.1 KiB (52.6 KiB/s) with 3 file(s) remaining
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
-Completed 289.0 KiB/291.1 KiB (52.6 KiB/s) with 2 file(s) remaining
-Completed 290.9 KiB/291.1 KiB (52.8 KiB/s) with 2 file(s) remaining
+Completed 180.5 KiB/~180.5 KiB (288.8 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 181.0 KiB/184.2 KiB (24.3 KiB/s) with 3 file(s) remaining                    
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                          
+Completed 181.0 KiB/184.2 KiB (24.3 KiB/s) with 2 file(s) remaining
+Completed 184.0 KiB/184.2 KiB (24.1 KiB/s) with 2 file(s) remaining
 upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
-Completed 290.9 KiB/291.1 KiB (52.8 KiB/s) with 1 file(s) remaining
-Completed 291.1 KiB/291.1 KiB (52.4 KiB/s) with 1 file(s) remaining
+Completed 184.0 KiB/184.2 KiB (24.1 KiB/s) with 1 file(s) remaining
+Completed 184.2 KiB/184.2 KiB (24.1 KiB/s) with 1 file(s) remaining
 upload: ../../static/update.json to s3://tcrouzet.com/update.json  
