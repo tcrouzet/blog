@@ -1,34 +1,81 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>feed - Thierry Crouzet</title><link>https://tcrouzet.com/feed.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Thu, 23 May 2024 09:43:14 +0200</lastBuildDate><item><title>Où backuper mes données ?</title><link>https://tcrouzet.com/2024/05/23/backup-interne-ou-externe/</link><description><![CDATA[<p>Mon NAS (<a href="https://fr.wikipedia.org/wiki/Serveur_de_stockage_en_r%C3%A9seau">Network Attached Storage</a>) a lâché il y a quelques jours. Maintenant que j’ai écarté une panne d’alimentation se pose la question de son remplacement, ou pas. Je me suis dis que la réflexion pourrait vous intéresser ou vous amener à me parler de vos solutions.
-Ce Synology DS415play, avec ses quatre disques durs en RAID pour 8 To effectivement disponibles, tournait sans broncher depuis l’automne 2014, presque dix ans de bons et loyaux services. Une seule panne : un des disques durs a rendu l’âme en octobre dernier, remplacé par un 4 To pour 110 €.
-Ma situation est simple, soit je repars avec un nouveau NAS pour une dizaine d’années, ce qui est tentant puisque je dispose déjà des disques <em>ad hoc</em>, soit j’opte pour des sauvegardes 100 % externes dans le cloud. Les deux approches ont des avantages et des inconvénients, et des structures de coût différentes.
-Je prends conscience que depuis quelques années j’externalise de plus en plus mes données sensibles, les dupliquant en différents endroits du cloud. Ma stratégie actuelle.
-* Sauvegarde des Mac via Time Machine (NAS).
-* Sauvegarde des photos (NAS, disques externes, Amazon Photos puisque c’est illimité et gratuit pour les clients premium).
-* Sauvegarde de la bibliothèque ebooks (NAS, Mac, disques externes).
-* Sauvegarde des vidéos et montages (NAS, disques externes).
-* Sauvegarde des textes, des codes, du blog (GitHub, GoogleDrive, DropBox, Amazon AWS, disques externes).
-* Hébergement lab.tcrouzet (NAS).
-* Hébergement tcrouzet.com (AWS).
-* Hébergement sous domaines (NAS quand besoin de PHP ou Python, sinon GitHub).
-Mon NAS me sert donc comme système de sauvegarde et comme serveur pour mes bidouilles. Si je reste dans cette configuration, estimation du coût mensuel sur les dix ans à venir :
-* Achat d’un DS423 (389 €), modèle d’entrée de gamme qui me suffit amplement.
-* Un jour ou l’autre remplacement d’au moins deux des disques durs (200 €).
-* Consommation électrique nominale : 32,41 W, mais le plus souvent le serveur bascule en mode hibernation et ne consomme que 4,97 W. Disons que le NAS me coûte au plus 20 €/an d’électricité.
-* Soit moins de 7 €/mois sur les dix prochaines années.</p>
-<p>Aujourd’hui, je paye environ 2 €/mois pour les services AWS. Dès que j’active une instance serveur pour des bidouilles comme <a href="https://genlog.tcrouzet.com/">Genlog</a>, la facture grimpe à 10 €/mois. Il faut compter en gros 4 €/mois supplémentaires par téraoctet de deep archives, j’en aurais besoin à minima de deux, voire de trois ou quatre dans les prochaines années. La facture grimpe vite, et tout aussi vite chez les autres fournisseurs. Si je pars sur une solution cloud , ce sera à minima 20 €/mois, et je ne bénéficierais pas d’un Time Machine efficace. La solution NAS semble donc plus économique, mais elle n’a pas que des avantages.
-Le pour et le contre.
-* Avec le NAS, je maîtrise mon architecture (ce que j’apprécie beaucoup).
-* Les accès sont plus rapides (quand je suis chez moi, sinon je passe par le Net).
-* Je dispose à moindre prix de davantage d’espace de stockage.
-* J’ai un serveur où je peux faire tourner PHP, Python, MySQL…
-* Je peux utiliser Time Machine.
-* Je peux remonter mes anciens disques et récupérer toutes mes données archivées.
-* Mais je dois m’occuper de la maintenance.
-* Mon NAS est vulnérable aux attaques, aux dégâts des eaux ou tout autres désagréments qui pourraient survenir chez moi.
-* Le NAS ne peut être mon seul espace de backup (je dois le compléter avec des services cloud, ce que je réussis à faire quasi gratuitement aujourd’hui). J’utilise aussi des disques externes que j’éparpille de droite à gauche (mais je ferais la même chose si je stockais 100 % de ma vie en ligne).
-J’en arrive à la conclusion qu’un NAS est la bonne solution pour moi, parce que je suis geek. Si par exemple j’optais pour la solution iCloud d’Apple, ça me coûtait presque <a href="https://www.apple.com/fr/icloud/">30 €/mois</a> pour 6 To, et je ne pouvais que sauvegarder mes données sans faire joujou avec un serveur. Apple nous fait payer très cher sa prétendue ergonomie.</p>
-<h1>cuisine #y2024 #2024-5-23-10h00</h1>]]></description><guid isPermaLink="false">2376</guid><pubDate>Thu, 23 May 2024 10:00:00 +0200</pubDate></item><item><title>Quid de l’intentionnalité artificielle ?</title><link>https://tcrouzet.com/2024/05/21/ia-intentionality/</link><description><![CDATA[<p>Ce qui différerait les œuvres humaines des œuvres artificielles serait l’intentionnalité (<a href="https://tcrouzet.com/2024/04/09/carnet-de-route-mars-2024/">j’ai déjà discuté de ce point au sujet de la théorie d’Andrew Perfors</a>).</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>feed - Thierry Crouzet</title><link>https://tcrouzet.com/feed.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Thu, 23 May 2024 09:44:38 +0200</lastBuildDate><item><title>Où backuper mes données ?</title><link>https://tcrouzet.com/2024/05/23/backup-interne-ou-externe/</link><description><![CDATA[<p>Mon NAS (<a href="https://fr.wikipedia.org/wiki/Serveur_de_stockage_en_r%C3%A9seau">Network Attached Storage</a>) a lâché il y a quelques jours. Maintenant que j’ai écarté une panne d’alimentation se pose la question de son remplacement, ou pas. Je me suis dis que la réflexion pourrait vous intéresser ou vous amener à me parler de vos solutions.</p>
+<p>Ce Synology DS415play, avec ses quatre disques durs en RAID pour 8 To effectivement disponibles, tournait sans broncher depuis l’automne 2014, presque dix ans de bons et loyaux services. Une seule panne : un des disques durs a rendu l’âme en octobre dernier, remplacé par un 4 To pour 110 €.</p>
+<p>Ma situation est simple, soit je repars avec un nouveau NAS pour une dizaine d’années, ce qui est tentant puisque je dispose déjà des disques <em>ad hoc</em>, soit j’opte pour des sauvegardes 100 % externes dans le cloud. Les deux approches ont des avantages et des inconvénients, et des structures de coût différentes.</p>
+<p>Je prends conscience que depuis quelques années j’externalise de plus en plus mes données sensibles, les dupliquant en différents endroits du cloud. Ma stratégie actuelle.</p>
+<ul>
+<li>
+<p>Sauvegarde des Mac via Time Machine (NAS).</p>
+</li>
+<li>
+<p>Sauvegarde des photos (NAS, disques externes, Amazon Photos puisque c’est illimité et gratuit pour les clients premium).</p>
+</li>
+<li>
+<p>Sauvegarde de la bibliothèque ebooks (NAS, Mac, disques externes).</p>
+</li>
+<li>
+<p>Sauvegarde des vidéos et montages (NAS, disques externes).</p>
+</li>
+<li>
+<p>Sauvegarde des textes, des codes, du blog (GitHub, GoogleDrive, DropBox, Amazon AWS, disques externes).</p>
+</li>
+<li>
+<p>Hébergement lab.tcrouzet (NAS).</p>
+</li>
+<li>
+<p>Hébergement tcrouzet.com (AWS).</p>
+</li>
+<li>
+<p>Hébergement sous domaines (NAS quand besoin de PHP ou Python, sinon GitHub).</p>
+</li>
+</ul>
+<p>Mon NAS me sert donc comme système de sauvegarde et comme serveur pour mes bidouilles. Si je reste dans cette configuration, estimation du coût mensuel sur les dix ans à venir :</p>
+<ul>
+<li>
+<p>Achat d’un DS423 (389 €), modèle d’entrée de gamme qui me suffit amplement.</p>
+</li>
+<li>
+<p>Un jour ou l’autre remplacement d’au moins deux des disques durs (200 €).</p>
+</li>
+<li>
+<p>Consommation électrique nominale : 32,41 W, mais le plus souvent le serveur bascule en mode hibernation et ne consomme que 4,97 W. Disons que le NAS me coûte au plus 20 €/an d’électricité.</p>
+</li>
+<li>
+<p>Soit moins de 7 €/mois sur les dix prochaines années.</p>
+</li>
+</ul>
+<p>Aujourd’hui, je paye environ 2 €/mois pour les services AWS. Dès que j’active une instance serveur pour des bidouilles comme <a href="https://genlog.tcrouzet.com/">Genlog</a>, la facture grimpe à 10 €/mois. Il faut compter en gros <a href="https://aws.amazon.com/fr/s3/pricing/">4 €/mois</a> supplémentaires par téraoctet de deep archives, j’en aurais besoin à minima de deux, voire de trois ou quatre dans les prochaines années. La facture grimpe vite, et tout aussi vite chez les autres fournisseurs. Si je pars sur une solution cloud , ce sera à minima 20 €/mois, et je ne bénéficierais pas d’un Time Machine efficace. La solution NAS semble donc plus économique, mais elle n’a pas que des avantages.</p>
+<p>Le pour et le contre.</p>
+<ul>
+<li>
+<p>Avec le NAS, je maîtrise mon architecture (ce que j’apprécie beaucoup).</p>
+</li>
+<li>
+<p>Les accès sont plus rapides (quand je suis chez moi, sinon je passe par le Net).</p>
+</li>
+<li>
+<p>Je dispose à moindre prix de davantage d’espace de stockage.</p>
+</li>
+<li>
+<p>J’ai un serveur où je peux faire tourner PHP, Python, MySQL…</p>
+</li>
+<li>
+<p>Je peux utiliser Time Machine.</p>
+</li>
+<li>
+<p>Je peux remonter mes anciens disques et récupérer toutes mes données archivées.</p>
+</li>
+<li>
+<p>Mais je dois m’occuper de la maintenance.</p>
+</li>
+<li>
+<p>Mon NAS est vulnérable aux attaques, aux dégâts des eaux ou tout autres désagréments qui pourraient survenir chez moi.</p>
+</li>
+<li>
+<p>Le NAS ne peut être mon seul espace de backup (je dois le compléter avec des services cloud, ce que je réussis à faire quasi gratuitement aujourd’hui). J’utilise aussi des disques externes que j’éparpille de droite à gauche (mais je ferais la même chose si je stockais 100 % de ma vie en ligne).</p>
+</li>
+</ul>
+<p>J’en arrive à la conclusion qu’un NAS est la bonne solution pour moi, parce que je suis geek. Si par exemple j’optais pour la solution iCloud d’Apple, ça me coûtait presque <a href="https://www.apple.com/fr/icloud/">30 €/mois</a> pour 6 To, et je ne pouvais que sauvegarder mes données sans faire joujou avec un serveur. Apple nous fait payer très cher sa prétendue ergonomie.</p>]]></description><guid isPermaLink="false">2376</guid><pubDate>Thu, 23 May 2024 10:00:00 +0200</pubDate></item><item><title>Quid de l’intentionnalité artificielle ?</title><link>https://tcrouzet.com/2024/05/21/ia-intentionality/</link><description><![CDATA[<p>Ce qui différerait les œuvres humaines des œuvres artificielles serait l’intentionnalité (<a href="https://tcrouzet.com/2024/04/09/carnet-de-route-mars-2024/">j’ai déjà discuté de ce point au sujet de la théorie d’Andrew Perfors</a>).</p>
 <p>Quand j’écris ce billet, j’ai l’intention de répondre à une question, ou du moins de la soupeser, ou peut-être de lui opposer de nouvelles questions. Quand je pose la même question à une IA, elle se contente de répondre, parce que telle est sa fonction. Dans l’état de nos technologies, elle n’a pas pour ambition de démontrer une thèse, de convaincre, ou de plaisanter, à moins que le prompt l’oriente dans ce sens, et lui impose une intention extérieure.</p>
 <p>On voit que si l’intention n’est pas dans l’IA, elle est au minima dans celui qui l’utilise ou qui l’éduque, ce qui peut suffire à donner une intention à ses productions. Dans <a href="https://genlog.tcrouzet.com/">Genlog</a>, je donne à l’IA des articles et des prompts pour diriger son travail. Mon intention, je l’ai déjà dit, est dans le code, et le texte produit est mon intention par ce qu’il dit sur la littérature générative comparé à la littérature humaine. L’intention est dans le métatexte.</p>
 <p>Comme un œnologue qui différencie deux vins en aveugle, est-il aujourd’hui possible de différencier un texte artificiel d’un texte humain, est-il possible de dire qu’un texte a été produit avec une intention et un autre pas ? Je suis sûr que nous nous ferions tous piéger, au moins de temps à autre, et même très souvent.</p>
