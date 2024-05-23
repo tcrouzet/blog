@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2024/05/23/la-guitare-de-lauteur/index.html</loc>
+    <lastmod>2024-05-23T13:16:28+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/05/brutext.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2024/05/23/backup-interne-ou-externe/index.html</loc>
-    <lastmod>2024-05-23T09:42:36+02:00</lastmod>
+    <lastmod>2024-05-23T10:15:36+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/05/2024-05-23-093440.webp</image:loc>
     </image:image>
@@ -5725,7 +5732,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2014/01/25/month-one-je-quitte-windows/index.html</loc>
-    <lastmod>2024-04-30T09:09:37+02:00</lastmod>
+    <lastmod>2024-05-23T10:51:02+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2014/01/bureaumac.webp</image:loc>
     </image:image>
@@ -6016,7 +6023,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2013/10/27/changer-de-machine-changer-dusage/index.html</loc>
-    <lastmod>2024-04-30T09:05:39+02:00</lastmod>
+    <lastmod>2024-05-23T10:49:26+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2013/10/carnets.webp</image:loc>
     </image:image>
