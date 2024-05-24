@@ -1,20 +1,29 @@
-Completed 7.6 KiB/~83.8 KiB (74.1 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/2024/05/23/backup-interne-ou-externe/content.html to s3://tcrouzet.com/2024/05/23/backup-interne-ou-externe/content.html
-Completed 7.6 KiB/~83.8 KiB (74.1 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 19.3 KiB/~83.8 KiB (112.0 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/2024/05/23/backup-interne-ou-externe/index.html to s3://tcrouzet.com/2024/05/23/backup-interne-ou-externe/index.html
-Completed 19.3 KiB/~83.8 KiB (112.0 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 51.6 KiB/~83.8 KiB (196.2 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml              
-Completed 51.6 KiB/~83.8 KiB (196.2 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 83.8 KiB/~83.8 KiB (268.6 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml              
-Completed 83.8 KiB/~83.8 KiB (268.6 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 84.2 KiB/86.7 KiB (11.9 KiB/s) with 3 file(s) remaining                    
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                        
-Completed 84.2 KiB/86.7 KiB (11.9 KiB/s) with 2 file(s) remaining
-Completed 86.5 KiB/86.7 KiB (12.0 KiB/s) with 2 file(s) remaining
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt      
-Completed 86.5 KiB/86.7 KiB (12.0 KiB/s) with 1 file(s) remaining
-Completed 86.7 KiB/86.7 KiB (12.0 KiB/s) with 1 file(s) remaining
-upload: ../../static/update.json to s3://tcrouzet.com/update.json
+Completed 12.7 KiB/~63.7 KiB (117.9 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/2024/05/23/la-guitare-de-lauteur/content.html to s3://tcrouzet.com/2024/05/23/la-guitare-de-lauteur/content.html
+Completed 12.7 KiB/~63.7 KiB (117.9 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 16.8 KiB/~128.2 KiB (81.3 KiB/s) with ~5 file(s) remaining (calculating...)
+upload: ../../static/404.html to s3://tcrouzet.com/404.html                          
+Completed 16.8 KiB/~128.2 KiB (81.3 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 49.1 KiB/~128.2 KiB (188.0 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml               
+Completed 49.1 KiB/~128.2 KiB (188.0 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 66.3 KiB/~128.2 KiB (223.7 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/2024/05/23/la-guitare-de-lauteur/index.html to s3://tcrouzet.com/2024/05/23/la-guitare-de-lauteur/index.html
+Completed 66.3 KiB/~128.2 KiB (223.7 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 96.0 KiB/~128.2 KiB (300.1 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html             
+Completed 96.0 KiB/~128.2 KiB (300.1 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 128.2 KiB/~128.2 KiB (306.8 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
+Completed 128.2 KiB/~128.2 KiB (306.8 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 134.1 KiB/136.3 KiB (22.8 KiB/s) with 4 file(s) remaining                    
+upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
+Completed 134.1 KiB/136.3 KiB (22.8 KiB/s) with 3 file(s) remaining
+Completed 134.5 KiB/136.3 KiB (22.8 KiB/s) with 3 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
+Completed 134.5 KiB/136.3 KiB (22.8 KiB/s) with 2 file(s) remaining
+Completed 136.1 KiB/136.3 KiB (23.1 KiB/s) with 2 file(s) remaining
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
+Completed 136.1 KiB/136.3 KiB (23.1 KiB/s) with 1 file(s) remaining
+Completed 136.3 KiB/136.3 KiB (22.9 KiB/s) with 1 file(s) remaining
+upload: ../../static/update.json to s3://tcrouzet.com/update.json  
