@@ -1,29 +1,23 @@
-Completed 12.7 KiB/~128.1 KiB (112.3 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 12.7 KiB/~128.2 KiB (150.3 KiB/s) with ~6 file(s) remaining (calculating...)
 upload: ../../static/2024/05/23/la-guitare-de-lauteur/content.html to s3://tcrouzet.com/2024/05/23/la-guitare-de-lauteur/content.html
-Completed 12.7 KiB/~128.1 KiB (112.3 KiB/s) with ~5 file(s) remaining (calculating...)
-Completed 16.8 KiB/~128.1 KiB (86.8 KiB/s) with ~5 file(s) remaining (calculating...) 
+Completed 12.7 KiB/~128.2 KiB (150.3 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 16.8 KiB/~128.2 KiB (86.6 KiB/s) with ~5 file(s) remaining (calculating...) 
 upload: ../../static/404.html to s3://tcrouzet.com/404.html                           
-Completed 16.8 KiB/~128.1 KiB (86.8 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 33.9 KiB/~128.1 KiB (117.0 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 16.8 KiB/~128.2 KiB (86.6 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 34.0 KiB/~128.2 KiB (135.9 KiB/s) with ~4 file(s) remaining (calculating...)
 upload: ../../static/2024/05/23/la-guitare-de-lauteur/index.html to s3://tcrouzet.com/2024/05/23/la-guitare-de-lauteur/index.html
-Completed 33.9 KiB/~128.1 KiB (117.0 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 63.6 KiB/~128.1 KiB (192.0 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 34.0 KiB/~128.2 KiB (135.9 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 63.7 KiB/~128.2 KiB (198.4 KiB/s) with ~3 file(s) remaining (calculating...)
 upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html             
-Completed 63.6 KiB/~128.1 KiB (192.0 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 95.9 KiB/~128.1 KiB (276.7 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml               
-Completed 95.9 KiB/~128.1 KiB (276.7 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 128.1 KiB/~128.1 KiB (335.5 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 128.1 KiB/~128.1 KiB (335.5 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 134.0 KiB/~136.8 KiB (19.6 KiB/s) with ~3 file(s) remaining (calculating...) 
+Completed 63.7 KiB/~128.2 KiB (198.4 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 96.0 KiB/~128.2 KiB (258.9 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml               
+Completed 96.0 KiB/~128.2 KiB (258.9 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 128.2 KiB/~128.2 KiB (319.2 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
+Completed 128.2 KiB/~128.2 KiB (319.2 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 134.1 KiB/~136.6 KiB (20.6 KiB/s) with ~2 file(s) remaining (calculating...) 
 upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
-Completed 134.0 KiB/~136.8 KiB (19.6 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 134.2 KiB/137.0 KiB (19.4 KiB/s) with 3 file(s) remaining                   
-upload: ../../static/update.json to s3://tcrouzet.com/update.json                     
-Completed 134.2 KiB/137.0 KiB (19.4 KiB/s) with 2 file(s) remaining
-Completed 136.6 KiB/137.0 KiB (19.7 KiB/s) with 2 file(s) remaining
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
-Completed 136.6 KiB/137.0 KiB (19.7 KiB/s) with 1 file(s) remaining
-Completed 137.0 KiB/137.0 KiB (19.7 KiB/s) with 1 file(s) remaining
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
+Completed 134.1 KiB/~136.6 KiB (20.6 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 136.6 KiB/136.6 KiB (20.7 KiB/s) with 1 file(s) remaining                   
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                           
