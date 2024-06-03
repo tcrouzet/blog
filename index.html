@@ -23,7 +23,6 @@ document.addEventListener("DOMContentLoaded", function() {
     window.addEventListener('resize', adjustContentPosition);
 
     function displayLink(link) {
-      console.log('Link:', link);
       var genlogDiv = document.getElementById('genlog');
       genlogDiv.innerHTML = '<a href="' + link.url + '">' + link.title + '</a>';
     }
@@ -34,13 +33,11 @@ document.addEventListener("DOMContentLoaded", function() {
       loadContent(displayLink);
     }
     script.onload = function() {
-      console.log('Script loaded, calling loadContent');
       loadContent(displayLink);
     };
     script.onerror = function() {
       console.error('Failed to load the script');
     };
     document.body.appendChild(script);
-    console.log('Script appended');
   });
 </script><script type=text/javascript src="/toggle.js?ver=7" id=toggle-js defer></script><div id=copyMessage></div></body></html>
