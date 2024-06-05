@@ -1,20 +1,20 @@
-Completed 20.1 KiB/~137.4 KiB (21.0 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/2024/06/05/gravel-is-not-mtb/index.html to s3://tcrouzet.com/2024/06/05/gravel-is-not-mtb/index.html
-Completed 20.1 KiB/~137.4 KiB (21.0 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 52.3 KiB/~137.4 KiB (29.5 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml              
-Completed 52.3 KiB/~137.4 KiB (29.5 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 67.9 KiB/~137.4 KiB (38.3 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 16.4 KiB/~139.6 KiB (32.5 KiB/s) with ~4 file(s) remaining (calculating...)
 upload: ../../static/2024/06/05/gravel-is-not-mtb/content.html to s3://tcrouzet.com/2024/06/05/gravel-is-not-mtb/content.html
-Completed 67.9 KiB/~137.4 KiB (38.3 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 137.4 KiB/~137.4 KiB (64.4 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 16.4 KiB/~139.6 KiB (32.5 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 37.2 KiB/~139.6 KiB (31.3 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/2024/06/05/gravel-is-not-mtb/index.html to s3://tcrouzet.com/2024/06/05/gravel-is-not-mtb/index.html
+Completed 37.2 KiB/~139.6 KiB (31.3 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 69.4 KiB/~139.6 KiB (41.7 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml              
+Completed 69.4 KiB/~139.6 KiB (41.7 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 139.6 KiB/~139.6 KiB (58.5 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml               
-Completed 137.4 KiB/~137.4 KiB (64.4 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 140.9 KiB/157.4 KiB (9.8 KiB/s) with 3 file(s) remaining                    
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                         
-Completed 140.9 KiB/157.4 KiB (9.8 KiB/s) with 2 file(s) remaining
-Completed 141.2 KiB/157.4 KiB (9.4 KiB/s) with 2 file(s) remaining
+Completed 139.6 KiB/~139.6 KiB (58.5 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 141.2 KiB/141.7 KiB (8.8 KiB/s) with 3 file(s) remaining                    
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                           
+Completed 141.2 KiB/141.7 KiB (8.8 KiB/s) with 2 file(s) remaining
+Completed 141.5 KiB/141.7 KiB (8.2 KiB/s) with 2 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json     
+Completed 141.5 KiB/141.7 KiB (8.2 KiB/s) with 1 file(s) remaining
+Completed 141.7 KiB/141.7 KiB (8.2 KiB/s) with 1 file(s) remaining
 upload: ../../static/update.json to s3://tcrouzet.com/update.json 
-Completed 141.2 KiB/157.4 KiB (9.4 KiB/s) with 1 file(s) remaining
-Completed 157.4 KiB/157.4 KiB (10.4 KiB/s) with 1 file(s) remaining
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
