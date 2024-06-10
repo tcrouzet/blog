@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2024/06/10/face-aux-extremistes/index.html</loc>
+    <lastmod>2024-06-10T11:50:17+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/06/2024-06-03-210026.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2024/06/05/gravel-is-not-mtb/index.html</loc>
-    <lastmod>2024-06-05T09:41:29+02:00</lastmod>
+    <lastmod>2024-06-09T06:37:02+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/06/2024-06-04-170638.webp</image:loc>
     </image:image>
@@ -51,21 +58,21 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2024/05/13/i727-2024-moments/index.html</loc>
-    <lastmod>2024-05-16T13:32:39+02:00</lastmod>
+    <lastmod>2024-06-09T06:38:05+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/05/2024-05-12-062751.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/2024/05/06/mon-cv-velo/index.html</loc>
-    <lastmod>2024-05-06T12:11:01+02:00</lastmod>
+    <lastmod>2024-06-09T06:37:53+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/05/2024-04-01-094212-Loupian.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/2024/05/05/config-bikepacking-2/index.html</loc>
-    <lastmod>2024-05-06T12:26:36+02:00</lastmod>
+    <lastmod>2024-06-09T06:38:32+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/05/2024-05-04-083412.webp</image:loc>
     </image:image>
@@ -86,7 +93,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2024/04/17/quel-est-le-workflow-ideal-pour-lecriture-web/index.html</loc>
-    <lastmod>2024-05-01T07:21:48+02:00</lastmod>
+    <lastmod>2024-06-09T06:38:24+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/04/workflow2.webp</image:loc>
     </image:image>
@@ -100,7 +107,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2024/03/30/cuisiner-les-gpx-pour-les-faire-parler/index.html</loc>
-    <lastmod>2024-05-01T08:59:47+02:00</lastmod>
+    <lastmod>2024-06-09T06:40:50+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/03/IMG_5282.webp</image:loc>
     </image:image>
@@ -142,7 +149,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2024/03/08/illustrer-un-gpx-exemple-avec-le-i727/index.html</loc>
-    <lastmod>2024-04-30T08:24:30+02:00</lastmod>
+    <lastmod>2024-06-09T06:40:57+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/03/img2gpx.webp</image:loc>
     </image:image>
@@ -191,7 +198,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2024/02/15/pourquoi-seulement-35-e-pour-un-727/index.html</loc>
-    <lastmod>2024-04-30T08:24:30+02:00</lastmod>
+    <lastmod>2024-06-09T07:11:52+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/02/IMG_6473.webp</image:loc>
     </image:image>
@@ -275,7 +282,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2024/01/15/bikepacking-ou-cyclotourisme/index.html</loc>
-    <lastmod>2024-04-30T08:24:30+02:00</lastmod>
+    <lastmod>2024-06-09T06:45:28+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/01/IMG_8857.webp</image:loc>
     </image:image>
@@ -289,7 +296,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2024/01/12/juillet-2024-path-across-france/index.html</loc>
-    <lastmod>2024-04-30T08:24:30+02:00</lastmod>
+    <lastmod>2024-06-09T06:45:34+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/01/IMG_7931.webp</image:loc>
     </image:image>
@@ -387,7 +394,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2023/11/10/bikepacking-eloge-des-grands-departs/index.html</loc>
-    <lastmod>2024-04-30T08:24:30+02:00</lastmod>
+    <lastmod>2024-06-09T06:43:08+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2023/11/h727poussan.webp</image:loc>
     </image:image>
@@ -401,21 +408,21 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2023/10/29/asphalte-gravier-ou-terre/index.html</loc>
-    <lastmod>2024-04-30T08:24:30+02:00</lastmod>
+    <lastmod>2024-06-09T06:42:41+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2023/10/stat_i3.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/2023/10/23/enrichir-automatiquement-vos-itineraires-avec-des-points-dinteret/index.html</loc>
-    <lastmod>2024-04-30T08:24:30+02:00</lastmod>
+    <lastmod>2024-06-09T06:42:31+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2023/10/pois.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/2023/10/17/promo-devenements-velo-avec-les-ia/index.html</loc>
-    <lastmod>2024-05-13T15:50:51+02:00</lastmod>
+    <lastmod>2024-06-09T06:42:21+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2023/10/poster01.webp</image:loc>
     </image:image>
@@ -429,7 +436,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2023/09/28/g727-une-premiere-lumineusement-intense/index.html</loc>
-    <lastmod>2024-04-30T09:33:01+02:00</lastmod>
+    <lastmod>2024-06-09T06:42:08+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2023/09/IMG_3450.webp</image:loc>
     </image:image>
@@ -450,7 +457,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2023/07/16/tour-du-massif-vosgien-le-bikepacking-a-ne-pas-manquer-en-juillet/index.html</loc>
-    <lastmod>2024-05-01T09:00:37+02:00</lastmod>
+    <lastmod>2024-06-09T06:41:38+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2023/07/IMG_2762.webp</image:loc>
     </image:image>
@@ -471,14 +478,14 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2023/05/28/le-gravel-un-velo-pour-voyages-organises/index.html</loc>
-    <lastmod>2024-04-30T08:24:30+02:00</lastmod>
+    <lastmod>2024-06-09T06:41:54+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2023/05/IMG_2033.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/2023/05/02/pour-la-transparence-des-tarifs-des-epreuves-bikepacking/index.html</loc>
-    <lastmod>2024-04-30T08:24:30+02:00</lastmod>
+    <lastmod>2024-06-09T06:41:23+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2023/05/IMG_1839.webp</image:loc>
     </image:image>
@@ -506,14 +513,14 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2023/04/06/quelques-notes-post-727-2023/index.html</loc>
-    <lastmod>2024-05-07T16:42:03+02:00</lastmod>
+    <lastmod>2024-06-09T06:44:59+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2023/04/IMG_1623.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/2023/03/24/comment-je-prepare-mon-gps-pour-un-bikepacking/index.html</loc>
-    <lastmod>2024-05-07T16:40:50+02:00</lastmod>
+    <lastmod>2024-06-09T06:45:15+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2023/03/IMG_1401.webp</image:loc>
     </image:image>
@@ -541,7 +548,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2023/03/07/le-bikepacking-pour-les-pauvres/index.html</loc>
-    <lastmod>2024-05-07T16:40:33+02:00</lastmod>
+    <lastmod>2024-06-09T06:45:21+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2023/03/IMG_1208.webp</image:loc>
     </image:image>
@@ -569,7 +576,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2023/02/23/le-727-partager-pour-le-plaisir/index.html</loc>
-    <lastmod>2024-05-07T16:40:42+02:00</lastmod>
+    <lastmod>2024-06-09T06:45:06+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2023/02/IMG_1169.webp</image:loc>
     </image:image>
@@ -590,7 +597,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2023/02/10/quel-est-le-meilleur-site-de-partage-de-traces/index.html</loc>
-    <lastmod>2024-05-07T16:42:11+02:00</lastmod>
+    <lastmod>2024-06-09T06:44:31+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2023/02/IMG_0759.webp</image:loc>
     </image:image>
@@ -639,7 +646,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2022/12/21/comment-evaluer-le-pourcentage-dasphalte-dune-trace/index.html</loc>
-    <lastmod>2024-05-07T16:43:13+02:00</lastmod>
+    <lastmod>2024-06-09T06:43:57+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2022/12/strava05.webp</image:loc>
     </image:image>
@@ -681,7 +688,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2022/11/22/du-gratuit-et-du-payant-dans-le-bikepacking/index.html</loc>
-    <lastmod>2024-05-07T16:42:17+02:00</lastmod>
+    <lastmod>2024-06-09T06:44:18+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2022/11/IMG_9960.webp</image:loc>
     </image:image>
@@ -751,7 +758,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2022/10/07/prise-en-main-du-gravel-canyon-grizl/index.html</loc>
-    <lastmod>2024-05-07T16:43:03+02:00</lastmod>
+    <lastmod>2024-06-09T06:43:51+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2022/10/IMG_9502.webp</image:loc>
     </image:image>
@@ -786,7 +793,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2022/09/17/le-plaisir-de-la-reconnaissance/index.html</loc>
-    <lastmod>2024-05-07T16:42:57+02:00</lastmod>
+    <lastmod>2024-06-09T06:43:27+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2022/09/IMG_9287.webp</image:loc>
     </image:image>
@@ -870,7 +877,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2022/05/19/un-tour-de-lherault-vtt-en-video/index.html</loc>
-    <lastmod>2024-05-07T16:41:22+02:00</lastmod>
+    <lastmod>2024-06-09T06:44:10+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2022/05/IMG_7281.webp</image:loc>
     </image:image>
@@ -884,7 +891,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2022/04/30/paris-to-sete-2022-cest-parti/index.html</loc>
-    <lastmod>2024-05-07T16:41:50+02:00</lastmod>
+    <lastmod>2024-06-09T06:43:41+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2022/04/P27map-1.webp</image:loc>
     </image:image>
@@ -912,7 +919,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2022/03/12/manifeste-pour-un-bikepacking-ouvert-et-roots/index.html</loc>
-    <lastmod>2024-05-01T09:20:34+02:00</lastmod>
+    <lastmod>2024-06-09T06:44:24+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2022/03/coverMap.webp</image:loc>
     </image:image>
