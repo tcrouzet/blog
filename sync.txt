@@ -1,20 +1,80 @@
-Completed 9.2 KiB/~158.0 KiB (53.9 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/2024/06/10/face-aux-extremistes/content.html to s3://tcrouzet.com/2024/06/10/face-aux-extremistes/content.html
-Completed 9.2 KiB/~158.0 KiB (53.9 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 23.0 KiB/~158.0 KiB (85.8 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/2024/06/10/face-aux-extremistes/index.html to s3://tcrouzet.com/2024/06/10/face-aux-extremistes/index.html
-Completed 23.0 KiB/~158.0 KiB (85.8 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 52.8 KiB/~158.0 KiB (164.4 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html             
-Completed 52.8 KiB/~158.0 KiB (164.4 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 90.0 KiB/~158.0 KiB (226.9 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 13.5 KiB/~22.6 KiB (58.2 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/2008/03/18/eau-et-garrigue/index.html to s3://tcrouzet.com/2008/03/18/eau-et-garrigue/index.html
+Completed 13.5 KiB/~22.6 KiB (58.2 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 22.6 KiB/~22.6 KiB (56.0 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/2008/03/18/eau-et-garrigue/content.html to s3://tcrouzet.com/2008/03/18/eau-et-garrigue/content.html
+Completed 22.6 KiB/~22.6 KiB (56.0 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 35.1 KiB/~43.1 KiB (25.2 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/2014/09/11/vagabondage-la-joconde-defiguree/index.html to s3://tcrouzet.com/2014/09/11/vagabondage-la-joconde-defiguree/index.html
+Completed 35.1 KiB/~43.1 KiB (25.2 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 43.1 KiB/~43.1 KiB (30.8 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/2014/09/11/vagabondage-la-joconde-defiguree/content.html to s3://tcrouzet.com/2014/09/11/vagabondage-la-joconde-defiguree/content.html
+Completed 43.1 KiB/~43.1 KiB (30.8 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 61.3 KiB/~195.4 KiB (28.9 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/blog/contener35.html to s3://tcrouzet.com/blog/contener35.html  
+Completed 61.3 KiB/~195.4 KiB (28.9 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 90.2 KiB/~195.4 KiB (41.6 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/blog/contener11.html to s3://tcrouzet.com/blog/contener11.html  
+Completed 90.2 KiB/~195.4 KiB (41.6 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 127.4 KiB/~195.4 KiB (54.4 KiB/s) with ~2 file(s) remaining (calculating...)
 upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml               
-Completed 90.0 KiB/~158.0 KiB (226.9 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 158.0 KiB/~158.0 KiB (355.1 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 158.0 KiB/~158.0 KiB (355.1 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 164.3 KiB/166.4 KiB (14.1 KiB/s) with 2 file(s) remaining                    
-upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
-Completed 164.3 KiB/166.4 KiB (14.1 KiB/s) with 1 file(s) remaining
-Completed 166.4 KiB/166.4 KiB (14.1 KiB/s) with 1 file(s) remaining
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
+Completed 127.4 KiB/~195.4 KiB (54.4 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 195.4 KiB/~195.4 KiB (79.7 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml               
+Completed 195.4 KiB/~195.4 KiB (79.7 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 202.7 KiB/~4.1 MiB (76.1 KiB/s) with ~9 file(s) remaining (calculating...)  
+upload: ../../static/images_tc/2008/03/arene1-topaz-250.webp to s3://tcrouzet.com/images_tc/2008/03/arene1-topaz-250.webp
+Completed 202.7 KiB/~4.1 MiB (76.1 KiB/s) with ~8 file(s) remaining (calculating...)
+Completed 213.4 KiB/~4.1 MiB (79.7 KiB/s) with ~8 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2008/03/pioch11-topaz-250.webp to s3://tcrouzet.com/images_tc/2008/03/pioch11-topaz-250.webp
+Completed 213.4 KiB/~4.1 MiB (79.7 KiB/s) with ~7 file(s) remaining (calculating...)
+Completed 469.4 KiB/~4.1 MiB (162.4 KiB/s) with ~7 file(s) remaining (calculating...)
+Completed 531.1 KiB/~4.1 MiB (182.3 KiB/s) with ~7 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2008/03/arene1-topaz-1024.webp to s3://tcrouzet.com/images_tc/2008/03/arene1-topaz-1024.webp
+Completed 531.1 KiB/~4.1 MiB (182.3 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 542.3 KiB/~4.1 MiB (184.7 KiB/s) with ~6 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2008/03/pioch21-topaz-250.webp to s3://tcrouzet.com/images_tc/2008/03/pioch21-topaz-250.webp
+Completed 542.3 KiB/~4.1 MiB (184.7 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 682.5 KiB/~4.1 MiB (226.3 KiB/s) with ~5 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2008/03/pioch11-topaz-1024.webp to s3://tcrouzet.com/images_tc/2008/03/pioch11-topaz-1024.webp
+Completed 682.5 KiB/~4.1 MiB (226.3 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 938.5 KiB/~4.1 MiB (291.7 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 1.2 MiB/~4.1 MiB (367.3 KiB/s) with ~4 file(s) remaining (calculating...)  
+Completed 1.4 MiB/~4.1 MiB (437.4 KiB/s) with ~4 file(s) remaining (calculating...)  
+Completed 1.6 MiB/~4.1 MiB (466.7 KiB/s) with ~4 file(s) remaining (calculating...)  
+upload: ../../static/images_tc/2008/03/pioch21-topaz-1024.webp to s3://tcrouzet.com/images_tc/2008/03/pioch21-topaz-1024.webp
+Completed 1.6 MiB/~4.1 MiB (466.7 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 1.8 MiB/~4.1 MiB (522.3 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 2.1 MiB/~4.1 MiB (586.0 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 2.2 MiB/~4.1 MiB (622.0 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2008/03/arene1-topaz.webp to s3://tcrouzet.com/images_tc/2008/03/arene1-topaz.webp
+Completed 2.2 MiB/~4.1 MiB (622.0 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 2.4 MiB/~4.1 MiB (661.9 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 2.7 MiB/~4.1 MiB (729.4 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 2.9 MiB/~4.3 MiB (768.0 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 3.2 MiB/~4.3 MiB (832.8 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 3.2 MiB/~4.3 MiB (817.4 KiB/s) with ~5 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2014/09/balaruc-topaz-250.webp to s3://tcrouzet.com/images_tc/2014/09/balaruc-topaz-250.webp
+Completed 3.2 MiB/~4.3 MiB (817.4 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 3.5 MiB/~4.3 MiB (871.0 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 3.7 MiB/~4.3 MiB (933.9 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 3.8 MiB/~4.3 MiB (938.7 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2014/09/balaruc-topaz-1024.webp to s3://tcrouzet.com/images_tc/2014/09/balaruc-topaz-1024.webp
+Completed 3.8 MiB/~4.3 MiB (938.7 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 3.9 MiB/~4.3 MiB (929.9 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2014/09/balaruc-topaz.webp to s3://tcrouzet.com/images_tc/2014/09/balaruc-topaz.webp
+Completed 3.9 MiB/~4.3 MiB (929.9 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 4.1 MiB/~4.3 MiB (975.7 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2008/03/pioch11-topaz.webp to s3://tcrouzet.com/images_tc/2008/03/pioch11-topaz.webp
+Completed 4.1 MiB/~4.3 MiB (975.7 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 4.3 MiB/~4.3 MiB (1011.7 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2008/03/pioch21-topaz.webp to s3://tcrouzet.com/images_tc/2008/03/pioch21-topaz.webp
+Completed 4.3 MiB/~4.3 MiB (1011.7 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 4.3 MiB/~4.3 MiB (428.9 KiB/s) with ~2 file(s) remaining (calculating...) 
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                         
+Completed 4.3 MiB/~4.3 MiB (428.9 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 4.3 MiB/~4.3 MiB (428.2 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                      
+Completed 4.3 MiB/~4.3 MiB (428.2 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 4.3 MiB/4.3 MiB (420.6 KiB/s) with 1 file(s) remaining                   
+upload: ../../static/update.json to s3://tcrouzet.com/update.json                  
