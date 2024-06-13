@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2024/06/13/endroit-1-abeilles/index.html</loc>
+    <lastmod>2024-06-13T12:56:01+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/06/2024-06-04-175343.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2024/06/10/face-aux-extremistes/index.html</loc>
-    <lastmod>2024-06-10T11:50:17+02:00</lastmod>
+    <lastmod>2024-06-10T12:25:37+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/06/2024-06-03-210026.webp</image:loc>
     </image:image>
@@ -121,7 +128,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2024/03/20/le-jardin-de-leternite-prelude/index.html</loc>
-    <lastmod>2024-04-30T08:24:30+02:00</lastmod>
+    <lastmod>2024-06-13T12:56:09+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/03/prelude2.webp</image:loc>
     </image:image>
@@ -4759,9 +4766,9 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2014/09/11/vagabondage-la-joconde-defiguree/index.html</loc>
-    <lastmod>2024-04-30T09:09:37+02:00</lastmod>
+    <lastmod>2024-06-12T07:31:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://tcrouzet.com/images_tc/2014/09/balaruc.webp</image:loc>
+      <image:loc>https://tcrouzet.com/images_tc/2014/09/balaruc-topaz.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -10841,9 +10848,9 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2008/03/18/eau-et-garrigue/index.html</loc>
-    <lastmod>2024-04-30T09:55:22+02:00</lastmod>
+    <lastmod>2024-06-12T20:54:51+02:00</lastmod>
     <image:image>
-      <image:loc>https://tcrouzet.com/images_tc/2008/03/pioch21.webp</image:loc>
+      <image:loc>https://tcrouzet.com/images_tc/2008/03/pioch21-topaz.webp</image:loc>
     </image:image>
   </url>
   <url>
