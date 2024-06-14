@@ -1,26 +1,26 @@
-Completed 12.9 KiB/~155.4 KiB (55.9 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/2024/06/14/ecriture-par-agents/index.html to s3://tcrouzet.com/2024/06/14/ecriture-par-agents/index.html
-Completed 12.9 KiB/~155.4 KiB (55.9 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 49.6 KiB/~155.4 KiB (182.7 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 79.3 KiB/~155.4 KiB (291.4 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html             
-Completed 79.3 KiB/~155.4 KiB (291.4 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml               
-Completed 79.3 KiB/~155.4 KiB (291.4 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 87.8 KiB/~155.4 KiB (295.8 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 9.1 KiB/~157.9 KiB (28.1 KiB/s) with ~5 file(s) remaining (calculating...)
 upload: ../../static/2024/06/14/ecriture-par-agents/content.html to s3://tcrouzet.com/2024/06/14/ecriture-par-agents/content.html
-Completed 87.8 KiB/~155.4 KiB (295.8 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 155.4 KiB/~155.4 KiB (390.7 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 155.4 KiB/~155.4 KiB (390.7 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 161.6 KiB/183.4 KiB (19.4 KiB/s) with 4 file(s) remaining                    
+Completed 9.1 KiB/~157.9 KiB (28.1 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 77.3 KiB/~157.9 KiB (191.3 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml               
+Completed 77.3 KiB/~157.9 KiB (191.3 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 107.0 KiB/~157.9 KiB (247.1 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html              
+Completed 107.0 KiB/~157.9 KiB (247.1 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 144.4 KiB/~157.9 KiB (328.3 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
+Completed 144.4 KiB/~157.9 KiB (328.3 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 157.9 KiB/~157.9 KiB (290.2 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/2024/06/14/ecriture-par-agents/index.html to s3://tcrouzet.com/2024/06/14/ecriture-par-agents/index.html
+Completed 157.9 KiB/~157.9 KiB (290.2 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 164.1 KiB/166.8 KiB (18.5 KiB/s) with 4 file(s) remaining                    
 upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
-Completed 161.6 KiB/183.4 KiB (19.4 KiB/s) with 3 file(s) remaining
-Completed 161.9 KiB/183.4 KiB (19.3 KiB/s) with 3 file(s) remaining
-upload: ../../static/update.json to s3://tcrouzet.com/update.json  
-Completed 161.9 KiB/183.4 KiB (19.3 KiB/s) with 2 file(s) remaining
-Completed 165.1 KiB/183.4 KiB (19.6 KiB/s) with 2 file(s) remaining
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
-Completed 165.1 KiB/183.4 KiB (19.6 KiB/s) with 1 file(s) remaining
-Completed 183.4 KiB/183.4 KiB (21.4 KiB/s) with 1 file(s) remaining
+Completed 164.1 KiB/166.8 KiB (18.5 KiB/s) with 3 file(s) remaining
+Completed 166.2 KiB/166.8 KiB (18.6 KiB/s) with 3 file(s) remaining
 upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
+Completed 166.2 KiB/166.8 KiB (18.6 KiB/s) with 2 file(s) remaining
+Completed 166.4 KiB/166.8 KiB (18.6 KiB/s) with 2 file(s) remaining
+upload: ../../static/update.json to s3://tcrouzet.com/update.json  
+Completed 166.4 KiB/166.8 KiB (18.6 KiB/s) with 1 file(s) remaining
+Completed 166.8 KiB/166.8 KiB (18.6 KiB/s) with 1 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
