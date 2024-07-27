@@ -1,8 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2024/07/26/vulcania-bikepacking/index.html</loc>
+    <lastmod>2024-07-26T13:49:44+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/07/2024-07-20-121912.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tcrouzet.com/2024/07/10/juin-2024/index.html</loc>
+    <lastmod>2024-07-10T21:23:16+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/07/2024-06-27-125952.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2024/06/14/ecriture-par-agents/index.html</loc>
-    <lastmod>2024-06-14T16:22:09+02:00</lastmod>
+    <lastmod>2024-06-14T16:45:01+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/06/gabriel.webp</image:loc>
     </image:image>
@@ -3884,7 +3898,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2015/12/01/carnet-de-route-novembre-2015/index.html</loc>
-    <lastmod>2024-04-30T09:33:01+02:00</lastmod>
+    <lastmod>2024-07-16T21:26:03+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2015/12/IMG_3948.webp</image:loc>
     </image:image>
@@ -3947,35 +3961,35 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2015/11/01/carnet-de-route-octobre-2015/index.html</loc>
-    <lastmod>2024-04-30T09:33:01+02:00</lastmod>
+    <lastmod>2024-07-16T21:05:03+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2015/11/couches.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/2015/10/29/ayerdhal-la-biographie-inverifiable/index.html</loc>
-    <lastmod>2024-04-30T09:33:01+02:00</lastmod>
+    <lastmod>2024-07-12T20:12:31+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2015/10/ouessant.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/2015/10/15/en-librairie-les-livres-meurent-pas-sur-wattpad/index.html</loc>
-    <lastmod>2024-04-30T08:24:30+02:00</lastmod>
+    <lastmod>2024-07-12T20:12:37+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2015/10/wattapd9.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/2015/10/10/la-fin-des-medias-intermediaires-ou-la-necessite-denseigner-a-lecole-lhistoire-et-la-geographie-dinternet/index.html</loc>
-    <lastmod>2024-04-30T09:33:01+02:00</lastmod>
+    <lastmod>2024-07-12T20:13:31+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2015/10/paul.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/2015/10/01/carnet-de-route-septembre-2015/index.html</loc>
-    <lastmod>2024-04-30T09:33:01+02:00</lastmod>
+    <lastmod>2024-07-12T15:38:56+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2015/10/cielsep.webp</image:loc>
     </image:image>
@@ -3989,7 +4003,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2015/09/01/carnet-de-route-aout-2015/index.html</loc>
-    <lastmod>2024-04-30T09:33:01+02:00</lastmod>
+    <lastmod>2024-07-12T09:45:31+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2015/09/IMG_3544.webp</image:loc>
     </image:image>
