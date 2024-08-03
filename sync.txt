@@ -1,32 +1,26 @@
-Completed 21.1 KiB/~38.2 KiB (130.2 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/2016/01/02/carnet-de-route-decembre-2015/index.html to s3://tcrouzet.com/2016/01/02/carnet-de-route-decembre-2015/index.html
-Completed 21.1 KiB/~38.2 KiB (130.2 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 38.2 KiB/~38.2 KiB (187.2 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/2016/01/02/carnet-de-route-decembre-2015/content.html to s3://tcrouzet.com/2016/01/02/carnet-de-route-decembre-2015/content.html
-Completed 38.2 KiB/~38.2 KiB (187.2 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 44.2 KiB/~137.9 KiB (60.5 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/2024/.DS_Store to s3://tcrouzet.com/2024/.DS_Store              
-Completed 44.2 KiB/~137.9 KiB (60.5 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 50.2 KiB/~280.8 KiB (66.9 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/2024/07/.DS_Store to s3://tcrouzet.com/2024/07/.DS_Store        
-Completed 50.2 KiB/~280.8 KiB (66.9 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 60.2 KiB/~290.8 KiB (72.5 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/images_tc/.DS_Store to s3://tcrouzet.com/images_tc/.DS_Store    
-Completed 60.2 KiB/~290.8 KiB (72.5 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 102.0 KiB/~290.8 KiB (121.4 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/2024/07/26/vulcania-bikepacking/content.html to s3://tcrouzet.com/2024/07/26/vulcania-bikepacking/content.html
-Completed 102.0 KiB/~290.8 KiB (121.4 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 139.3 KiB/~290.8 KiB (157.6 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 24.4 KiB/~78.4 KiB (154.0 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/2016/02/01/carnet-de-route-janvier-2016/index.html to s3://tcrouzet.com/2016/02/01/carnet-de-route-janvier-2016/index.html
+Completed 24.4 KiB/~78.4 KiB (154.0 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 39.2 KiB/~78.4 KiB (61.0 KiB/s) with ~3 file(s) remaining (calculating...) 
+upload: ../../static/2016/03/01/carnet-de-route-fevrier-2016/content.html to s3://tcrouzet.com/2016/03/01/carnet-de-route-fevrier-2016/content.html
+Completed 39.2 KiB/~78.4 KiB (61.0 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 58.1 KiB/~221.3 KiB (73.1 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/2016/03/01/carnet-de-route-fevrier-2016/index.html to s3://tcrouzet.com/2016/03/01/carnet-de-route-fevrier-2016/index.html
+Completed 58.1 KiB/~221.3 KiB (73.1 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 78.4 KiB/~221.3 KiB (95.4 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/2016/02/01/carnet-de-route-janvier-2016/content.html to s3://tcrouzet.com/2016/02/01/carnet-de-route-janvier-2016/content.html
+Completed 78.4 KiB/~221.3 KiB (95.4 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 115.8 KiB/~221.3 KiB (120.6 KiB/s) with ~2 file(s) remaining (calculating...)
 upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
-Completed 139.3 KiB/~290.8 KiB (157.6 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 185.2 KiB/~290.8 KiB (186.4 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/2024/07/26/vulcania-bikepacking/index.html to s3://tcrouzet.com/2024/07/26/vulcania-bikepacking/index.html
-Completed 185.2 KiB/~290.8 KiB (186.4 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 290.8 KiB/~290.8 KiB (266.7 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 115.8 KiB/~221.3 KiB (120.6 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 221.3 KiB/~221.3 KiB (195.3 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 290.8 KiB/~290.8 KiB (266.7 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 300.8 KiB/~300.8 KiB (51.6 KiB/s) with ~1 file(s) remaining (calculating...) 
-upload: ../../static/images_tc/2024/.DS_Store to s3://tcrouzet.com/images_tc/2024/.DS_Store
-Completed 300.8 KiB/~300.8 KiB (51.6 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 302.5 KiB/302.5 KiB (47.4 KiB/s) with 1 file(s) remaining                   
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                           
+Completed 221.3 KiB/~221.3 KiB (195.3 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 221.9 KiB/225.0 KiB (28.8 KiB/s) with 3 file(s) remaining                    
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                          
+Completed 221.9 KiB/225.0 KiB (28.8 KiB/s) with 2 file(s) remaining
+Completed 224.8 KiB/225.0 KiB (28.5 KiB/s) with 2 file(s) remaining
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
+Completed 224.8 KiB/225.0 KiB (28.5 KiB/s) with 1 file(s) remaining
+Completed 225.0 KiB/225.0 KiB (28.3 KiB/s) with 1 file(s) remaining
+upload: ../../static/update.json to s3://tcrouzet.com/update.json  
