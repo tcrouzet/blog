@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>blog - Thierry Crouzet</title><link>https://tcrouzet.com/blog.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/blog.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Mon, 05 Aug 2024 19:25:48 +0200</lastBuildDate><item><title>Écrire avec Dust</title><link>https://tcrouzet.com/2024/08/05/ecrire-avec-dust/</link><description><![CDATA[<p>J’ai résilié mon abonnement ChatGPT Plus pour basculer sur <a href="https://dust.tt/">Dust</a> et vous devriez faire de même. Dust est une méta-IA qui vous permet de chatter avec Claude, ChatGPT, Mistral et toute une série d’assistants. Donc, un seul abonnement pour utiliser les principales IA du marché.</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>blog - Thierry Crouzet</title><link>https://tcrouzet.com/blog.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/blog.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Mon, 05 Aug 2024 19:47:00 +0200</lastBuildDate><item><title>Écrire avec Dust</title><link>https://tcrouzet.com/2024/08/05/ecrire-avec-dust/</link><description><![CDATA[<p>J’ai résilié mon abonnement ChatGPT Plus pour basculer sur <a href="https://dust.tt/">Dust</a> et vous devriez faire de même. Dust est une méta-IA qui vous permet de chatter avec Claude, ChatGPT, Mistral et toute une série d’assistants. Donc, un seul abonnement pour utiliser les principales IA du marché.</p>
 <p>Parfois, un LLM est bon pour le texte ou pour le code, bon pour la littérature ou pour les maths. J’apprécie de sauter des uns aux autres, voire de les interroger concurremment, c’est possible avec Dust, mais il ne s’agit que du haut de l’iceberg.</p>
 <p>Dust permet avant tout de créer des assistants (des prompts spécifiques) auxquels on peut associer des sources de données (stockées sur des fichiers uploadés, des disques externes, des services tiers comme GitHub…). Voici comment j’utilise Dust pour mon nouveau projet romanesque.</p>
 <h3>Avertissement</h3>
@@ -15,29 +15,29 @@
 <p><em>PS : Autant les GPT ont du mal avec les données sources, autant Dust les digère à la perfection. Quand je lui ai demandé de résumer mon texte de 120 000 caractères, il s’en est très bien tiré.</em></p>
 <h3>Extraits d’un dialogue</h3>
 <p><em>Thierry : Dans quel genre littéraire tu classes ce texte ?</em></p>
-<p>@EditorAssistant : Après avoir examiné attentivement ton texte, je dirais qu'il se situe dans un genre hybride, difficile à classer dans une catégorie unique. Cependant, si je devais le définir, je le placerais principalement dans le genre de l'autofiction métaréflexive.</p>
+<p>@EditorAssistant : Après avoir examiné attentivement ton texte, je dirais qu’il se situe dans un genre hybride, difficile à classer dans une catégorie unique. Cependant, si je devais le définir, je le placerais principalement dans le genre de l’autofiction métaréflexive.</p>
 <p>Voici pourquoi :</p>
 <ol>
 <li>
-<p>Autofiction : Le texte mêle des éléments clairement autobiographiques (ta vie quotidienne, tes réflexions personnelles) avec des aspects plus fictionnels ou hypothétiques. Tu te mets en scène en tant qu'écrivain, mais dans un contexte qui dépasse la simple autobiographie.</p>
+<p>Autofiction : Le texte mêle des éléments clairement autobiographiques (ta vie quotidienne, tes réflexions personnelles) avec des aspects plus fictionnels ou hypothétiques. Tu te mets en scène en tant qu’écrivain, mais dans un contexte qui dépasse la simple autobiographie.</p>
 </li>
 <li>
-<p>Métaréflexif : Le cœur de ton projet est une réflexion sur l'acte d'écrire lui-même. Tu examines constamment ton propre processus créatif, faisant du texte une exploration de sa propre création.</p>
+<p>Métaréflexif : Le cœur de ton projet est une réflexion sur l’acte d’écrire lui-même. Tu examines constamment ton propre processus créatif, faisant du texte une exploration de sa propre création.</p>
 </li>
 <li>
-<p>Essai littéraire expérimental : Par moments, le texte prend la forme d'un essai sur la nature de la création littéraire, mais d'une manière non conventionnelle et très personnelle.</p>
+<p>Essai littéraire expérimental : Par moments, le texte prend la forme d’un essai sur la nature de la création littéraire, mais d’une manière non conventionnelle et très personnelle.</p>
 </li>
 <li>
-<p>Journal d'écrivain : Certains passages s'apparentent à un journal intime d'écrivain, documentant tes pensées et expériences au jour le jour.</p>
+<p>Journal d’écrivain : Certains passages s’apparentent à un journal intime d’écrivain, documentant tes pensées et expériences au jour le jour.</p>
 </li>
 <li>
 <p>Roman expérimental : La structure non linéaire, les digressions et les jeux avec la forme narrative rapprochent aussi ton texte du roman expérimental.</p>
 </li>
 </ol>
-<p>En résumé, je dirais que c'est une autofiction métaréflexive avec des éléments d'essai littéraire et de roman expérimental. C'est un texte qui défie les classifications traditionnelles, ce qui est en accord avec ton projet de redéfinir ce qu'est un roman.</p>
+<p>En résumé, je dirais que c’est une autofiction métaréflexive avec des éléments d’essai littéraire et de roman expérimental. C’est un texte qui défie les classifications traditionnelles, ce qui est en accord avec ton projet de redéfinir ce qu’est un roman.</p>
 <p>Cette catégorisation te semble-t-elle juste ?</p>
-<p><em>Thierry : Oui, mais si je comprends bien il n'y a pas de rayon en librairie pour un texte de ce genre.</em></p>
-<p>@EditorAssistant : Tu as tout à fait raison. C'est à la fois un défi et une opportunité.</p>
+<p><em>Thierry : Oui, mais si je comprends bien il n’y a pas de rayon en librairie pour un texte de ce genre.</em></p>
+<p>@EditorAssistant : Tu as tout à fait raison. C’est à la fois un défi et une opportunité.</p>
 <p>Voici comment je vois la situation :</p>
 <ol>
 <li>
@@ -47,58 +47,58 @@
 <p>Opportunité de distinction : Cette difficulté de classification peut aussi être un atout. Ton livre se démarquera par son originalité et son refus des conventions.</p>
 </li>
 <li>
-<p>Placement potentiel : En pratique, un tel livre pourrait se retrouver dans différents rayons selon les choix de l'éditeur et du libraire :</p>
+<p>Placement potentiel : En pratique, un tel livre pourrait se retrouver dans différents rayons selon les choix de l’éditeur et du libraire :</p>
 <ul>
 <li>Littérature contemporaine</li>
 <li>Essais littéraires</li>
 <li>Autobiographies / Récits personnels</li>
 <li>Nouveautés / Coups de cœur (pour mettre en avant son caractère unique)</li>
-<li>Marketing créatif : Cette situation exigera une approche marketing créative. Il faudra trouver des angles originaux pour présenter le livre, peut-être en mettant l'accent sur son caractère innovant et sa réflexion sur l'acte d'écrire.</li>
+<li>Marketing créatif : Cette situation exigera une approche marketing créative. Il faudra trouver des angles originaux pour présenter le livre, peut-être en mettant l’accent sur son caractère innovant et sa réflexion sur l’acte d’écrire.</li>
 </ul>
 </li>
 <li>
-<p>Public cible : Il faudra bien identifier le public potentiel. Ce livre pourrait intéresser les écrivains, les étudiants en littérature, les passionnés de création littéraire, mais aussi un public plus large curieux d'explorer les coulisses de l'écriture.</p>
+<p>Public cible : Il faudra bien identifier le public potentiel. Ce livre pourrait intéresser les écrivains, les étudiants en littérature, les passionnés de création littéraire, mais aussi un public plus large curieux d’explorer les coulisses de l’écriture.</p>
 </li>
 <li>
-<p>Présentation : La façon dont le livre sera présenté (quatrième de couverture, prière d'insérer) sera cruciale pour attirer l'attention et expliquer sa nature unique.</p>
+<p>Présentation : La façon dont le livre sera présenté (quatrième de couverture, prière d’insérer) sera cruciale pour attirer l’attention et expliquer sa nature unique.</p>
 </li>
 </ol>
-<p>En fin de compte, le fait qu'il n'y ait pas de rayon spécifique pour ton livre est à double tranchant. C'est un défi, certes, mais c'est aussi ce qui rend ton projet si intéressant et potentiellement impactant. Il force à repenser les catégories littéraires établies, ce qui est totalement en phase avec ton projet de *Roman du roman.</p>
-<p><em>Thierry : D'autres livres qui pourraient être apparentés ?</em></p>
-<p>@EditorAssistant : Excellente question, Thierry. Il existe en effet d'autres œuvres qui, bien que chacune unique à sa manière, partagent certaines caractéristiques avec ton <em>Roman du roman</em>. Voici quelques exemples qui me viennent à l'esprit :</p>
+<p>En fin de compte, le fait qu’il n’y ait pas de rayon spécifique pour ton livre est à double tranchant. C’est un défi, certes, mais c’est aussi ce qui rend ton projet si intéressant et potentiellement impactant. Il force à repenser les catégories littéraires établies, ce qui est totalement en phase avec ton projet de *Roman du roman.</p>
+<p><em>Thierry : D’autres livres qui pourraient être apparentés ?</em></p>
+<p>@EditorAssistant : Excellente question, Thierry. Il existe en effet d’autres œuvres qui, bien que chacune unique à sa manière, partagent certaines caractéristiques avec ton <em>Roman du roman</em>. Voici quelques exemples qui me viennent à l’esprit :</p>
 <ol>
 <li>
-<p><em>Si par une nuit d'hiver un voyageur</em> d'Italo Calvino. Ce roman métafictionnel explore la nature de la lecture et de l'écriture, mêlant réflexion sur la création littéraire et narration expérimentale.</p>
+<p><em>Si par une nuit d’hiver un voyageur</em> d’Italo Calvino. Ce roman métafictionnel explore la nature de la lecture et de l’écriture, mêlant réflexion sur la création littéraire et narration expérimentale.</p>
 </li>
 <li>
-<p><em>L'œuvre ouverte</em> d'Umberto Eco. Bien que ce soit un essai théorique, il aborde des idées sur la créativité et l'interprétation qui résonnent avec ton projet.</p>
+<p><em>L’œuvre ouverte</em> d’Umberto Eco. Bien que ce soit un essai théorique, il aborde des idées sur la créativité et l’interprétation qui résonnent avec ton projet.</p>
 </li>
 <li>
-<p><em>Comment j'ai écrit certains de mes livres</em> de Raymond Roussel. Un texte qui dévoile les mécanismes de création de l'auteur, similaire à ta démarche d'exposition du processus créatif.</p>
+<p><em>Comment j’ai écrit certains de mes livres</em> de Raymond Roussel. Un texte qui dévoile les mécanismes de création de l’auteur, similaire à ta démarche d’exposition du processus créatif.</p>
 </li>
 <li>
-<p><em>Le livre à venir</em> de Maurice Blanchot. Une réflexion profonde sur la nature de l'écriture et de la littérature.</p>
+<p><em>Le livre à venir</em> de Maurice Blanchot. Une réflexion profonde sur la nature de l’écriture et de la littérature.</p>
 </li>
 <li>
-<p><em>L'écriture ou la vie</em> de Jorge Semprún. Un mélange d'autobiographie et de réflexion sur l'acte d'écrire, qui explore les liens entre vie et création.</p>
+<p><em>L’écriture ou la vie</em> de Jorge Semprún. Un mélange d’autobiographie et de réflexion sur l’acte d’écrire, qui explore les liens entre vie et création.</p>
 </li>
 <li>
-<p><em>Journal d'un roman</em> d'Ernesto Sabato. Un journal qui documente le processus d'écriture d'un roman, similaire à ta démarche.</p>
+<p><em>Journal d’un roman</em> d’Ernesto Sabato (que j’ai coulu lire et qui n’existe pas). Un journal qui documente le processus d’écriture d’un roman, similaire à ta démarche.</p>
 </li>
 <li>
-<p><em>Palimpsestes</em> de Gérard Genette. Bien que plus théorique, cet ouvrage explore les relations entre les textes d'une manière qui pourrait faire écho à ton projet.</p>
+<p><em>Palimpsestes</em> de Gérard Genette. Bien que plus théorique, cet ouvrage explore les relations entre les textes d’une manière qui pourrait faire écho à ton projet.</p>
 </li>
 <li>
-<p><em>L'atelier du roman</em> de Milan Kundera. Une réflexion sur l'art du roman qui, bien que différente dans la forme, partage des préoccupations similaires aux tiennes.</p>
+<p><em>L’atelier du roman</em> de Milan Kundera. Une réflexion sur l’art du roman qui, bien que différente dans la forme, partage des préoccupations similaires aux tiennes.</p>
 </li>
 <li>
-<p><em>Pourquoi j'écris</em> de George Orwell. Un essai personnel sur les motivations de l'écriture qui pourrait avoir des échos avec certaines de tes réflexions.</p>
+<p><em>Pourquoi j’écris</em> de George Orwell. Un essai personnel sur les motivations de l’écriture qui pourrait avoir des échos avec certaines de tes réflexions.</p>
 </li>
 <li>
-<p><em>Le démon de la théorie</em> d'Antoine Compagnon. Une réflexion sur la théorie littéraire qui, bien que plus académique, aborde des questions fondamentales sur la nature de la littérature.</p>
+<p><em>Le démon de la théorie</em> d’Antoine Compagnon. Une réflexion sur la théorie littéraire qui, bien que plus académique, aborde des questions fondamentales sur la nature de la littérature.</p>
 </li>
 </ol>
-<p>Ces œuvres, bien que différentes de ton projet, partagent certaines de ses préoccupations : la réflexion sur l'acte d'écrire, l'exploration des limites du genre romanesque, la mise en lumière du processus créatif. Ton <em>Roman du roman</em> s'inscrit donc dans une lignée d'œuvres qui questionnent la nature même de la littérature, tout en apportant sa propre voix unique à cette conversation.</p>
+<p>Ces œuvres, bien que différentes de ton projet, partagent certaines de ses préoccupations : la réflexion sur l’acte d’écrire, l’exploration des limites du genre romanesque, la mise en lumière du processus créatif. Ton <em>Roman du roman</em> s’inscrit donc dans une lignée d’œuvres qui questionnent la nature même de la littérature, tout en apportant sa propre voix unique à cette conversation.</p>
 <hr/>
 <p>Je trouve ça dingue. Dans le roman, j’introduis quelques dialogues entre l’IA et moi en même temps que j’avance sur le manuscrit. Je peux créer une armée d’assistants avec qui discuter de mon texte, sans même parler d’assistants plus techniques pour discuter des détails littéraires. Par exemple, il est possible de discuter d’un chapitre au regard des autres, d’identifier des thèmes récurrents ou répétitifs, des sujets délaissés et qui méritent d’être approfondis. Désormais, je suis à la tête d’une maison d’édition dont tous les employés travaillent pour moi.</p>
 <p>J’en suis qu’au début avec Dust. Les possibilités sont quasi illimitées, sans la nécessité d’écrire du code.</p>]]></description><guid isPermaLink="false">2385</guid><pubDate>Mon, 05 Aug 2024 20:00:00 +0200</pubDate></item><item><title>L’écriture par agents</title><link>https://tcrouzet.com/2024/06/14/ecriture-par-agents/</link><description><![CDATA[<p><a href="https://www.francetvinfo.fr/culture/livres/solllicite-par-l-editeur-antoine-gallimard-l-ia-de-meta-juge-le-style-litteraire-de-michel-houellebecq-trop-offensant-et-discriminatoire_6602055.html">Même Antoine Gallimard s’est fait piéger</a> : oui, les IA sont de médiocres écrivains… pour qui ne sait pas les prendre en main et refuse un peu d’huile de coude.</p>
