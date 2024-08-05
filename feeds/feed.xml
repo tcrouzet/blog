@@ -1,5 +1,107 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>feed - Thierry Crouzet</title><link>https://tcrouzet.com/feed.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sat, 03 Aug 2024 20:40:58 +0200</lastBuildDate><item><title>Vulcania bikepacking tour</title><link>https://tcrouzet.com/2024/07/26/vulcania-bikepacking/</link><description><![CDATA[<p>Je vous partage <a href="">la trace et ses variantes</a>. Je me suis inspiré de <a href="https://www.la-gtmc.com/">la GTMC</a>, de <a href="https://727bikepacking.fr/p27/">mon P27</a>, de <a href="https://www.auvergne-destination.com/bouger/activites-plein-air/vtt-en-auvergne/">traces FFC</a>, du <a href="https://www.utagawavtt.com/randonnee-vtt-gps/Tour-des-Combrailles-Immersion-totale-22359">tour des Combrailles</a> et d’un GravelMan Auvergne 2022 ainsi que de nombreuses improvisations <a href="https://tcrouzet.com/2022/09/29/heatmap-le-tracage-social-pour-gravel-et-vtt/">grâce à la heatmap Strava</a>.</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>feed - Thierry Crouzet</title><link>https://tcrouzet.com/feed.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Mon, 05 Aug 2024 19:19:32 +0200</lastBuildDate><item><title>Écrire avec Dust`</title><link>https://tcrouzet.com/2024/08/05/ecrire-avec-dust/</link><description><![CDATA[<p>J’ai résilié mon abonnement ChatGPT Plus pour basculer sur <a href="https://dust.tt/">Dust</a> et vous devriez faire de même. Dust est une méta-IA qui vous permet de chatter avec Claude, ChatGPT, Mistral et toute une série d’assistants. Donc, un seul abonnement pour utiliser les principales IA du marché.</p>
+<p>Parfois, un LLM est bon pour le texte ou pour le code, bon pour la littérature ou pour les maths. J’apprécie de sauter des uns aux autres, voire de les interroger concurremment, c’est possible avec Dust, mais il ne s’agit que du haut de l’iceberg.</p>
+<p>Dust permet avant tout de créer des assistants (des prompts spécifiques) auxquels on peut associer des sources de données (stockées sur des fichiers uploadés, des disques externes, des services tiers comme GitHub…). Voici comment j’utilise Dust pour mon nouveau projet romanesque.</p>
+<h3>Avertissement</h3>
+<p>J’ai renoncé à demander aux LLM d’écrire à ma place. C’était passionnant l’année dernière parce que c’était nouveau, je me suis amusé comme un fou avec <a href="https://tcrouzet.com/books/le-code-houellebecq"><em>Le Code Houellebecq</em></a>, mais je n’éprouve plus la moindre satisfaction à voir des textes jaillir suite à mes prompts. Mon plaisir d’écrivain, c’est d’écrire (et mon roman en cours traite justement du plaisir d’écrire, sujet étranger aux IA — reste pour nous la nécessité d’écrire ce que les IA ne peuvent pas encore écrire). Si donc utiliser les IA pour produire du texte n’a plus beaucoup d’intérêt à mes yeux, je les utilise de plus en plus souvent pour m’assister, là Dust prend tout son sens.</p>
+<h3>Mon nouvel éditeur</h3>
+<p>J’ai créé un EditorAssistant. Le prompt commence par « Tu es l’éditeur de Thierry Crouzet… », puis suivent des instructions propres à mon projet. L’assistant utilise Claude comme LLM (je peux dupliquer l’assistant pour le faire travailler sur d’autres modèles).</p>
+<div class="image" id="image-2385-1"><img alt="Prompt" class="alignnone size-full paysage" decoding="async" height="1066" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/08/dust02.webp" srcset="/images_tc/2024/08/dust02.webp 1600w, /images_tc/2024/08/dust02-1024.webp 1024w, /images_tc/2024/08/dust02-250.webp 250w" width="1856"/><div class="legend">Prompt</div></div>
+<p>J’ai associé à l’assistant deux sources de données : le manuscrit du roman en cours, ainsi qu’un lien vers ma bibliographie sur mon blog, question que le modèle apprenne à mieux me connaître.</p>
+<div class="image" id="image-2385-2"><img alt="" class="alignnone size-full paysage" decoding="async" height="716" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/08/dust03.webp" srcset="/images_tc/2024/08/dust03.webp 1600w, /images_tc/2024/08/dust03-1024.webp 1024w, /images_tc/2024/08/dust03-250.webp 250w" width="1872"/><div class="legend"></div></div>
+<p>Je peux alors commencer à discuter avec mon éditeur virtuel et lui poser toutes les questions qui me passent par la tête au sujet de mon texte.</p>
+<div class="image" id="image-2385-3"><img alt="Chat" class="alignnone size-full paysage" decoding="async" height="282" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/08/dust01.webp" srcset="/images_tc/2024/08/dust01.webp 1600w, /images_tc/2024/08/dust01-1024.webp 1024w, /images_tc/2024/08/dust01-250.webp 250w" width="1656"/><div class="legend">Chat</div></div>
+<p>Voilà qui me paraît beaucoup plus intéressant que de demander à un LLM d’écrire à ma place. J’utilise désormais les IA pour prendre du recul sur ce que je fais et brainstormer.
+<em>PS : Autant les GPT ont du mal avec les données sources, autant Dust les digère à la perfection. Quand je lui ai demandé de résumer mon texte de 120 000 caractères, il s’en est très bien tiré.</em></p>
+<h3>Extraits d’un dialogue</h3>
+<p><em>Thierry : Dans quel genre littéraire tu classes ce texte ?</em></p>
+<p>@EditorAssistant : Après avoir examiné attentivement ton texte, je dirais qu'il se situe dans un genre hybride, difficile à classer dans une catégorie unique. Cependant, si je devais le définir, je le placerais principalement dans le genre de l'autofiction métaréflexive.</p>
+<p>Voici pourquoi :</p>
+<ol>
+<li>
+<p>Autofiction : Le texte mêle des éléments clairement autobiographiques (ta vie quotidienne, tes réflexions personnelles) avec des aspects plus fictionnels ou hypothétiques. Tu te mets en scène en tant qu'écrivain, mais dans un contexte qui dépasse la simple autobiographie.</p>
+</li>
+<li>
+<p>Métaréflexif : Le cœur de ton projet est une réflexion sur l'acte d'écrire lui-même. Tu examines constamment ton propre processus créatif, faisant du texte une exploration de sa propre création.</p>
+</li>
+<li>
+<p>Essai littéraire expérimental : Par moments, le texte prend la forme d'un essai sur la nature de la création littéraire, mais d'une manière non conventionnelle et très personnelle.</p>
+</li>
+<li>
+<p>Journal d'écrivain : Certains passages s'apparentent à un journal intime d'écrivain, documentant tes pensées et expériences au jour le jour.</p>
+</li>
+<li>
+<p>Roman expérimental : La structure non linéaire, les digressions et les jeux avec la forme narrative rapprochent aussi ton texte du roman expérimental.</p>
+</li>
+</ol>
+<p>En résumé, je dirais que c'est une autofiction métaréflexive avec des éléments d'essai littéraire et de roman expérimental. C'est un texte qui défie les classifications traditionnelles, ce qui est en accord avec ton projet de redéfinir ce qu'est un roman.</p>
+<p>Cette catégorisation te semble-t-elle juste ?</p>
+<p><em>Thierry : Oui, mais si je comprends bien il n'y a pas de rayon en librairie pour un texte de ce genre.</em></p>
+<p>@EditorAssistant : Tu as tout à fait raison. C'est à la fois un défi et une opportunité.</p>
+<p>Voici comment je vois la situation :</p>
+<ol>
+<li>
+<p>Défi de classification : Les libraires et les éditeurs aiment pouvoir ranger les livres dans des catégories claires pour faciliter leur commercialisation. Ton livre ne rentre pas dans ces cases, ce qui peut poser des problèmes logistiques.</p>
+</li>
+<li>
+<p>Opportunité de distinction : Cette difficulté de classification peut aussi être un atout. Ton livre se démarquera par son originalité et son refus des conventions.</p>
+</li>
+<li>
+<p>Placement potentiel : En pratique, un tel livre pourrait se retrouver dans différents rayons selon les choix de l'éditeur et du libraire :</p>
+<ul>
+<li>Littérature contemporaine</li>
+<li>Essais littéraires</li>
+<li>Autobiographies / Récits personnels</li>
+<li>Nouveautés / Coups de cœur (pour mettre en avant son caractère unique)</li>
+<li>Marketing créatif : Cette situation exigera une approche marketing créative. Il faudra trouver des angles originaux pour présenter le livre, peut-être en mettant l'accent sur son caractère innovant et sa réflexion sur l'acte d'écrire.</li>
+</ul>
+</li>
+<li>
+<p>Public cible : Il faudra bien identifier le public potentiel. Ce livre pourrait intéresser les écrivains, les étudiants en littérature, les passionnés de création littéraire, mais aussi un public plus large curieux d'explorer les coulisses de l'écriture.</p>
+</li>
+<li>
+<p>Présentation : La façon dont le livre sera présenté (quatrième de couverture, prière d'insérer) sera cruciale pour attirer l'attention et expliquer sa nature unique.</p>
+</li>
+</ol>
+<p>En fin de compte, le fait qu'il n'y ait pas de rayon spécifique pour ton livre est à double tranchant. C'est un défi, certes, mais c'est aussi ce qui rend ton projet si intéressant et potentiellement impactant. Il force à repenser les catégories littéraires établies, ce qui est totalement en phase avec ton projet de <em>Roman du roman</em>"*.</p>
+<p><em>Thierry : D'autres livres qui pourraient être apparentés ?</em>
+@EditorAssistant : Excellente question, Thierry. Il existe en effet d'autres œuvres qui, bien que chacune unique à sa manière, partagent certaines caractéristiques avec ton <em>Roman du roman</em>. Voici quelques exemples qui me viennent à l'esprit :</p>
+<ol>
+<li>
+<p><em>Si par une nuit d'hiver un voyageur</em> d'Italo Calvino. Ce roman métafictionnel explore la nature de la lecture et de l'écriture, mêlant réflexion sur la création littéraire et narration expérimentale.</p>
+</li>
+<li>
+<p><em>L'œuvre ouverte</em> d'Umberto Eco. Bien que ce soit un essai théorique, il aborde des idées sur la créativité et l'interprétation qui résonnent avec ton projet.</p>
+</li>
+<li>
+<p><em>Comment j'ai écrit certains de mes livres</em> de Raymond Roussel. Un texte qui dévoile les mécanismes de création de l'auteur, similaire à ta démarche d'exposition du processus créatif.</p>
+</li>
+<li>
+<p><em>Le livre à venir</em> de Maurice Blanchot. Une réflexion profonde sur la nature de l'écriture et de la littérature.</p>
+</li>
+<li>
+<p><em>L'écriture ou la vie</em> de Jorge Semprún. Un mélange d'autobiographie et de réflexion sur l'acte d'écrire, qui explore les liens entre vie et création.</p>
+</li>
+<li>
+<p><em>Journal d'un roman</em> d'Ernesto Sabato. Un journal qui documente le processus d'écriture d'un roman, similaire à ta démarche.</p>
+</li>
+<li>
+<p><em>Palimpsestes</em> de Gérard Genette. Bien que plus théorique, cet ouvrage explore les relations entre les textes d'une manière qui pourrait faire écho à ton projet.</p>
+</li>
+<li>
+<p><em>L'atelier du roman</em> de Milan Kundera. Une réflexion sur l'art du roman qui, bien que différente dans la forme, partage des préoccupations similaires aux tiennes.</p>
+</li>
+<li>
+<p><em>Pourquoi j'écris</em> de George Orwell. Un essai personnel sur les motivations de l'écriture qui pourrait avoir des échos avec certaines de tes réflexions.</p>
+</li>
+<li>
+<p><em>Le démon de la théorie</em> d'Antoine Compagnon. Une réflexion sur la théorie littéraire qui, bien que plus académique, aborde des questions fondamentales sur la nature de la littérature.</p>
+</li>
+</ol>
+<p>Ces œuvres, bien que différentes de ton projet, partagent certaines de ses préoccupations : la réflexion sur l'acte d'écrire, l'exploration des limites du genre romanesque, la mise en lumière du processus créatif. Ton <em>Roman du roman</em> s'inscrit donc dans une lignée d'œuvres qui questionnent la nature même de la littérature, tout en apportant sa propre voix unique à cette conversation.</p>
+<hr/>
+<p>Je trouve ça assez dingue. Dans le roman, j’introduis quelques dialogues entre l’IA et moi en même temps que j’avance sur le manuscrit. Je peux créer une armée d’assistants avec qui discuter de mon texte, sans même parler d’assistants plus techniques pour discuter des détails littéraires. Par exemple, il est possible de discuter d’un chapitre au regard des autres, d’identifier des thèmes récurrents ou répétitifs, des sujets délaissés et qui méritent d’être approfondis. Désormais, je suis à la tête d’une maison d’édition dont tous les employés travaillent pour moi.</p>
+<p>J’en suis qu’au début avec Dust. Les possibilités sont quasi illimitées, sans la nécessité d’écrire du code.</p>]]></description><guid isPermaLink="false">2385</guid><pubDate>Mon, 05 Aug 2024 20:00:00 +0200</pubDate></item><item><title>Vulcania bikepacking tour</title><link>https://tcrouzet.com/2024/07/26/vulcania-bikepacking/</link><description><![CDATA[<p>Je vous partage <a href="">la trace et ses variantes</a>. Je me suis inspiré de <a href="https://www.la-gtmc.com/">la GTMC</a>, de <a href="https://727bikepacking.fr/p27/">mon P27</a>, de <a href="https://www.auvergne-destination.com/bouger/activites-plein-air/vtt-en-auvergne/">traces FFC</a>, du <a href="https://www.utagawavtt.com/randonnee-vtt-gps/Tour-des-Combrailles-Immersion-totale-22359">tour des Combrailles</a> et d’un GravelMan Auvergne 2022 ainsi que de nombreuses improvisations <a href="https://tcrouzet.com/2022/09/29/heatmap-le-tracage-social-pour-gravel-et-vtt/">grâce à la heatmap Strava</a>.</p>
 <p>Je ne vais pas vous raconter en détail le voyage (je compte garder ce récit pour le roman hybride auquel je travaille), mais vous le résumer avec des photos et quelques commentaires.</p>
 <h3>Vendredi 19 juillet</h3>
 <p>En fin de matinée, départ de Coltines, village au nord-ouest de Saint-Flour, en remontant la GTMC à rebrousse-poil, en direction d’Allanche et du magnifique <a href="https://www.issoire-tourisme.com/je-decouvre/un-pays-au-naturel/le-cezallier/">plateau du Cézallier</a>. Lors de <a href="https://tcrouzet.com/2021/07/26/la-gtmc-des-bijoux-a-travers-les-cailloux/">mon passage en 2021</a>, j’avais été subjugué par le <a href="https://www.sancy.com/fr/fiche/patrimoine-naturel/lac-et-puy-de-montcineyre-compains_TFO4637594/">lac de Montcineyre</a>. Jusqu’au lac, la trace est gravel, malgré les variantes introduites. Plutôt que descendre vers Besse, que j’ai aussi adoré, nous piquons par des chemins un poil VTT en direction de la station de Super Besse, où nous campons.</p>
@@ -250,14 +352,4 @@
 <div class="image" id="image-2381-4"><img alt="" class="alignnone size-full paysage" decoding="async" height="1200" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/06/2024-06-04-175326.webp" srcset="/images_tc/2024/06/2024-06-04-175326.webp 1600w, /images_tc/2024/06/2024-06-04-175326-1024.webp 1024w, /images_tc/2024/06/2024-06-04-175326-250.webp 250w" width="1600"/><div class="legend"></div></div>
 <div class="image" id="image-2381-5"><img alt="" class="alignnone size-full paysage" decoding="async" height="1200" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/06/2024-06-04-175334.webp" srcset="/images_tc/2024/06/2024-06-04-175334.webp 1600w, /images_tc/2024/06/2024-06-04-175334-1024.webp 1024w, /images_tc/2024/06/2024-06-04-175334-250.webp 250w" width="1600"/><div class="legend"></div></div>
 <div class="image" id="image-2381-6"><img alt="" class="alignnone size-full paysage" decoding="async" height="1200" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/06/2024-06-04-175424.webp" srcset="/images_tc/2024/06/2024-06-04-175424.webp 1600w, /images_tc/2024/06/2024-06-04-175424-1024.webp 1024w, /images_tc/2024/06/2024-06-04-175424-250.webp 250w" width="1600"/><div class="legend"></div></div>
-<div class="image" id="image-2381-7"><img alt="IGN" class="alignnone size-full paysage" decoding="async" height="1428" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/06/abeilles.webp" srcset="/images_tc/2024/06/abeilles.webp 1600w, /images_tc/2024/06/abeilles-1024.webp 1024w, /images_tc/2024/06/abeilles-250.webp 250w" width="2322"/><div class="legend">IGN</div></div>]]></description><guid isPermaLink="false">2381</guid><pubDate>Thu, 13 Jun 2024 13:00:00 +0200</pubDate></item><item><title>Jour 0, d’une nouvelle bipartition politique ?</title><link>https://tcrouzet.com/2024/06/10/face-aux-extremistes/</link><description><![CDATA[<p>La mémoire ? La culture ? La curiosité ? Des qualités qui manquent à nombre de mes contemporains, et même à la majorité des votants de mon village. Si j’étais diplomate, je les traiterais de brebis égarées, mais je ne suis pas diplomate. Je préfère les considérer comme de dangereux égoïstes qui ne voient pas plus loin que le bout de leur nez et croient qu’il existe des solutions miraculeuses à leurs problèmes. Leur naïveté politique ne les rend pas moins inconséquents. Je n’ai aucune envie de les brosser dans le sens du poil.</p>
-<p><a href="https://tcrouzet.com/books/101-raisons-de-ne-pas-voter/">Je n’ai jamais aimé la démocratie élective</a>, et je l’aime encore moins aujourd’hui. Je continue de croire que voter n’a aucune pertinence, la preuve : le vote a souvent mené au pouvoir des assassins et des psychopathes, toujours des ambitieux. Mais je vote désormais, parce que comme ma génération a été incapable de dépasser le vote, il ne nous reste plus que ça, et les mots avant les armes, pour faire barrage à l’ignominie.</p>
-<p>Attendre de personnages providentiels des solutions à des problèmes déjà mal posés revient à prier des divinités mystérieuses, aux pouvoirs incertains, et à leur faire confiance parce qu’elles brillent de mille discours charmeurs. La plupart des électeurs accordent moins d’importance à leur bulletin qu’à un billet de banque. Ils le donnent avec une confiance déroutante au premier venu, sans réellement réfléchir, avec une générosité qui d’habitude leur fait défaut. Ils jouent avec le bulletin parce qu’il ne leur coûte pas, oubliant que le coût a été payé par les générations passées. Ils le dilapident non sans perversion, oubliant que pour commencer ils se font mal à eux-mêmes.</p>
-<p>Ils votent pour les extrêmes, mais paradoxalement à cause d’une normalité intellectuelle confondante, cette normalité qui implique l’immobilisme, et fait que la société a du mal à se mouvoir dans un monde lui-même en bouleversement constant. Ils accusent leur propre immobilisme de tous leurs maux, et plutôt que se remettre en route, ils invoquent des solutions dépassées pour affronter des problèmes nouveaux, ce qui ne peut qu’entraîner des désastres.</p>
-<p>L’immobilisme est un mal politique. Le mal politique, parce que ce qui était bon hier ne peut plus l’être aujourd’hui. Regardez donc, tout change autour de nous : le climat, les technologies, l’économie, l’agriculture, le commerce… Vous voudriez rester tranquillement perché sur votre île et regarder le fleuve couler autour ? Vous pouvez toujours rêver, pendant que le fleuve ronge les berges de l’île avant de la balayer.</p>
-<p>Le changement ne se refuse pas, il s’embrasse au contraire, ce à quoi répugne même les politiciens les plus modérés, pour résultat d’imiter leurs plus honnis adversaires, et de ne faire que les renforcer. Quand on a peur du changement, on a la peur et le changement, et des changements souvent moins agréables que si on les avait accompagnés, voire anticipés.</p>
-<p>« Accepter de changer » devrait être le seul programme politique digne d’intérêt. Revenir à la vieille opposition progressistes contre conservateurs, bien que le mot « progressiste » ne vaille pas un clou. Il laisse croire qu’il y a toujours un progrès, alors que la seule chose sûre, c’est la subsistance d’un changement face auquel nous devons sans cesse nous adapter. Contre les « immobilistes » pourraient se lever les réformateurs, les entrepreneurs, les pionniers, les curieux, les amoureux, les informés, les fluides… J’ai du mal à trouver le mot pour les résumer, pour nous résumer. Expérimentateurs ! Oui, c’est mieux. Les immobilistes, sûrs de savoir ce qui est bon pour eux et le monde, face aux expérimentateurs, qui doutent, mais toujours prêts à essayer de nouvelles solutions pour s’adapter aux changements. Plutôt que débarquer au pouvoir avec une valise de mesurettes, ils inventeraient des myriades de solutions <em>ad hoc</em>.</p>
-<p>Les vieux clivages, et leur jeu de chaises musicales nous font tourner en rond depuis trop longtemps, tentant de faire croire à un mouvement qui se limite à une minuscule orbite autour d’un point infime. Vu de loin, il ne se passe rien, absolument rien. Tout est bloqué, et chaque tentative de réorientation soulève les immobilistes, de plus en plus effrayés, prêts à tout pour enrayer le système, jusqu’à ramener en son cœur les immobilistes les plus extrêmes.</p>
-<p>Pourtant, face à l’accélération du monde, il y a urgence à rassembler les expérimentateurs, à en faire une force réelle et non plus seulement fantasmagorique. Leur seul programme : expérimenter. Quand quelque chose marche mal, essayer d’autres choses, les comparer, les mettre en concurrence, choisir les meilleures, exactement comme les médecins le font avec les nouveaux traitements. Jusque là, les politiciens ont mis sur le marché des médicaments qui n’ont jamais été testés, ou qui au contraire ont déjà démontré leur inefficacité, voire leur malignité.</p>
-<p>L’expérimentation est une idéologie, bien sûr, impossible de faire de la politique, ou même de la penser, sans idéologie, mais elle repose sur la seule volonté d’aller de l’avant, en préservant la justice sociale, en faisant en sorte que les lendemains ne soient pas pires, en rêvant de rendre quelques coins du monde harmonieux.</p>
-<p>J’ai commencé à écrire ce texte dans mon journal, pour dire mon état d’esprit après l’élection la plus dévastatrice que j’ai vécue, et anticiper la prochaine qui risque d’être plus inquiétante encore. Mon texte s’est allongé, je pourrais presque en faire un traité politique, et je me suis dit autant le partager tout de suite, bien que je répugne à surfer sur la vague des mauvaises nouvelles. Mais peut-être qu’il y a urgence cette fois, alors que le climat déraille et que la guerre fait rage aux frontières de l’Europe. Nous avons besoin d’un changement radical. J’ai toutefois peur que les immobilistes aient le vent en poupe. Ils sont la plus mauvaise réaction à ce qui nous arrive. Ils sont une maladie auto-immune.</p>]]></description><guid isPermaLink="false">2380</guid><pubDate>Mon, 10 Jun 2024 12:00:00 +0200</pubDate></item></channel></rss>
+<div class="image" id="image-2381-7"><img alt="IGN" class="alignnone size-full paysage" decoding="async" height="1428" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/06/abeilles.webp" srcset="/images_tc/2024/06/abeilles.webp 1600w, /images_tc/2024/06/abeilles-1024.webp 1024w, /images_tc/2024/06/abeilles-250.webp 250w" width="2322"/><div class="legend">IGN</div></div>]]></description><guid isPermaLink="false">2381</guid><pubDate>Thu, 13 Jun 2024 13:00:00 +0200</pubDate></item></channel></rss>

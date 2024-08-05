@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2024/08/05/ecrire-avec-dust/index.html</loc>
+    <lastmod>2024-08-05T19:18:08+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/08/dust.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2024/07/26/vulcania-bikepacking/index.html</loc>
-    <lastmod>2024-07-26T13:49:44+02:00</lastmod>
+    <lastmod>2024-07-30T13:07:52+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/07/2024-07-20-121912.webp</image:loc>
     </image:image>
@@ -3562,7 +3569,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2016/04/08/carnet-de-route-mars-2016/index.html</loc>
-    <lastmod>2024-04-30T10:11:13+02:00</lastmod>
+    <lastmod>2024-08-04T14:40:26+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2016/04/train1.webp</image:loc>
     </image:image>
@@ -3716,7 +3723,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2016/03/01/carnet-de-route-fevrier-2016/index.html</loc>
-    <lastmod>2024-04-30T10:11:25+02:00</lastmod>
+    <lastmod>2024-08-04T08:28:13+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2016/03/mard2_2_749.webp</image:loc>
     </image:image>
@@ -3779,7 +3786,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2016/02/01/carnet-de-route-janvier-2016/index.html</loc>
-    <lastmod>2024-04-30T10:11:28+02:00</lastmod>
+    <lastmod>2024-08-03T20:30:12+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2016/02/IMG_4254.webp</image:loc>
     </image:image>
@@ -3856,7 +3863,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2016/01/02/carnet-de-route-decembre-2015/index.html</loc>
-    <lastmod>2024-04-30T10:11:02+02:00</lastmod>
+    <lastmod>2024-08-02T18:25:19+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2016/01/tignes.webp</image:loc>
     </image:image>
