@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2024/08/10/juillet-2024/index.html</loc>
+    <lastmod>2024-08-10T18:03:27+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/08/hockney.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2024/08/06/la-phrase-qui-tue/index.html</loc>
-    <lastmod>2024-08-06T19:18:01+02:00</lastmod>
+    <lastmod>2024-08-06T19:30:03+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/08/ptue.webp</image:loc>
     </image:image>
@@ -3464,14 +3471,14 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2016/06/23/carnet-de-route-mai-2016/index.html</loc>
-    <lastmod>2024-04-30T10:11:00+02:00</lastmod>
+    <lastmod>2024-08-10T16:44:56+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2016/06/tarassac.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/2016/05/01/carnet-de-route-avril-2016/index.html</loc>
-    <lastmod>2024-04-30T10:11:31+02:00</lastmod>
+    <lastmod>2024-08-08T12:00:44+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2016/05/horses.webp</image:loc>
     </image:image>
