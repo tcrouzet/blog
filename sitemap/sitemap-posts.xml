@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2024/08/16/jeu-de-rôle-coincidence/index.html</loc>
+    <lastmod>2024-08-16T13:11:13+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/08/dragon-jdr.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2024/08/10/juillet-2024/index.html</loc>
-    <lastmod>2024-08-10T18:03:27+02:00</lastmod>
+    <lastmod>2024-08-11T08:26:42+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/08/hockney.webp</image:loc>
     </image:image>
@@ -2690,7 +2697,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2018/06/17/lire-jouer-ecrire-avec-lovecraft/index.html</loc>
-    <lastmod>2024-04-30T10:10:16+02:00</lastmod>
+    <lastmod>2024-08-16T12:26:06+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2018/06/cazac.webp</image:loc>
     </image:image>
@@ -3464,7 +3471,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2016/07/23/carnet-de-route-juin-2016/index.html</loc>
-    <lastmod>2024-04-30T10:10:59+02:00</lastmod>
+    <lastmod>2024-08-11T09:33:44+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2016/07/agios2-1.webp</image:loc>
     </image:image>
@@ -6962,14 +6969,14 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2013/01/27/les-saisons-de-la-creation/index.html</loc>
-    <lastmod>2024-04-30T08:24:30+02:00</lastmod>
+    <lastmod>2024-08-16T12:07:24+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2013/01/jet18.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/2013/01/26/jeu-de-role-et-blog-deux-histoires-collectives/index.html</loc>
-    <lastmod>2024-05-01T09:32:55+02:00</lastmod>
+    <lastmod>2024-08-16T12:26:46+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2013/01/jets.webp</image:loc>
     </image:image>
