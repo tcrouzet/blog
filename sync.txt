@@ -1,17 +1,20 @@
-Completed 20.3 KiB/~136.3 KiB (36.6 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/2024/09/04/monster-gravel/index.html to s3://tcrouzet.com/2024/09/04/monster-gravel/index.html
-Completed 20.3 KiB/~136.3 KiB (36.6 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 62.9 KiB/~136.3 KiB (59.5 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml              
-Completed 62.9 KiB/~136.3 KiB (59.5 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 120.4 KiB/~136.3 KiB (103.8 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 120.4 KiB/~136.3 KiB (103.8 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 136.3 KiB/~136.3 KiB (69.2 KiB/s) with ~1 file(s) remaining (calculating...) 
+Completed 16.1 KiB/~137.0 KiB (51.1 KiB/s) with ~4 file(s) remaining (calculating...)
 upload: ../../static/2024/09/04/monster-gravel/content.html to s3://tcrouzet.com/2024/09/04/monster-gravel/content.html
-Completed 136.3 KiB/~136.3 KiB (69.2 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 136.6 KiB/138.2 KiB (12.0 KiB/s) with 2 file(s) remaining                   
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                         
-Completed 136.6 KiB/138.2 KiB (12.0 KiB/s) with 1 file(s) remaining
-Completed 138.2 KiB/138.2 KiB (11.8 KiB/s) with 1 file(s) remaining
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
+Completed 16.1 KiB/~137.0 KiB (51.1 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 36.6 KiB/~137.0 KiB (88.2 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/2024/09/04/monster-gravel/index.html to s3://tcrouzet.com/2024/09/04/monster-gravel/index.html
+Completed 36.6 KiB/~137.0 KiB (88.2 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 79.2 KiB/~137.0 KiB (164.5 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml               
+Completed 79.2 KiB/~137.0 KiB (164.5 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 137.0 KiB/~137.0 KiB (264.9 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
+Completed 137.0 KiB/~137.0 KiB (264.9 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 138.4 KiB/138.9 KiB (13.0 KiB/s) with 3 file(s) remaining                    
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                            
+Completed 138.4 KiB/138.9 KiB (13.0 KiB/s) with 2 file(s) remaining
+Completed 138.7 KiB/138.9 KiB (13.0 KiB/s) with 2 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
+Completed 138.7 KiB/138.9 KiB (13.0 KiB/s) with 1 file(s) remaining
+Completed 138.9 KiB/138.9 KiB (12.9 KiB/s) with 1 file(s) remaining
+upload: ../../static/update.json to s3://tcrouzet.com/update.json  
