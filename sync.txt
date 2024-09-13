@@ -1,20 +1,17 @@
-Completed 12.8 KiB/~115.9 KiB (107.8 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/2024/09/10/visugpx-horsligne/index.html to s3://tcrouzet.com/2024/09/10/visugpx-horsligne/index.html
-Completed 12.8 KiB/~115.9 KiB (107.8 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 21.2 KiB/~115.9 KiB (83.8 KiB/s) with ~3 file(s) remaining (calculating...) 
+Completed 8.5 KiB/~116.2 KiB (87.1 KiB/s) with ~4 file(s) remaining (calculating...)
 upload: ../../static/2024/09/10/visugpx-horsligne/content.html to s3://tcrouzet.com/2024/09/10/visugpx-horsligne/content.html
-Completed 21.2 KiB/~115.9 KiB (83.8 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 73.3 KiB/~115.9 KiB (164.1 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml               
-Completed 73.3 KiB/~115.9 KiB (164.1 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 115.9 KiB/~115.9 KiB (259.2 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
-Completed 115.9 KiB/~115.9 KiB (259.2 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 116.2 KiB/118.3 KiB (18.4 KiB/s) with 3 file(s) remaining                    
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                          
-Completed 116.2 KiB/118.3 KiB (18.4 KiB/s) with 2 file(s) remaining
-Completed 118.1 KiB/118.3 KiB (18.7 KiB/s) with 2 file(s) remaining
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
-Completed 118.1 KiB/118.3 KiB (18.7 KiB/s) with 1 file(s) remaining
-Completed 118.3 KiB/118.3 KiB (16.8 KiB/s) with 1 file(s) remaining
-upload: ../../static/update.json to s3://tcrouzet.com/update.json  
+Completed 8.5 KiB/~116.2 KiB (87.1 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 21.4 KiB/~116.2 KiB (74.7 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/2024/09/10/visugpx-horsligne/index.html to s3://tcrouzet.com/2024/09/10/visugpx-horsligne/index.html
+Completed 21.4 KiB/~116.2 KiB (74.7 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 64.0 KiB/~116.2 KiB (191.3 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml               
+Completed 64.0 KiB/~116.2 KiB (191.3 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 116.2 KiB/~116.2 KiB (309.6 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
+Completed 116.2 KiB/~116.2 KiB (309.6 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 117.9 KiB/118.2 KiB (20.1 KiB/s) with 2 file(s) remaining                    
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                            
+Completed 117.9 KiB/118.2 KiB (20.1 KiB/s) with 1 file(s) remaining
+Completed 118.2 KiB/118.2 KiB (20.2 KiB/s) with 1 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
