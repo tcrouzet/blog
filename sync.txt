@@ -1,0 +1,90 @@
+Completed 6.7 KiB/~489.9 KiB (32.0 KiB/s) with ~8 file(s) remaining (calculating...)
+upload: ../../static/2024/09/10/visugpx-horsligne/content.html to s3://tcrouzet.com/2024/09/10/visugpx-horsligne/content.html
+Completed 6.7 KiB/~489.9 KiB (32.0 KiB/s) with ~7 file(s) remaining (calculating...)
+Completed 17.1 KiB/~489.9 KiB (42.2 KiB/s) with ~7 file(s) remaining (calculating...)
+upload: ../../static/2024/contener2.html to s3://tcrouzet.com/2024/contener2.html    
+Completed 17.1 KiB/~489.9 KiB (42.2 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 28.2 KiB/~489.9 KiB (54.6 KiB/s) with ~6 file(s) remaining (calculating...)
+upload: ../../static/2024/09/10/visugpx-horsligne/index.html to s3://tcrouzet.com/2024/09/10/visugpx-horsligne/index.html
+Completed 28.2 KiB/~489.9 KiB (54.6 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 57.6 KiB/~489.9 KiB (105.5 KiB/s) with ~5 file(s) remaining (calculating...)
+upload: ../../static/2024/index.html to s3://tcrouzet.com/2024/index.html             
+Completed 57.6 KiB/~489.9 KiB (105.5 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 107.8 KiB/~489.9 KiB (156.1 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
+Completed 107.8 KiB/~489.9 KiB (156.1 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 150.4 KiB/~489.9 KiB (198.3 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
+Completed 150.4 KiB/~489.9 KiB (198.3 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 254.5 KiB/~489.9 KiB (253.7 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/feeds/borntobike.xml to s3://tcrouzet.com/feeds/borntobike.xml    
+Completed 254.5 KiB/~489.9 KiB (253.7 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 489.9 KiB/~489.9 KiB (268.4 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/archives/index.html to s3://tcrouzet.com/archives/index.html      
+Completed 489.9 KiB/~489.9 KiB (268.4 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 499.7 KiB/2.3 MiB (52.4 KiB/s) with 21 file(s) remaining                     
+upload: ../../static/images_tc/2024/09/g727-250.webp to s3://tcrouzet.com/images_tc/2024/09/g727-250.webp
+Completed 499.7 KiB/2.3 MiB (52.4 KiB/s) with 20 file(s) remaining
+Completed 500.8 KiB/2.3 MiB (52.4 KiB/s) with 20 file(s) remaining
+upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
+Completed 500.8 KiB/2.3 MiB (52.4 KiB/s) with 19 file(s) remaining
+Completed 507.1 KiB/2.3 MiB (52.5 KiB/s) with 19 file(s) remaining
+upload: ../../static/index.html to s3://tcrouzet.com/index.html   
+Completed 507.1 KiB/2.3 MiB (52.5 KiB/s) with 18 file(s) remaining
+Completed 524.1 KiB/2.3 MiB (54.2 KiB/s) with 18 file(s) remaining
+upload: ../../static/images_tc/2024/09/2024-08-19-155959-Castanet-le-Haut-250.webp to s3://tcrouzet.com/images_tc/2024/09/2024-08-19-155959-Castanet-le-Haut-250.webp
+Completed 524.1 KiB/2.3 MiB (54.2 KiB/s) with 17 file(s) remaining
+Completed 529.5 KiB/2.3 MiB (54.5 KiB/s) with 17 file(s) remaining
+upload: ../../static/sitemap/sitemap-years.xml to s3://tcrouzet.com/sitemap/sitemap-years.xml
+Completed 529.5 KiB/2.3 MiB (54.5 KiB/s) with 16 file(s) remaining
+Completed 552.5 KiB/2.3 MiB (56.7 KiB/s) with 16 file(s) remaining
+upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
+Completed 552.5 KiB/2.3 MiB (56.7 KiB/s) with 15 file(s) remaining
+Completed 808.5 KiB/2.3 MiB (83.0 KiB/s) with 15 file(s) remaining
+Completed 809.2 KiB/2.3 MiB (82.6 KiB/s) with 15 file(s) remaining
+upload: ../../static/sitemap/sitemap.xml to s3://tcrouzet.com/sitemap/sitemap.xml
+Completed 809.2 KiB/2.3 MiB (82.6 KiB/s) with 14 file(s) remaining
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt       
+Completed 809.2 KiB/2.3 MiB (82.6 KiB/s) with 13 file(s) remaining
+Completed 809.2 KiB/2.3 MiB (82.5 KiB/s) with 13 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json     
+Completed 809.2 KiB/2.3 MiB (82.5 KiB/s) with 12 file(s) remaining
+Completed 836.8 KiB/2.3 MiB (84.3 KiB/s) with 12 file(s) remaining
+upload: ../../static/tag/bikepacking/index.html to s3://tcrouzet.com/tag/bikepacking/index.html
+Completed 836.8 KiB/2.3 MiB (84.3 KiB/s) with 11 file(s) remaining
+Completed 861.4 KiB/2.3 MiB (86.1 KiB/s) with 11 file(s) remaining
+upload: ../../static/tag/borntobike/contener4.html to s3://tcrouzet.com/tag/borntobike/contener4.html
+Completed 861.4 KiB/2.3 MiB (86.1 KiB/s) with 10 file(s) remaining
+Completed 886.0 KiB/2.3 MiB (88.4 KiB/s) with 10 file(s) remaining
+upload: ../../static/tag/borntobike/contener2.html to s3://tcrouzet.com/tag/borntobike/contener2.html
+Completed 886.0 KiB/2.3 MiB (88.4 KiB/s) with 9 file(s) remaining
+Completed 911.0 KiB/2.3 MiB (90.7 KiB/s) with 9 file(s) remaining
+upload: ../../static/tag/borntobike/contener3.html to s3://tcrouzet.com/tag/borntobike/contener3.html
+Completed 911.0 KiB/2.3 MiB (90.7 KiB/s) with 8 file(s) remaining
+Completed 940.5 KiB/2.3 MiB (93.5 KiB/s) with 8 file(s) remaining
+upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
+Completed 940.5 KiB/2.3 MiB (93.5 KiB/s) with 7 file(s) remaining
+Completed 942.8 KiB/2.3 MiB (93.5 KiB/s) with 7 file(s) remaining
+upload: ../../static/tag/borntobike/contener5.html to s3://tcrouzet.com/tag/borntobike/contener5.html
+Completed 942.8 KiB/2.3 MiB (93.5 KiB/s) with 6 file(s) remaining
+Completed 970.9 KiB/2.3 MiB (95.1 KiB/s) with 6 file(s) remaining
+upload: ../../static/tag/borntobike/index.html to s3://tcrouzet.com/tag/borntobike/index.html
+Completed 970.9 KiB/2.3 MiB (95.1 KiB/s) with 5 file(s) remaining
+Completed 1.2 MiB/2.3 MiB (117.8 KiB/s) with 5 file(s) remaining 
+Completed 1.3 MiB/2.3 MiB (124.8 KiB/s) with 5 file(s) remaining 
+upload: ../../static/images_tc/2024/09/g727-1024.webp to s3://tcrouzet.com/images_tc/2024/09/g727-1024.webp
+Completed 1.3 MiB/2.3 MiB (124.8 KiB/s) with 4 file(s) remaining
+Completed 1.5 MiB/2.3 MiB (147.2 KiB/s) with 4 file(s) remaining
+Completed 1.8 MiB/2.3 MiB (166.5 KiB/s) with 4 file(s) remaining
+Completed 1.9 MiB/2.3 MiB (178.6 KiB/s) with 4 file(s) remaining
+upload: ../../static/images_tc/2024/09/g727.webp to s3://tcrouzet.com/images_tc/2024/09/g727.webp
+Completed 1.9 MiB/2.3 MiB (178.6 KiB/s) with 3 file(s) remaining
+Completed 1.9 MiB/2.3 MiB (175.5 KiB/s) with 3 file(s) remaining
+upload: ../../static/images_tc/2024/09/2024-08-19-155959-Castanet-le-Haut-1024.webp to s3://tcrouzet.com/images_tc/2024/09/2024-08-19-155959-Castanet-le-Haut-1024.webp
+Completed 1.9 MiB/2.3 MiB (175.5 KiB/s) with 2 file(s) remaining
+Completed 2.2 MiB/2.3 MiB (177.2 KiB/s) with 2 file(s) remaining
+Completed 2.2 MiB/2.3 MiB (164.3 KiB/s) with 2 file(s) remaining
+upload: ../../static/sitemap/sitemap-posts.xml to s3://tcrouzet.com/sitemap/sitemap-posts.xml
+Completed 2.2 MiB/2.3 MiB (164.3 KiB/s) with 1 file(s) remaining
+Completed 2.3 MiB/2.3 MiB (164.2 KiB/s) with 1 file(s) remaining
+upload: ../../static/images_tc/2024/09/2024-08-19-155959-Castanet-le-Haut.webp to s3://tcrouzet.com/images_tc/2024/09/2024-08-19-155959-Castanet-le-Haut.webp
