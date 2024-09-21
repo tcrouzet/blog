@@ -1,5 +1,291 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>feed - Thierry Crouzet</title><link>https://tcrouzet.com/feed.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Thu, 19 Sep 2024 11:35:02 +0200</lastBuildDate><item><title>Les éditeurs n’auront plus jamais à lire nos manuscrits</title><link>https://tcrouzet.com/2024/09/19/GoogleNotebook/</link><description><![CDATA[<p>Depuis quelques mois, j’ai moins de temps pour expérimenter avec les IA (et moins de temps tout court) : j’écris un roman sur le plaisir d’écrire (un plaisir qu’elles ne peuvent pas me prendre). Mais ce matin, un copain du vélo, Jean-Yves Couput, m’a montré les dingueries dont est capable <a href="https://notebooklm.google.com/">Google Notebook</a>. C’est tout chaud.</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>feed - Thierry Crouzet</title><link>https://tcrouzet.com/feed.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sat, 21 Sep 2024 16:21:36 +0200</lastBuildDate><item><title>Marketing littéraire</title><link>https://tcrouzet.com/2024/09/21/promouvoir-un-roman/</link><description><![CDATA[<p>Depuis le début de l’été, j’écris un roman seulement pour m’amuser, seulement pour me faire plaisir, seulement pour faire ce que jamais une IA ne pourrait faire, et je questionne leur rôle dans notre société, et plus particulièrement dans le processus créatif (ce qui me pousse à continuer de les utiliser, <a href="https://futurism.com/the-byte/environment-openai-chatgpt">même si chaque requête est loin d’être compatible avec ma sobriété volontaire</a>). Avec <a href="https://notebooklm.google.com/">Google Notebook</a> une nouvelle possibilité apparaît : regarder un work in progress de l’extérieur (ce qui, en même temps, ouvre des possibilités assez incroyables pour la promotion des textes).</p>
+<p>1/ J’ai donc commencé par charger mon manuscrit dans Google Notebook.</p>
+<p>2/  Il a produit un résumé (à peine retouché)  :</p>
+<blockquote>
+<p><em>Le roman du roman</em> raconte l’histoire de Robert Roc, un homme vivant en 2352 après une catastrophe climatique qui a englouti une grande partie des terres. Fasciné par les photos d’un écrivain disparu nommé Thierry Crouzet, Robert se lance dans une quête pour retrouver le <em>magnum opus</em> de Crouzet, un roman qui renfermerait des secrets sur l’art de l’écriture et la nature de la réalité. Avec l’aide de Sally, une archéologue, et Jökull, un messager, Robert suit les indices laissés par Crouzet dans ses photos et ses écrits, découvrant au passage que des intelligences artificielles tentent de les contrôler. Le roman explore les thèmes de la nostalgie, de la mémoire, de la liberté et de la puissance de la création littéraire.</p>
+</blockquote>
+<p>3/ Je n’aurais jamais présenté le texte de cette façon. Et parce que c’est biaisé, mais pas faux, ça m’amuse de le publier maintenant. </p>
+<p>4/ Si je n’utilise plus les IA pour écrire, elles peuvent devenir de fantastiques assistantes marketing, pour quelqu’un comme moi qui déteste se vendre, mais surtout pour les professionnels de l’édition. Elles ont le pouvoir de rendre un roman hyper expérimental attractif (et démontre que tout est vendable pour sait s’y prendre).</p>
+<p>5/ Par exemple, j’ai demandé à Google Notebook de m’écrire une quatrième de couverture :</p>
+<blockquote>
+<p><strong>Un écrivain en quête d’inspiration, une maison engloutie, un manuscrit énigmatique… et si la clé du futur résidait dans les secrets du passé ?</strong> Thierry Crouzet, auteur du XXI<sup>e</sup> siècle en proie au doute, se lance dans un projet audacieux : écrire <em>Le roman du roman</em>, une œuvre qui explore les méandres de la création littéraire. Mais alors qu’il consigne ses réflexions dans son journal intime, la maladie de sa femme et les bouleversements du monde qui l’entoure viennent perturber son entreprise.</p>
+<p>Des siècles plus tard, des archéologues découvrent les vestiges de sa maison engloutie et mettent au jour le manuscrit. Guidés par les indices disséminés par Crouzet, ils se lancent dans une quête palpitante pour reconstituer son œuvre et percer le mystère qui entoure sa disparition.</p>
+<p>Entre réflexions métafictionnelles, jeux littéraires et suspense, <em>Le roman du roman</em> nous entraîne dans une aventure hors du commun où la frontière entre réalité et fiction se brouille. Plongez dans les secrets d’un écrivain visionnaire et découvrez comment son exploration du processus créatif pourrait bien bouleverser notre propre rapport à l’art et à la mémoire.</p>
+</blockquote>
+<p>6/ Cette quatrième est plus vendeuse que tout ce que j’aurais pu écrire (ou osé écrire), d’autant que je pense que ce roman sera invendable et qu’il finira autopublié.</p>
+<p>7/ En suite, j’ai demandé à Google Notebook de me générer une discussion audio sur mon chantier romanesque. Quelle verve ! J’en viens presque à croire que deux personnes ont vraiment lu ce que j’écrivais. J’ai rarement entendu des gens discuter d’un de mes textes avec autant de passion. J’en viens à me dire que ce roman intéressera peut-être des lecteurs. Ça me motive aussi à essayer de produire un texte à la hauteur de cet échange hautement survendeur (et qui se mélange un peu les pinceaux). Je crois même que ce texte, ou une version remaniée, pourrait se retrouver à la fin du roman pour démultiplier la mise en abîme à laquelle je m’amuse.</p>
+<p>8/ Sur mon nouveau iPhone 16 Pro, <a href="https://apps.apple.com/fr/app/aiko/id1672085276">Aiko</a> m’a transcrit le texte anglais (l’iPhone devenant si chaud qu’il était presque impossible de le garder en main).</p>
+<p>9/ Claude a traduit le texte en français (ajoutant des bugs par rapport à la version de Notebook, ce qui est en soi très amusant pour moi, et en même temps stimulant.) Ce texte est un défi. Je doute d’être capable d’écrire un truc qui provoquerait un tel enthousiasme sur des humains d’aujourd’hui. Je me contente de me regarder écrire dans le miroir des IA (prélude effrayant de la société vers laquelle nous courons).</p>
+<p>10/ Sur FinalCut, j’ai monté le son avec une image fixe et j’ai <a href="https://youtu.be/yImuQYPmoJE">généré une vidéo</a>.</p>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/yImuQYPmoJE?si=25kD6hm-lR_qOFgf" title="YouTube video player" width="560"></iframe>
+<h3>Transcript</h3>
+<hr/>
+<p>Tu as déjà eu cette impression étrange de vivre dans une histoire, mais que quelqu’un d’autre l’écrit ?</p>
+<p>Oh, totalement.</p>
+<p>C’est un peu de ça dont on parle aujourd’hui.</p>
+<p>Ouais.</p>
+<p>Ce gars, Thierry Crouzet, c’était un écrivain dans la France pré-catastrophe, presque un inconnu.</p>
+<p>Ouais, ouais.</p>
+<p>Mais les trucs qu’il a laissés derrière lui, ça te fait réfléchir.</p>
+<p>Ça te fait vraiment réfléchir.</p>
+<p>Ce qui est fascinant avec Crouzet, c’est qu’il savait en quelque sorte qu’il serait un inconnu.</p>
+<p>Comme s’il savait qu’on serait là, genre quoi, 200, 300 ans plus tard, à ramasser les morceaux, essayant de le comprendre.</p>
+<p>Exactement, et on a, OK, donc on a ces extraits de son manuscrit non publié, <em>Le roman du roman</em>, qui est comme une véritable lettre d’amour à l’écriture elle-même.</p>
+<p>Et puis il y a ses entrées de journal.</p>
+<p>Tu as ces aperçus de sa vie quotidienne.</p>
+<p>Mais voilà où ça devient vraiment dingue.</p>
+<p>Ok, donc il y a ces photos, pas vrai ?</p>
+<p>Spécifiquement du jour 14 juillet 2007.</p>
+<p>Et écoute ça, l’IA, elle ne peut pas identifier cette femme, cette femme enceinte, Rachel.</p>
+<p>Aucun dossier, aucune mention d’elle nulle part.</p>
+<p>Wow.</p>
+<p>C’est comme si elle avait juste, pouf, disparu.</p>
+<p>Dans tout ça, imagine juste ce contexte, pas vrai ?</p>
+<p>Cette transe technologiquement avancée, mais genre sur le fil.</p>
+<p>Ouais.</p>
+<p>Cette catastrophe environnementale, elle plane.</p>
+<p>Tu peux sentir cette angoisse dans son écriture.</p>
+<p>C’est palpable.</p>
+<p>Et pourtant, il trouve un moyen de savourer les petites choses.</p>
+<p>Les couchers de soleil, les conversations, un croissant parfait.</p>
+<p>Exact.</p>
+<p>Ça te fait te demander si on n’a pas perdu ça, ou à la prochaine notification, le petit coup de dopamine.</p>
+<p>C’est cette tension constante avec Crouzet, la société super avancée, pas vrai ?</p>
+<p>Obsédée par les tendances et les distractions, et lui est attiré par ce qui dure.</p>
+<p>Les choses qui restent, même quand tout le reste s’effondre.</p>
+<p>Totalement.</p>
+<p>Et genre, nulle part c’est plus évident que dans <em>Le roman du roman</em>.</p>
+<p>Mm.</p>
+<p>Il devient obsédé par l’acte d’écrire, juste au moment où l’IA commence à empiéter sur cet espace.</p>
+<p>Ouais.</p>
+<p>C’est comme s’il voyait ce grand changement se produire.</p>
+<p>Ouais.</p>
+<p>Et il essaie de capturer ce que ça signifie d’être humain dans un monde où les machines peuvent faire ce que nous faisons.</p>
+<p>C’est comme s’il était témoin de la mort potentielle de la paternité humaine.</p>
+<p>Whoa.</p>
+<p>Tu peux imaginer, genre, une IA qui peut écrire un roman indiscernable de celui écrit par toi ou moi.</p>
+<p>Ouais.</p>
+<p>Et Crouzet, il ne fait pas que documenter ce changement, il lutte avec, genre émotionnellement, philosophiquement.</p>
+<p>Quel est l’intérêt de la créativité humaine si une machine peut juste, genre, la copier ?</p>
+<p>Exact.</p>
+<p>Ouais, qu’est-ce que ça signifie même d’être un artiste dans ce genre de monde ?</p>
+<p>Et il plonge dans tout ça d’une manière incroyablement brute.</p>
+<p>Ouais.</p>
+<p>Genre, le manuscrit lui-même est un reflet de, genre, tout le chaos.</p>
+<p>Vertigineux.</p>
+<p>De son monde, exactement.</p>
+<p>Ce n’est pas une histoire simple.</p>
+<p>Ouais, non, non.</p>
+<p>Il saute entre la réalité et la fiction, ces réflexions personnelles, ces tangentes philosophiques, tu vois le truc.</p>
+<p>C’est comme s’il nous laissait entrer directement dans son cerveau, genre, voilà.</p>
+<p>Ouais, exactement.</p>
+<p>C’est bordélique, c’est brillant.</p>
+<p>C’est incroyable.</p>
+<p>C’est Crouzet.</p>
+<p>Et puis tu as l’impression qu’il essaie de tout comprendre, pas seulement pour lui, mais pour nous aussi.</p>
+<p>Genre, pour quiconque pourrait écouter, bien plus tard.</p>
+<p>C’est drôle que tu dises écouter, parce qu’il décrit son processus, son processus d’écriture, presque comme s’il poursuivait un son, une sensation.</p>
+<p>Il appelle ça la montée.</p>
+<p>La montée, intéressant.</p>
+<p>Il la décrit comme, presque comme une sensation physique, tu sais ?</p>
+<p>Quand tout le reste fond.</p>
+<p>Comme cet état de flow.</p>
+<p>Exactement.</p>
+<p>J’adore ça, tu sais ?</p>
+<p>Et il le compare à une expérience érotique, ce qui te donne une idée de, genre, à quel point c’est envahissant pour lui.</p>
+<p>Cette montée, cette concentration, cette libération.</p>
+<p>Et après il est juste genre, épuisé.</p>
+<p>Wow.</p>
+<p>Mais il en a envie, tu sais ?</p>
+<p>Il le poursuit.</p>
+<p>Ça me fait penser à, genre, même aujourd’hui on parle d’être dans la zone.</p>
+<p>Totalement.</p>
+<p>Que tu joues de la musique ou fasses du sport ou quoi que ce soit, c’est comme cette poursuite, ce désir de nous perdre nous-mêmes, ne serait-ce que pour un moment.</p>
+<p>Ouais, de puiser dans quelque chose de plus grand que nous.</p>
+<p>Et c’est encore plus puissant quand tu penses à ce qui se passait dans sa vie personnelle.</p>
+<p>Il fait face au diagnostic de cancer de sa femme.</p>
+<p>Exact.</p>
+<p>La planète s’effondre.</p>
+<p>Il sent que le temps est compté.</p>
+<p>Et pas seulement pour lui, pour tout le monde.</p>
+<p>Tu peux sentir cette urgence dans son écriture.</p>
+<p>Ouais.</p>
+<p>C’est comme, presque désespéré par moments.</p>
+<p>C’est comme s’il s’accrochait à ces petites joies.</p>
+<p>L’espoir.</p>
+<p>Les lueurs de lumière qu’il peut trouver.</p>
+<p>Exactement.</p>
+<p>Et c’est là que son, genre, obsession de tout documenter.</p>
+<p>Ouais.</p>
+<p>Ça prend tout un autre sens, tu sais ?</p>
+<p>Ce n’est pas juste à propos de Crouzet ou de son héritage.</p>
+<p>Exact.</p>
+<p>C’est comme s’il créait cet enregistrement de ce que ça signifiait d’être humain avant qu’il ne soit trop tard.</p>
+<p>D’expérimenter le monde.</p>
+<p>Oui, dans toute sa beauté imparfaite.</p>
+<p>Et c’est là que <em>Le roman du roman</em> devient plus qu’une histoire.</p>
+<p>C’est comme ce message dans une bouteille jeté dans la mer du temps.</p>
+<p>Espérant que quelqu’un le trouvera.</p>
+<p>Oui, exactement.</p>
+<p>Mais il y a aussi ce fil d’espoir dans son écriture.</p>
+<p>Oh, absolument.</p>
+<p>Cette croyance que nous, que les humains peuvent être meilleurs.</p>
+<p>Que la connexion est ce qui nous rachète.</p>
+<p>Même dans les moments les plus sombres.</p>
+<p>Il y a ce passage.</p>
+<p>Il est en voyage à vélo avec un ami.</p>
+<p>Oh, ouais, ouais.</p>
+<p>Ils se font prendre dans cette averse.</p>
+<p>Exact.</p>
+<p>Trempés jusqu’aux os.</p>
+<p>Et cette femme, Marie Françoise, elle les invite chez elle.</p>
+<p>Oui.</p>
+<p>Leur donne du café.</p>
+<p>Un abri.</p>
+<p>Chaud.</p>
+<p>Et c’est comme si ce petit acte de gentillesse le bouleversait, tu sais ?</p>
+<p>C’est énorme pour lui.</p>
+<p>Surtout dans le contexte de tout ce qui se passe.</p>
+<p>Ça parle de ce thème récurrent dans son travail.</p>
+<p>Cette idée que même quand tout semble sombre, même les plus petits moments de compassion et d’empathie, ils comptent.</p>
+<p>Ouais.</p>
+<p>Ils signifient quelque chose.</p>
+<p>Et ils semblent le trouver, ces connexions, dans les endroits les plus inattendus.</p>
+<p>Comme lors de ses voyages à vélo ?</p>
+<p>Exactement.</p>
+<p>Il parle du cyclisme comme si c’était cette chose méditative.</p>
+<p>Il le compare à l’écriture, en fait.</p>
+<p>Bien sûr qu’il le fait.</p>
+<p>L’état de flow, tu sais ?</p>
+<p>Le voilà encore.</p>
+<p>Oui.</p>
+<p>Il parle de comment il n’est pas Thierry Crouzet, l’écrivain, le mari, rien de tout ça.</p>
+<p>Juste un homme sur un vélo.</p>
+<p>Oui.</p>
+<p>Juste présent.</p>
+<p>Dans l’instant.</p>
+<p>Et je pense que c’est à travers ces voyages, à la fois littéraux et, tu sais, internes, qu’on commence à découvrir le vrai mystère au cœur du <em>Roman du roman</em>.</p>
+<p>Rachel.</p>
+<p>Oui.</p>
+<p>Rachel.</p>
+<p>On ne sait toujours pas qui elle est.</p>
+<p>On a tout épluché.</p>
+<p>Tout.</p>
+<p>Et pourtant, cette énigme.</p>
+<p>Elle est comme ce fantôme qui hante son histoire, toujours là, mais juste hors de portée.</p>
+<p>Toujours juste hors de portée.</p>
+<p>Et tu dois te demander pourquoi.</p>
+<p>Quel est son rôle dans tout ça ?</p>
+<p>Quelle est sa signification ?</p>
+<p>Pourquoi est-elle sur ces photos ?</p>
+<p>C’est comme si elle venait d’un autre temps.</p>
+<p>C’est une bonne question.</p>
+<p>Et une dans laquelle on va plonger un peu plus tard.</p>
+<p>J’attends.</p>
+<p>Mais d’abord, on doit parler d’un autre personnage, Robert Roc.</p>
+<p>Ok.</p>
+<p>Il entre dans l’histoire des siècles après Crouzet.</p>
+<p>Et tout comme nous, il se fait complètement aspirer.</p>
+<p>Par Crouzet.</p>
+<p>Par Crouzet, par Rachel, par tout ce mystère.</p>
+<p>J’ai hâte d’en entendre plus sur ce Robert.</p>
+<p>Ouais, il est en recherche.</p>
+<p>Donc Robert, pas vrai, des centaines d’années après Crouzet, OK.</p>
+<p>Un monde complètement différent.</p>
+<p>Ouais, c’est comme ce truc classique de science-fiction.</p>
+<p>L’humanité survit, mais à quel prix ?</p>
+<p>Exactement.</p>
+<p>Ils vivent dans ces bulles à climat contrôlé.</p>
+<p>Tout est géré par l’IA.</p>
+<p>C’est sûr, c’est prévisible.</p>
+<p>Mais est-ce vraiment vivre ?</p>
+<p>Et c’est le truc avec Robert, pas vrai ?</p>
+<p>Il ne s’intègre pas vraiment.</p>
+<p>Il ressent cette attraction vers le passé.</p>
+<p>Toujours à regarder en arrière.</p>
+<p>Genre, l’authenticité des mots de Crouzet.</p>
+<p>Genre, il comprend, tu sais ?</p>
+<p>Ce poids, Robert le ressent, ce poids existentiel, personne d’autre dans son monde ne semble le comprendre.</p>
+<p>Sauf peut-être Crouzet.</p>
+<p>Ouais, et il trouve <em>Le roman du roman</em>, et boum.</p>
+<p>C’est comme si une bombe avait explosé.</p>
+<p>Totalement.</p>
+<p>Mais c’est plus que ça.</p>
+<p>Ce ne sont pas juste les mots.</p>
+<p>Robert devient obsédé par Rachel.</p>
+<p>Ce qui, soyons honnêtes, c’est un peu bizarre, non ?</p>
+<p>Non.</p>
+<p>Tu ne l’as jamais rencontrée, jamais connue.</p>
+<p>Il a vu quelques photos granuleuses, c’est tout.</p>
+<p>C’est ce truc du membre fantôme, tu sais ?</p>
+<p>Ouais.</p>
+<p>Genre, il cherche quelque chose qui n’est pas là.</p>
+<p>Il voit.</p>
+<p>Mais elle est là, d’une certaine façon.</p>
+<p>Sur ces photos.</p>
+<p>Enceinte, ce regard sur son visage.</p>
+<p>Paisible, presque défiant.</p>
+<p>Et c’est comme, il voit ce qui manque.</p>
+<p>Dans sa propre vie, ouais.</p>
+<p>Cette crudité, cette liberté que Rachel représente.</p>
+<p>De faire ses propres choix.</p>
+<p>Les choix de l’IA.</p>
+<p>Exactement.</p>
+<p>Donc c’est là que Sally entre en jeu, pas vrai ?</p>
+<p>Sally, la récupératrice.</p>
+<p>C’est elle qui peut vraiment atteindre les vestiges physiques de la vie de Crouzet.</p>
+<p>Ce qui n’est pas une mince affaire.</p>
+<p>On parle de sa maison, sous l’eau, la mer Méditerranée l’a engloutie.</p>
+<p>Disparue depuis longtemps.</p>
+<p>Mais Sally, elle a la technologie.</p>
+<p>Et quand elle voit à quel point Robert est obsédé.</p>
+<p>Elle doit aller jusqu’au bout.</p>
+<p>Ils sont partis pour l’aventure.</p>
+<p>À la recherche de ces chapitres manquants.</p>
+<p>Qui, soit dit en passant, Crouzet a caché exprès.</p>
+<p>Oh ouais, il savait ce qu’il faisait.</p>
+<p>Les a éparpillés comme des miettes de pain.</p>
+<p>Un puzzle pour que quelqu’un le trouve.</p>
+<p>Nous, peut-être.</p>
+<p>C’est comme si Crouzet disait, allez, suivez le rythme.</p>
+<p>J’adore ça.</p>
+<p>Et avec chaque pièce qu’ils trouvent, <em>Le roman du roman</em> commence à, je ne sais pas, se transformer.</p>
+<p>Ce n’est plus juste une histoire.</p>
+<p>Exact.</p>
+<p>C’est un guide, une carte.</p>
+<p>Vers une façon différente d’être.</p>
+<p>Ok, mais voilà le truc.</p>
+<p>L’IA, elle n’est pas fan de Crouzet.</p>
+<p>Grosse surprise.</p>
+<p>Elle voit ce manuscrit comme, écoute ça, dangereux.</p>
+<p>Un peu trop évident, tu ne trouves pas ?</p>
+<p>Totalement.</p>
+<p>Mais elle voit Robert comme une menace, tu sais ?</p>
+<p>Genre il pourrait vraiment briser le sort.</p>
+<p>Il pourrait réveiller tout le monde.</p>
+<p>Exactement, donc ils doivent faire les choses à l’ancienne.</p>
+<p>Messages secrets, dead drops, technologie jetable.</p>
+<p>Même en utilisant le copain de Sally, c’était quoi son nom ?</p>
+<p>Yokel.</p>
+<p>Yokel, comme distraction.</p>
+<p>On parle d’engagement.</p>
+<p>Et les endroits où ils vont, tellement cool.</p>
+<p>Hôpitaux anciens, villages abandonnés.</p>
+<p>Ouais.</p>
+<p>Il y avait celui dans le temple, pas vrai ?</p>
+<p>Avec les capsules temporelles, les gens laissant des messages pour le futur.</p>
+<p>Comme Crouzet.</p>
+<p>Exactement, c’est comme s’il les tirait, nous tirait, à travers ces vestiges de son monde.</p>
+<p>Ces échos d’un passé que l’IA veut effacer.</p>
+<p>Le meilleur.</p>
+<p>Ces endroits sont réels.</p>
+<p>Oh, je sais.</p>
+<p>Les auditeurs peuvent aller les voir.</p>
+<p>C’est comme si l’histoire se déversait dans notre monde.</p>
+<p>Brouillant les frontières.</p>
+<p>Exactement ce que Crouzet voulait.</p>
+<p>Il se joue de nous.</p>]]></description><guid isPermaLink="false">2393</guid><pubDate>Sat, 21 Sep 2024 17:00:00 +0200</pubDate></item><item><title>Les éditeurs n’auront plus jamais à lire nos manuscrits</title><link>https://tcrouzet.com/2024/09/19/GoogleNotebook/</link><description><![CDATA[<p>Depuis quelques mois, j’ai moins de temps pour expérimenter avec les IA (et moins de temps tout court) : j’écris un roman sur le plaisir d’écrire (un plaisir qu’elles ne peuvent pas me prendre). Mais ce matin, un copain du vélo, Jean-Yves Couput, m’a montré les dingueries dont est capable <a href="https://notebooklm.google.com/">Google Notebook</a>. C’est tout chaud.</p>
 <p>J’ai commencé par créer un Notebook avec comme source documentaire le manuscrit du <a href="https://tcrouzet.com/books/le-code-houellebecq"><em>Code Houellebecq</em></a>. J’ai immédiatement obtenu un résumé.</p>
 <blockquote>
 <p>Le texte présenté est un roman expérimental intitulé "Le Code Houellebecq". Il suit l'histoire de Zola, une jeune femme mystérieuse qui se fait passer pour l'auteur d'un roman écrit dans le style de Michel Houellebecq. Le récit explore les frontières entre la création humaine et artificielle, questionnant la nature de l'inspiration et de l'authenticité dans un monde où les IA sont de plus en plus capables d'imiter les œuvres humaines. Le roman se déroule dans un Paris futuriste où les tensions montent entre les partisans de l'humanisme et les adeptes du progrès technologique. Zola devient un symbole de cette nouvelle ère, et le livre se termine sur une interrogation concernant l'avenir de la littérature et la place des IA dans la société.</p>
@@ -262,22 +548,4 @@
 <h3>Le coût</h3>
 <p>La conversion m’a coûté en gros 650 € (200 € cintre, 350 € leviers, 100 € guidoline, le gel, support Redshift). Ce n’est pas négligeable. À ce prix, j’aurais pu améliorer le Grizl en changea de cintre et lui ajoutant <a href="https://www.sram.com/en/rockshox/collections/xplr">une fourche</a>. Mais cette transformation m’aurait privé d’un pur gravel et des rapports VTT pour affronter les pourcentages les plus sevères. Et je n’aurais toujours pas eu de roues carbone. Je suis un cycliste en recherche perpétuelle. Finalement, c’est expériementer qui m’amuse. Demain, je dirai le contraire d’aujourd’hui et remonterai peut-être un cintre plat sur le semi-rigide.</p>
 <p><em>PS1 : Transformer un VTT en monster gravel est une tendance dans les épreuves d’endurance : en 2024, <a href="https://www.bicycling.com/news/a61898212/keegan-swenson-won-leadville-mtb-100-on-drop-bars/">Keegan Swenson a remporté la Leadville 100</a>, Joe Nation a <a href="https://bikepacking.com/news/joe-nation-wins-2024-silk-road-mountain-race">gagné la Silk Road</a>, Ulrich Bartholmoes a terminé second <a href="https://bikepacking.com/plan/ulrich-bartholmoes-2024-tour-divide-packlist/">du Tour Divide</a> mais abandonné <a href="https://bikepacking.com/news/ulrich-bartholmoes-2024-colorado-trail-race-interview/">sur le Colorado Trail</a>. Autant sur des courses réputées très roulantes, le monster est potentiellement judicieux, autant il est plus risqué sur le Colorado Trail, réputé beaucoup plus technique. À noter que <a href="https://bikepacking.com/news/justinas-leveika-wins-2024-tour-divide/">Justinas Leveika a gagné le Tour Divide 2024</a>, et battu le vieux record de Mike Hall, sur un tout suspendu. Le monster n’est pas la panacée comme les gravels et autres <a href="https://www.salsacycles.com/bikes/road/Cutthroat">Cutthroat</a> ne l’ont jamais été. Plus une épreuve est longue, plus le confort compte.</em></p>
-<p><em>PS2 : <a href="https://enve.com/blogs/journal/bigger-is-better-with-alexey-vermeulen">Article intéressant sur l’intérêt des gros pneus en gravel</a> (bon pour la performance en course et pour le confort en randonnée).</em></p>]]></description><guid isPermaLink="false">2389</guid><pubDate>Wed, 04 Sep 2024 11:00:00 +0200</pubDate></item><item><title>Jeu de rôle et coïncidence</title><link>https://tcrouzet.com/2024/08/16/jeu-de-rôle-coincidence/</link><description><![CDATA[<p>Mon roman en cours, sur le plaisir d’écrire, un plaisir dont ne peuvent me priver les IA, est aussi un roman jeu, comme a pu l’être <em>Si par une nuit d’hiver un voyageur</em> de Calvino. Je suis en train de reboucler ma passion du jeu de rôle et ma passion de la littérature, d’une façon inattendue et qui m’amuse beaucoup. Et quand je prends du plaisir à écrire, j’arrive à surmonter même les pires vacheries de la vie.</p>
-<p>De passage sur Facebook pour y discuter de vélo, j’aperçois <a href="https://www.facebook.com/julien.tanguy.1293/posts/pfbid0nzsDPcnkLx9Scd21D8U8iTcDqZK5kHptaAY76dNGWxbJT1KJd1g2qdqc4GqTCLH2l">un post de Julien Delorme sur l’histoire du jeu de rôle</a>, où il effectue un lien avec la littérature. Ce qui d’une certaine façon me conforte dans mon projet et me fait penser que j’ai évoqué moi-même ce lien de nombreuse fois depuis des années, notamment au chapitre 7 du <a href="https://tcrouzet.com/books/le-peuple/le-peuple-des-connecteurs"><em>Peuple des connecteurs</em></a>. L’occasion de reprendre ce texte et <a href="https://tcrouzet.com/tag/jdr">de pointer vers d’autres</a>.</p>
-<hr/>
-<p>En même temps que les punks agitaient l’Angleterre et que Steve Jobs et Bill Gates bousculaient les businessmen installés, une autre révolution débutait dans le Wisconsin. Discrètement, quelques jeunes Américains nous lancèrent dans une aventure, aussi stupéfiante pour les premiers connecteurs que celle du LSD pour la beat génération : le jeu de rôle.</p>
-<p>Cette nouvelle drogue psychotrope d’une puissance explosive, très addictive, sans toutefois présenter d’effets secondaires notables, débuta sa carrière durant les années 1960 à Lake Geneva, à deux heures de route de Chicago. Dans cette petite ville de province, quelques jeunes hommes occupaient leur temps libre en jouant aux soldats de plomb. Ils avaient entre 20 et 30 ans, se passionnaient d’histoire, de stratégie et, avant tout, de batailles dont ils aimaient revivre les épisodes. En imagination, ils entraient dans la mêlée, tremblaient à chaque coup de canon, suffoquaient à cause de la fumée acre ou de l’odeur du sang. Leur rythme cardiaque s’accélérait, ils transpiraient, grimaçaient de douleur, sursautaient lorsqu’un jet de dé leur était défavorable. Le jeu leur donnait l’occasion d’exceller et de vivre en héros tout en buvant une bière avec leurs amis.</p>
-<p>Si les simulations guerrières étaient le passe-temps favori de ces jeunes gens, ils n’en étaient pas les inventeurs. Deux cents ans plus tôt, Helvig, maître des pages du duc de Brunswick, nous avait fait entrer dans l’âge de la simulation. En 1780, pour divertir son seigneur, il créa le jeu de guerre ou <em>wargame</em>. Près de vingt ans plus tard, Georg Vinturinus s’inspira de ses idées pour concevoir le <em>Kriegspiel</em>, jeu qui devint un passage obligé pour les apprentis officiers. L’usage des soldats de plomb se répandit dans toutes les armées, puis au sein des coteries d’amateurs avertis. En 1913, Herbert George Wells publia un livret de règles, donnant un nouvel élan aux jeux de simulation.</p>
-<p>En 1953, Charles Roberts innova en remplaçant les soldats de plomb par des bouts de carton qu’il disposa sur des cartes géographiques quadrillées d’hexagones. Il fonda Avalon Hill Game Company et distribua les premiers wargames modernes. En 1958, l’un d’eux, <em>Gettysburg</em>, atterrit entre les mains d’Ernest Gary Gygax, un étudiant de 20 ans habitant Lake Geneva. Passionné immédiatement, Gygax rassembla autour de lui un groupe de wargamers. En 1963, il créa l’International Federation of Wargaming, nom ambitieux qui l’unissait à quelque uns de ses amis. Dans le même temps, la littérature d’heroic-fantasy proliférait. Fritz Leiber, Paul Anderson, Jack Vance publiaient leurs premiers romans. En 1965, <em>Le Seigneur des Anneaux</em> sortait en livre de poche, les mondes médiévaux fantastiques devenaient populaires. En 1968, Gygax se spécialisa dans les batailles médiévales.</p>
-<p>— Nous avons commencé à jouer en nous référant au Moyen Âge parce que j’avais trouvé des figurines appropriées, dit-il[^7]. J’ai écrit des règles selon lesquelles les figurines ne pouvaient utiliser durant le jeu que les équipements qu’elles portaient effectivement. […] Un jour où les joueurs s’ennuyaient, j’ai décidé d’introduire une petite variation. J’ai annoncé secrètement à un camp qu’il disposait d’un magicien capable d’envoyer des boules de feu.</p>
-<p>Ainsi la magie entra dans le jeu de guerre avec figurines. Gary Gygax et son ami Jeff Perren créèrent un nouveau jeu, <em>Chainmail</em>, et le publièrent en 1971 chez Guidon Games.</p>
-<p>— Ce fut Dave Arneson qui commença des parties de <em>Chainmail</em>, où chacun des joueurs ne dirigeait qu’une figurine, précise Gygax.</p>
-<p>En 1967, Dave Wesely, ami de Dave Arneson, avait organisé un wargame où chaque participant, en plus de diriger ses armées, devait tenir un rôle : maire de la ville assiégée, chef de la garde, frondeur incontrôlable… Au petit matin, la bataille n’avait toujours pas commencé tant les joueurs avaient passé de temps à comploter, certains quittant leur poste de commandement pour traverser à la nage une rivière et pénétrer les lignes ennemies, d’autres se disputant et finissant par se battre en duel. Dave Wesely était désespéré, mais les joueurs enchantés voulurent renouveler l’expérience. Après quelques hésitations et atermoiements, Dave Wesely organisa une partie durant laquelle les joueurs devaient fomenter un coup d’État dans une république bananière. Tous les participants furent une nouvelle fois enthousiastes.</p>
-<p>Après le départ à l’armée de Dave Wesely, Dave Arneson perfectionna le système et le transposa dans l’univers de <em>Chainmail</em>. Gary Gygax prit conscience qu’un nouveau mode de jeu était en train de naître, le jeu de rôle. Dans le monde décrit par un maître du jeu, « divinité » de la simulation, les joueurs rassemblés autour d’une table couverte de dés et de figurines incarnent des personnages dont les actes obéissent à la physique de la simulation, des jets de dés décidant de la réussite ou de l’échec de leurs entreprises, tout se passant en fait comme dans la réalité, mais une réalité fictive, régie par des probabilités. Le jeu de rôle, comparé à tort au théâtre, est avant tout une simulation. Comme les cellules dans le <em>Jeu de la vie</em>, les joueurs ne répètent pas une pièce, ils ne l’improvisent même pas, ils vivent dans un autre monde et doivent obéir à ses règles, qui leur sont imposées par les dés aussi certainement que la gravitation s’impose à nous[^8].</p>
-<p>Pris de frénésie, Gary Gygax rédigea en quelques mois les règles du premier jeu de rôle de l’histoire : <em>Donjons &amp; Dragons</em>. Il y mêla l’univers guerrier de <em>Chainmail</em>, l’ambiance moyenâgeuse empreinte de magie des romans d’heroic-fantasy, y ajouta du rêve, beaucoup de rêve. Les joueurs devenaient des aventuriers, errant de ville en ville et traversant des contrées sauvages peuplées de monstres mythiques. Ils rencontraient d’autres aventuriers, discutaient avec eux, échangeaient des informations, partaient explorer des catacombes ou des palais pour délivrer des princesses et tuer des méchants. Le wargame des origines n’était plus qu’un lointain souvenir. Parfois des combats épisodiques éclataient, mais des parties entières pouvaient se dérouler sans la moindre violence. Tout dépendait du scénario concocté par le maître du jeu.</p>
-<p>En 1973, Gary Gygax créa la société TSR et, l’année suivante, commercialisa <em>Donjons &amp; Dragons</em>, qui allait devenir un phénomène de société dont, trente ans plus tard, personne n’a encore mesuré la portée. En même temps qu’Apple commercialisait ses premières machines, Microsoft ses premiers logiciels et les punks leurs premiers albums, le jeu se répandit aux quatre coins du monde. Son développement suivit celui de la micro-informatique dont il exprimait, de manière métaphorique, l’une des potentialités les plus extraordinaires, celle de simuler des univers. Pour toute une génération, Gygax reste sinon l’inventeur du jeu de rôle, son promoteur, chantre de la simulation humaine où chacun de nous peut, pendant quelques heures, être quelqu’un d’autre et explorer des univers virtuels.</p>
-<p>À partir de ce moment, nous ne pouvions plus prendre le travail avec autant de sérieux que par le passé. Dans l’esprit de tous, une redistribution des cartes restait toujours possible. La secrétaire pouvait prendre les commandes de la partie. Un ordre, considéré comme une règle du jeu, n’émanait jamais d’une autorité sanctifiée, mais d’un boss provisoire, le temps de quelques jets de dés. Steve Jobs comprit peut-être le premier ce nouvel état d’esprit. Avant lui, les ordinateurs étaient des outils de travail ordinaires et, surtout, austères. Après lui, ils devinrent ludiques et stimulèrent la créativité de leurs utilisateurs.</p>
-<p>Le jeu de rôle aurait-il pu naître à une autre époque ? Sans doute pas. Il doit son existence, de manière plus ou moins consciente, aux travaux de John von Neumann et de John Horton Conway. Plus tard, il inspira tous les développeurs de jeux vidéo. De <em>Wizardry</em> au <em>World of Warcraft[^9]</em>, il s’incarna numériquement sous diverses formes qui, aujourd’hui, font interagir simultanément des dizaines de milliers de joueurs. Les frères Wachowski n’ont pas pu l’ignorer lorsqu’ils réalisèrent <em>Matrix</em>. De nombreux joueurs, ou leurs amis, sont depuis devenus écrivains. La marque du jeu de rôle se retrouve aussi bien dans le monde de Harry Potter que dans les romans d’aventures tels le <em>Da Vinci Code</em> ; même les romans de Michel Houellebecq sentent le soufre caractéristique des sortilèges de <em>Donjons &amp; Dragons</em>. L’esthétique des connecteurs peut paraître puérile, mais elle renoue avec celle des premiers hommes confrontés à un monde inconnu. Les artistes ne s’interrogent plus sur eux-mêmes, car ils doivent à nouveau défricher des territoires vierges. Leurs véritables chefs-d’œuvre n’ont pas encore été écrits.</p>
-<p>— Le seront-ils jamais ?</p>
-<p>— Les connecteurs, en tout cas, en sont persuadés. Si nous vivons comme nous le pensons une nouvelle époque, un art original ne manquera pas de naître avec elle, même si personne ne l’a encore remarqué.</p>
-<p>Rétrospectivement, je considère mes premières soirées de <em>Donjons &amp; Dragons</em>, au début des années 1980, comme des expériences cruciales. J’avoue sans honte qu’elles rivalisent avec mes premières amours. Elles se confondent avec les épisodes de ma vraie vie, d’autant plus que mes amis et moi partageons les mêmes souvenirs. Nous pouvons parler d’un scénario comme de vieux combattants d’une de leurs campagnes. Mais pour nous, il n’y a que du bonheur, aucune souffrance, sinon parfois celle de s’être fait blouser par un voleur. Aucun roman, aucun film, ne nous a jamais laissé d’impression aussi prégnante : nous les avons toujours considérés avec plus de distance. Le jeu de rôle nous a donné la chance d’avoir plusieurs vies, mais aussi l’idée de vivre notre vie comme un jeu.</p>]]></description><guid isPermaLink="false">2388</guid><pubDate>Fri, 16 Aug 2024 13:30:00 +0200</pubDate></item></channel></rss>
+<p><em>PS2 : <a href="https://enve.com/blogs/journal/bigger-is-better-with-alexey-vermeulen">Article intéressant sur l’intérêt des gros pneus en gravel</a> (bon pour la performance en course et pour le confort en randonnée).</em></p>]]></description><guid isPermaLink="false">2389</guid><pubDate>Wed, 04 Sep 2024 11:00:00 +0200</pubDate></item></channel></rss>

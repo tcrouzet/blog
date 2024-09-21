@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2024/09/21/promouvoir-un-roman/index.html</loc>
+    <lastmod>2024-09-21T16:20:11+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/09/underwater.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2024/09/19/GoogleNotebook/index.html</loc>
     <lastmod>2024-09-19T11:33:48+02:00</lastmod>
     <image:image>
@@ -449,8 +456,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://tcrouzet.com/2023/12/01/carnet-de-route-novembre-2024/index.html</loc>
-    <lastmod>2024-04-30T08:24:30+02:00</lastmod>
+    <loc>https://tcrouzet.com/2023/12/01/carnet-de-route-novembre-2023/index.html</loc>
+    <lastmod>2024-09-19T22:15:43+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2023/12/IMG_3832.webp</image:loc>
     </image:image>
