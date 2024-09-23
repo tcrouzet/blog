@@ -216,9 +216,7 @@ function mailchimpSubscription() {
         formData.append('mc-carnet', document.getElementById('mc-carnet').checked ? '1' : '0');
         formData.append('mc-ecriture', document.getElementById('mc-ecriture').checked ? '1' : '0');
         formData.append('mc-bike', document.getElementById('mc-bike').checked ? '1' : '0');
-        formData.append('mc-daylog', document.getElementById('mc-daylog').checked ? '1' : '0' );
         formData.append('b_4346e7140965015f0594fffcd_f8567ebe86', document.querySelector('input[name="b_4346e7140965015f0594fffcd_f8567ebe86"]').value );
-        formData.append('b_4346e7140965015f0594fffcd_f8567ebe86', document.querySelector('input[name="b_b7e4cf04c803fc0f26b2fff20_4580f38547"]').value );
     
         var url = "https://lab.tcrouzet.com/mailchimp/subscribe.php";
 
