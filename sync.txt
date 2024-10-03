@@ -1,38 +1,32 @@
-Completed 31.0 KiB/~334.9 KiB (255.2 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 31.3 KiB/~336.0 KiB (244.1 KiB/s) with ~5 file(s) remaining (calculating...)
 upload: ../../static/2024/10/03/g727-2024/content.html to s3://tcrouzet.com/2024/10/03/g727-2024/content.html
-Completed 31.0 KiB/~334.9 KiB (255.2 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 66.4 KiB/~334.9 KiB (265.5 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 31.3 KiB/~336.0 KiB (244.1 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 66.9 KiB/~336.0 KiB (317.0 KiB/s) with ~4 file(s) remaining (calculating...)
 upload: ../../static/2024/10/03/g727-2024/index.html to s3://tcrouzet.com/2024/10/03/g727-2024/index.html
-Completed 66.4 KiB/~334.9 KiB (265.5 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 128.6 KiB/~334.9 KiB (351.8 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 66.9 KiB/~336.0 KiB (317.0 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 129.1 KiB/~336.0 KiB (454.0 KiB/s) with ~3 file(s) remaining (calculating...)
 upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
-Completed 128.6 KiB/~334.9 KiB (351.8 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 237.3 KiB/~334.9 KiB (541.2 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 129.1 KiB/~336.0 KiB (454.0 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 238.2 KiB/~336.0 KiB (777.3 KiB/s) with ~2 file(s) remaining (calculating...)
 upload: ../../static/feeds/borntobike.xml to s3://tcrouzet.com/feeds/borntobike.xml    
-Completed 237.3 KiB/~334.9 KiB (541.2 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 334.9 KiB/~334.9 KiB (663.0 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 238.2 KiB/~336.0 KiB (777.3 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 336.0 KiB/~336.0 KiB (1.1 MiB/s) with ~1 file(s) remaining (calculating...)  
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 334.9 KiB/~334.9 KiB (663.0 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 358.0 KiB/448.8 KiB (46.7 KiB/s) with 8 file(s) remaining                    
-upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html          
-Completed 358.0 KiB/448.8 KiB (46.7 KiB/s) with 7 file(s) remaining
-Completed 359.2 KiB/448.8 KiB (46.4 KiB/s) with 7 file(s) remaining
-upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 359.2 KiB/448.8 KiB (46.4 KiB/s) with 6 file(s) remaining
-Completed 359.7 KiB/448.8 KiB (46.4 KiB/s) with 6 file(s) remaining
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
-Completed 359.7 KiB/448.8 KiB (46.4 KiB/s) with 5 file(s) remaining
-Completed 362.8 KiB/448.8 KiB (46.7 KiB/s) with 5 file(s) remaining
+Completed 336.0 KiB/~336.0 KiB (1.1 MiB/s) with ~0 file(s) remaining (calculating...)
+Completed 359.1 KiB/449.1 KiB (41.6 KiB/s) with 6 file(s) remaining                  
+upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html        
+Completed 359.1 KiB/449.1 KiB (41.6 KiB/s) with 5 file(s) remaining
+Completed 362.1 KiB/449.1 KiB (41.7 KiB/s) with 5 file(s) remaining
 upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
-Completed 362.8 KiB/448.8 KiB (46.7 KiB/s) with 4 file(s) remaining
-Completed 392.5 KiB/448.8 KiB (50.4 KiB/s) with 4 file(s) remaining
-upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 392.5 KiB/448.8 KiB (50.4 KiB/s) with 3 file(s) remaining
-Completed 392.7 KiB/448.8 KiB (50.2 KiB/s) with 3 file(s) remaining
-upload: ../../static/update.json to s3://tcrouzet.com/update.json  
-Completed 392.7 KiB/448.8 KiB (50.2 KiB/s) with 2 file(s) remaining
-Completed 420.7 KiB/448.8 KiB (53.8 KiB/s) with 2 file(s) remaining
-upload: ../../static/tag/borntobike/index.html to s3://tcrouzet.com/tag/borntobike/index.html
-Completed 420.7 KiB/448.8 KiB (53.8 KiB/s) with 1 file(s) remaining
-Completed 448.8 KiB/448.8 KiB (57.2 KiB/s) with 1 file(s) remaining
+Completed 362.1 KiB/449.1 KiB (41.7 KiB/s) with 4 file(s) remaining
+Completed 390.2 KiB/449.1 KiB (44.9 KiB/s) with 4 file(s) remaining
 upload: ../../static/tag/bikepacking/index.html to s3://tcrouzet.com/tag/bikepacking/index.html
+Completed 390.2 KiB/449.1 KiB (44.9 KiB/s) with 3 file(s) remaining
+Completed 391.4 KiB/449.1 KiB (45.0 KiB/s) with 3 file(s) remaining
+upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
+Completed 391.4 KiB/449.1 KiB (45.0 KiB/s) with 2 file(s) remaining
+Completed 421.1 KiB/449.1 KiB (48.3 KiB/s) with 2 file(s) remaining
+upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
+Completed 421.1 KiB/449.1 KiB (48.3 KiB/s) with 1 file(s) remaining
+Completed 449.1 KiB/449.1 KiB (51.5 KiB/s) with 1 file(s) remaining
+upload: ../../static/tag/borntobike/index.html to s3://tcrouzet.com/tag/borntobike/index.html
