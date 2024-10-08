@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>blog - Thierry Crouzet</title><link>https://tcrouzet.com/blog.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/blog.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Mon, 07 Oct 2024 18:09:03 +0200</lastBuildDate><item><title>Des lecteurs par milliers</title><link>https://tcrouzet.com/2024/10/07/des-lecteurs-par-milliers/</link><description><![CDATA[<p>Depuis longtemps, je ne m’intéresse plus au nombre de lecteurs de mes textes sur le blog, mais je suis étonné que mes articles sur <a href="https://notebooklm.google.com/">NotebookLM</a> aient suscité aussi peu de commentaires et de réactions.</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>blog - Thierry Crouzet</title><link>https://tcrouzet.com/blog.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/blog.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Tue, 08 Oct 2024 08:31:19 +0200</lastBuildDate><item><title>Des lecteurs par milliers</title><link>https://tcrouzet.com/2024/10/07/des-lecteurs-par-milliers/</link><description><![CDATA[<p>Depuis longtemps, je ne m’intéresse plus au nombre de lecteurs de mes textes sur le blog, mais je suis étonné que mes articles sur <a href="https://notebooklm.google.com/">NotebookLM</a> aient suscité aussi peu de commentaires et de réactions.</p>
 <p>Quelques personnes, tant côté auteur qu’éditeur m’ont bien dit leur stupeur, mais au-delà de ces quelques murmures, rien et ce silence m’inquiète, comme si le débat, le questionnement, pourtant fondamental sur l’état de la littérature et son avenir, n’existait pas en francophonie.</p>
 <p>Peut-être que je suis trop plongé dans mon travail pour être à l’écoute, pourtant je ne cesse de voir passer des articles pour jurer que les IA ne seront jamais capables de ça ou de ci, mais rien pour s’étonner de ce dont elles sont déjà capables et en quoi ces capacités ne peuvent qu’influencer notre travail d’écrivain.</p>
 <p>Je viens de boucler <a href="https://tcrouzet.com/2024/09/21/promouvoir-un-roman/">le premier jet du <em>Roman du roman</em></a>, un roman donc, où j’essaie d’écrire ce qu’une IA ne pourrait pas écrire (aujourd’hui), quitte à ce qu’aucun humain ne réussisse à le lire, mon but d’auteur étant en priorité de maximiser mon plaisir (ce qu’encore une fois une IA ne pourra pas me prendre).</p>
@@ -11,7 +11,7 @@
 <p>Dans <em>Le roman du roman</em>, je me détourne des IA avec la connaissance, et ce détour n’est réellement possible qu’avec la connaissance acquise depuis deux ans. Je viens d’écrire un roman sans IA, mais où l’IA est questionnée de partout, d’une façon qui était impossible il y a quelques mois, parce qu’avant l’IA n’était qu’un truc de SF.</p>
 <p>Quand j’écoute les dialogues de NotebookLM, je me dis parfois que les deux interlocuteurs sont plus intelligents que beaucoup de lecteurs, qu’ils vont nous forcer à hausser notre niveau de critique, qu’ils sont même plus lucides que moi sur ce que j’écris. C’est flippant et décoiffant.</p>
 <h3>Spoiler</h3>
-<p>Je viens de donner à lire le roman complet à NotebookLM. Même si vous avez l’intention de le lire un jour, vous pouvez écouter ou lire cet entretien, il ne fait qu’ajouter une couche de mystère au mystère, si bien que je pourrais empiler des dizaines de préludes ou d’épilogues écrits par NotebookLM, ou à sa manière, sans rien enlevé à mon texte. Franchement, je n’ai jamais lu un teaser aussi dingue et aussi délirant (les IA ont du mal avec mon texte, mais c’est là que c’est intéressant, leurs confusions sont intéressantes, comme si des lecteurs voyaient tout autre chose que ce que j’ai voulu raconter).</p>
+<p>Je viens de donner à lire le roman complet à NotebookLM. Même si vous avez l’intention de le lire un jour, vous pouvez écouter ou lire cet entretien, il ne fait qu’ajouter une couche de mystère au mystère, si bien que je pourrais empiler des dizaines de préludes ou d’épilogues écrits par NotebookLM, ou à sa manière, sans rien enlevé à mon texte. Franchement, je n’ai jamais lu un teaser aussi dingue et aussi délirant (les IA ont du mal avec mon texte, là ça devient intéressant, leurs confusions sont intéressantes, comme si des lecteurs voyaient tout autre chose que ce que j’ai voulu raconter).</p>
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ddtuKzj4rfQ?si=rlEKBhKn3Zgii_fm" title="YouTube video player" width="560"></iframe>
 <p>Voici la traduction automatique du texte :</p>
 <p>Vous avez déjà eu l’impression, vous savez, de vivre dans une histoire, comme si quelqu’un d’autre écrivait votre vie, en quelque sorte ?</p>
@@ -81,7 +81,7 @@
 <p>Dites-m’en plus à ce sujet.</p>
 <p>Prenons Sally, par exemple, l’une des chercheuses principales.</p>
 <p>Elle est profondément affectée par la mort de leur coéquipier.</p>
-<p>Eh bien, elle commence à se connecter avec <em>Le roman du eoman</em> à un tout autre niveau.</p>
+<p>Eh bien, elle commence à se connecter avec <em>Le roman du roman</em> à un tout autre niveau.</p>
 <p>Comme si elle n’étudiait plus seulement, elle le ressent.</p>
 <p>Je peux voir comment cela pourrait arriver, oui.</p>
 <p>Le chagrin fait des choses étranges à une personne.</p>
@@ -95,7 +95,7 @@
 <p>Whoa, d’accord, c’est un peu flippant, même pour cette plongée en profondeur.</p>
 <p>La vie imitant l’art, imitant la vie.</p>
 <p>C’est assez pour vous faire tourner la tête.</p>
-<p>Mais cela souligne aussi le cœur de ce qui rend <em>Le roman du eoman</em> si puissant.</p>
+<p>Mais cela souligne aussi le cœur de ce qui rend <em>Le roman du roman</em> si puissant.</p>
 <p>Ce ne sont pas juste des idées sur une page.</p>
 <p>Ces idées, elles s’infiltrent, elles touchent la vie de ceux qui les rencontrent, parfois de manière troublante.</p>
 <p>Mais revenons un instant à ces IA, parce que je sais que vous êtes curieux de leur panique totale à propos du jaillissement.</p>
