@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>blog - Thierry Crouzet</title><link>https://tcrouzet.com/blog.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/blog.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sat, 12 Oct 2024 18:12:09 +0200</lastBuildDate><item><title>Commercialiser un roman avec l’aide des IA</title><link>https://tcrouzet.com/2024/10/12/vendre-un-roman/</link><description><![CDATA[<p>Avec ChatGPT 4o, Claude 3.5 sonnet et NotebookLM, je me suis mis dans la peau d’un éditeur imaginaire pour construire quelques uns des documents nécessaires à la publication d’un livre. Je me suis appuyé sur mon nouveau manuscrit, <em>Le roman du roman</em>, dont je n’ai pas encore décidé de l’avenir (il est un peu trop brûlant pour le moment). Je ne publie que les résultats qui me paraissent les meilleurs.</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>blog - Thierry Crouzet</title><link>https://tcrouzet.com/blog.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/blog.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sat, 12 Oct 2024 18:20:09 +0200</lastBuildDate><item><title>Commercialiser un roman avec l’aide des IA</title><link>https://tcrouzet.com/2024/10/12/vendre-un-roman/</link><description><![CDATA[<p>Avec ChatGPT 4o, Claude 3.5 sonnet et NotebookLM, je me suis mis dans la peau d’un éditeur imaginaire pour construire quelques-uns des documents nécessaires à la publication d’un livre. Je me suis appuyé sur mon nouveau manuscrit, <em>Le roman du roman</em>, dont je n’ai pas encore décidé de l’avenir (il est un peu trop brûlant pour le moment). Je ne publie que les résultats qui me paraissent les meilleurs.</p>
 <h3>Résumé</h3>
 <p>Pour commencer, j’ai besoin d’avoir un résumé du roman, pour au moins savoir de quoi il parle et décider de le lire ou non. Sans hésitation le meilleur résumé a été produit par Claude qui perçoit clairement la structure du texte et ses thématiques sans se perdre dans les détails.</p>
 <hr/>
@@ -54,78 +54,78 @@
 <li>Risque de comparaison : Le texte pourrait être comparé défavorablement à d’autres œuvres métafictionnelles célèbres (point très intéressant que je développerai dans un autre article).</li>
 </ol>
 <h3>Quatrième de couverture</h3>
-<p>Avant d’aller plus loin, j’ai besoin de lire une quatrième de couverture qui donnerait envie d’acheter le roman. J’ai bataillé comme un chien pour les IA crachent des textes cohérent. Il me semble que NotebookLM s’en est le mieux sorti.</p>
+<p>Avant d’aller plus loin, j’ai besoin de lire une quatrième de couverture qui donnerait envie d’acheter le roman. J’ai bataillé comme un chien pour les IA crachent des textes cohérents. Il me semble que NotebookLM s’en est le mieux sorti.</p>
 <hr/>
-<p>En 2024, Thierry Crouzet, un écrivain des confronté à la maladie de sa femme et à l’essor des IA, entreprend un projet littéraire audacieux : écrire <em>Le roman du roman</em>. Son objectif ? Capturer l’essence du « jaillissement » créatif, ce moment magique où les mots prennent vie.</p>
-<p>Trois siècles plus tard, Robert et Sally, habitants d’un monde post-apocalyptique, découvrent les fragments de ce manuscrit enfoui dans la maison submergée de Crouzet. Leur quête pour reconstituer l’œuvre les entraîne dans un voyage métafictionnel vertigineux.</p>
+<p>En 2024, Thierry Crouzet, un écrivain confronté à la maladie de sa femme et à l’essor des IA, entreprend un projet littéraire audacieux : écrire <em>Le roman du roman</em>. Son objectif ? Capturer l’essence du « jaillissement » créatif, ce moment magique où les mots prennent vie.</p>
+<p>Trois siècles plus tard, Robert et Sally, habitants d’un monde postapocalyptique, découvrent les fragments de ce manuscrit enfoui dans la maison submergée de Crouzet. Leur quête pour reconstituer l’œuvre les entraîne dans un voyage métafictionnel vertigineux.</p>
 <p>À travers les réflexions de Crouzet, ses dialogues avec son IA Claude³ et des extraits de son journal intime, le lecteur est invité à explorer les coulisses de la création littéraire. <em>Le roman du roman</em> interroge notre rapport à l’art, à la technologie et à la nature même de la réalité. Une œuvre qui bouscule les conventions, défie l’imagination et laisse une empreinte indélébile.</p>
 <h3>Argumentaire commercial</h3>
-<p>Le défit pour un éditeur est de convaincre les libraires de défendre ses livres. Il écrit en général un argumentaire commercial d’une page. Les trois IA s’en tirent honnorablement. J’ai conservé la vertsion de NotebookLM.</p>
+<p>Le défi pour un éditeur est de convaincre les libraires de défendre ses livres. Il écrit en général un argumentaire commercial d’une page. Les trois IA s’en tirent honorablement. J’ai conservé la version de NotebookLM.</p>
 <hr/>
 <p><em>Le roman du roman</em>, nouveau roman de Thierry Crouzet, est une œuvre unique qui saura captiver vos lecteurs et susciter des discussions passionnantes.</p>
-<p><strong>Un concept original et intrigant :</strong></p>
+<p>Un concept original et intrigant :</p>
 <ul>
 <li>Le roman met en abyme le processus de création littéraire, invitant le lecteur à découvrir les coulisses de l’écriture.</li>
 <li>Cette exploration métafictionnelle, à travers les réflexions de l’auteur, ses dialogues avec son IA et des extraits de son journal intime, offre une expérience de lecture immersive et stimulante.</li>
 </ul>
-<p><strong>Un roman d’actualité qui interroge notre époque :</strong></p>
+<p>Un roman d’actualité qui interroge notre époque :</p>
 <ul>
 <li>L’influence grandissante des IA sur la création artistique est un thème central du roman, questionnant le rôle de l’auteur humain face à la technologie.</li>
 <li>Thierry Crouzet, tout en reconnaissant l’aide que peuvent apporter les IA, met en garde contre la standardisation de la production littéraire et la perte de contrôle du processus créatif.</li>
 </ul>
-<p><strong>Une structure innovante qui reflète le « jaillissement » créatif :</strong></p>
+<p>Une structure innovante qui reflète le « jaillissement » créatif :</p>
 <ul>
 <li>Le roman se compose de fragments, d’associations d’idées, de ruptures de style, reflétant la pensée non linéaire de l’auteur en pleine création.</li>
 <li>Cette structure, loin d’être chaotique, est minutieusement travaillée pour créer un rythme et un équilibre propres à l’œuvre.</li>
 </ul>
-<p><strong>Des personnages attachants et complexes :</strong></p>
+<p>Des personnages attachants et complexes :</p>
 <ul>
 <li>Thierry Crouzet, l’auteur du <em>Roman du roman</em>, est un personnage aux prises avec ses doutes, ses angoisses et la maladie de sa femme.</li>
 <li>Il incarne la figure de l’artiste en quête de sens et d’authenticité dans un monde en mutation.</li>
 <li>Les personnages de Robert et Sally, vivant en 2352, sont confrontés au mystère du manuscrit et à leurs propres questionnements existentiels.</li>
 </ul>
-<p><strong>Un roman qui plaira à un large public :</strong></p>
+<p>Un roman qui plaira à un large public :**</p>
 <ul>
 <li><em>Le roman du roman</em> s’adresse à tous les amoureux de la littérature, qu’ils soient amateurs de romans classiques, de métafiction ou d’histoires qui interrogent notre époque.</li>
 <li>Les réflexions de Crouzet sur la création, la nature de la réalité et le rapport à la technologie trouveront un écho auprès de lecteurs de tous horizons.</li>
 </ul>
-<p><strong>Arguments pour mettre en avant <em>Le roman du roman</em> :</strong></p>
+<p>Arguments pour mettre en avant <em>Le roman du roman</em> :</p>
 <ul>
-<li><strong>Un roman original et ambitieux</strong> qui ne laissera pas indifférent.</li>
-<li><strong>Une réflexion sur des thèmes d’actualité</strong> qui font écho aux préoccupations de notre société.</li>
-<li><strong>Une écriture percutante et novatrice</strong> qui offre une expérience de lecture unique.</li>
-<li><strong>Un auteur déjà reconnu</strong> pour ses œuvres précédentes.</li>
+<li>Un roman original et ambitieux qui ne laissera pas indifférent.</li>
+<li>Une réflexion sur des thèmes d’actualité qui font écho aux préoccupations de notre société.</li>
+<li>Une écriture percutante et novatrice qui offre une expérience de lecture unique.</li>
+<li>Un auteur déjà reconnu pour ses œuvres précédentes.</li>
 </ul>
-<p><strong>Conseils pour la mise en avant :</strong></p>
+<p>Conseils pour la mise en avant :</p>
 <ul>
 <li>Mettez l’accent sur le concept original du roman : "un roman sur l’écriture d’un roman".</li>
 <li>Soulignez l’aspect métafictionnel et les jeux de narration.</li>
 <li>Ciblez les lecteurs intéressés par la littérature contemporaine et les réflexions sur le monde d’aujourd’hui.</li>
 <li>Organisez des événements autour du roman : rencontres avec l’auteur, débats sur l’influence des IA sur la création.</li>
 </ul>
-<p><strong>En défendant <em>Le roman du roman</em>, vous offrirez à vos clients une expérience littéraire enrichissante et hors du commun.</strong></p>
+<p>En défendant <em>Le roman du roman</em>, vous offrirez à vos clients une expérience littéraire enrichissante et hors du commun.</p>
 <h3>Article de presse type</h3>
-<p>On peut même avoir une idée de ce que les journaliste écriront avant d’avoir décidé de publier le livre. J’aime la version de NotebookLM (Claude et ChatGPT s’en tirent aussi très bien).</p>
+<p>On peut même avoir une idée de ce que les journalistes écriront avant d’avoir décidé de publier le livre. J’aime la version de NotebookLM (Claude et ChatGPT s’en tirent aussi très bien).</p>
 <hr/>
-<p><strong><em>Le Roman du Roman</em> : un voyage métafictionnel au cœur de la création</strong></p>
+<p>Le Roman du Roman* : un voyage métafictionnel au cœur de la création</p>
 <p>Dans son dernier roman, <em>Le Roman du Roman</em>, Thierry Crouzet nous invite à une exploration fascinante des coulisses de la création littéraire. L’auteur, confronté à la fois à la maladie de sa femme et à l’essor fulgurant des intelligences artificielles, entreprend un projet ambitieux : consigner le processus de création d’un roman, capturant les moments d’inspiration, les doutes et les réflexions qui jalonnent le chemin de l’écrivain.</p>
 <p>Le roman débute en 2024, dans une France marquée par l’anxiété climatique et les bouleversements technologiques. Crouzet, partagé entre ses obligations familiales et son désir de créer, se lance dans l’écriture du <em>Roman du Roman</em>. Il consigne ses réflexions dans son journal intime, dialogue avec son IA Claude³, et nous livre des fragments d’histoires avortées, esquissant ainsi une cartographie de son processus créatif.</p>
 <p>Ce qui rend ce roman si singulier, c’est son approche métafictionnelle. Crouzet brouille constamment les frontières entre réalité et fiction, nous entraînant dans un récit labyrinthique où les réflexions sur l’écriture se mêlent aux observations du quotidien et aux dialogues avec son IA. Le lecteur est invité à participer à la construction du sens, à assembler les pièces du puzzle et à s’interroger sur la nature même de la création.</p>
-<p>Le roman prend un tournant inattendu lorsque, trois siècles plus tard, Robert et Sally, habitants d’un monde post-apocalyptique, découvrent les fragments du manuscrit enfoui dans la maison submergée de Crouzet. Leur quête pour reconstituer l’œuvre les conduit à travers la France, suivant les indices disséminés par l’auteur. Au fil de leur recherche, ils sont confrontés à des coïncidences troublantes et à des questionnements existentiels qui les amènent à douter de la nature même de leur réalité. <strong>Sont-ils de simples personnages d’une fiction élaborée par Crouzet?</strong> Le roman s’achève sur une note d’incertitude, laissant le lecteur face à un abîme de possibles.</p>
+<p>Le roman prend un tournant inattendu lorsque, trois siècles plus tard, Robert et Sally, habitants d’un monde postapocalyptique, découvrent les fragments du manuscrit enfoui dans la maison submergée de Crouzet. Leur quête pour reconstituer l’œuvre les conduit à travers la France, suivant les indices disséminés par l’auteur. Au fil de leur recherche, ils sont confrontés à des coïncidences troublantes et à des questionnements existentiels qui les amènent à douter de la nature même de leur réalité. Sont-ils de simples personnages d’une fiction élaborée par Crouzet ? Le roman s’achève sur une note d’incertitude, laissant le lecteur face à un abîme de possibles.</p>
 <p><em>Le Roman du Roman</em> est bien plus qu’un simple récit. C’est une œuvre complexe et stimulante qui interroge notre rapport à la création, à la technologie et à la réalité elle-même. Crouzet, en nous dévoilant les coulisses de son processus d’écriture, nous invite à réfléchir sur les sources de l’inspiration, sur l’influence des IA et sur l’avenir de la littérature dans un monde en constante mutation.</p>
-<p><strong>En bref, <em>Le Roman du Roman</em> est une œuvre ambitieuse et novatrice qui saura captiver les lecteurs en quête d’une expérience littéraire hors du commun.</strong></p>
+<p>En bref, <em>Le Roman du Roman</em> est une œuvre ambitieuse et novatrice qui saura captiver les lecteurs en quête d’une expérience littéraire hors du commun.</p>
 <h3>Éreintement</h3>
-<p>Il est aussi bon de se préparer au pire, et les IA peuvent être terriblement méchantes quand on le leur autorise. L’article de ChatGPT me paraît le meilleur car il est argumenté.</p>
+<p>Il est aussi bon de se préparer au pire, et les IA peuvent être terriblement méchantes quand on le leur autorise. L’article de ChatGPT me paraît le meilleur, car il est argumenté.</p>
 <hr/>
-<p><strong><em>Le roman du roman</em> de Thierry Crouzet : Une Ambition Littéraire qui se Perd dans ses Propres Méandres</strong></p>
+<p>Le roman du roman* de Thierry Crouzet : Une Ambition littéraire qui se perd dans ses propres méandres</p>
 <p>Thierry Crouzet, connu pour ses réflexions sur la technologie et la littérature, nous propose avec <em>Le roman du roman</em> une œuvre qui, hélas, peine à tenir ses promesses. Présenté comme une exploration audacieuse de la création littéraire à l’ère de l’intelligence artificielle, le livre s’enlise rapidement dans une structure narrative complexe qui confond plus qu’elle ne fascine.</p>
-<p>Le roman se déroule sur deux temporalités : 2024 et 2352, une alternance censée enrichir le récit mais qui, en réalité, ne parvient qu’à désorienter le lecteur. L’intrigue, qui aurait pu être captivante, est noyée sous une avalanche de réflexions métafictionnelles souvent pompeuses et redondantes. Crouzet semble trop préoccupé par le désir de montrer son érudition et sa capacité à jongler avec les concepts, au détriment d’une narration claire et engageante.</p>
-<p>Le personnage de Rachel, présenté comme un élément central du mystère, échoue à susciter l’intérêt. Elle se réduit à un simple artifice narratif, une ombre floue censée intriguer mais qui laisse le lecteur indifférent. De même, les dialogues avec l’IA Claude³, loin d’apporter de la profondeur, tombent souvent dans le piège du verbiage pseudo-intellectuel.</p>
-<p>Crouzet excelle peut-être dans l’art de poser des questions, mais il semble incapable d’offrir des réponses ou même des pistes de réflexion claires. Le résultat est un texte qui se veut avant-gardiste mais qui se complaît dans une complexité artificielle et stérile. Les thèmes de la créativité face à la technologie, certes pertinents, sont traités avec une lourdeur académique qui risque de rebuter même les lecteurs les plus assidus.</p>
+<p>Le roman se déroule sur deux temporalités : 2024 et 2352, une alternance censée enrichir le récit, mais qui, en réalité, ne parvient qu’à désorienter le lecteur. L’intrigue, qui aurait pu être captivante, est noyée sous une avalanche de réflexions métafictionnelles souvent pompeuses et redondantes. Crouzet semble trop préoccupé par le désir de montrer son érudition et sa capacité à jongler avec les concepts, au détriment d’une narration claire et engageante.</p>
+<p>Le personnage de Rachel, présenté comme un élément central du mystère, échoue à susciter l’intérêt. Elle se réduit à un simple artifice narratif, une ombre floue censée intriguer, mais qui laisse le lecteur indifférent. De même, les dialogues avec l’IA Claude³, loin d’apporter de la profondeur, tombent souvent dans le piège du verbiage pseudo-intellectuel.</p>
+<p>Crouzet excelle peut-être dans l’art de poser des questions, mais il semble incapable d’offrir des réponses ou même des pistes de réflexion claires. Le résultat est un texte qui se veut avant-gardiste, mais qui se complaît dans une complexité artificielle et stérile. Les thèmes de la créativité face à la technologie, certes pertinents, sont traités avec une lourdeur académique qui risque de rebuter même les lecteurs les plus assidus.</p>
 <p>L’écriture, par moments lyrique, ne parvient pas à sauver le livre de ses longueurs et de son manque de direction. <em>Le roman du roman</em> se présente comme une œuvre ambitieuse, mais cette ambition se perd dans un labyrinthe de concepts mal exploités et de métaphores appuyées. Plutôt que de repousser les limites du genre, Crouzet semble s’enfermer dans une tour d’ivoire littéraire, déconnectée des attentes et des plaisirs du lecteur.</p>
 <p>En conclusion, <em>Le roman du roman</em> déçoit par son incapacité à transformer une idée intrigante en une œuvre véritablement engageante. Thierry Crouzet aurait gagné à privilégier la clarté et la concision plutôt que de se perdre dans des réflexions excessivement théoriques. Ce roman, qui avait le potentiel d’être un jalon de la littérature contemporaine, s’avère finalement être un exercice de style laborieux et peu convaincant.</p>
 <h3>Couverture</h3>
-<p>J’ai demandé aux IA de m’écrire un prompt de création d’images. NotebookLM s’en est le mieux tiré, puis j’ai généré quelques images avec le <a href="https://designer.microsoft.com/image-creator">Microsoft Designer</a>. C’est pas le moment pour moi de m’occuper de ça.</p>
+<p>J’ai demandé aux IA de m’écrire un prompt de création d’images. NotebookLM s’en est le mieux tiré, puis j’ai généré quelques images avec <a href="https://designer.microsoft.com/image-creator">Microsoft Designer</a>. Ce n’est pas le moment pour moi de m’occuper de ça.</p>
 <div class="image" id="image-2398-1"><img alt="Le roman du roman" class="alignnone size-full paysage" decoding="async" height="1536" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/10/covers.webp" srcset="/images_tc/2024/10/covers.webp 1600w, /images_tc/2024/10/covers-1024.webp 1024w, /images_tc/2024/10/covers-250.webp 250w" width="2048"/><div class="legend">Le roman du roman</div></div>]]></description><guid isPermaLink="false">2398</guid><pubDate>Sat, 12 Oct 2024 18:30:00 +0200</pubDate></item><item><title>Des lecteurs par milliers</title><link>https://tcrouzet.com/2024/10/07/des-lecteurs-par-milliers/</link><description><![CDATA[<p>Depuis longtemps, je ne m’intéresse plus au nombre de lecteurs de mes textes sur le blog, mais je suis étonné que mes articles sur <a href="https://notebooklm.google.com/">NotebookLM</a> aient suscité aussi peu de commentaires et de réactions.</p>
 <p>Quelques personnes, tant côté auteur qu’éditeur m’ont bien dit leur stupeur, mais au-delà de ces quelques murmures, rien et ce silence m’inquiète, comme si le débat, le questionnement, pourtant fondamental sur l’état de la littérature et son avenir, n’existait pas en francophonie.</p>
 <p>Peut-être que je suis trop plongé dans mon travail pour être à l’écoute, pourtant je ne cesse de voir passer des articles pour jurer que les IA ne seront jamais capables de ça ou de ci, mais rien pour s’étonner de ce dont elles sont déjà capables et en quoi ces capacités ne peuvent qu’influencer notre travail d’écrivain.</p>
