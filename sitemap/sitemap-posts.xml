@@ -1,12 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2024/10/13/litterature-comparee-ia/index.html</loc>
+    <lastmod>2024-10-13T13:48:07+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/10/ombres.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2024/10/13/septembre-2024/index.html</loc>
-    <lastmod>2024-10-13T10:29:24+02:00</lastmod>
+    <lastmod>2024-10-13T10:48:13+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/10/2024-09-22-193648-maison.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/2024/10/12/vendre-un-roman/index.html</loc>
-    <lastmod>2024-10-12T18:34:33+02:00</lastmod>
+    <lastmod>2024-10-13T13:48:26+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/10/comroman.webp</image:loc>
     </image:image>
