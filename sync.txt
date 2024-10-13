@@ -1,29 +1,26 @@
-Completed 23.8 KiB/~234.9 KiB (115.8 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/2024/10/12/vendre-un-roman/index.html to s3://tcrouzet.com/2024/10/12/vendre-un-roman/index.html
-Completed 23.8 KiB/~234.9 KiB (115.8 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 43.5 KiB/~234.9 KiB (105.6 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 19.8 KiB/~235.1 KiB (137.2 KiB/s) with ~4 file(s) remaining (calculating...)
 upload: ../../static/2024/10/12/vendre-un-roman/content.html to s3://tcrouzet.com/2024/10/12/vendre-un-roman/content.html
-Completed 43.5 KiB/~234.9 KiB (105.6 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 134.0 KiB/~234.9 KiB (197.0 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 19.8 KiB/~235.1 KiB (137.2 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 43.6 KiB/~235.1 KiB (167.7 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/2024/10/12/vendre-un-roman/index.html to s3://tcrouzet.com/2024/10/12/vendre-un-roman/index.html
+Completed 43.6 KiB/~235.1 KiB (167.7 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 134.2 KiB/~235.1 KiB (244.3 KiB/s) with ~2 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 134.0 KiB/~234.9 KiB (197.0 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 234.9 KiB/~234.9 KiB (249.8 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 134.2 KiB/~235.1 KiB (244.3 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 235.1 KiB/~235.1 KiB (413.8 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
-Completed 234.9 KiB/~234.9 KiB (249.8 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 257.8 KiB/~312.2 KiB (32.4 KiB/s) with ~5 file(s) remaining (calculating...) 
-upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html          
-Completed 257.8 KiB/~312.2 KiB (32.4 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 261.2 KiB/~312.2 KiB (32.3 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                         
-Completed 261.2 KiB/~312.2 KiB (32.3 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 281.3 KiB/~312.2 KiB (34.5 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                           
-Completed 281.3 KiB/~312.2 KiB (34.5 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 311.0 KiB/~312.2 KiB (38.1 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 311.0 KiB/~312.2 KiB (38.1 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 312.2 KiB/312.5 KiB (37.9 KiB/s) with 2 file(s) remaining                   
+Completed 235.1 KiB/~235.1 KiB (413.8 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 236.2 KiB/~268.9 KiB (34.9 KiB/s) with ~4 file(s) remaining (calculating...) 
 upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 312.2 KiB/312.5 KiB (37.9 KiB/s) with 1 file(s) remaining
-Completed 312.5 KiB/312.5 KiB (37.5 KiB/s) with 1 file(s) remaining
+Completed 236.2 KiB/~268.9 KiB (34.9 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 238.7 KiB/~268.9 KiB (34.8 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                           
+Completed 238.7 KiB/~268.9 KiB (34.8 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 239.2 KiB/~268.9 KiB (34.7 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                         
+Completed 239.2 KiB/~268.9 KiB (34.7 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 268.9 KiB/269.1 KiB (38.4 KiB/s) with 2 file(s) remaining                   
+Completed 269.1 KiB/269.1 KiB (38.5 KiB/s) with 2 file(s) remaining                   
+upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
+Completed 269.1 KiB/269.1 KiB (38.5 KiB/s) with 1 file(s) remaining
 upload: ../../static/update.json to s3://tcrouzet.com/update.json  
