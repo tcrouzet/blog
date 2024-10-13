@@ -1,109 +1,35 @@
-Completed 16.5 KiB/~341.9 KiB (110.9 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 16.5 KiB/~341.9 KiB (110.2 KiB/s) with ~5 file(s) remaining (calculating...)
 upload: ../../static/2024/10/13/septembre-2024/content.html to s3://tcrouzet.com/2024/10/13/septembre-2024/content.html
-Completed 16.5 KiB/~341.9 KiB (110.9 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 36.9 KiB/~341.9 KiB (125.3 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 16.5 KiB/~341.9 KiB (110.2 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 36.8 KiB/~341.9 KiB (86.5 KiB/s) with ~4 file(s) remaining (calculating...) 
 upload: ../../static/2024/10/13/septembre-2024/index.html to s3://tcrouzet.com/2024/10/13/septembre-2024/index.html
-Completed 36.9 KiB/~341.9 KiB (125.3 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 165.4 KiB/~341.9 KiB (366.5 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/feeds/carnet-de-route.xml to s3://tcrouzet.com/feeds/carnet-de-route.xml
-Completed 165.4 KiB/~341.9 KiB (366.5 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 249.2 KiB/~341.9 KiB (406.2 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
-Completed 249.2 KiB/~341.9 KiB (406.2 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 341.9 KiB/~341.9 KiB (531.8 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 36.8 KiB/~341.9 KiB (86.5 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 129.5 KiB/~341.9 KiB (258.9 KiB/s) with ~3 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 341.9 KiB/~341.9 KiB (531.8 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 457.0 KiB/2.0 MiB (53.9 KiB/s) with 31 file(s) remaining                     
-upload: ../../static/images_tc/2024/10/2024-09-01-201109-maison-1024.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-01-201109-maison-1024.webp
-Completed 457.0 KiB/2.0 MiB (53.9 KiB/s) with 30 file(s) remaining
-Completed 464.3 KiB/2.0 MiB (54.3 KiB/s) with 30 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-01-201231-maison-250.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-01-201231-maison-250.webp
-Completed 464.3 KiB/2.0 MiB (54.3 KiB/s) with 29 file(s) remaining
-Completed 473.1 KiB/2.0 MiB (54.9 KiB/s) with 29 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-01-201109-maison-250.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-01-201109-maison-250.webp
-Completed 473.1 KiB/2.0 MiB (54.9 KiB/s) with 28 file(s) remaining
-Completed 478.9 KiB/2.0 MiB (55.1 KiB/s) with 28 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-22-192929-maison-250.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-22-192929-maison-250.webp
-Completed 478.9 KiB/2.0 MiB (55.1 KiB/s) with 27 file(s) remaining
-Completed 487.0 KiB/2.0 MiB (56.0 KiB/s) with 27 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-01-201228-maison-250.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-01-201228-maison-250.webp
-Completed 487.0 KiB/2.0 MiB (56.0 KiB/s) with 26 file(s) remaining
-Completed 743.0 KiB/2.0 MiB (84.5 KiB/s) with 26 file(s) remaining
-Completed 843.7 KiB/2.0 MiB (95.6 KiB/s) with 26 file(s) remaining
-Completed 857.2 KiB/2.0 MiB (97.1 KiB/s) with 26 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-22-193636-maison-1024.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-22-193636-maison-1024.webp
-Completed 857.2 KiB/2.0 MiB (97.1 KiB/s) with 25 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-01-201231-maison-1024.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-01-201231-maison-1024.webp
-Completed 857.2 KiB/2.0 MiB (97.1 KiB/s) with 24 file(s) remaining
-Completed 930.7 KiB/2.0 MiB (105.1 KiB/s) with 24 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-22-192929-maison-1024.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-22-192929-maison-1024.webp
-Completed 930.7 KiB/2.0 MiB (105.1 KiB/s) with 23 file(s) remaining
-Completed 931.9 KiB/2.0 MiB (104.7 KiB/s) with 23 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-22-193636-maison-250.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-22-193636-maison-250.webp
-Completed 931.9 KiB/2.0 MiB (104.7 KiB/s) with 22 file(s) remaining
-Completed 1.0 MiB/2.0 MiB (117.2 KiB/s) with 22 file(s) remaining  
-upload: ../../static/images_tc/2024/10/2024-09-01-201228-maison-1024.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-01-201228-maison-1024.webp
-Completed 1.0 MiB/2.0 MiB (117.2 KiB/s) with 21 file(s) remaining
-Completed 1.1 MiB/2.0 MiB (121.5 KiB/s) with 21 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-22-193636-maison.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-22-193636-maison.webp
-Completed 1.1 MiB/2.0 MiB (121.5 KiB/s) with 20 file(s) remaining
-Completed 1.3 MiB/2.0 MiB (146.7 KiB/s) with 20 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-01-201231-maison.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-01-201231-maison.webp
-Completed 1.3 MiB/2.0 MiB (146.7 KiB/s) with 19 file(s) remaining
-Completed 1.3 MiB/2.0 MiB (146.6 KiB/s) with 19 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-22-193648-maison-250.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-22-193648-maison-250.webp
-Completed 1.3 MiB/2.0 MiB (146.6 KiB/s) with 18 file(s) remaining
-Completed 1.4 MiB/2.0 MiB (162.1 KiB/s) with 18 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-22-192929-maison.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-22-192929-maison.webp
-Completed 1.4 MiB/2.0 MiB (162.1 KiB/s) with 17 file(s) remaining
-Completed 1.4 MiB/2.0 MiB (164.1 KiB/s) with 17 file(s) remaining
-Completed 1.4 MiB/2.0 MiB (165.1 KiB/s) with 17 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-22-193648-maison-1024.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-22-193648-maison-1024.webp
-Completed 1.4 MiB/2.0 MiB (165.1 KiB/s) with 16 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-01-201228-maison.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-01-201228-maison.webp
-Completed 1.4 MiB/2.0 MiB (165.1 KiB/s) with 15 file(s) remaining
-Completed 1.5 MiB/2.0 MiB (165.8 KiB/s) with 15 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-22-193657-maison-1024.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-22-193657-maison-1024.webp
-Completed 1.5 MiB/2.0 MiB (165.8 KiB/s) with 14 file(s) remaining
-Completed 1.5 MiB/2.0 MiB (165.9 KiB/s) with 14 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-22-193657-maison-250.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-22-193657-maison-250.webp
-Completed 1.5 MiB/2.0 MiB (165.9 KiB/s) with 13 file(s) remaining
-Completed 1.6 MiB/2.0 MiB (176.7 KiB/s) with 13 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-22-193648-maison.jpeg to s3://tcrouzet.com/images_tc/2024/10/2024-09-22-193648-maison.jpeg
-Completed 1.6 MiB/2.0 MiB (176.7 KiB/s) with 12 file(s) remaining
-Completed 1.8 MiB/2.0 MiB (204.2 KiB/s) with 12 file(s) remaining
-Completed 1.8 MiB/2.0 MiB (208.2 KiB/s) with 12 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-22-193657-maison.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-22-193657-maison.webp
-Completed 1.8 MiB/2.0 MiB (208.2 KiB/s) with 11 file(s) remaining
-Completed 1.9 MiB/2.0 MiB (210.7 KiB/s) with 11 file(s) remaining
-upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
-Completed 1.9 MiB/2.0 MiB (210.7 KiB/s) with 10 file(s) remaining
-Completed 1.9 MiB/2.0 MiB (215.6 KiB/s) with 10 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-22-193648-maison.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-22-193648-maison.webp
-Completed 1.9 MiB/2.0 MiB (215.6 KiB/s) with 9 file(s) remaining
-Completed 1.9 MiB/2.0 MiB (215.5 KiB/s) with 9 file(s) remaining
-Completed 1.9 MiB/2.0 MiB (215.7 KiB/s) with 9 file(s) remaining
+Completed 129.5 KiB/~341.9 KiB (258.9 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 213.3 KiB/~341.9 KiB (410.5 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
+Completed 213.3 KiB/~341.9 KiB (410.5 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 341.9 KiB/~341.9 KiB (657.2 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/feeds/carnet-de-route.xml to s3://tcrouzet.com/feeds/carnet-de-route.xml
+Completed 341.9 KiB/~341.9 KiB (657.2 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 364.9 KiB/~433.1 KiB (45.4 KiB/s) with ~6 file(s) remaining (calculating...) 
+upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html          
+Completed 364.9 KiB/~433.1 KiB (45.4 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 366.0 KiB/~433.1 KiB (44.9 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 368.2 KiB/~433.1 KiB (45.2 KiB/s) with ~5 file(s) remaining (calculating...)
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                         
+Completed 368.2 KiB/~433.1 KiB (45.2 KiB/s) with ~4 file(s) remaining (calculating...)
 upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 1.9 MiB/2.0 MiB (215.7 KiB/s) with 8 file(s) remaining
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json   
-Completed 1.9 MiB/2.0 MiB (215.7 KiB/s) with 7 file(s) remaining
-Completed 1.9 MiB/2.0 MiB (218.4 KiB/s) with 7 file(s) remaining
-upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 1.9 MiB/2.0 MiB (218.4 KiB/s) with 6 file(s) remaining
-Completed 2.0 MiB/2.0 MiB (220.5 KiB/s) with 6 file(s) remaining
-upload: ../../static/tag/carnet-de-route/contener2.html to s3://tcrouzet.com/tag/carnet-de-route/contener2.html
-Completed 2.0 MiB/2.0 MiB (220.5 KiB/s) with 5 file(s) remaining
-Completed 2.0 MiB/2.0 MiB (221.1 KiB/s) with 5 file(s) remaining
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt     
-Completed 2.0 MiB/2.0 MiB (221.1 KiB/s) with 4 file(s) remaining
-Completed 2.0 MiB/2.0 MiB (223.2 KiB/s) with 4 file(s) remaining
-upload: ../../static/tag/carnet-de-route/contener3.html to s3://tcrouzet.com/tag/carnet-de-route/contener3.html
-Completed 2.0 MiB/2.0 MiB (223.2 KiB/s) with 3 file(s) remaining
-Completed 2.0 MiB/2.0 MiB (222.8 KiB/s) with 3 file(s) remaining
-upload: ../../static/update.json to s3://tcrouzet.com/update.json
-Completed 2.0 MiB/2.0 MiB (222.8 KiB/s) with 2 file(s) remaining
-Completed 2.0 MiB/2.0 MiB (224.9 KiB/s) with 2 file(s) remaining
+Completed 368.2 KiB/~433.1 KiB (45.2 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 377.5 KiB/433.4 KiB (45.9 KiB/s) with 4 file(s) remaining                   
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                           
+Completed 377.5 KiB/433.4 KiB (45.9 KiB/s) with 3 file(s) remaining
+Completed 403.4 KiB/433.4 KiB (49.0 KiB/s) with 3 file(s) remaining
 upload: ../../static/tag/carnet-de-route/index.html to s3://tcrouzet.com/tag/carnet-de-route/index.html
-Completed 2.0 MiB/2.0 MiB (224.9 KiB/s) with 1 file(s) remaining
-Completed 2.0 MiB/2.0 MiB (223.8 KiB/s) with 1 file(s) remaining
-upload: ../../static/images_tc/2024/10/2024-09-01-201109-maison.webp to s3://tcrouzet.com/images_tc/2024/10/2024-09-01-201109-maison.webp
+Completed 403.4 KiB/433.4 KiB (49.0 KiB/s) with 2 file(s) remaining
+Completed 403.6 KiB/433.4 KiB (48.8 KiB/s) with 2 file(s) remaining
+upload: ../../static/update.json to s3://tcrouzet.com/update.json  
+Completed 403.6 KiB/433.4 KiB (48.8 KiB/s) with 1 file(s) remaining
+Completed 433.4 KiB/433.4 KiB (52.4 KiB/s) with 1 file(s) remaining
+upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
