@@ -1,41 +1,50 @@
-Completed 22.9 KiB/~293.5 KiB (103.2 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/2024/10/15/cannibalisme-litteraire/content.html to s3://tcrouzet.com/2024/10/15/cannibalisme-litteraire/content.html
-Completed 22.9 KiB/~293.5 KiB (103.2 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 49.9 KiB/~293.5 KiB (151.8 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/2024/10/15/cannibalisme-litteraire/index.html to s3://tcrouzet.com/2024/10/15/cannibalisme-litteraire/index.html
-Completed 49.9 KiB/~293.5 KiB (151.8 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 79.5 KiB/~293.5 KiB (239.6 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 26.2 KiB/~350.2 KiB (180.2 KiB/s) with ~7 file(s) remaining (calculating...)
+upload: ../../static/2024/10/14/essai-sur-le-roman/content.html to s3://tcrouzet.com/2024/10/14/essai-sur-le-roman/content.html
+Completed 26.2 KiB/~350.2 KiB (180.2 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 55.8 KiB/~350.2 KiB (251.6 KiB/s) with ~6 file(s) remaining (calculating...)
 upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html             
-Completed 79.5 KiB/~293.5 KiB (239.6 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 183.8 KiB/~293.5 KiB (367.8 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 55.8 KiB/~350.2 KiB (251.6 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 86.4 KiB/~350.2 KiB (342.4 KiB/s) with ~5 file(s) remaining (calculating...)
+upload: ../../static/2024/10/14/essai-sur-le-roman/index.html to s3://tcrouzet.com/2024/10/14/essai-sur-le-roman/index.html
+Completed 86.4 KiB/~350.2 KiB (342.4 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 109.2 KiB/~350.2 KiB (416.2 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/2024/10/15/cannibalisme-litteraire/content.html to s3://tcrouzet.com/2024/10/15/cannibalisme-litteraire/content.html
+Completed 109.2 KiB/~350.2 KiB (416.2 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 136.2 KiB/~350.2 KiB (420.7 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/2024/10/15/cannibalisme-litteraire/index.html to s3://tcrouzet.com/2024/10/15/cannibalisme-litteraire/index.html
+Completed 136.2 KiB/~350.2 KiB (420.7 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 240.5 KiB/~350.2 KiB (560.9 KiB/s) with ~2 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 183.8 KiB/~293.5 KiB (367.8 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 293.5 KiB/~293.5 KiB (437.8 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 240.5 KiB/~350.2 KiB (560.9 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 350.2 KiB/~350.2 KiB (736.7 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
-Completed 293.5 KiB/~293.5 KiB (437.8 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 299.0 KiB/~433.4 KiB (38.2 KiB/s) with ~8 file(s) remaining (calculating...) 
+Completed 350.2 KiB/~350.2 KiB (736.7 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 355.7 KiB/~440.2 KiB (44.2 KiB/s) with ~7 file(s) remaining (calculating...) 
 upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
-Completed 299.0 KiB/~433.4 KiB (38.2 KiB/s) with ~7 file(s) remaining (calculating...)
-Completed 300.1 KiB/~433.4 KiB (37.5 KiB/s) with ~7 file(s) remaining (calculating...)
-upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 300.1 KiB/~433.4 KiB (37.5 KiB/s) with ~6 file(s) remaining (calculating...)
-Completed 304.3 KiB/~433.4 KiB (37.8 KiB/s) with ~6 file(s) remaining (calculating...)
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                         
-Completed 304.3 KiB/~433.4 KiB (37.8 KiB/s) with ~5 file(s) remaining (calculating...)
-Completed 331.4 KiB/440.6 KiB (40.7 KiB/s) with 6 file(s) remaining                   
+Completed 355.7 KiB/~440.2 KiB (44.2 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 382.8 KiB/~467.3 KiB (47.1 KiB/s) with ~7 file(s) remaining (calculating...)
 upload: ../../static/tag/netlitterature/index.html to s3://tcrouzet.com/tag/netlitterature/index.html
-Completed 331.4 KiB/440.6 KiB (40.7 KiB/s) with 5 file(s) remaining
-Completed 354.1 KiB/440.6 KiB (43.4 KiB/s) with 5 file(s) remaining
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
-Completed 354.1 KiB/440.6 KiB (43.4 KiB/s) with 4 file(s) remaining
-Completed 384.1 KiB/440.6 KiB (46.8 KiB/s) with 4 file(s) remaining
-Completed 391.3 KiB/440.6 KiB (47.7 KiB/s) with 4 file(s) remaining
-upload: ../../static/tag/romanduroman/index.html to s3://tcrouzet.com/tag/romanduroman/index.html
-Completed 391.3 KiB/440.6 KiB (47.7 KiB/s) with 3 file(s) remaining
-upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 391.3 KiB/440.6 KiB (47.7 KiB/s) with 2 file(s) remaining
-Completed 414.2 KiB/440.6 KiB (50.5 KiB/s) with 2 file(s) remaining
-upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
-Completed 414.2 KiB/440.6 KiB (50.5 KiB/s) with 1 file(s) remaining
-Completed 440.6 KiB/440.6 KiB (53.7 KiB/s) with 1 file(s) remaining
+Completed 382.8 KiB/~467.3 KiB (47.1 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 383.9 KiB/~467.3 KiB (47.2 KiB/s) with ~6 file(s) remaining (calculating...)
+upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
+Completed 383.9 KiB/~467.3 KiB (47.2 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 384.6 KiB/~467.3 KiB (47.3 KiB/s) with ~5 file(s) remaining (calculating...)
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                         
+Completed 384.6 KiB/~467.3 KiB (47.3 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 388.0 KiB/~467.3 KiB (47.6 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                           
+Completed 388.0 KiB/~467.3 KiB (47.6 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 410.9 KiB/474.7 KiB (50.1 KiB/s) with 5 file(s) remaining                   
+upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html         
+Completed 410.9 KiB/474.7 KiB (50.1 KiB/s) with 4 file(s) remaining
+Completed 437.3 KiB/474.7 KiB (53.1 KiB/s) with 4 file(s) remaining
 upload: ../../static/tag/ia/index.html to s3://tcrouzet.com/tag/ia/index.html
+Completed 437.3 KiB/474.7 KiB (53.1 KiB/s) with 3 file(s) remaining
+Completed 467.3 KiB/474.7 KiB (56.7 KiB/s) with 3 file(s) remaining
+upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
+Completed 467.3 KiB/474.7 KiB (56.7 KiB/s) with 2 file(s) remaining
+Completed 467.5 KiB/474.7 KiB (56.6 KiB/s) with 2 file(s) remaining
+upload: ../../static/update.json to s3://tcrouzet.com/update.json  
+Completed 467.5 KiB/474.7 KiB (56.6 KiB/s) with 1 file(s) remaining
+Completed 474.7 KiB/474.7 KiB (57.2 KiB/s) with 1 file(s) remaining
+upload: ../../static/tag/romanduroman/index.html to s3://tcrouzet.com/tag/romanduroman/index.html
