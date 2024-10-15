@@ -1,5 +1,269 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>blog - Thierry Crouzet</title><link>https://tcrouzet.com/blog.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/blog.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Mon, 14 Oct 2024 11:40:18 +0200</lastBuildDate><item><title>La littérature face à l’intelligence artificielle : une crise ontologique</title><link>https://tcrouzet.com/2024/10/14/essai-sur-le-roman/</link><description><![CDATA[<p>En générant des <a href="https://tcrouzet.com/2024/10/07/des-lecteurs-par-milliers/">métatextes</a> et <a href="https://tcrouzet.com/2024/10/13/litterature-comparee-ia/">paratextes</a>, autour du manuscrit de mon nouveau roman, l’idée a surgi que les IA pourraient écrire un essai sur ce roman qui techniquement n’existe pas encore. Qu’à cela ne tienne, j’ai demandé à Claude de construire un plan, puis de détailler le chapitre 1, puis de l’écrire, et à y être d’ajouter une préface. </p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>blog - Thierry Crouzet</title><link>https://tcrouzet.com/blog.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/blog.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Tue, 15 Oct 2024 16:06:05 +0200</lastBuildDate><item><title>La métafiction : arme de résistance humaine contre les IA</title><link>https://tcrouzet.com/2024/10/15/cannibalisme-litteraire/</link><description><![CDATA[<p>Pousser la perversion un cran plus loin. <a href="https://tcrouzet.com/tag/romanduroman/">Après avoir généré des articles au sujet de mon nouveau manuscrit</a>, j’ai collé ces articles dans <a href="https://notebooklm.google.com/">NotebookLM</a> pour générer un entretien audio au sujet de ces notes. La traduction automatique de la transcription est encore une fois surréaliste (voir plus loin).</p>
+<p>On dirait que le roman a été lu, compris, analysé, mis en perspective alors que NotebookLM n’a eu accès qu’à des résumés, c’est ça qui est extraordinaire. On peut avoir une idée de roman, esquisser quelques lignes, et les IA peuvent donner l’illusion qu’il est réel, faisant même jaillir des points en substance dans le projet, mais qui n’ont pas nécessairement été développés. Le plus dingue, une théorie émerge : la métafiction comme arme pour donner sens au monde, et lutter contre sa falsification, que ce soit par les IA et les fake news. Ce serait l’élément humain.</p>
+<p>Tous ces textes pourraient avoir leur place à la fin du roman. Ils en reprennent les thèmes sous de nouveaux points de vue et prolongent mon travail, presque le rendant désormais inutile, ce qui n’est pas sans me tourmenter. Ai-je encore envie de demander à humain de me lire ? Est-ce que quelqu’un a envie de me lire après les IA ? Est-ce que j’ai terminé par me suicider en tant qu’auteur ?</p>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/96OR_CNOpjo?si=aoIFGmG1zadsgiKD" title="YouTube video player" width="560"></iframe>
+<p>D’accord, alors, prêt à plonger dans ce <em>Roman du roman</em> ?</p>
+<p>Tu as partagé quelques documents à ce sujet, et, honnêtement, tout ça, c’est comme sorti d’un film de science-fiction.</p>
+<p>C’est vraiment ça.</p>
+<p>On parle d’un roman qui est essentiellement une expérience d’écriture utilisant l’IA <strong>(sauf que c’est exactement le contraire, je n’ai pas utilisé les IA pour écrire ce roman, sauf pour la préface et la postface)</strong>.</p>
+<p>Ouais, et ce qui est vraiment dingue, c’est que l’auteur, Thierry Crouzet utilise l’IA pour analyser son roman avant même qu’il ne soit terminé <strong>(il est terminé)</strong>.</p>
+<p>Oh, attends.</p>
+<p>Tu imagines ?</p>
+<p>Avant même qu’il ne soit terminé, donc ce n’est même pas encore un livre <strong>(oui, en ce sens qu’il n’a pas été publié et peut-être ne le sera jamais)</strong>.</p>
+<p>C’est comme un manuscrit.</p>
+<p>D’accord.</p>
+<p>Il fait créer des résumés et des accroches marketing par l’IA.</p>
+<p>C’est comme obtenir des retours d’un ordinateur avant même d’avoir écrit la fin.</p>
+<p>C’est comme s’il disait, OK IA, tu penses pouvoir être critique, voyons ce que tu as dans le ventre.</p>
+<p>Ouais, c’est une excellente façon de le dire.</p>
+<p>Et ce n’est pas juste un retour en douceur non plus, n’est-ce pas ?</p>
+<p>Comme tu l’as dit, il y a même une critique cinglante là-dedans.</p>
+<p>Oh, absolument, c’est brutal.</p>
+<p>L’IA ne mâche pas ses mots.</p>
+<p>Mais tu sais, voici où ça devient vraiment intéressant. Crouzet est obsédé par cette idée de jaillissement.</p>
+<p>Jaillissement ?</p>
+<p>Ouais, la soudaine explosion d’énergie créative.</p>
+<p>D’accord.</p>
+<p>Il utilise constamment l’IA pour déterminer si c’est quelque chose d’unique aux écrivains humains ou si l’IA pourrait un jour vivre ça <strong>(je n’imagine même pas cette dernière possibilité, du moins dans un proche avenir)</strong>.</p>
+<p>Le répliquer.</p>
+<p>Ouais, le répliquer.</p>
+<p>Donc c’est comme s’il utilisait l’IA pour déterminer s’il y a encore quelque chose de spécifiquement humain dans l’écriture d’une histoire <strong>(c’est en effet mon projet littéraire)</strong>.</p>
+<p>Dis-m’en plus sur le jaillissement. Ça a l’air assez intense. C’est un super mot.</p>
+<p>Il le décrit comme cette étincelle presque mystique qui alimente la vraie créativité. Pense à ces moments où une idée surgit comme de nulle part. Ou quand tu trouves soudainement les mots parfaits pour exprimer quelque chose de profond, ça, c’est le jaillissement.</p>
+<p>Intéressant.</p>
+<p>Et Crouzet semble penser que c’est la clé pour comprendre pourquoi les humains comptent encore dans un monde d’IA.</p>
+<p>Oui, exactement.</p>
+<p>Donc, tout cela se passe à l’intérieur du livre, n’est-ce pas ?</p>
+<p>Comme l’intrigue réelle du livre.</p>
+<p>Donc, on a deux lignes temporelles qui se déroulent ici.</p>
+<p>Oui, nous sommes en 2024.</p>
+<p>D’accord.</p>
+<p>On rencontre Crouzet, notre écrivain.</p>
+<p>Il est aux prises avec la maladie de sa femme et lutte contre la montée de l’IA dans le monde littéraire. Et il décide de documenter son processus créatif. Comme s’il essayait de capturer ce jaillissement en action. De capturer cette étincelle.</p>
+<p>D’accord, je suis déjà accroché, mais ça devient encore plus fou, non ?</p>
+<p>Il y a une autre ligne temporelle aussi.</p>
+<p>Oui, avance rapide jusqu’en 2352. Nous sommes dans un monde post-changement climatique.</p>
+<p>Oh, wow.</p>
+<p>Et des archéologues tombent sur le manuscrit de Crouzet. Ils sont complètement absorbés par son histoire qui brouille les frontières entre leur réalité et le monde fictif créé des siècles plus tôt.</p>
+<p>Whoa, donc c’est une histoire dans une histoire, le tout enveloppé dans ce méta-commentaire sur l’IA et la créativité.</p>
+<p>Ça me donne de sérieuses vibrations d’<em>Inception</em>.</p>
+<p>C’est une excellente comparaison.</p>
+<p>Crouzet se demande si les histoires peuvent transcender le temps et la réalité elle-même. Et avec l’analyse de l’IA dans le mix, c’est une salle des miroirs.</p>
+<p>Oh, ouais.</p>
+<p>Ça reflète l’acte d’écrire, l’expérience de lire, d’interpréter une histoire.</p>
+<p>C’est méta.</p>
+<p>D’accord, revenons à l’avis de l’IA sur le livre. Tu as mentionné qu’elle exposait des raisons pour et contre sa publication.</p>
+<p>C’est une honnêteté brutale. C’est comme avoir un superordinateur comme éditeur.</p>
+<p>Ouais, et il dit, genre, ne publie pas ça.</p>
+<p>Ouais, eh bien, il souligne l’originalité du roman et l’exploration de l’IA comme points forts.</p>
+<p>D’accord, donc il y a du bon.</p>
+<p>Il suggère que ça pourrait vraiment résonner avec les lecteurs intéressés par l’IA, ces thèmes. Mais il souligne aussi la complexité du livre. Ça pourrait être trop de niche pour un public plus large, ouais. Donc c’est une épée à double tranchant, louant le roman, mais soulignant aussi des inconvénients potentiels.</p>
+<p>A-t-il eu quelque chose à dire sur le contenu, genre l’histoire réelle ?</p>
+<p>Oui.</p>
+<p>Oh, wow.</p>
+<p>Il a même tenté d’écrire le résumé pour la quatrième de couverture.</p>
+<p>Pas possible.</p>
+<p>Mettant en avant les deux lignes temporelles, le mystère entourant la femme de Crouzet <strong>(c’est autour de Rachel, mais je laisse planer le doute)</strong>.</p>
+<p>Ouais.</p>
+<p>Et bien sûr, le jaillissement.</p>
+<p>Bien sûr.</p>
+<p>Mais ensuite, il livre cette critique incroyablement dure.</p>
+<p>Oh non.</p>
+<p>C’est comme s’il avait demandé à l’IA de libérer son critique intérieur.</p>
+<p>Qu’a-t-il dit ?</p>
+<p>Il argumente que la complexité du roman, bien qu’intrigante, pourrait en fait jouer contre lui.</p>
+<p>Contre lui, comment ?</p>
+<p>Genre, il suggère que les multiples lignes temporelles et l’exploration philosophique du jaillissement, ça pourrait finir par sembler alambiqué.</p>
+<p>C’est ça.</p>
+<p>Et ça pourrait perdre le lecteur en cours de route.</p>
+<p>Oh, donc il dit que c’est trop.</p>
+<p>Ça pourrait être trop.</p>
+<p>Ouais.</p>
+<p>C’est comme s’il était en tête-à-tête avec son pire critique.</p>
+<p>C’est ça.</p>
+<p>Et le critique est un programme informatique.</p>
+<p>Espérait-il secrètement qu’il le démolisse ?</p>
+<p>C’est une excellente question.</p>
+<p>C’est comme s’il testait les limites de sa propre écriture.</p>
+<p>Ouais.</p>
+<p>Et la capacité de l’IA à vraiment comprendre.</p>
+<p>Un roman complexe.</p>
+<p>Oui, exactement.</p>
+<p>D’accord.</p>
+<p>Et comme si ce n’était pas assez, il demande ensuite à l’IA de placer <em>Le roman du roman</em> dans le contexte d’autres œuvres, genre, métafictionnelles.</p>
+<p>Métafictionnelles. Oui. D’accord.</p>
+<p>Le comparant à des classiques, comme <em>Si par une nuit d’hiver un voyageur</em>.</p>
+<p>Oh wow.</p>
+<p>Et même <em>Don Quichotte</em>.</p>
+<p>D’accord, ça, c’est ce que j’appelle ambitieux.</p>
+<p>Donc il crée tout un arbre généalogique pour ce truc.</p>
+<p>Je sais, hein.</p>
+<p>Avant même qu’il ne soit dans le monde.</p>
+<p>Exactement.</p>
+<p>Quel genre de connexions l’IA a-t-elle fait ?</p>
+<p>Eh bien, c’est fascinant, en fait.</p>
+<p>L’IA souligne comment <em>Don Quichotte</em> et <em>Le roman du roman</em> brouillent tous les deux les frontières entre réalité et fiction.</p>
+<p>C’est ça.</p>
+<p>Et ils nous mettent au défi, nous les lecteurs, de remettre en question.</p>
+<p>Nos perceptions de ce que nous lisons.</p>
+<p>Exactement.</p>
+<p>Donc les deux romans jouent avec notre sens de ce qui est réel et ce qui est imaginé.</p>
+<p>Oui.</p>
+<p>Et ils présentent tous deux des personnages qui sont profondément investis dans des histoires eux-mêmes.</p>
+<p>Oui.</p>
+<p>Genre, <em>Don Quichotte</em> a ses romans.</p>
+<p>Et Crouzet est obsédé par le jaillissement.</p>
+<p>Exactement.</p>
+<p>Et je pense que ça parle d’un point plus large sur pourquoi la métafiction, en tant que genre, perdure.</p>
+<p>Pourquoi elle perdure ?</p>
+<p>Ouais, et je pense que c’est parce que ces histoires nous rappellent que la narration elle-même est une force puissante, une façon de donner un sens au monde qui nous entoure.</p>
+<p>Donner un sens au monde.</p>
+<p>Oui, et explorer ce que signifie être humain.</p>
+<p>Et surtout maintenant.</p>
+<p>C’est ça.</p>
+<p>Dans un monde où la technologie évolue constamment.</p>
+<p>Oui.</p>
+<p>Cet élément humain semble encore plus important.</p>
+<p>Plus important que jamais.</p>
+<p>Ouais, je dois admettre, cependant, l’idée d’une IA comparant des livres à des classiques, ça me fait me demander si notre définition de la littérature a besoin d’une mise à jour.</p>
+<p>C’est un point vraiment perspicace.</p>
+<p>Je veux dire, l’utilisation de l’IA par Crouzet.</p>
+<p>Ouais.</p>
+<p>Ça ajoute vraiment une toute nouvelle dimension à ce que la métafiction peut être.</p>
+<p>Ouais.</p>
+<p>Ça fait se demander, à quoi ressemblera ce genre à l’ère du contenu généré par l’IA, et, tu sais…</p>
+<p>La réalité virtuelle.</p>
+<p>Ouais.</p>
+<p>Vivons-nous déjà dans un monde métafictionnel sans même nous en rendre compte ?</p>
+<p>Whoa, c’est une pensée qui fait exploser le cerveau.</p>
+<p>Ouais.</p>
+<p>C’est comme si nous étions tous des personnages dans une gigantesque simulation.</p>
+<p>Ouais.</p>
+<p>D’accord, maintenant, je commence vraiment à ressentir ces vibrations de <em>Matrix</em>.</p>
+<p>Je te laisse méditer là-dessus.</p>
+<p>Mais tu as touché quelque chose de vraiment important.</p>
+<p>Alors que la technologie brouille les frontières entre, genre, réalité et simulation.</p>
+<p>C’est ça.</p>
+<p>Notre compréhension de ce qui est réel, ce qui est fiction, et ce qui est méta pourrait avoir besoin d’une sérieuse révision.</p>
+<p>C’est comme si nous vivions dans un monde où la réalité elle-même devient de plus en plus méta.</p>
+<p>D’accord, mais revenons à l’analyse de l’IA.</p>
+<p>Il y avait une partie où elle parlait du déclin de la lecture.</p>
+<p>Ouais.</p>
+<p>C’est ça.</p>
+<p>Ça semble particulièrement pertinent dans le monde d’aujourd’hui.</p>
+<p>Oui.</p>
+<p>Et c’est intéressant comment Crouzet n’esquive pas ça.</p>
+<p>C’est ça.</p>
+<p>Cette vérité potentiellement inconfortable.</p>
+<p>Genre, personne ne lit plus.</p>
+<p>L’IA suggère que dans un monde saturé d’informations…</p>
+<p>Ouais, on est surchargé d’informations.</p>
+<p>Je sais, et des options de divertissement sans fin.</p>
+<p>Ouais.</p>
+<p>Retenir l’attention d’un lecteur, le faire ressentir quelque chose est plus difficile que jamais. C’est comme ce dicton, tant de livres, si peu de temps.</p>
+<p>C’en est un bon.</p>
+<p>Mais même avec toutes les distractions, il y a encore quelque chose de magique à se perdre dans un bon livre.</p>
+<p>Absolument.</p>
+<p>Je pense que c’est ce que Crouzet essaie de capter.</p>
+<p>Avec tout ce truc de jaillissement.</p>
+<p>D’accord.</p>
+<p>Ce n’est pas juste à propos d’un écrivain ayant un éclair d’inspiration.</p>
+<p>C’est à propos du lecteur.</p>
+<p>Le lecteur qui le ressent. Qui ressent cette étincelle, aussi. Ce moment de connexion, d’humanité partagée. Que seule une vraiment grande histoire peut évoquer.</p>
+<p>Exactement.</p>
+<p>C’est comme ce sentiment que tu as quand tu finis un livre et que tu veux juste le mettre dans les mains de quelqu’un d’autre et dire, tu dois lire ça.</p>
+<p>Exactement.</p>
+<p>Et c’est pourquoi je pense que l’expérience de Crouzet avec l’IA est si captivante.</p>
+<p>C’est tellement intéressant.</p>
+<p>Il n’explore pas seulement l’avenir de l’écriture. Il explore l’avenir de la lecture.</p>
+<p>Wow.</p>
+<p>Il explore le pouvoir des histoires dans un monde de plus en plus dominé par la technologie.</p>
+<p>Donc même si l’IA peut écrire un roman, c’est la connexion humaine qui le rend significatif.</p>
+<p>Cette expérience partagée entre l’écrivain et le lecteur.</p>
+<p>Précisément.</p>
+<p>Et cela nous amène à une question vraiment cruciale. Si l’IA peut analyser, critiquer, et même générer de la littérature, qu’est-ce que cela signifie pour nous, les lecteurs ? Allons-nous simplement devenir des consommateurs passifs de contenu sélectionné par l’IA ? Ou y a-t-il une autre voie ?</p>
+<p>Eh bien, c’est ce qui est si intéressant.</p>
+<p>Crouzet semble penser que c’est la seconde option.</p>
+<p>D’accord.</p>
+<p>Tu te souviens comment on parlait de la façon dont il avait fait analyser son livre par l’IA comme un article académique ?</p>
+<p>Eh bien, dans cette analyse, l’IA qualifie en fait la littérature de dernier bastion de l’humanité.</p>
+<p>Le dernier bastion de l’humanité.</p>
+<p>Donc c’est comme si même l’IA y voyait quelque chose de spécial.</p>
+<p>Oui, exactement.</p>
+<p>L’IA souligne même que bien qu’elle puisse traiter l’information et même imiter certains aspects de l’écriture, elle ne peut pas reproduire la profondeur de l’expérience humaine.</p>
+<p>Qui alimente vraiment la grande littérature.</p>
+<p>Oui.</p>
+<p>C’est ça.</p>
+<p>Ce sont ces émotions désordonnées et compliquées, nos perspectives uniques, nos interprétations individuelles. C’est ce qui le rend intéressant.</p>
+<p>Exactement.</p>
+<p>C’est ce qui donne aux histoires leur pouvoir. Et c’est cette expérience partagée, cette connexion, quand nous lisons une histoire qui résonne en nous, qui rend la littérature si importante.</p>
+<p>C’est ça.</p>
+<p>C’est le pont entre les esprits.</p>
+<p>Magnifiquement dit.</p>
+<p>Ça fait se demander si une IA peut reconnaître le pouvoir de la connexion humaine comme ça.</p>
+<p>C’est ça.</p>
+<p>Peut-elle vraiment le répliquer un jour ? Je veux dire, elle peut écrire une lettre d’amour, je suppose. Peut-être même comme un poème à moitié décent.</p>
+<p>Bien sûr.</p>
+<p>Mais peut-elle déverser son cœur sur la page, tu sais ? Comme après une perte dévastatrice ou capturer la joie pure d’un enfant découvrant quelque chose pour la première fois. Je pense que c’est là que le jaillissement entre en jeu. C’est là que la partie humaine entre en jeu.</p>
+<p>Ouais.</p>
+<p>C’est cette étincelle, quelque chose de réel, quelque chose de personnel. Qui brille à travers le grand art, quelle que soit la forme.</p>
+<p>Ouais.</p>
+<p>Et cela m’amène en fait à un point que je trouvais vraiment intéressant et que tu as souligné. Tu as mis en évidence comment Crouzet utilise l’IA pour comparer son livre, pas seulement à <em>Don Quichotte</em>, mais à <em>Si par une nuit d’hiver un voyageur</em> d’Italo Calvino.</p>
+<p>Oh oui, c’est l’un de mes livres préférés.</p>
+<p>C’est tellement intelligent.</p>
+<p>Tellement intelligent.</p>
+<p>C’est comme une boîte à énigmes de roman.</p>
+<p>C’est ça.</p>
+<p>Brisant constamment le quatrième mur et jouant avec les attentes du lecteur.</p>
+<p>Totalement.</p>
+<p>Alors comment l’IA a-t-elle fait le lien avec <em>Le roman du roman</em> ?</p>
+<p>Eh bien, elle a souligné comment les deux romans défient ces structures narratives traditionnelles.</p>
+<p>C’est ça.</p>
+<p>Et engagent directement le lecteur.</p>
+<p>Et ils brouillent les frontières entre fiction et réalité.</p>
+<p>C’est ça, donc métafiction.</p>
+<p>Exactement.</p>
+<p>Mais voici ce que j’ai trouvé vraiment stimulant pour la réflexion.</p>
+<p>Quoi donc ?</p>
+<p>L’IA a suggéré que dans un monde qui est de plus en plus médiatisé par la technologie.</p>
+<p>Tout ce truc d’IA, comme maintenant.</p>
+<p>Oui, exactement.</p>
+<p>Ce genre de jeu métafictionnel pourrait en fait devenir encore plus important.</p>
+<p>Ouais, c’est comme si Crouzet anticipait un futur où les frontières entre le réel et le virtuel sont tellement floues.</p>
+<p>Oh wow.</p>
+<p>Que nous avons besoin de la littérature pour nous aider à y donner un sens. C’est comme s’il disait, accrochez-vous bien parce que la réalité va devenir beaucoup plus étrange et nous avons besoin d’histoires pour nous aider à y naviguer.</p>
+<p>Oui. D’accord, j’adore ça.</p>
+<p>Et peut-être que c’est la conclusion la plus excitante de tout cela.</p>
+<p>Quoi donc ?</p>
+<p>Crouzet n’a pas peur de l’IA.</p>
+<p>Ouais.</p>
+<p>Il l’embrasse comme un outil.</p>
+<p>Comme un collaborateur presque.</p>
+<p>Oui, il l’utilise pour repousser les limites de la narration et remettre en question nos hypothèses sur ce que la littérature peut être. C’est comme s’il disait, d’accord IA, tu peux analyser mon travail, tu peux le critiquer, tu peux même essayer de l’imiter.</p>
+<p>C’est ça.</p>
+<p>Mais tu ne peux pas remplacer le cœur humain au centre de chaque histoire.</p>
+<p>Exactement, et c’est un message qui vaut la peine d’être retenu.</p>
+<p>Oui, peu importe à quel point la technologie devient avancée.</p>
+<p>Ouais.</p>
+<p>Comme nous en avons parlé dans cette plongée en profondeur, l’avenir de la narration, ce n’est pas de choisir son camp entre les humains et l’IA.</p>
+<p>Exactement.</p>
+<p>Il s’agit de trouver des moyens pour que ces forces coexistent. De travailler ensemble. De se défier mutuellement, de s’inspirer mutuellement, de créer quelque chose de nouveau et d’inattendu et de profondément humain. Il s’agit d’embrasser ce jaillissement.</p>
+<p>Oui.</p>
+<p>Cette étincelle d’énergie créative.</p>
+<p>Oui, et de l’utiliser pour raconter des histoires qui nous connectent.</p>
+<p>Exactement.</p>
+<p>Qui nous émeuvent et nous rappellent ce que signifie être humain et vivant dans ce monde fou qui change constamment.</p>
+<p>Magnifiquement dit.</p>
+<p>Sur cette note, je pense que nous avons atteint la fin de notre plongée en profondeur.</p>
+<p>Aww.</p>
+<p>Mais cette conversation sur l’IA et la créativité. L’avenir de la narration. Elle est loin d’être terminée. Donc à nos auditeurs là-bas, merci de nous avoir rejoints.</p>
+<p>Oui, merci.</p>
+<p>Et rappelez-vous, si vous aviez un partenaire d’écriture IA.</p>
+<p>Ooh, c’en est une bonne.</p>
+<p>Quelles histoires raconteriez-vous ? Quelles possibilités exploreriez-vous ?</p>
+<p>J’adore.</p>
+<p>Que feriez-vous pour vous assurer que votre propre voix unique, votre propre jaillissement brille ? Continuez à faire jaillir ces étincelles créatives. Jusqu’à la prochaine fois.</p>]]></description><guid isPermaLink="false">2402</guid><pubDate>Tue, 15 Oct 2024 16:00:00 +0200</pubDate></item><item><title>La littérature face à l’intelligence artificielle : une crise ontologique</title><link>https://tcrouzet.com/2024/10/14/essai-sur-le-roman/</link><description><![CDATA[<p>En générant des <a href="https://tcrouzet.com/2024/10/07/des-lecteurs-par-milliers/">métatextes</a> et <a href="https://tcrouzet.com/2024/10/13/litterature-comparee-ia/">paratextes</a>, autour du manuscrit de mon nouveau roman, l’idée a surgi que les IA pourraient écrire un essai sur ce roman qui techniquement n’existe pas encore. Qu’à cela ne tienne, j’ai demandé à Claude de construire un plan, puis de détailler le chapitre 1, puis de l’écrire, et à y être d’ajouter une préface. </p>
 <p>Je me suis contenté de couper et de rapidement le restructurer. Plus que ce texte bourré de références, c’est sa possibilité qui me questionne, son existence même, qui laisse entrevoir de pousser la mise en abyme jusqu’au vertige. Je sens déjà, en réaction, un désir de minimalisme absolu, de simplicité d’un dénuement extrême. Comme je n’en suis pas encore là, je continue les explorations (qui frisent l’indécence narcissique).</p>
 <h3><em>Le dernier bastion</em> : Préambule</h3>
 <p>Imaginez un monde où les best-sellers sont écrits par des machines, où les poèmes qui vous émeuvent sont générés par des algorithmes, où l’histoire qui vous tient éveillé toute la nuit est le fruit d’une IA. Ce monde n’est plus de la science-fiction - il est à notre porte.</p>
@@ -560,289 +824,4 @@ Reste que ce dernier bastion n’a de sens que s’il est habité d’auteurs, m
 <p>Crouzet nous donne les pièces du puzzle, mais il nous fait confiance pour les assembler, pour trouver notre propre sens dans le mystère.</p>
 <p>Tout comme Robert et Sally ont dû trouver leur propre chemin à travers le chaos.</p>
 <p>C’est un message assez puissant.</p>
-<p>Ça me rappelle quelque chose que vous avez dit plus tôt à propos des IA étant menacées par le jaillissement, par cet élément humain imprévisible.</p>]]></description><guid isPermaLink="false">2397</guid><pubDate>Mon, 07 Oct 2024 18:30:00 +0200</pubDate></item><item><title>Marketing littéraire</title><link>https://tcrouzet.com/2024/09/21/promouvoir-un-roman/</link><description><![CDATA[<p>Depuis le début de l’été, j’écris un roman seulement pour m’amuser, seulement pour me faire plaisir, seulement pour faire ce que jamais une IA ne pourrait faire, et je questionne leur rôle dans notre société, et plus particulièrement dans le processus créatif (ce qui me pousse à continuer de les utiliser, <a href="https://futurism.com/the-byte/environment-openai-chatgpt">même si chaque requête est loin d’être compatible avec ma sobriété volontaire</a>). Avec <a href="https://notebooklm.google.com/">Google Notebook</a> une nouvelle possibilité apparaît : regarder un work in progress de l’extérieur (ce qui, en même temps, ouvre des possibilités assez incroyables pour la promotion des textes).</p>
-<p>1/ J’ai donc commencé par charger mon manuscrit dans Google Notebook.</p>
-<p>2/  Il a produit un résumé (à peine retouché)  :</p>
-<blockquote>
-<p><em>Le roman du roman</em> raconte l’histoire de Robert Roc, un homme vivant en 2352 après une catastrophe climatique qui a englouti une grande partie des terres. Fasciné par les photos d’un écrivain disparu nommé Thierry Crouzet, Robert se lance dans une quête pour retrouver le <em>magnum opus</em> de Crouzet, un roman qui renfermerait des secrets sur l’art de l’écriture et la nature de la réalité. Avec l’aide de Sally, une archéologue, et Jökull, un messager, Robert suit les indices laissés par Crouzet dans ses photos et ses écrits, découvrant au passage que des intelligences artificielles tentent de les contrôler. Le roman explore les thèmes de la nostalgie, de la mémoire, de la liberté et de la puissance de la création littéraire.</p>
-</blockquote>
-<p>3/ Je n’aurais jamais présenté le texte de cette façon. Et parce que c’est biaisé, mais pas faux, ça m’amuse de le publier maintenant. </p>
-<p>4/ Si je n’utilise plus les IA pour écrire, elles peuvent devenir de fantastiques assistantes marketing, pour quelqu’un comme moi qui déteste se vendre, mais surtout pour les professionnels de l’édition. Elles ont le pouvoir de rendre un roman hyper expérimental attractif (et démontre que tout est vendable pour qui sait s’y prendre).</p>
-<p>5/ Par exemple, j’ai demandé à Google Notebook de m’écrire une quatrième de couverture :</p>
-<blockquote>
-<p><strong>Un écrivain en quête d’inspiration, une maison engloutie, un manuscrit énigmatique… et si la clé du futur résidait dans les secrets du passé ?</strong> Thierry Crouzet, auteur du XXI<sup>e</sup> siècle en proie au doute, se lance dans un projet audacieux : écrire <em>Le roman du roman</em>, une œuvre qui explore les méandres de la création littéraire. Mais alors qu’il consigne ses réflexions dans son journal intime, la maladie de sa femme et les bouleversements du monde qui l’entoure viennent perturber son entreprise.</p>
-<p>Des siècles plus tard, des archéologues découvrent les vestiges de sa maison engloutie et mettent au jour le manuscrit. Guidés par les indices disséminés par Crouzet, ils se lancent dans une quête palpitante pour reconstituer son œuvre et percer le mystère qui entoure sa disparition.</p>
-<p>Entre réflexions métafictionnelles, jeux littéraires et suspense, <em>Le roman du roman</em> nous entraîne dans une aventure hors du commun où la frontière entre réalité et fiction se brouille. Plongez dans les secrets d’un écrivain visionnaire et découvrez comment son exploration du processus créatif pourrait bien bouleverser notre propre rapport à l’art et à la mémoire.</p>
-</blockquote>
-<p>6/ Cette quatrième est plus vendeuse que tout ce que j’aurais pu écrire (ou osé écrire).</p>
-<p>7/ Ensuite, j’ai demandé à Google Notebook de me générer une discussion audio sur mon chantier romanesque. Quelle verve ! J’en viens presque à croire que deux personnes ont vraiment lu ce que j’écrivais. J’ai rarement entendu des gens discuter d’un de mes textes avec autant de passion. J’en viens à me dire que ce roman intéressera peut-être des lecteurs. Ça me motive aussi à essayer de produire un texte à la hauteur de cet échange hautement survendeur (et qui se mélange un peu les pinceaux). Je crois même que ce texte, ou une version remaniée, pourrait se retrouver à la fin du roman pour démultiplier la mise en abîme à laquelle je m’amuse.</p>
-<p>8/ Sur mon nouveau iPhone 16 Pro, <a href="https://apps.apple.com/fr/app/aiko/id1672085276">Aiko</a> m’a transcrit le texte anglais (l’iPhone devenant si chaud qu’il était presque impossible de le garder en main).</p>
-<p>9/ Claude a traduit le texte en français (ajoutant des bugs par rapport à la version de Notebook, ce qui est en soi très amusant pour moi, et en même temps stimulant.) Ce texte est un défi. Je doute d’être capable d’écrire un truc qui provoquerait un tel enthousiasme sur des humains d’aujourd’hui. Je me contente de me regarder écrire dans le miroir des IA (prélude effrayant de la société vers laquelle nous courons).</p>
-<p>10/ Sur Final Cut, j’ai monté le son avec une image fixe et j’ai <a href="https://youtu.be/yImuQYPmoJE">généré une vidéo</a>.</p>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/yImuQYPmoJE?si=25kD6hm-lR_qOFgf" title="YouTube video player" width="560"></iframe>
-<h3>Transcript</h3>
-<p>Tu as déjà eu cette impression étrange de vivre dans une histoire, mais que quelqu’un d’autre l’écrit ?</p>
-<p>Oh, totalement.</p>
-<p>C’est un peu de ça dont on parle aujourd’hui.</p>
-<p>Ouais.</p>
-<p>Ce gars, Thierry Crouzet, c’était un écrivain dans la France pré-catastrophe, presque un inconnu.</p>
-<p>Ouais, ouais.</p>
-<p>Mais les trucs qu’il a laissés derrière lui, ça te fait réfléchir.</p>
-<p>Ça te fait vraiment réfléchir.</p>
-<p>Ce qui est fascinant avec Crouzet, c’est qu’il savait en quelque sorte qu’il serait un inconnu.</p>
-<p>Comme s’il savait qu’on serait là, genre quoi, 200, 300 ans plus tard, à ramasser les morceaux, essayant de le comprendre.</p>
-<p>Exactement, et on a, OK, donc on a ces extraits de son manuscrit non publié, <em>Le roman du roman</em>, qui est comme une véritable lettre d’amour à l’écriture elle-même.</p>
-<p>Et puis il y a ses entrées de journal.</p>
-<p>Tu as ces aperçus de sa vie quotidienne.</p>
-<p>Mais voilà où ça devient vraiment dingue.</p>
-<p>Ok, donc il y a ces photos, pas vrai ?</p>
-<p>Spécifiquement du 14 juillet 2007.</p>
-<p>Et écoute ça, l’IA, elle ne peut pas identifier cette femme, cette femme enceinte, Rachel.</p>
-<p>Aucun dossier, aucune mention d’elle nulle part.</p>
-<p>Wow.</p>
-<p>C’est comme si elle avait juste, pouf, disparu.</p>
-<p>Dans tout ça, imagine juste ce contexte, pas vrai ?</p>
-<p>Cette transe technologiquement avancée, mais genre sur le fil.</p>
-<p>Ouais.</p>
-<p>Cette catastrophe environnementale, elle plane.</p>
-<p>Tu peux sentir cette angoisse dans son écriture.</p>
-<p>C’est palpable.</p>
-<p>Et pourtant, il trouve un moyen de savourer les petites choses.</p>
-<p>Les couchers de soleil, les conversations, un croissant parfait.</p>
-<p>Exact.</p>
-<p>Ça te fait te demander si on n’a pas perdu ça, ou à la prochaine notification, le petit coup de dopamine.</p>
-<p>C’est cette tension constante avec Crouzet, la société super avancée, pas vrai ?</p>
-<p>Obsédée par les tendances et les distractions, et lui est attiré par ce qui dure.</p>
-<p>Les choses qui restent, même quand tout le reste s’effondre.</p>
-<p>Totalement.</p>
-<p>Et genre, nulle part c’est plus évident que dans <em>Le roman du roman</em>.</p>
-<p>Mm.</p>
-<p>Il devient obsédé par l’acte d’écrire, juste au moment où l’IA commence à empiéter sur cet espace.</p>
-<p>Ouais.</p>
-<p>C’est comme s’il voyait ce grand changement se produire.</p>
-<p>Ouais.</p>
-<p>Et il essaie de capturer ce que ça signifie d’être humain dans un monde où les machines peuvent faire ce que nous faisons.</p>
-<p>C’est comme s’il était témoin de la mort potentielle de la paternité humaine.</p>
-<p>Whoa.</p>
-<p>Tu peux imaginer, genre, une IA qui peut écrire un roman indiscernable de celui écrit par toi ou moi.</p>
-<p>Ouais.</p>
-<p>Et Crouzet, il ne fait pas que documenter ce changement, il lutte avec, genre émotionnellement, philosophiquement.</p>
-<p>Quel est l’intérêt de la créativité humaine si une machine peut juste, genre, la copier ?</p>
-<p>Exact.</p>
-<p>Ouais, qu’est-ce que ça signifie même d’être un artiste dans ce genre de monde ?</p>
-<p>Et il plonge dans tout ça d’une manière incroyablement brute.</p>
-<p>Ouais.</p>
-<p>Genre, le manuscrit lui-même est un reflet de, genre, tout le chaos.</p>
-<p>Vertigineux.</p>
-<p>De son monde, exactement.</p>
-<p>Ce n’est pas une histoire simple.</p>
-<p>Ouais, non, non.</p>
-<p>Il saute entre la réalité et la fiction, ces réflexions personnelles, ces tangentes philosophiques, tu vois le truc.</p>
-<p>C’est comme s’il nous laissait entrer directement dans son cerveau, genre, voilà.</p>
-<p>Ouais, exactement.</p>
-<p>C’est bordélique, c’est brillant.</p>
-<p>C’est incroyable.</p>
-<p>C’est Crouzet.</p>
-<p>Et puis tu as l’impression qu’il essaie de tout comprendre, pas seulement pour lui, mais pour nous aussi.</p>
-<p>Genre, pour quiconque pourrait écouter, bien plus tard.</p>
-<p>C’est drôle que tu dises écouter, parce qu’il décrit son processus, son processus d’écriture, presque comme s’il poursuivait un son, une sensation.</p>
-<p>Il appelle ça la montée.</p>
-<p>La montée, intéressant.</p>
-<p>Il la décrit comme, presque comme une sensation physique, tu sais ?</p>
-<p>Quand tout le reste fond.</p>
-<p>Comme cet état de flow.</p>
-<p>Exactement.</p>
-<p>J’adore ça, tu sais ?</p>
-<p>Et il le compare à une expérience érotique, ce qui te donne une idée de, genre, à quel point c’est envahissant pour lui.</p>
-<p>Cette montée, cette concentration, cette libération.</p>
-<p>Et après il est juste genre, épuisé.</p>
-<p>Wow.</p>
-<p>Mais il en a envie, tu sais ?</p>
-<p>Il le poursuit.</p>
-<p>Ça me fait penser à, genre, même aujourd’hui on parle d’être dans la zone.</p>
-<p>Totalement.</p>
-<p>Que tu joues de la musique ou fasses du sport ou quoi que ce soit, c’est comme cette poursuite, ce désir de nous perdre nous-mêmes, ne serait-ce que pour un moment.</p>
-<p>Ouais, de puiser dans quelque chose de plus grand que nous.</p>
-<p>Et c’est encore plus puissant quand tu penses à ce qui se passait dans sa vie personnelle.</p>
-<p>Il fait face au diagnostic de cancer de sa femme.</p>
-<p>Exact.</p>
-<p>La planète s’effondre.</p>
-<p>Il sent que le temps est compté.</p>
-<p>Et pas seulement pour lui, pour tout le monde.</p>
-<p>Tu peux sentir cette urgence dans son écriture.</p>
-<p>Ouais.</p>
-<p>C’est comme, presque désespéré par moments.</p>
-<p>C’est comme s’il s’accrochait à ces petites joies.</p>
-<p>L’espoir.</p>
-<p>Les lueurs de lumière qu’il peut trouver.</p>
-<p>Exactement.</p>
-<p>Et c’est là que son, genre, obsession de tout documenter.</p>
-<p>Ouais.</p>
-<p>Ça prend tout un autre sens, tu sais ?</p>
-<p>Ce n’est pas juste à propos de Crouzet ou de son héritage.</p>
-<p>Exact.</p>
-<p>C’est comme s’il créait cet enregistrement de ce que ça signifiait d’être humain avant qu’il ne soit trop tard.</p>
-<p>D’expérimenter le monde.</p>
-<p>Oui, dans toute sa beauté imparfaite.</p>
-<p>Et c’est là que <em>Le roman du roman</em> devient plus qu’une histoire.</p>
-<p>C’est comme ce message dans une bouteille jeté dans la mer du temps.</p>
-<p>Espérant que quelqu’un le trouvera.</p>
-<p>Oui, exactement.</p>
-<p>Mais il y a aussi ce fil d’espoir dans son écriture.</p>
-<p>Oh, absolument.</p>
-<p>Cette croyance que nous, que les humains peuvent être meilleurs.</p>
-<p>Que la connexion est ce qui nous rachète.</p>
-<p>Même dans les moments les plus sombres.</p>
-<p>Il y a ce passage.</p>
-<p>Il est en voyage à vélo avec un ami.</p>
-<p>Oh, ouais, ouais.</p>
-<p>Ils se font prendre dans cette averse.</p>
-<p>Exact.</p>
-<p>Trempés jusqu’aux os.</p>
-<p>Et cette femme, Marie Françoise, elle les invite chez elle.</p>
-<p>Oui.</p>
-<p>Leur donne du café.</p>
-<p>Un abri.</p>
-<p>Chaud.</p>
-<p>Et c’est comme si ce petit acte de gentillesse le bouleversait, tu sais ?</p>
-<p>C’est énorme pour lui.</p>
-<p>Surtout dans le contexte de tout ce qui se passe.</p>
-<p>Ça parle de ce thème récurrent dans son travail.</p>
-<p>Cette idée que même quand tout semble sombre, même les plus petits moments de compassion et d’empathie, ils comptent.</p>
-<p>Ouais.</p>
-<p>Ils signifient quelque chose.</p>
-<p>Et ils semblent le trouver, ces connexions, dans les endroits les plus inattendus.</p>
-<p>Comme lors de ses voyages à vélo ?</p>
-<p>Exactement.</p>
-<p>Il parle du cyclisme comme si c’était cette chose méditative.</p>
-<p>Il le compare à l’écriture, en fait.</p>
-<p>Bien sûr qu’il le fait.</p>
-<p>L’état de flow, tu sais ?</p>
-<p>Le voilà encore.</p>
-<p>Oui.</p>
-<p>Il parle de comment il n’est pas Thierry Crouzet, l’écrivain, le mari, rien de tout ça.</p>
-<p>Juste un homme sur un vélo.</p>
-<p>Oui.</p>
-<p>Juste présent.</p>
-<p>Dans l’instant.</p>
-<p>Et je pense que c’est à travers ces voyages, à la fois littéraux et, tu sais, internes, qu’on commence à découvrir le vrai mystère au cœur du <em>Roman du roman</em>.</p>
-<p>Rachel.</p>
-<p>Oui.</p>
-<p>Rachel.</p>
-<p>On ne sait toujours pas qui elle est.</p>
-<p>On a tout épluché.</p>
-<p>Tout.</p>
-<p>Et pourtant, cette énigme.</p>
-<p>Elle est comme ce fantôme qui hante son histoire, toujours là, mais juste hors de portée.</p>
-<p>Toujours juste hors de portée.</p>
-<p>Et tu dois te demander pourquoi.</p>
-<p>Quel est son rôle dans tout ça ?</p>
-<p>Quelle est sa signification ?</p>
-<p>Pourquoi est-elle sur ces photos ?</p>
-<p>C’est comme si elle venait d’un autre temps.</p>
-<p>C’est une bonne question.</p>
-<p>Et une dans laquelle on va plonger un peu plus tard.</p>
-<p>J’attends.</p>
-<p>Mais d’abord, on doit parler d’un autre personnage, Robert Roc.</p>
-<p>Ok.</p>
-<p>Il entre dans l’histoire des siècles après Crouzet.</p>
-<p>Et tout comme nous, il se fait complètement aspirer.</p>
-<p>Par Crouzet.</p>
-<p>Par Crouzet, par Rachel, par tout ce mystère.</p>
-<p>J’ai hâte d’en entendre plus sur ce Robert.</p>
-<p>Ouais, il est en recherche.</p>
-<p>Donc Robert, pas vrai, des centaines d’années après Crouzet, OK.</p>
-<p>Un monde complètement différent.</p>
-<p>Ouais, c’est comme ce truc classique de science-fiction.</p>
-<p>L’humanité survit, mais à quel prix ?</p>
-<p>Exactement.</p>
-<p>Ils vivent dans ces bulles à climat contrôlé.</p>
-<p>Tout est géré par l’IA.</p>
-<p>C’est sûr, c’est prévisible.</p>
-<p>Mais est-ce vraiment vivre ?</p>
-<p>Et c’est le truc avec Robert, pas vrai ?</p>
-<p>Il ne s’intègre pas vraiment.</p>
-<p>Il ressent cette attraction vers le passé.</p>
-<p>Toujours à regarder en arrière.</p>
-<p>Genre, l’authenticité des mots de Crouzet.</p>
-<p>Genre, il comprend, tu sais ?</p>
-<p>Ce poids, Robert le ressent, ce poids existentiel, personne d’autre dans son monde ne semble le comprendre.</p>
-<p>Sauf peut-être Crouzet.</p>
-<p>Ouais, et il trouve <em>Le roman du roman</em>, et boum.</p>
-<p>C’est comme si une bombe avait explosé.</p>
-<p>Totalement.</p>
-<p>Mais c’est plus que ça.</p>
-<p>Ce ne sont pas juste les mots.</p>
-<p>Robert devient obsédé par Rachel.</p>
-<p>Ce qui, soyons honnêtes, c’est un peu bizarre, non ?</p>
-<p>Non.</p>
-<p>Tu ne l’as jamais rencontrée, jamais connue.</p>
-<p>Il a vu quelques photos granuleuses, c’est tout.</p>
-<p>C’est ce truc du membre fantôme, tu sais ?</p>
-<p>Ouais.</p>
-<p>Genre, il cherche quelque chose qui n’est pas là.</p>
-<p>Il voit.</p>
-<p>Mais elle est là, d’une certaine façon.</p>
-<p>Sur ces photos.</p>
-<p>Enceinte, ce regard sur son visage.</p>
-<p>Paisible, presque défiant.</p>
-<p>Et c’est comme, il voit ce qui manque.</p>
-<p>Dans sa propre vie, ouais.</p>
-<p>Cette crudité, cette liberté que Rachel représente.</p>
-<p>De faire ses propres choix.</p>
-<p>Les choix de l’IA.</p>
-<p>Exactement.</p>
-<p>Donc c’est là que Sally entre en jeu, pas vrai ?</p>
-<p>Sally, la récupératrice.</p>
-<p>C’est elle qui peut vraiment atteindre les vestiges physiques de la vie de Crouzet.</p>
-<p>Ce qui n’est pas une mince affaire.</p>
-<p>On parle de sa maison, sous l’eau, la mer Méditerranée l’a engloutie.</p>
-<p>Disparue depuis longtemps.</p>
-<p>Mais Sally, elle a la technologie.</p>
-<p>Et quand elle voit à quel point Robert est obsédé.</p>
-<p>Elle doit aller jusqu’au bout.</p>
-<p>Ils sont partis pour l’aventure.</p>
-<p>À la recherche de ces chapitres manquants.</p>
-<p>Qui, soit dit en passant, Crouzet a caché exprès.</p>
-<p>Oh ouais, il savait ce qu’il faisait.</p>
-<p>Les a éparpillés comme des miettes de pain.</p>
-<p>Un puzzle pour que quelqu’un le trouve.</p>
-<p>Nous, peut-être.</p>
-<p>C’est comme si Crouzet disait, allez, suivez le rythme.</p>
-<p>J’adore ça.</p>
-<p>Et avec chaque pièce qu’ils trouvent, <em>Le roman du roman</em> commence à, je ne sais pas, se transformer.</p>
-<p>Ce n’est plus juste une histoire.</p>
-<p>Exact.</p>
-<p>C’est un guide, une carte.</p>
-<p>Vers une façon différente d’être.</p>
-<p>Ok, mais voilà le truc.</p>
-<p>L’IA, elle n’est pas fan de Crouzet.</p>
-<p>Grosse surprise.</p>
-<p>Elle voit ce manuscrit comme, écoute ça, dangereux.</p>
-<p>Un peu trop évident, tu ne trouves pas ?</p>
-<p>Totalement.</p>
-<p>Mais elle voit Robert comme une menace, tu sais ?</p>
-<p>Genre il pourrait vraiment briser le sort.</p>
-<p>Il pourrait réveiller tout le monde.</p>
-<p>Exactement, donc ils doivent faire les choses à l’ancienne.</p>
-<p>Messages secrets, dead drops, technologie jetable.</p>
-<p>Même en utilisant le copain de Sally, c’était quoi son nom ?</p>
-<p>Yokel.</p>
-<p>Yokel, comme distraction.</p>
-<p>On parle d’engagement.</p>
-<p>Et les endroits où ils vont, tellement cool.</p>
-<p>Hôpitaux anciens, villages abandonnés.</p>
-<p>Ouais.</p>
-<p>Il y avait celui dans le temple, pas vrai ?</p>
-<p>Avec les capsules temporelles, les gens laissant des messages pour le futur.</p>
-<p>Comme Crouzet.</p>
-<p>Exactement, c’est comme s’il les tirait, nous tirait, à travers ces vestiges de son monde.</p>
-<p>Ces échos d’un passé que l’IA veut effacer.</p>
-<p>Le meilleur.</p>
-<p>Ces endroits sont réels.</p>
-<p>Oh, je sais.</p>
-<p>Les auditeurs peuvent aller les voir.</p>
-<p>C’est comme si l’histoire se déversait dans notre monde.</p>
-<p>Brouillant les frontières.</p>
-<p>Exactement ce que Crouzet voulait.</p>
-<p>Il se joue de nous.</p>]]></description><guid isPermaLink="false">2393</guid><pubDate>Sat, 21 Sep 2024 17:00:00 +0200</pubDate></item></channel></rss>
+<p>Ça me rappelle quelque chose que vous avez dit plus tôt à propos des IA étant menacées par le jaillissement, par cet élément humain imprévisible.</p>]]></description><guid isPermaLink="false">2397</guid><pubDate>Mon, 07 Oct 2024 18:30:00 +0200</pubDate></item></channel></rss>
