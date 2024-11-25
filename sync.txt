@@ -1,60 +1,35 @@
-Completed 35.9 KiB/~422.1 KiB (213.2 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 35.8 KiB/~421.8 KiB (159.4 KiB/s) with ~5 file(s) remaining (calculating...)
 upload: ../../static/2024/11/25/octobre-2024/index.html to s3://tcrouzet.com/2024/11/25/octobre-2024/index.html
-Completed 35.9 KiB/~422.1 KiB (213.2 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 163.1 KiB/~422.1 KiB (398.1 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/feeds/carnet-de-route.xml to s3://tcrouzet.com/feeds/carnet-de-route.xml
-Completed 163.1 KiB/~422.1 KiB (398.1 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 195.0 KiB/~422.1 KiB (434.5 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 35.8 KiB/~421.8 KiB (159.4 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 67.6 KiB/~421.8 KiB (180.1 KiB/s) with ~4 file(s) remaining (calculating...)
 upload: ../../static/2024/11/25/octobre-2024/content.html to s3://tcrouzet.com/2024/11/25/octobre-2024/content.html
-Completed 195.0 KiB/~422.1 KiB (434.5 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 312.5 KiB/~422.1 KiB (468.9 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 312.5 KiB/~422.1 KiB (468.9 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 422.1 KiB/~422.1 KiB (596.6 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 67.6 KiB/~421.8 KiB (180.1 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 177.3 KiB/~421.8 KiB (398.7 KiB/s) with ~3 file(s) remaining (calculating...)
 upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
-Completed 422.1 KiB/~422.1 KiB (596.6 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 425.3 KiB/~1.2 MiB (61.7 KiB/s) with ~14 file(s) remaining (calculating...)  
-upload: ../../static/images_tc/2024/11/2024-10-31-171746-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-31-171746-lamaison-250.webp
-Completed 425.3 KiB/~1.2 MiB (61.7 KiB/s) with ~13 file(s) remaining (calculating...)
-Completed 426.4 KiB/~1.2 MiB (61.8 KiB/s) with ~13 file(s) remaining (calculating...)
+Completed 177.3 KiB/~421.8 KiB (398.7 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 294.7 KiB/~421.8 KiB (358.5 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
+Completed 294.7 KiB/~421.8 KiB (358.5 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 421.8 KiB/~421.8 KiB (369.6 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/feeds/carnet-de-route.xml to s3://tcrouzet.com/feeds/carnet-de-route.xml
+Completed 421.8 KiB/~421.8 KiB (369.6 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 444.7 KiB/~508.2 KiB (42.1 KiB/s) with ~6 file(s) remaining (calculating...) 
+upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html          
+Completed 444.7 KiB/~508.2 KiB (42.1 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 445.9 KiB/~508.2 KiB (41.8 KiB/s) with ~5 file(s) remaining (calculating...)
 upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 426.4 KiB/~1.2 MiB (61.8 KiB/s) with ~12 file(s) remaining (calculating...)
-Completed 586.8 KiB/~1.2 MiB (85.0 KiB/s) with ~12 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2024/11/2024-10-31-160115-LoupianetCastelnau-de-Guers-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-31-160115-LoupianetCastelnau-de-Guers-1024.webp
-Completed 586.8 KiB/~1.2 MiB (85.0 KiB/s) with ~11 file(s) remaining (calculating...)
-Completed 593.4 KiB/~1.2 MiB (85.7 KiB/s) with ~11 file(s) remaining (calculating...)
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                        
-Completed 593.4 KiB/~1.2 MiB (85.7 KiB/s) with ~10 file(s) remaining (calculating...)
-Completed 616.3 KiB/~1.2 MiB (88.9 KiB/s) with ~10 file(s) remaining (calculating...)
-upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html        
-Completed 616.3 KiB/~1.2 MiB (88.9 KiB/s) with ~9 file(s) remaining (calculating...)
-Completed 872.3 KiB/~1.2 MiB (125.8 KiB/s) with ~9 file(s) remaining (calculating...)
-Completed 882.4 KiB/~1.2 MiB (127.2 KiB/s) with ~9 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2024/11/2024-10-31-160115-LoupianetCastelnau-de-Guers-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-31-160115-LoupianetCastelnau-de-Guers-250.webp
-Completed 882.4 KiB/~1.2 MiB (127.2 KiB/s) with ~8 file(s) remaining (calculating...)
-Completed 912.3 KiB/1.2 MiB (130.8 KiB/s) with 9 file(s) remaining                   
+Completed 445.9 KiB/~508.2 KiB (41.8 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 451.2 KiB/~508.2 KiB (42.3 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                           
+Completed 451.2 KiB/~508.2 KiB (42.3 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 452.3 KiB/~508.2 KiB (42.4 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                         
+Completed 452.3 KiB/~508.2 KiB (42.4 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 482.3 KiB/~508.2 KiB (45.2 KiB/s) with ~2 file(s) remaining (calculating...)
 upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 912.3 KiB/1.2 MiB (130.8 KiB/s) with 8 file(s) remaining
-Completed 977.9 KiB/1.2 MiB (140.2 KiB/s) with 8 file(s) remaining
-upload: ../../static/images_tc/2024/11/2024-10-31-171746-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-31-171746-lamaison.webp
-Completed 977.9 KiB/1.2 MiB (140.2 KiB/s) with 7 file(s) remaining
-Completed 978.2 KiB/1.2 MiB (138.7 KiB/s) with 7 file(s) remaining
-upload: ../../static/update.json to s3://tcrouzet.com/update.json 
-Completed 978.2 KiB/1.2 MiB (138.7 KiB/s) with 6 file(s) remaining
-Completed 1010.2 KiB/1.2 MiB (143.2 KiB/s) with 6 file(s) remaining
-upload: ../../static/images_tc/2024/11/2024-10-31-171746-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-31-171746-lamaison-1024.webp
-Completed 1010.2 KiB/1.2 MiB (143.2 KiB/s) with 5 file(s) remaining
-Completed 1.0 MiB/1.2 MiB (146.7 KiB/s) with 5 file(s) remaining   
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
-Completed 1.0 MiB/1.2 MiB (146.7 KiB/s) with 4 file(s) remaining
-Completed 1.1 MiB/1.2 MiB (163.4 KiB/s) with 4 file(s) remaining
-upload: ../../static/images_tc/2024/11/2024-10-31-160115-LoupianetCastelnau-de-Guers.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-31-160115-LoupianetCastelnau-de-Guers.webp
-Completed 1.1 MiB/1.2 MiB (163.4 KiB/s) with 3 file(s) remaining
-Completed 1.2 MiB/1.2 MiB (166.7 KiB/s) with 3 file(s) remaining
+Completed 482.3 KiB/~508.2 KiB (45.2 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 508.2 KiB/~508.2 KiB (47.5 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/tag/carnet-de-route/index.html to s3://tcrouzet.com/tag/carnet-de-route/index.html
-Completed 1.2 MiB/1.2 MiB (166.7 KiB/s) with 2 file(s) remaining
-Completed 1.2 MiB/1.2 MiB (169.4 KiB/s) with 2 file(s) remaining
-upload: ../../static/tag/carnet-de-route/contener3.html to s3://tcrouzet.com/tag/carnet-de-route/contener3.html
-Completed 1.2 MiB/1.2 MiB (169.4 KiB/s) with 1 file(s) remaining
-Completed 1.2 MiB/1.2 MiB (172.4 KiB/s) with 1 file(s) remaining
-upload: ../../static/tag/carnet-de-route/contener2.html to s3://tcrouzet.com/tag/carnet-de-route/contener2.html
+Completed 508.2 KiB/~508.2 KiB (47.5 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 508.4 KiB/508.4 KiB (45.8 KiB/s) with 1 file(s) remaining                   
+upload: ../../static/update.json to s3://tcrouzet.com/update.json                     
