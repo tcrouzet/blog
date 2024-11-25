@@ -1,15 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2024/11/25/octobre-2024/index.html</loc>
+    <lastmod>2024-11-25T09:43:39+01:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/11/2024-10-27-165631-lamaison.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2024/10/15/cannibalisme-litteraire/index.html</loc>
-    <lastmod>2024-10-15T15:38:44+02:00</lastmod>
+    <lastmod>2024-10-21T10:37:39+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/10/abyme.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/2024/10/14/essai-sur-le-roman/index.html</loc>
-    <lastmod>2024-10-14T20:35:26+02:00</lastmod>
+    <lastmod>2024-10-16T08:29:19+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/10/reading2.webp</image:loc>
     </image:image>

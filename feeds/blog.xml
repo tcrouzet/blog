@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>blog - Thierry Crouzet</title><link>https://tcrouzet.com/blog.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/blog.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Tue, 15 Oct 2024 21:09:00 +0200</lastBuildDate><item><title>La métafiction : arme de résistance humaine contre les IA</title><link>https://tcrouzet.com/2024/10/15/cannibalisme-litteraire/</link><description><![CDATA[<p>Pousser la perversion un cran plus loin. <a href="https://tcrouzet.com/tag/romanduroman/">Après avoir généré des articles au sujet de mon nouveau manuscrit</a>, j’ai collé ces articles dans <a href="https://notebooklm.google.com/">NotebookLM</a> pour générer un entretien audio au sujet de ces notes. La traduction automatique de la transcription est encore une fois surréaliste.</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>blog - Thierry Crouzet</title><link>https://tcrouzet.com/blog.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/blog.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Mon, 25 Nov 2024 09:44:48 +0100</lastBuildDate><item><title>La métafiction : arme de résistance humaine contre les IA</title><link>https://tcrouzet.com/2024/10/15/cannibalisme-litteraire/</link><description><![CDATA[<p>Pousser la perversion un cran plus loin. <a href="https://tcrouzet.com/tag/romanduroman/">Après avoir généré des articles au sujet de mon nouveau manuscrit</a>, j’ai collé ces articles dans <a href="https://notebooklm.google.com/">NotebookLM</a> pour générer un entretien audio au sujet de ces notes. La traduction automatique de la transcription est encore une fois surréaliste.</p>
 <p>On dirait que le roman a été lu, compris, analysé, mis en perspective alors que NotebookLM n’a eu accès qu’à des résumés, c’est ça qui est extraordinaire. On peut avoir une idée de roman, esquisser quelques lignes, et les IA peuvent donner l’illusion qu’il est réel, faisant même jaillir des points en substance dans le projet, mais qui n’ont pas nécessairement été développés. Le plus dingue, une théorie émerge : la métafiction comme arme pour donner sens au monde, et lutter contre sa falsification, que ce soit par les IA et les fake news. Ce serait l’élément humain.</p>
 <p>Tous ces textes pourraient avoir leur place à la fin du roman. Ils en reprennent les thèmes sous de nouveaux points de vue et prolongent mon travail, presque le rendant désormais inutile, ce qui n’est pas sans me tourmenter. Ai-je encore envie de demander à un humain de me lire ? Est-ce que quelqu’un a envie de me lire après les IA ? Est-ce que j’ai terminé par me suicider en tant qu’auteur ?</p>
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/96OR_CNOpjo?si=aoIFGmG1zadsgiKD" title="YouTube video player" width="560"></iframe>
@@ -135,11 +135,16 @@
 <p>Ça fait se demander, à quoi ressemblera ce genre à l’ère du contenu généré par l’IA, et, tu sais…</p>
 <p>La réalité virtuelle.</p>
 <p>Ouais.</p>
-<p>Vivons-nous déjà dans un monde métafictionnel sans même nous en rendre compte ?</p>
-<p>Whoa, c’est une pensée qui fait exploser le cerveau.</p>
-<p>Ouais.</p>
-<p>C’est comme si nous étions tous des personnages dans une gigantesque simulation.</p>
-<p>Ouais.</p>
+<pre><code>Vivons-nous déjà dans un monde métafictionnel sans même nous en rendre compte ?
+
+Whoa, c’est une pensée qui fait exploser le cerveau.
+
+Ouais.
+
+C’est comme si nous étions tous des personnages dans une gigantesque simulation.
+
+Ouais.
+</code></pre>
 <p>D’accord, maintenant, je commence vraiment à ressentir ces vibrations de <em>Matrix</em>.</p>
 <p>Je te laisse méditer là-dessus.</p>
 <p>Mais tu as touché quelque chose de vraiment important.</p>
@@ -264,7 +269,7 @@
 <p>Quelles histoires raconteriez-vous ? Quelles possibilités exploreriez-vous ?</p>
 <p>J’adore.</p>
 <p>Que feriez-vous pour vous assurer que votre propre voix unique, votre propre jaillissement brille ? Continuez à faire jaillir ces étincelles créatives. Jusqu’à la prochaine fois.</p>]]></description><guid isPermaLink="false">2402</guid><pubDate>Tue, 15 Oct 2024 16:00:00 +0200</pubDate></item><item><title>La littérature face à l’intelligence artificielle : une crise ontologique</title><link>https://tcrouzet.com/2024/10/14/essai-sur-le-roman/</link><description><![CDATA[<p>En générant des <a href="https://tcrouzet.com/2024/10/07/des-lecteurs-par-milliers/">métatextes</a> et <a href="https://tcrouzet.com/2024/10/13/litterature-comparee-ia/">paratextes</a> autour du manuscrit de mon nouveau roman, l’idée a surgi que les IA pourraient écrire un essai sur ce roman qui techniquement n’existe pas encore. Qu’à cela ne tienne, j’ai demandé à Claude de construire un plan, puis de détailler le chapitre 1, puis de l’écrire, et à y être d’ajouter une préface. </p>
-<p>Je me suis contenté de couper et de rapidement  restructurer. Plus que ce texte bourré de références, c’est sa possibilité qui me questionne, son existence même, qui laisse entrevoir de pousser la mise en abyme jusqu’au vertige. Je sens déjà, en réaction, un désir de minimalisme absolu, de simplicité d’un dénuement extrême. Comme je n’en suis pas encore là, je continue les explorations (qui frisent l’indécence narcissique).</p>
+<p>Je me suis contenté de couper et de rapidement restructurer. Plus que ce texte bourré de références, c’est sa possibilité qui me questionne, son existence même, qui laisse entrevoir de pousser la mise en abyme jusqu’au vertige. Je sens déjà, en réaction, un désir de minimalisme absolu, de simplicité d’un dénuement extrême. Comme je n’en suis pas encore là, je continue les explorations (qui frisent l’indécence narcissique).</p>
 <h3><em>Le dernier bastion</em> : Préambule</h3>
 <p>Imaginez un monde où les best-sellers sont écrits par des machines, où les poèmes qui vous émeuvent sont générés par des algorithmes, où l’histoire qui vous tient éveillé toute la nuit est le fruit d’une IA. Ce monde n’est plus de la science-fiction - il est à notre porte.</p>
 <p>Alors que les IA produisent quotidiennement des milliards de mots, des images, des vidéos et des musiques, une question vertigineuse se pose : la créativité humaine est-elle en voie d’extinction ?</p>

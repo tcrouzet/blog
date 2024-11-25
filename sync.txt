@@ -1,50 +1,296 @@
-Completed 26.2 KiB/~350.2 KiB (180.2 KiB/s) with ~7 file(s) remaining (calculating...)
+Completed 26.2 KiB/~838.5 KiB (168.7 KiB/s) with ~13 file(s) remaining (calculating...)
 upload: ../../static/2024/10/14/essai-sur-le-roman/content.html to s3://tcrouzet.com/2024/10/14/essai-sur-le-roman/content.html
-Completed 26.2 KiB/~350.2 KiB (180.2 KiB/s) with ~6 file(s) remaining (calculating...)
-Completed 55.8 KiB/~350.2 KiB (251.6 KiB/s) with ~6 file(s) remaining (calculating...)
-upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html             
-Completed 55.8 KiB/~350.2 KiB (251.6 KiB/s) with ~5 file(s) remaining (calculating...)
-Completed 86.4 KiB/~350.2 KiB (342.4 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 26.2 KiB/~838.5 KiB (168.7 KiB/s) with ~12 file(s) remaining (calculating...)
+Completed 55.5 KiB/~838.5 KiB (153.2 KiB/s) with ~12 file(s) remaining (calculating...)
+upload: ../../static/2024/index.html to s3://tcrouzet.com/2024/index.html              
+Completed 55.5 KiB/~838.5 KiB (153.2 KiB/s) with ~11 file(s) remaining (calculating...)
+Completed 86.1 KiB/~838.5 KiB (237.2 KiB/s) with ~11 file(s) remaining (calculating...)
 upload: ../../static/2024/10/14/essai-sur-le-roman/index.html to s3://tcrouzet.com/2024/10/14/essai-sur-le-roman/index.html
-Completed 86.4 KiB/~350.2 KiB (342.4 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 109.2 KiB/~350.2 KiB (416.2 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/2024/10/15/cannibalisme-litteraire/content.html to s3://tcrouzet.com/2024/10/15/cannibalisme-litteraire/content.html
-Completed 109.2 KiB/~350.2 KiB (416.2 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 136.2 KiB/~350.2 KiB (420.7 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 86.1 KiB/~838.5 KiB (237.2 KiB/s) with ~10 file(s) remaining (calculating...)
+Completed 113.1 KiB/~838.5 KiB (310.9 KiB/s) with ~10 file(s) remaining (calculating...)
 upload: ../../static/2024/10/15/cannibalisme-litteraire/index.html to s3://tcrouzet.com/2024/10/15/cannibalisme-litteraire/index.html
-Completed 136.2 KiB/~350.2 KiB (420.7 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 240.5 KiB/~350.2 KiB (560.9 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 240.5 KiB/~350.2 KiB (560.9 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 350.2 KiB/~350.2 KiB (736.7 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 113.1 KiB/~838.5 KiB (310.9 KiB/s) with ~9 file(s) remaining (calculating...)
+Completed 222.7 KiB/~838.5 KiB (550.0 KiB/s) with ~9 file(s) remaining (calculating...)
 upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
-Completed 350.2 KiB/~350.2 KiB (736.7 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 355.7 KiB/~440.2 KiB (44.2 KiB/s) with ~7 file(s) remaining (calculating...) 
-upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
-Completed 355.7 KiB/~440.2 KiB (44.2 KiB/s) with ~6 file(s) remaining (calculating...)
-Completed 382.8 KiB/~467.3 KiB (47.1 KiB/s) with ~7 file(s) remaining (calculating...)
-upload: ../../static/tag/netlitterature/index.html to s3://tcrouzet.com/tag/netlitterature/index.html
-Completed 382.8 KiB/~467.3 KiB (47.1 KiB/s) with ~6 file(s) remaining (calculating...)
-Completed 383.9 KiB/~467.3 KiB (47.2 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 222.7 KiB/~838.5 KiB (550.0 KiB/s) with ~8 file(s) remaining (calculating...)
+Completed 245.6 KiB/~838.5 KiB (605.3 KiB/s) with ~8 file(s) remaining (calculating...)
+upload: ../../static/2024/10/15/cannibalisme-litteraire/content.html to s3://tcrouzet.com/2024/10/15/cannibalisme-litteraire/content.html
+Completed 245.6 KiB/~838.5 KiB (605.3 KiB/s) with ~7 file(s) remaining (calculating...)
+Completed 264.1 KiB/~838.5 KiB (650.1 KiB/s) with ~7 file(s) remaining (calculating...)
+upload: ../../static/2024/contener2.html to s3://tcrouzet.com/2024/contener2.html      
+Completed 264.1 KiB/~838.5 KiB (650.1 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 295.0 KiB/~838.5 KiB (667.9 KiB/s) with ~6 file(s) remaining (calculating...)
+upload: ../../static/2024/11/25/octobre-2024/content.html to s3://tcrouzet.com/2024/11/25/octobre-2024/content.html
+Completed 295.0 KiB/~838.5 KiB (667.9 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 324.6 KiB/~838.5 KiB (660.1 KiB/s) with ~5 file(s) remaining (calculating...)
+upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html              
+Completed 324.6 KiB/~838.5 KiB (660.1 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 359.5 KiB/~838.5 KiB (717.8 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/2024/11/25/octobre-2024/index.html to s3://tcrouzet.com/2024/11/25/octobre-2024/index.html
+Completed 359.5 KiB/~838.5 KiB (717.8 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 485.6 KiB/~838.5 KiB (683.4 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/feeds/carnet-de-route.xml to s3://tcrouzet.com/feeds/carnet-de-route.xml
+Completed 485.6 KiB/~838.5 KiB (683.4 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 722.0 KiB/~838.5 KiB (908.1 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/archives/index.html to s3://tcrouzet.com/archives/index.html      
+Completed 722.0 KiB/~838.5 KiB (908.1 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 838.5 KiB/~838.5 KiB (1010.1 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                 
+Completed 838.5 KiB/~838.5 KiB (1010.1 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 891.3 KiB/~5.1 MiB (122.5 KiB/s) with ~84 file(s) remaining (calculating...)  
+upload: ../../static/images_tc/2024/11/2024-10-08-192642-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-08-192642-lamaison-1024.webp
+Completed 891.3 KiB/~5.1 MiB (122.5 KiB/s) with ~83 file(s) remaining (calculating...)
+Completed 897.3 KiB/~5.1 MiB (120.9 KiB/s) with ~83 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/11/2024-10-10-185943-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-10-185943-lamaison-250.webp
+Completed 897.3 KiB/~5.1 MiB (120.9 KiB/s) with ~82 file(s) remaining (calculating...)
+Completed 902.6 KiB/~5.1 MiB (121.6 KiB/s) with ~82 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/11/2024-10-12-185600-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-12-185600-lamaison-250.webp
+Completed 902.6 KiB/~5.1 MiB (121.6 KiB/s) with ~81 file(s) remaining (calculating...)
+Completed 909.2 KiB/~5.1 MiB (121.6 KiB/s) with ~81 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/11/2024-10-08-192642-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-08-192642-lamaison-250.webp
+Completed 909.2 KiB/~5.1 MiB (121.6 KiB/s) with ~80 file(s) remaining (calculating...)
+Completed 914.4 KiB/5.1 MiB (120.0 KiB/s) with 81 file(s) remaining                   
+upload: ../../static/images_tc/2024/11/2024-10-10-195340-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-10-195340-lamaison-250.webp
+Completed 914.4 KiB/5.1 MiB (120.0 KiB/s) with 80 file(s) remaining
+Completed 981.1 KiB/5.1 MiB (128.7 KiB/s) with 80 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-10-195340-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-10-195340-lamaison-1024.webp
+Completed 981.1 KiB/5.1 MiB (128.7 KiB/s) with 79 file(s) remaining
+Completed 1.0 MiB/5.1 MiB (135.9 KiB/s) with 79 file(s) remaining  
+upload: ../../static/images_tc/2024/11/2024-10-12-185600-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-12-185600-lamaison-1024.webp
+Completed 1.0 MiB/5.1 MiB (135.9 KiB/s) with 78 file(s) remaining
+Completed 1.1 MiB/5.1 MiB (141.4 KiB/s) with 78 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-13-131720-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-13-131720-lamaison-1024.webp
+Completed 1.1 MiB/5.1 MiB (141.4 KiB/s) with 77 file(s) remaining
+Completed 1.1 MiB/5.1 MiB (151.3 KiB/s) with 77 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-10-185943-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-10-185943-lamaison-1024.webp
+Completed 1.1 MiB/5.1 MiB (151.3 KiB/s) with 76 file(s) remaining
+Completed 1.2 MiB/5.1 MiB (164.2 KiB/s) with 76 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-08-192642-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-08-192642-lamaison.webp
+Completed 1.2 MiB/5.1 MiB (164.2 KiB/s) with 75 file(s) remaining
+Completed 1.4 MiB/5.1 MiB (188.4 KiB/s) with 75 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-10-185943-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-10-185943-lamaison.webp
+Completed 1.4 MiB/5.1 MiB (188.4 KiB/s) with 74 file(s) remaining
+Completed 1.5 MiB/5.1 MiB (202.0 KiB/s) with 74 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-12-185600-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-12-185600-lamaison.webp
+Completed 1.5 MiB/5.1 MiB (202.0 KiB/s) with 73 file(s) remaining
+Completed 1.5 MiB/5.1 MiB (202.4 KiB/s) with 73 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-13-131720-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-13-131720-lamaison-250.webp
+Completed 1.5 MiB/5.1 MiB (202.4 KiB/s) with 72 file(s) remaining
+Completed 1.7 MiB/5.1 MiB (219.6 KiB/s) with 72 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-10-195340-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-10-195340-lamaison.webp
+Completed 1.7 MiB/5.1 MiB (219.6 KiB/s) with 71 file(s) remaining
+Completed 1.7 MiB/5.1 MiB (219.8 KiB/s) with 71 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-13-184042-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-13-184042-lamaison-250.webp
+Completed 1.7 MiB/5.1 MiB (219.8 KiB/s) with 70 file(s) remaining
+Completed 1.7 MiB/5.1 MiB (223.5 KiB/s) with 70 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-13-192003-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-13-192003-lamaison-1024.webp
+Completed 1.7 MiB/5.1 MiB (223.5 KiB/s) with 69 file(s) remaining
+Completed 1.7 MiB/5.1 MiB (223.7 KiB/s) with 69 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-13-192003-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-13-192003-lamaison-250.webp
+Completed 1.7 MiB/5.1 MiB (223.7 KiB/s) with 68 file(s) remaining
+Completed 1.8 MiB/5.1 MiB (234.2 KiB/s) with 68 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-13-131720-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-13-131720-lamaison.webp
+Completed 1.8 MiB/5.1 MiB (234.2 KiB/s) with 67 file(s) remaining
+Completed 1.9 MiB/5.1 MiB (239.9 KiB/s) with 67 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-13-184042-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-13-184042-lamaison-1024.webp
+Completed 1.9 MiB/5.1 MiB (239.9 KiB/s) with 66 file(s) remaining
+Completed 1.9 MiB/5.1 MiB (240.9 KiB/s) with 66 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-18-184728-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-18-184728-lamaison-250.webp
+Completed 1.9 MiB/5.1 MiB (240.9 KiB/s) with 65 file(s) remaining
+Completed 1.9 MiB/5.1 MiB (249.7 KiB/s) with 65 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-13-192003-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-13-192003-lamaison.webp
+Completed 1.9 MiB/5.1 MiB (249.7 KiB/s) with 64 file(s) remaining
+Completed 1.9 MiB/5.1 MiB (247.5 KiB/s) with 64 file(s) remaining
+Completed 2.0 MiB/5.1 MiB (250.6 KiB/s) with 64 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-19-094335-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-19-094335-lamaison-1024.webp
+Completed 2.0 MiB/5.1 MiB (250.6 KiB/s) with 63 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-19-094335-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-19-094335-lamaison-250.webp
+Completed 2.0 MiB/5.1 MiB (250.6 KiB/s) with 62 file(s) remaining
+Completed 2.1 MiB/5.1 MiB (272.0 KiB/s) with 62 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-18-184728-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-18-184728-lamaison.webp
+Completed 2.1 MiB/5.1 MiB (272.0 KiB/s) with 61 file(s) remaining
+Completed 2.2 MiB/5.1 MiB (271.7 KiB/s) with 61 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-073109-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-073109-lamaison-1024.webp
+Completed 2.2 MiB/5.1 MiB (271.7 KiB/s) with 60 file(s) remaining
+Completed 2.2 MiB/5.1 MiB (276.8 KiB/s) with 60 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-073109-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-073109-lamaison.webp
+Completed 2.2 MiB/5.1 MiB (276.8 KiB/s) with 59 file(s) remaining
+Completed 2.3 MiB/5.1 MiB (283.0 KiB/s) with 59 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-19-094335-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-19-094335-lamaison.webp
+Completed 2.3 MiB/5.1 MiB (283.0 KiB/s) with 58 file(s) remaining
+Completed 2.3 MiB/5.1 MiB (286.1 KiB/s) with 58 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-073149-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-073149-lamaison-1024.webp
+Completed 2.3 MiB/5.1 MiB (286.1 KiB/s) with 57 file(s) remaining
+Completed 2.3 MiB/5.1 MiB (286.3 KiB/s) with 57 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-073109-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-073109-lamaison-250.webp
+Completed 2.3 MiB/5.1 MiB (286.3 KiB/s) with 56 file(s) remaining
+Completed 2.3 MiB/5.1 MiB (290.3 KiB/s) with 56 file(s) remaining
+Completed 2.3 MiB/5.1 MiB (290.6 KiB/s) with 56 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-073149-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-073149-lamaison-250.webp
+Completed 2.3 MiB/5.1 MiB (290.6 KiB/s) with 55 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-073149-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-073149-lamaison.webp
+Completed 2.3 MiB/5.1 MiB (290.6 KiB/s) with 54 file(s) remaining
+Completed 2.3 MiB/5.1 MiB (291.2 KiB/s) with 54 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-073203-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-073203-lamaison-1024.webp
+Completed 2.3 MiB/5.1 MiB (291.2 KiB/s) with 53 file(s) remaining
+Completed 2.3 MiB/5.1 MiB (289.9 KiB/s) with 53 file(s) remaining
+Completed 2.4 MiB/5.1 MiB (291.7 KiB/s) with 53 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-073203-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-073203-lamaison-250.webp
+Completed 2.4 MiB/5.1 MiB (291.7 KiB/s) with 52 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-073203-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-073203-lamaison.webp
+Completed 2.4 MiB/5.1 MiB (291.7 KiB/s) with 51 file(s) remaining
+Completed 2.4 MiB/5.1 MiB (291.8 KiB/s) with 51 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-120647-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-120647-lamaison-250.webp
+Completed 2.4 MiB/5.1 MiB (291.8 KiB/s) with 50 file(s) remaining
+Completed 2.4 MiB/5.1 MiB (295.8 KiB/s) with 50 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-120647-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-120647-lamaison-1024.webp
+Completed 2.4 MiB/5.1 MiB (295.8 KiB/s) with 49 file(s) remaining
+Completed 2.5 MiB/5.1 MiB (303.3 KiB/s) with 49 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-120647-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-120647-lamaison.webp
+Completed 2.5 MiB/5.1 MiB (303.3 KiB/s) with 48 file(s) remaining
+Completed 2.5 MiB/5.1 MiB (313.8 KiB/s) with 48 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-18-184728-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-18-184728-lamaison-1024.webp
+Completed 2.5 MiB/5.1 MiB (313.8 KiB/s) with 47 file(s) remaining
+Completed 2.5 MiB/5.1 MiB (314.0 KiB/s) with 47 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-185436-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-185436-lamaison-250.webp
+Completed 2.5 MiB/5.1 MiB (314.0 KiB/s) with 46 file(s) remaining
+Completed 2.6 MiB/5.1 MiB (317.9 KiB/s) with 46 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-185436-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-185436-lamaison-1024.webp
+Completed 2.6 MiB/5.1 MiB (317.9 KiB/s) with 45 file(s) remaining
+Completed 2.7 MiB/5.1 MiB (325.9 KiB/s) with 45 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-185436-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-185436-lamaison.webp
+Completed 2.7 MiB/5.1 MiB (325.9 KiB/s) with 44 file(s) remaining
+Completed 2.8 MiB/5.1 MiB (343.3 KiB/s) with 44 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-13-184042-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-13-184042-lamaison.webp
+Completed 2.8 MiB/5.1 MiB (343.3 KiB/s) with 43 file(s) remaining
+Completed 2.8 MiB/5.1 MiB (343.0 KiB/s) with 43 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-185446-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-185446-lamaison-250.webp
+Completed 2.8 MiB/5.1 MiB (343.0 KiB/s) with 42 file(s) remaining
+Completed 2.9 MiB/5.1 MiB (345.0 KiB/s) with 42 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-185446-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-185446-lamaison-1024.webp
+Completed 2.9 MiB/5.1 MiB (345.0 KiB/s) with 41 file(s) remaining
+Completed 2.9 MiB/5.1 MiB (345.3 KiB/s) with 41 file(s) remaining
+Completed 2.9 MiB/5.1 MiB (349.0 KiB/s) with 41 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-191648-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-191648-lamaison-1024.webp
+Completed 2.9 MiB/5.1 MiB (349.0 KiB/s) with 40 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-191648-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-191648-lamaison-250.webp
+Completed 2.9 MiB/5.1 MiB (349.0 KiB/s) with 39 file(s) remaining
+Completed 3.0 MiB/5.1 MiB (360.5 KiB/s) with 39 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-185446-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-185446-lamaison.webp
+Completed 3.0 MiB/5.1 MiB (360.5 KiB/s) with 38 file(s) remaining
+Completed 3.0 MiB/5.1 MiB (361.1 KiB/s) with 38 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-191712-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-191712-lamaison-250.webp
+Completed 3.0 MiB/5.1 MiB (361.1 KiB/s) with 37 file(s) remaining
+Completed 3.1 MiB/5.1 MiB (367.4 KiB/s) with 37 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-191648-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-191648-lamaison.webp
+Completed 3.1 MiB/5.1 MiB (367.4 KiB/s) with 36 file(s) remaining
+Completed 3.1 MiB/5.1 MiB (369.1 KiB/s) with 36 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-22-131426-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-22-131426-lamaison-1024.webp
+Completed 3.1 MiB/5.1 MiB (369.1 KiB/s) with 35 file(s) remaining
+Completed 3.1 MiB/5.1 MiB (364.7 KiB/s) with 35 file(s) remaining
+Completed 3.1 MiB/5.1 MiB (370.1 KiB/s) with 35 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-27-165631-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-27-165631-lamaison-1024.webp
+Completed 3.1 MiB/5.1 MiB (370.1 KiB/s) with 34 file(s) remaining
+Completed 3.2 MiB/5.1 MiB (375.8 KiB/s) with 34 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-191712-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-191712-lamaison-1024.webp
+Completed 3.2 MiB/5.1 MiB (375.8 KiB/s) with 33 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-22-131426-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-22-131426-lamaison-250.webp
+Completed 3.2 MiB/5.1 MiB (375.8 KiB/s) with 32 file(s) remaining
+Completed 3.2 MiB/5.1 MiB (376.1 KiB/s) with 32 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-27-165631-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-27-165631-lamaison-250.webp
+Completed 3.2 MiB/5.1 MiB (376.1 KiB/s) with 31 file(s) remaining
+Completed 3.2 MiB/5.1 MiB (377.1 KiB/s) with 31 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-22-131426-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-22-131426-lamaison.webp
+Completed 3.2 MiB/5.1 MiB (377.1 KiB/s) with 30 file(s) remaining
+Completed 3.2 MiB/5.1 MiB (377.4 KiB/s) with 30 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-27-175337-lamaison-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-27-175337-lamaison-250.webp
+Completed 3.2 MiB/5.1 MiB (377.4 KiB/s) with 29 file(s) remaining
+Completed 3.3 MiB/5.1 MiB (387.0 KiB/s) with 29 file(s) remaining
+Completed 3.4 MiB/5.1 MiB (391.3 KiB/s) with 29 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-27-175337-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-27-175337-lamaison-1024.webp
+Completed 3.4 MiB/5.1 MiB (391.3 KiB/s) with 28 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-27-165631-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-27-165631-lamaison.webp
+Completed 3.4 MiB/5.1 MiB (391.3 KiB/s) with 27 file(s) remaining
+Completed 3.5 MiB/5.1 MiB (411.6 KiB/s) with 27 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-27-165631-lamaison.jpeg to s3://tcrouzet.com/images_tc/2024/11/2024-10-27-165631-lamaison.jpeg
+Completed 3.5 MiB/5.1 MiB (411.6 KiB/s) with 26 file(s) remaining
+Completed 3.6 MiB/5.1 MiB (422.9 KiB/s) with 26 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-20-191712-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-20-191712-lamaison.webp
+Completed 3.6 MiB/5.1 MiB (422.9 KiB/s) with 25 file(s) remaining
+Completed 3.7 MiB/5.1 MiB (433.3 KiB/s) with 25 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-27-175337-lamaison.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-27-175337-lamaison.webp
+Completed 3.7 MiB/5.1 MiB (433.3 KiB/s) with 24 file(s) remaining
+Completed 3.7 MiB/5.1 MiB (432.4 KiB/s) with 24 file(s) remaining
+Completed 3.8 MiB/5.1 MiB (436.0 KiB/s) with 24 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-29-175403-FrontignanetVilleneuve-ls-Maguelone-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-29-175403-FrontignanetVilleneuve-ls-Maguelone-250.webp
+Completed 3.8 MiB/5.1 MiB (436.0 KiB/s) with 23 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-29-175403-FrontignanetVilleneuve-ls-Maguelone.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-29-175403-FrontignanetVilleneuve-ls-Maguelone.webp
+Completed 3.8 MiB/5.1 MiB (436.0 KiB/s) with 22 file(s) remaining
+Completed 4.0 MiB/5.1 MiB (464.7 KiB/s) with 22 file(s) remaining
+Completed 4.0 MiB/5.1 MiB (464.7 KiB/s) with 22 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-29-175632-FrontignanetVilleneuve-ls-Maguelone-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-29-175632-FrontignanetVilleneuve-ls-Maguelone-250.webp
+Completed 4.0 MiB/5.1 MiB (464.7 KiB/s) with 21 file(s) remaining
+Completed 4.0 MiB/5.1 MiB (467.1 KiB/s) with 21 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-29-175632-FrontignanetVilleneuve-ls-Maguelone-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-29-175632-FrontignanetVilleneuve-ls-Maguelone-1024.webp
+Completed 4.0 MiB/5.1 MiB (467.1 KiB/s) with 20 file(s) remaining
+Completed 4.0 MiB/5.1 MiB (458.2 KiB/s) with 20 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-31-155943-LoupianetCastelnau-de-Guers-250.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-31-155943-LoupianetCastelnau-de-Guers-250.webp
+Completed 4.0 MiB/5.1 MiB (458.2 KiB/s) with 19 file(s) remaining
+Completed 4.2 MiB/5.1 MiB (474.8 KiB/s) with 19 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-31-155943-LoupianetCastelnau-de-Guers-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-31-155943-LoupianetCastelnau-de-Guers-1024.webp
+Completed 4.2 MiB/5.1 MiB (474.8 KiB/s) with 18 file(s) remaining
+Completed 4.2 MiB/5.1 MiB (479.4 KiB/s) with 18 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-29-175632-FrontignanetVilleneuve-ls-Maguelone.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-29-175632-FrontignanetVilleneuve-ls-Maguelone.webp
+Completed 4.2 MiB/5.1 MiB (479.4 KiB/s) with 17 file(s) remaining
+Completed 4.2 MiB/5.1 MiB (478.3 KiB/s) with 17 file(s) remaining
+upload: ../../static/index.html to s3://tcrouzet.com/index.html  
+Completed 4.2 MiB/5.1 MiB (478.3 KiB/s) with 16 file(s) remaining
+Completed 4.5 MiB/5.1 MiB (506.4 KiB/s) with 16 file(s) remaining
+Completed 4.7 MiB/5.1 MiB (534.6 KiB/s) with 16 file(s) remaining
+Completed 4.8 MiB/5.1 MiB (535.3 KiB/s) with 16 file(s) remaining
+Completed 4.8 MiB/5.1 MiB (535.4 KiB/s) with 16 file(s) remaining
 upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 383.9 KiB/~467.3 KiB (47.2 KiB/s) with ~5 file(s) remaining (calculating...)
-Completed 384.6 KiB/~467.3 KiB (47.3 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                         
-Completed 384.6 KiB/~467.3 KiB (47.3 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 388.0 KiB/~467.3 KiB (47.6 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                           
-Completed 388.0 KiB/~467.3 KiB (47.6 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 410.9 KiB/474.7 KiB (50.1 KiB/s) with 5 file(s) remaining                   
-upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html         
-Completed 410.9 KiB/474.7 KiB (50.1 KiB/s) with 4 file(s) remaining
-Completed 437.3 KiB/474.7 KiB (53.1 KiB/s) with 4 file(s) remaining
-upload: ../../static/tag/ia/index.html to s3://tcrouzet.com/tag/ia/index.html
-Completed 437.3 KiB/474.7 KiB (53.1 KiB/s) with 3 file(s) remaining
-Completed 467.3 KiB/474.7 KiB (56.7 KiB/s) with 3 file(s) remaining
+Completed 4.8 MiB/5.1 MiB (535.4 KiB/s) with 15 file(s) remaining
+upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
+Completed 4.8 MiB/5.1 MiB (535.4 KiB/s) with 14 file(s) remaining
+Completed 4.8 MiB/5.1 MiB (531.8 KiB/s) with 14 file(s) remaining
+Completed 4.9 MiB/5.1 MiB (546.7 KiB/s) with 14 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-31-155943-LoupianetCastelnau-de-Guers.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-31-155943-LoupianetCastelnau-de-Guers.webp
+Completed 4.9 MiB/5.1 MiB (546.7 KiB/s) with 13 file(s) remaining
+upload: ../../static/images_tc/2024/11/2024-10-29-175403-FrontignanetVilleneuve-ls-Maguelone-1024.webp to s3://tcrouzet.com/images_tc/2024/11/2024-10-29-175403-FrontignanetVilleneuve-ls-Maguelone-1024.webp
+Completed 4.9 MiB/5.1 MiB (546.7 KiB/s) with 12 file(s) remaining
+Completed 4.9 MiB/5.1 MiB (546.9 KiB/s) with 12 file(s) remaining
 upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 467.3 KiB/474.7 KiB (56.7 KiB/s) with 2 file(s) remaining
-Completed 467.5 KiB/474.7 KiB (56.6 KiB/s) with 2 file(s) remaining
-upload: ../../static/update.json to s3://tcrouzet.com/update.json  
-Completed 467.5 KiB/474.7 KiB (56.6 KiB/s) with 1 file(s) remaining
-Completed 474.7 KiB/474.7 KiB (57.2 KiB/s) with 1 file(s) remaining
+Completed 4.9 MiB/5.1 MiB (546.9 KiB/s) with 11 file(s) remaining
+Completed 4.9 MiB/5.1 MiB (547.4 KiB/s) with 11 file(s) remaining
+upload: ../../static/sitemap/sitemap-years.xml to s3://tcrouzet.com/sitemap/sitemap-years.xml
+Completed 4.9 MiB/5.1 MiB (547.4 KiB/s) with 10 file(s) remaining
+Completed 4.9 MiB/5.1 MiB (547.3 KiB/s) with 10 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json    
+Completed 4.9 MiB/5.1 MiB (547.3 KiB/s) with 9 file(s) remaining
+Completed 4.9 MiB/5.1 MiB (547.3 KiB/s) with 9 file(s) remaining
+upload: ../../static/sitemap/sitemap.xml to s3://tcrouzet.com/sitemap/sitemap.xml
+Completed 4.9 MiB/5.1 MiB (547.3 KiB/s) with 8 file(s) remaining
+Completed 5.0 MiB/5.1 MiB (546.6 KiB/s) with 8 file(s) remaining
+upload: ../../static/tag/carnet-de-route/contener2.html to s3://tcrouzet.com/tag/carnet-de-route/contener2.html
+Completed 5.0 MiB/5.1 MiB (546.6 KiB/s) with 7 file(s) remaining
+Completed 5.0 MiB/5.1 MiB (547.0 KiB/s) with 7 file(s) remaining
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt     
+Completed 5.0 MiB/5.1 MiB (547.0 KiB/s) with 6 file(s) remaining
+Completed 5.0 MiB/5.1 MiB (549.1 KiB/s) with 6 file(s) remaining
+upload: ../../static/tag/carnet-de-route/contener3.html to s3://tcrouzet.com/tag/carnet-de-route/contener3.html
+Completed 5.0 MiB/5.1 MiB (549.1 KiB/s) with 5 file(s) remaining
+Completed 5.0 MiB/5.1 MiB (551.3 KiB/s) with 5 file(s) remaining
+upload: ../../static/sitemap/sitemap-posts.xml to s3://tcrouzet.com/sitemap/sitemap-posts.xml
+Completed 5.0 MiB/5.1 MiB (551.3 KiB/s) with 4 file(s) remaining
+Completed 5.0 MiB/5.1 MiB (552.4 KiB/s) with 4 file(s) remaining
+upload: ../../static/tag/carnet-de-route/index.html to s3://tcrouzet.com/tag/carnet-de-route/index.html
+Completed 5.0 MiB/5.1 MiB (552.4 KiB/s) with 3 file(s) remaining
+Completed 5.1 MiB/5.1 MiB (554.6 KiB/s) with 3 file(s) remaining
+upload: ../../static/tag/ia/index.html to s3://tcrouzet.com/tag/ia/index.html
+Completed 5.1 MiB/5.1 MiB (554.6 KiB/s) with 2 file(s) remaining
+Completed 5.1 MiB/5.1 MiB (555.3 KiB/s) with 2 file(s) remaining
 upload: ../../static/tag/romanduroman/index.html to s3://tcrouzet.com/tag/romanduroman/index.html
+Completed 5.1 MiB/5.1 MiB (555.3 KiB/s) with 1 file(s) remaining
+Completed 5.1 MiB/5.1 MiB (557.7 KiB/s) with 1 file(s) remaining
+upload: ../../static/tag/netlitterature/index.html to s3://tcrouzet.com/tag/netlitterature/index.html
