@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2024/12/01/photos-composition/index.html</loc>
+    <lastmod>2024-11-30T20:28:49+01:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/12/2023-10-01-192547-Balaruc-les-Bains.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2024/11/25/octobre-2024/index.html</loc>
-    <lastmod>2024-11-25T09:43:39+01:00</lastmod>
+    <lastmod>2024-11-26T08:52:03+01:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/11/2024-10-27-165631-lamaison.webp</image:loc>
     </image:image>

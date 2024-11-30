@@ -853,4 +853,11 @@
       <image:loc>https://tcrouzet.com/images_tc/2024/03/prelude2.webp</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>https://tcrouzet.com/tag/photos/index.html</loc>
+    <lastmod>2024-11-30T20:28:49+01:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/12/2023-10-01-192547-Balaruc-les-Bains.webp</image:loc>
+    </image:image>
+  </url>
 </urlset>
