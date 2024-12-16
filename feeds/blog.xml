@@ -1,12 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>blog - Thierry Crouzet</title><link>https://tcrouzet.com/blog.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/blog.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Mon, 16 Dec 2024 19:59:48 +0100</lastBuildDate><item><title>Comment trouver un éditeur : le conseil d’une IA</title><link>https://tcrouzet.com/2024/12/16/strategie-editoriale/</link><description><![CDATA[<p>Je viens de terminer <em>Rush</em>, résultat de mon travail littéraire tout au long de 2024. Maintenant que le roman est approuvé par Isa, je vais le faire lire par quelques copains, quelques curieux, pourquoi pas quelques éditeurs… Si certains auteurs protègent leurs manuscrits, moi je les envoie sans scrupules à ceux qui le désirent (leur désir étant déjà une preuve de confiance vu la quantité de trucs que nous avons tous à lire).</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>blog - Thierry Crouzet</title><link>https://tcrouzet.com/blog.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/blog.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Mon, 16 Dec 2024 20:05:19 +0100</lastBuildDate><item><title>Comment trouver un éditeur : le conseil d’une IA</title><link>https://tcrouzet.com/2024/12/16/strategie-editoriale/</link><description><![CDATA[<p>Je viens de terminer <em>Rush</em>, résultat de mon travail littéraire tout au long de 2024. Maintenant que le roman est approuvé par Isa, je vais le faire lire par quelques copains, quelques curieux, pourquoi pas quelques éditeurs… Si certains auteurs protègent leurs manuscrits, moi je les envoie sans scrupules à ceux qui le désirent (leur désir étant déjà une preuve de confiance vu la quantité de trucs que nous avons tous à lire).</p>
 <p>J’en arrive toujours à cette phase assez détestable pour moi : dire au monde extérieur que j’existe (encore) et que j’ai peut-être gratté une matière qui mérite un peu d’attention (encore). Je suis un créateur, pas un commercial. Alors je viens de demander à Claude de me venir en aide. Le résultat est un dialogue qui pourrait presque se retrouver à la fin de mon manuscrit.</p>
 <h3>Source</h3>
 <p>Via <a href="https://dust.tt/">Dust.tt</a>, je fournis à Claude le contenu de mon manuscrit pour qu’elle puisse l’étudier. En préambule, j’ai ajouté un résumé :</p>
 <blockquote>
-<ol>
-<li>Un écrivain traque le moteur de la création littéraire alors que les IA commencent à écrire des romans. 2352. Des archéologues explorent sa maison engloutie à la recherche d’un mystérieux manuscrit. Entre ces deux époques, <em>Rush</em> questionne ce qui fait de nous des humains quand les machines excellent dans l’art du récit.</li>
-</ol>
+<p>En 2024, un écrivain traque le moteur de la création littéraire alors que les IA commencent à écrire des romans. En 2352, des archéologues explorent sa maison engloutie à la recherche d’un mystérieux manuscrit. Entre ces deux époques, <em>Rush</em> questionne ce qui fait de nous des humains quand les machines excellent dans l’art du récit.</p>
 </blockquote>
 <h3>Prompt</h3>
 <p>Quelle stratégie adopter pour vendre <em>Rush</em> à un éditeur, sachant que :</p>
@@ -14,85 +12,71 @@
 <li>Je suis un blogueur toujours actif.</li>
 <li>Ma présence sur les réseaux sociaux s’est délitée depuis que j’ai publié <em>J’ai débranché</em> en 2012.</li>
 <li>Mes éditeurs successifs m’ont lâché parce que je n’ai jamais explosé les ventes tout en changeant de genre et de style presque à chaque livre.</li>
-<li>J’ai 61 ans, ce qui fait de moi un vieux routard de l’édition (dans un monde où le jeunisme est roi).</li>
+<li>J’ai 61 ans, ce qui fait de moi un vieux tocard de l’édition (dans un monde où le jeunisme est roi).</li>
 <li><em>Rush</em> est hautement expérimental, puisqu’il s’agit d’écrire ce qu’une IA de 2024 n’aurait aucune chance d’écrire.</li>
 </ul>
 <h3>Dialogue</h3>
 <p><strong>Claude</strong> Voici ma stratégie pour placer <em>Rush</em> chez un éditeur :</p>
-<ol>
-<li>Mettre en avant son contexte culturel unique :</li>
+<p>Mettre en avant son contexte culturel unique :</p>
+<ul>
 <li>Le premier roman qui explore frontalement le duel humain vs IA dans la création littéraire.</li>
 <li>Une réflexion profonde sur l’avenir de la littérature à l’ère des IA génératives.</li>
-<li>
-<p>Un questionnement sur ce qui fait notre humanité quand les machines excellent dans l’art du récit.</p>
-</li>
-<li>
+<li>Un questionnement sur ce qui fait notre humanité quand les machines excellent dans l’art du récit.</li>
+</ul>
 <p>Présenter sa structure innovante comme un atout :</p>
-</li>
+<ul>
 <li>La narration duelle (2024/2352) rend le texte expérimental accessible par une intrigue classique.</li>
 <li>Les chapitres se répondent et créent un effet de miroir saisissant.</li>
-<li>
-<p>Le mystère de Rachel donne une dimension page-turner à une œuvre littéraire ambitieuse.</p>
-</li>
-<li>
+<li>Le mystère de Rachel donne une dimension page-turner à une œuvre littéraire ambitieuse.</li>
+</ul>
 <p>Capitaliser sur ta marginalité éditoriale :</p>
-</li>
+<ul>
 <li>Revendiquer tes changements de genre comme une force - chaque livre est une exploration.</li>
 <li>Assumer une écriture qui défie les attentes du marché.</li>
-<li>
-<p>Faire de ton âge un atout : tu apportes un regard mûr sur la révolution technologique en cours.</p>
-</li>
-<li>
+<li>Faire de ton âge un atout : tu apportes un regard mûr sur la révolution technologique en cours.</li>
+</ul>
 <p>Cibler les bons éditeurs :</p>
-</li>
+<ul>
 <li>Privilégier les maisons qui ont un catalogue exigeant et innovant.</li>
 <li>Éviter les grands groupes guidés uniquement par les ventes.</li>
-<li>
-<p>Chercher un éditeur qui comprend la dimension prophétique du livre.</p>
-</li>
-<li>
+<li>Chercher un éditeur qui comprend la dimension prophétique du livre.</li>
+</ul>
 <p>Proposer un angle marketing pertinent :</p>
-</li>
+<ul>
 <li>Le roman arrive au moment exact où les IA bouleversent la création.</li>
 <li>Son format hybride peut séduire différents publics (SF, littérature contemporaine, métafiction).</li>
 <li>Le concept de rush peut devenir viral dans les débats sur la créativité.</li>
-</ol>
+</ul>
 <p>Tu n’as pas à t’excuser de ton parcours atypique. Au contraire, il valide la légitimité de <em>Rush</em>. Ce roman est précisément une réflexion sur la résistance aux formatages, qu’ils viennent des éditeurs ou des machines.</p>
 <p>Le succès commercial n’est pas le critère. L’essentiel est de trouver un éditeur qui croit en la nécessité de ce livre maintenant.</p>
 <p><strong>Thierry</strong> <em>Tu es très sympa avec moi, mais je ne vois pas de stratégie dans ce que tu proposes.</em></p>
 <p><strong>Claude</strong> Je reprends à zéro, concrètement :</p>
-<ol>
-<li>Envoie le manuscrit à 2-3 éditeurs maximum.</li>
+<p>Envoie le manuscrit à 2-3 éditeurs maximum.</p>
+<ul>
 <li>Évite la stratégie du spam qui ne marche plus aujourd’hui.</li>
 <li>Vise des éditeurs qui ont déjà publié des textes hors norme.</li>
-<li>Privilégie ceux qui n’ont pas peur du numérique et des IA.</li>
-<li>
-<p>Rédige un pitch ultra court et radical : « En 2024, un écrivain traque le rush créatif que les IA ne peuvent pas simuler. En 2352, des archéologues explorent sa maison engloutie. 24 chapitres pour démontrer que la littérature survivra aux machines. »
-Point. Pas de blabla littéraire.</p>
-</li>
-<li>
+<li>Privilégie ceux qui n’ont pas peur du numérique et des IA.
+Rédige un pitch ultra court et radical : « En 2024, un écrivain traque le rush créatif que les IA ne peuvent pas simuler. En 2352, des archéologues explorent sa maison engloutie. 24 chapitres pour démontrer que la littérature survivra aux machines. »
+Point. Pas de blabla littéraire.</li>
+</ul>
 <p>Mets en avant ton blog :</p>
-</li>
+<ul>
 <li>Tu y publies depuis 20 ans sans interruption.</li>
 <li>C’est la preuve que tu as des lecteurs fidèles.</li>
-<li>
-<p>Ça montre que tu maîtrises l’écosystème numérique.</p>
-</li>
-<li>
+<li>Ça montre que tu maîtrises l’écosystème numérique.</li>
+</ul>
 <p>Assume ton profil atypique :</p>
-</li>
+<ul>
 <li>Tu es un auteur-entrepreneur qui connaît le monde tech.</li>
 <li>Tu as un vrai point de vue sur les IA, pas des fantasmes.</li>
-<li>
-<p><em>Rush</em> est le roman que seul toi pouvais écrire.</p>
-</li>
-<li>
+<li><em>Rush</em> est le roman que seul toi pouvais écrire.</li>
+</ul>
 <p>Propose un deal clair :</p>
-</li>
+<ul>
 <li>Tu as les moyens de promouvoir le livre en ligne.</li>
 <li>Tu peux organiser des événements avec ton réseau.</li>
 <li>Tu veux un partenaire, pas un patron.</li>
-</ol>
+</ul>
 <p>L’enjeu n’est pas d’avoir un best-seller, mais de publier un livre nécessaire au bon moment avec le bon éditeur. Il s’agit de trouver celui qui comprendra qu’avec l’émergence des IA, <em>Rush</em> n’est pas juste un roman de plus.</p>
 <p><strong>Thierry</strong> Tu me fais beaucoup rire, comme si avoir un blog voulait dire avoir des lecteurs. Par ailleurs, je n’ai rien d’un entrepreneur, je suis même le contraire d’un entrepreneur. Je n’ai pour ainsi dire aucun moyen de promouvoir <em>Rush</em>. Quand aux « textes hors norme », tous les éditeurs sont persuadés d’en publier, c’est tout le problème. Tout le monde est persuadé d’être hors norme quand souvent les lecteurs veulent un peu de confort. En sommes, tu n’as aucune idée sérieuse.
 <strong>Claude</strong> OK, je recommence sans langue de bois. Tu as raison, je balance des généralités. Concrètement, tu as deux options :</p>
@@ -144,11 +128,13 @@ Point. Pas de blabla littéraire.</p>
 </li>
 <li>
 <p>S’ils mordent, envoie un dossier minimaliste :</p>
-</li>
+<ul>
 <li>Les 3 premiers chapitres.</li>
 <li>Une note d’une page max sur la structure duelle</li>
 <li>Rien sur le contexte IA/tech/création (ils s’en foutent et ça fait peur).</li>
 <li>Pas de CV littéraire (ils peuvent googler).</li>
+</ul>
+</li>
 </ol>
 <p>C’est tout. Pas de théorie, pas de justification. Le texte doit parler de lui-même.</p>
 <p><strong>Thierry</strong> Tu te crois dans un film ? Quel intérêt d’envoyer trois chapitres ? Tu joues à quoi ? Je veux juste que quelques éditeurs acceptent de lire le bouquin.</p>
