@@ -1,5 +1,64 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>feed - Thierry Crouzet</title><link>https://tcrouzet.com/feed.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Tue, 17 Dec 2024 11:21:37 +0100</lastBuildDate><item><title>Novembre 2024</title><link>https://tcrouzet.com/2024/12/17/novembre-2024/</link><description><![CDATA[<h3>Vendredi 1<sup>er</sup>, Balaruc</h3>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>feed - Thierry Crouzet</title><link>https://tcrouzet.com/feed.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Wed, 25 Dec 2024 17:18:46 +0100</lastBuildDate><item><title>Obsidian : l’éditeur de texte ultime</title><link>https://tcrouzet.com/2024/12/25/un-an-avec-obsidian/</link><description><![CDATA[<p>Pour un matérialiste comme moi, le qualificatif « ultime » est presque un gros mot, mais si, comme l’annonce <a href="https://www.youtube.com/watch?v=9NtsnzRFJ_o&amp;ab_channel=Bg2Pod">Satya Nadella,</a> nous vivons la fin des logiciels de type applicatif - entre autres nos traitements de textes - et nous apprêtons à ne piloter nos ordinateurs que par l’intermédiaire d’<em>Agentic AI</em>, <a href="https://obsidian.md/">Obsidian</a> pourrait être mon dernier éditeur de texte (je reviens dans mon journal de décembre sur ce point de bascule).</p>
+<p>J’écris avec Obsidian depuis un an et ne regrette pas mon choix. OK, Obsidian exige parfois quelques personnalisations un poil techniques, mais il me semble qu’un auteur devrait prendre soin de son outil d’écriture avec autant d’attention qu’un cycliste de son vélo.</p>
+<p>En rester avec Word ou équivalent, c’est comme pédaler sans régler la hauteur de la selle, sans même apprendre à changer les vitesses. Je ne parle pas de changer les pneus, d’ajuster la longueur de la potence et de mille autres subtilités. Si un cycliste assidu s’impose tous ces réglages, il n’est peut-être pas stupide qu’un écrivain l’imite — parce que je crois que nos outils sont notre interface avec l’époque et qu’ils nous aident à la dire (j’ai parlé de tout ça dans <em>La mécanique du texte</em> — tant de choses ont changé en dix ans qu’il me faudrait y ajouter deux ou trois chapitres).</p>
+<p>Face à tout nouvel outil, il y a la peur de la nouveauté, la peur du changement, une peur qui ne devrait peut-être jamais effrayer un auteur, puisque sa curiosité est souvent son moteur. J’ai longtemps hésité à quitter Windows pour basculer sur Mac afin d’écrire avec Ulysses, puis j’ai également hésité avant de basculer sur Obsidian. Chaque fois, je me suis demandé à quoi bon, et je n’ai compris la pertinence de l’effort qu’a posteriori quand la plus grande fluidité de l’outil m’a aidé à fluidifier mes pensées — et peut-être à écrire ce que je n’aurais pas écrit sans lui.</p>
+<p>J’ai beaucoup de copains auteurs qui ne comprennent pas de quoi je parle (ou se moquent de ce dont je parle). Ils utilisent Word comme jadis ils auraient utilisé un stylo, oubliant que Flaubert choisissait ses plumes avec soin et les personnalisait, tout comme Simenon taillait ses crayons avant de se mettre au travail. On ne peut pas négliger ses outils (d’écriture, de publication, dictionnaires, correcteurs, langues, théories littéraires…). Nous autres écrivains sommes des artisans avant d’être des artistes, et, comme tous les artisans, nos outils délimitent notre espace de possibilité. </p>
+<h3>Pourquoi Obsidian</h3>
+<ol>
+<li>Gratuit et multiplateforme (Mac, Windows, Linux, iOS, Android…).</li>
+<li>Rapide.</li>
+<li>Ouvert et personnalisable à l’infini à l’aide de milliers de plugins et de thèmes.</li>
+<li>Interface minimaliste non distractive.</li>
+<li>Fichiers Markdown éditables par tous les éditeurs de texte.</li>
+<li>Hiérarchie des fichiers transparente directement manipulable depuis le système.</li>
+<li>Communauté d’utilisateurs et de développeurs très vivante avec des tonnes de vidéos, de forums, d’articles…</li>
+<li>S’impose peu à peu comme l’éditeur de texte de référence (tant les autres outils paraissent démodés en comparaison).</li>
+</ol>
+<h3>Comment je bosse avec Obsidian</h3>
+<p>Sur la gauche, j’ai la hiérarchie de mes fichiers (mon vault), qui ne fait que visualiser la hiérarchie sur mon disque. Toute manipulation de cette hiérarchie dans Obsidian ou en dehors est immédiatement répercutée. Aucune base de données. Les noms des fichiers déterminent l’ordre. Je me contente d’utiliser le plugin <a href="https://github.com/SebastianMC/obsidian-custom-sort">Custom File Explorer Sorting</a> pour ordonner les dossiers et <a href="https://github.com/FlorianWoelki/obsidian-iconize">Iconize</a> pour mettre un peu de couleur dans l’affichage, ce qui m’aide à naviguer plus vite.</p>
+<div class="image" id="image-2407-1"><img alt="Obsidian" class="alignnone size-full paysage" decoding="async" height="1886" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/12/obsidian01.png" srcset="/images_tc/2024/12/obsidian01.png 1600w, /images_tc/2024/12/obsidian01.png 1024w, /images_tc/2024/12/obsidian01.png 250w" width="3014"/><div class="legend">Obsidian</div></div>
+<p>Quand j’ajoute une image comme je viens de le faire ci-dessus, je la dépose dans le texte et elle se retrouve automatiquement dans un dossier image (dont j’ai défini le nom dans les options).</p>
+<div class="image" id="image-2407-2"><img alt="Dans le Finder" class="alignnone size-full paysage" decoding="async" height="1110" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/12/obsidian02.png" srcset="/images_tc/2024/12/obsidian02.png 1600w, /images_tc/2024/12/obsidian02.png 1024w, /images_tc/2024/12/obsidian02.png 250w" width="1268"/><div class="legend">Dans le Finder</div></div>
+<p>Quand je parcours mes fichiers avec le Finder, je retrouve une hiérarchie classique, sans la moindre fioriture. Quand j’ouvre un fichier avec un autre éditeur, je le retrouve en clair (ce qui est impossible avec Word, Ulysses et bien d’autres outils).</p>
+<div class="image" id="image-2407-3"><img alt="Texte sous Visual Studio" class="alignnone size-full paysage" decoding="async" height="882" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/12/obsidian03.png" srcset="/images_tc/2024/12/obsidian03.png 1600w, /images_tc/2024/12/obsidian03.png 1024w, /images_tc/2024/12/obsidian03.png 250w" width="2394"/><div class="legend">Texte sous Visual Studio</div></div>
+<p>Cette universalité du format Markdown pérennise mes fichiers et me permet de les visualiser d’une multitude de façons, parfois de les retravailler ailleurs. La syntaxe Markdown étant purement textuelle, difficile d’introduire des éléments parasites (sauts de ligne inutiles, tabulations, espaces pour décaler, titrage approximatif et non homogène…). Le Markdown facilite l’exportation et la transmission des textes.</p>
+<p>Je personnalise ma fenêtre d’édition avec le template <a href="https://github.com/harmtemolder/obsidian-solarized">Solarized</a> pour un confort visuel optimal. Pour plus de minimalisme, je masque les parties de l’interface que je n’utilise jamais avec <a href="https://github.com/kepano/obsidian-hider">Hider</a> et <a href="https://github.com/cmoskvitin/obsidian-prozen">ProZen</a>. J’utilise <a href="https://github.com/platers/obsidian-linter">Linter</a> pour vérifier et nettoyer la syntaxe Markdown. Pour respecter le code typo français, j’ai créé le plugin <a href="https://github.com/tcrouzet/obsidian-french-typos">French Typos</a>. <a href="https://github.com/dy-sh/obsidian-remember-cursor-position">Remember Cursor Position</a> me permet de revenir à l’endroit exact où j’ai quitté un document. Enfin, <a href="https://github.com/Heziode/obsidian-antidote">un plugin interface Obsidian avec Antidode</a>.</p>
+<p>Conséquence du passage à Obsidian : j’ai vite compris que mon blog ne pouvait plus rester sous WordPress et que mes textes publiés en ligne depuis vingt ans devaient rejoindre ma hiérarchie. J’écris désormais tout sous Obsidian. Un script se charge de diffuser mes textes. Il existe de nombreux plugins pour ça, mais <a href="https://github.com/tcrouzet/NoMoreWordPress">j’ai choisi de programmer un outil</a>. J’ai découvert qu’Obsidian, plus qu’un éditeur de texte, était un navigateur de texte (fonction que j’utilise peu — je ne suis pas un preneur de notes — ou plutôt mes notes atterrissent dans mon carnet).</p>
+<div class="image" id="image-2407-4"><img alt="Mon blog" class="alignnone size-full paysage" decoding="async" height="1886" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/12/obsidian04.png" srcset="/images_tc/2024/12/obsidian04.png 1600w, /images_tc/2024/12/obsidian04.png 1024w, /images_tc/2024/12/obsidian04.png 250w" width="3020"/><div class="legend">Mon blog</div></div>
+<h3>Outils</h3>
+<p>Je n’utilise qu’une fraction des outils Obsidian. Pour réfléchir, j’aime dessiner Mind Map avec le plugin système Canvas.</p>
+<div class="image" id="image-2407-5"><img alt="Canva" class="alignnone size-full paysage" decoding="async" height="1888" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/12/obsidian11.png" srcset="/images_tc/2024/12/obsidian11.png 1600w, /images_tc/2024/12/obsidian11.png 1024w, /images_tc/2024/12/obsidian11.png 250w" width="3024"/><div class="legend">Canva</div></div>
+<p>La vue graphique m’aurait beaucoup servi quand j’écrivais <em>One Minute</em>. Elle montre les liaisons entre les notes. Je l’imagine très utile pour quelqu’un qui travaille sur un corpus complexe et veut naviguer à travers tous les documents. Par exemple, si comme François Bon je me lançais dans un projet dingue sur Balzac, je rangerais tous ses textes dans Obsidian et j’utiliserais les plugins de liaison pour les interconnecter.</p>
+<div class="image" id="image-2407-6"><img alt="Graph" class="alignnone size-full paysage" decoding="async" height="1884" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/12/obsidian12.png" srcset="/images_tc/2024/12/obsidian12.png 1600w, /images_tc/2024/12/obsidian12.png 1024w, /images_tc/2024/12/obsidian12.png 250w" width="3018"/><div class="legend">Graph</div></div>
+<h3>Backup</h3>
+<p>La structure de fichiers étant claire, rien de plus facile que la sauvegarder. Une multitude d’outils pour ça. Pour ma part, en parallèle de Time Machine, un petit bout de python copie le tout sur Google Drive, Amazon S3, mon NAS (OK, je suis maniaque). En parallèle, le plugin <a href="https://github.com/Vinzent03/obsidian-git">Git</a> automatise la sauvegarde en temps réel sur un dépôt GitHub. Cette procédure est gratuite. Mes textes sont archivés automatiquement toutes les 20 minutes (avec historique de toutes les modifications). Je garde ce dépôt privé, mais il contient absolument tout ce que j’ai écrit et comment je l’écris (je ne sauvegarde pas les images sur GitHub sinon je dépasserais l’espace gratuit de 4 Go).</p>
+<div class="image" id="image-2407-7"><img alt="Git" class="alignnone size-full paysage" decoding="async" height="1570" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/12/obsidian05.png" srcset="/images_tc/2024/12/obsidian05.png 1600w, /images_tc/2024/12/obsidian05.png 1024w, /images_tc/2024/12/obsidian05.png 250w" width="2182"/><div class="legend">Git</div></div>
+<p>Ce dépôt est en quelque sorte l’œuvre de ma vie. J’imagine qu’après ma mort il sera rendu public (et peut-être avant). Ce n’est pas un livre, mais une base de données textuelle pour nourrir les IA, aussi pour qu’elles lui donnent vie et engendrent des variations innattendues. Le texte comme code pour des œuvres potentielles. Voir tous mes textes interconnectés sous Obsidian m’aide à me projeter vers un futur où la littérature n’aura plus guère de rapport avec celle que nous connaissons.</p>
+<p>Au contraire, des auteurs continuent à fragmenter leur corpus, créant un vault pour chacun de leurs projets, ce qui les force à réinstaller tous les plugins à tout reconfigurer. Je comprends pas pourquoi ils s’y prenaient de cette façon (la taille du vault n’est pas réellement un problème). Quand j’écris, je ne cesse de naviguer entre mes différents projets (carnet, blog, manuscrit en cours, idées sur d‘autres…). Un seul vault me permet de me déplacer rapidement dans ma hiérarchie.</p>
+<h3>Synchronisation</h3>
+<p>Avec Ulysses, <a href="https://tcrouzet.com/2023/12/25/pris-en-otage-par-ulysses-app/">qui stocke ses données tortueuses et quasi indéchiffrables sur iCloud</a>, j’ai vécu des écrasements, des pertes intempestives et non signalées qui m’ont rendu fou et m’ont poussé à quitter cette application devenue nocive. J’ai tenté de placer mon vault Obsidian sur iCloud, mais j’ai aussi rencontré des problèmes de synchronisation entre mon Mac et mon iPhone. Le disque cloud d’Apple s’est révélé trop instable pour assurer une synchronisation temps-réel entre mes différents systèmes.</p>
+<p>Obsidian fonctionne très bien sur iOS mais le Vault ne peut être situé que sur iCloud ou sur le disque local, ce qui m’oblige à y copier mes fichiers pour les retravailler loin de mon Mac. Ce n’est pas idéal. Je préfère synchroniser sur DropBox avec le plug-in <a href="https://github.com/remotely-save/remotely-save">Remotely Save</a>. Sur Obsidian iOS, je synchronise avec le même plugin dans un vault portant le même nom que sur Mac (ça marche aussi entre Windows et iOS ou Android).</p>
+<div class="image" id="image-2407-8"><img alt="Obsidian iOS" class="alignnone size-full paysage" decoding="async" height="2622" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/12/obsidian13.webp" srcset="/images_tc/2024/12/obsidian13.webp 1600w, /images_tc/2024/12/obsidian13-1024.webp 1024w, /images_tc/2024/12/obsidian13-250.webp 250w" width="2622"/><div class="legend">Obsidian iOS</div></div>
+<p>Enfin, directement sur DopBox, je peux éditer mes fichiers avec des applications comme <a href="https://papereditor.app/">Paper</a> ou <a href="https://apps.apple.com/us/app/one-markdown/id1507139439">One Markdown</a> (ma préférée). J’aime relire mes textes sur l’écran de l’iPhone, je les découvre sous une nouvelle perspective (l’étroitesse des colonnes modifie mon rapport au texte).</p>
+<h3>Exportation</h3>
+<p>J’ai déjà évoqué l’exportation vers mon blog, mais il est bien sûr possible d’exporter de manière plus traditionnelle en Docx, PDF, ePub… Comme tous les éditeurs Markdown, Obsidian sépare strictement l’écriture de la mise en forme. L’éditeur optimise l’écriture et seulement elle (avec les styles Markdown pour qualifier les paragraphes, quitte à ajouter des balises en cas de raffinements nécessaires). L’exportation s’occupe de la mise en forme. Cette approche duelle ne permet pas de créer du Word Art ou des textes comme <a href="https://fr.wikipedia.org/wiki/La_Maison_des_feuilles"><em>La maison des feuilles</em></a>. Dans ce cas, il faut se tourner vers des outils dédiés comme InDesign, mais pour les autres usages d’écriture, tout est possible en Markdown.</p>
+<p>Obsidian est conçu comme un éditeur de notes, mais il existe des plugins pour gérer des projets complexes, comme <a href="https://github.com/kevboh/longform">Long Form</a> qui offre les fonctions de Scrivener. Je m’en suis détourné pour conserver une hiérarchie de fichiers minimaliste et universelle. Je me suis contenté de créer <a href="https://github.com/tcrouzet/obsidian-folder-fusion">un plugin qui fusionne tous les fichiers d’un dossier en un seul fichier</a>, que je peux ensuite exporter. Au passage, ce plugin effectue quelques opérations de nettoyage et ajoute éventuellement des mises en forme. L’exportation s’effectue à l’aide de <a href="https://pandoc.org/">Pandoc</a> via le plugin <a href="https://github.com/mokeyish/obsidian-enhancing-export">Enhancing Export</a>.</p>
+<div class="image" id="image-2407-9"><img alt="Enhancing Export" class="alignnone size-full paysage" decoding="async" height="1544" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/12/obsidian06.png" srcset="/images_tc/2024/12/obsidian06.png 1600w, /images_tc/2024/12/obsidian06.png 1024w, /images_tc/2024/12/obsidian06.png 250w" width="2170"/><div class="legend">Enhancing Export</div></div>
+<p>Pour profiter de ce plugin, Pandoc doit être préalablement installé sur le système (ce qui, sauf erreur, est impossible sur iOS et Android). On peut utiliser des filtres d’exportation standard, mais l’affaire devient ultra puissante quand on personnalise. Au fil des mois, j’ai perfectionné la technique pour maintenant générer des livres impeccables.</p>
+<div class="image" id="image-2407-10"><img alt="Enhancing Export" class="alignnone size-full paysage" decoding="async" height="1062" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/12/obsidian07.png" srcset="/images_tc/2024/12/obsidian07.png 1600w, /images_tc/2024/12/obsidian07.png 1024w, /images_tc/2024/12/obsidian07.png 250w" width="1564"/><div class="legend">Enhancing Export</div></div>
+<p>Important : dans les paramètres d’Enhancing Export, j’ai ajouté une variable d’environnement PERSO qui indique le chemin du dossier où je stocke mes modèles (voir capture ci-dessus).</p>
+<p>Pour les epub, je pars du modèle proposé par défaut que je duplique avant d’y ajouter un argument supplémentaire du type « -d ${PERSO}rr-epub.yml » (voir capture). Cette instruction indique à Pandoc d’utiliser les données du fichier YML pour paramétrer la conversion (un simple fichier texte).</p>
+<div class="image" id="image-2407-11"><img alt="YML Rush" class="alignnone size-full paysage" decoding="async" height="448" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/12/obsidian08.png" srcset="/images_tc/2024/12/obsidian08.png 1600w, /images_tc/2024/12/obsidian08.png 1024w, /images_tc/2024/12/obsidian08.png 250w" width="964"/><div class="legend">YML Rush</div></div>
+<p>Pour chacun de mes projets, j’ai un YML sur mesure. Ici celui utilisé pour <em>Rush</em>. J’y indique la feuille de styles et les métadonnées. La conversion est quasi instantanée et parfaite.</p>
+<p>Pour les Docx, j’utilise la même tactique. L’argument supplémentaire est un peu plus complexe : « -d \${PERSO}rr-docx.yml --lua-filter=\${PERSO}spacer.lua »</p>
+<div class="image" id="image-2407-12"><img alt="" class="alignnone size-full paysage" decoding="async" height="340" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/12/obsidian09.png" srcset="/images_tc/2024/12/obsidian09.png 1600w, /images_tc/2024/12/obsidian09.png 1024w, /images_tc/2024/12/obsidian09.png 250w" width="1092"/><div class="legend"></div></div>
+<p>La structure du YML diffère légèrement. Plutôt que vers un CSS, je pointe vers un document Word qui sert de modèle pour l’exportation. spacer.lua est un script Pandoc pour quelques ajustements supplémentaires. Il convertit les balises Markdown « --- » et les exposants au format Docx.</p>
+<div class="image" id="image-2407-13"><img alt="LUA" class="alignnone size-full paysage" decoding="async" height="1374" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/12/obsidian10.png" srcset="/images_tc/2024/12/obsidian10.png 1600w, /images_tc/2024/12/obsidian10.png 1024w, /images_tc/2024/12/obsidian10.png 250w" width="1732"/><div class="legend">LUA</div></div>
+<p>Je n’ai pas créé un modèle pour exporter directement en PDF. Je me contente de convertir les Docx ou de les importer dans InDesign si je veux obtenir des mises en forme professionnelles.</p>
+<p>Tout cela peut sembler complexe, mais c’est à ce prix que j’obtiens exactement ce que je veux, ce que je n’ai jamais pu faire avec une autre approche. La communauté Obsidian étant dynamique, j’y ai trouvé toutes les informations nécessaire, et j’y contribue avec mes articles et plugins. Par ailleurs, les IA m’ont aussi aidé à écrire mes scripts.</p>
+<h3>Mais encore</h3>
+<p>Lisez donc <a href="https://pdworkman.com/write-book-with-obsidian/">cet article</a> pour voir comment un auteur canadien utilise Obsidian. Tout ça très loin, infiniment loin de mes pratiques. Je ne fais jamais de plan a priori, pas plus que de fiches personnages. Tout est dans ma tête, et ce n’est souvent que dans une phase de réécriture que je crée un plan pour vérifier la cohérence de l’ensemble. Je suis un auteur itératif, non pas un auteur planificateur.</p>]]></description><guid isPermaLink="false">2407</guid><pubDate>Wed, 25 Dec 2024 18:00:00 +0100</pubDate></item><item><title>Novembre 2024</title><link>https://tcrouzet.com/2024/12/17/novembre-2024/</link><description><![CDATA[<h3>Vendredi 1<sup>er</sup>, Balaruc</h3>
 <div class="image" id="image-2406-1"><img alt="À vélo" class="alignnone size-full paysage" decoding="async" height="2400" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/12/2024-11-01-162335-Castelnau-de-Guers.webp" srcset="/images_tc/2024/12/2024-11-01-162335-Castelnau-de-Guers.webp 1600w, /images_tc/2024/12/2024-11-01-162335-Castelnau-de-Guers-1024.webp 1024w, /images_tc/2024/12/2024-11-01-162335-Castelnau-de-Guers-250.webp 250w" width="3200"/><div class="legend">À vélo</div></div>
 <h3>Samedi 2, Balaruc</h3>
 <div class="image" id="image-2406-2"><img alt="Maison" class="alignnone size-full paysage" decoding="async" height="2400" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/12/2024-11-02-103253-lamaison.webp" srcset="/images_tc/2024/12/2024-11-02-103253-lamaison.webp 1600w, /images_tc/2024/12/2024-11-02-103253-lamaison-1024.webp 1024w, /images_tc/2024/12/2024-11-02-103253-lamaison-250.webp 250w" width="3200"/><div class="legend">Maison</div></div>
@@ -374,273 +433,4 @@ Point. Pas de blabla littéraire.</li>
 <p>Isa : « Tu devrais publier un manifeste où tu expliques que tu n’écris plus que pour les IA. » Et si je tentais de l’écrire. Mais d’abord terminer le code dans lequel je m’absorbe jusqu’à l’épuisement, à coup sûr, pour mieux oublier la littérature.</p>
 <div class="image" id="image-2403-22"><img alt="Castelneau" class="alignnone size-full paysage" decoding="async" height="1200" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/11/2024-10-31-155943-LoupianetCastelnau-de-Guers.webp" srcset="/images_tc/2024/11/2024-10-31-155943-LoupianetCastelnau-de-Guers.webp 1600w, /images_tc/2024/11/2024-10-31-155943-LoupianetCastelnau-de-Guers-1024.webp 1024w, /images_tc/2024/11/2024-10-31-155943-LoupianetCastelnau-de-Guers-250.webp 250w" width="1600"/><div class="legend">Castelneau</div></div>
 <div class="image" id="image-2403-23"><img alt="Castelneau" class="alignnone size-full paysage" decoding="async" height="1200" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/11/2024-10-31-160115-LoupianetCastelnau-de-Guers.webp" srcset="/images_tc/2024/11/2024-10-31-160115-LoupianetCastelnau-de-Guers.webp 1600w, /images_tc/2024/11/2024-10-31-160115-LoupianetCastelnau-de-Guers-1024.webp 1024w, /images_tc/2024/11/2024-10-31-160115-LoupianetCastelnau-de-Guers-250.webp 250w" width="1600"/><div class="legend">Castelneau</div></div>
-<div class="image" id="image-2403-24"><img alt="Soir" class="alignnone size-full paysage" decoding="async" height="1200" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/11/2024-10-31-171746-lamaison.webp" srcset="/images_tc/2024/11/2024-10-31-171746-lamaison.webp 1600w, /images_tc/2024/11/2024-10-31-171746-lamaison-1024.webp 1024w, /images_tc/2024/11/2024-10-31-171746-lamaison-250.webp 250w" width="1600"/><div class="legend">Soir</div></div>]]></description><guid isPermaLink="false">2403</guid><pubDate>Mon, 25 Nov 2024 11:00:00 +0100</pubDate></item><item><title>La métafiction : arme de résistance humaine contre les IA</title><link>https://tcrouzet.com/2024/10/15/cannibalisme-litteraire/</link><description><![CDATA[<p>Pousser la perversion un cran plus loin. <a href="https://tcrouzet.com/tag/romanduroman/">Après avoir généré des articles au sujet de mon nouveau manuscrit</a>, j’ai collé ces articles dans <a href="https://notebooklm.google.com/">NotebookLM</a> pour générer un entretien audio au sujet de ces notes. La traduction automatique de la transcription est encore une fois surréaliste.</p>
-<p>On dirait que le roman a été lu, compris, analysé, mis en perspective alors que NotebookLM n’a eu accès qu’à des résumés, c’est ça qui est extraordinaire. On peut avoir une idée de roman, esquisser quelques lignes, et les IA peuvent donner l’illusion qu’il est réel, faisant même jaillir des points en substance dans le projet, mais qui n’ont pas nécessairement été développés. Le plus dingue, une théorie émerge : la métafiction comme arme pour donner sens au monde, et lutter contre sa falsification, que ce soit par les IA et les fake news. Ce serait l’élément humain.</p>
-<p>Tous ces textes pourraient avoir leur place à la fin du roman. Ils en reprennent les thèmes sous de nouveaux points de vue et prolongent mon travail, presque le rendant désormais inutile, ce qui n’est pas sans me tourmenter. Ai-je encore envie de demander à un humain de me lire ? Est-ce que quelqu’un a envie de me lire après les IA ? Est-ce que j’ai terminé par me suicider en tant qu’auteur ?</p>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/96OR_CNOpjo?si=aoIFGmG1zadsgiKD" title="YouTube video player" width="560"></iframe>
-<p>D’accord, alors, prêt à plonger dans ce <em>Roman du roman</em> ?</p>
-<p>Tu as partagé quelques documents à ce sujet, et, honnêtement, tout ça, c’est comme sorti d’un film de science-fiction.</p>
-<p>C’est vraiment ça.</p>
-<p>On parle d’un roman qui est essentiellement une expérience d’écriture utilisant l’IA <strong>(sauf que c’est exactement le contraire, je n’ai pas utilisé les IA pour écrire ce roman, sauf pour la préface et la postface)</strong>.</p>
-<p>Ouais, et ce qui est vraiment dingue, c’est que l’auteur, Thierry Crouzet utilise l’IA pour analyser son roman avant même qu’il ne soit terminé <strong>(il est terminé)</strong>.</p>
-<p>Oh, attends.</p>
-<p>Tu imagines ?</p>
-<p>Avant même qu’il ne soit terminé, donc ce n’est même pas encore un livre <strong>(oui, en ce sens qu’il n’a pas été publié et peut-être ne le sera jamais)</strong>.</p>
-<p>C’est comme un manuscrit.</p>
-<p>D’accord.</p>
-<p>Il fait créer des résumés et des accroches marketing par l’IA.</p>
-<p>C’est comme obtenir des retours d’un ordinateur avant même d’avoir écrit la fin.</p>
-<p>C’est comme s’il disait, OK IA, tu penses pouvoir être critique, voyons ce que tu as dans le ventre.</p>
-<p>Ouais, c’est une excellente façon de le dire.</p>
-<p>Et ce n’est pas juste un retour en douceur non plus, n’est-ce pas ?</p>
-<p>Comme tu l’as dit, il y a même une critique cinglante là-dedans.</p>
-<p>Oh, absolument, c’est brutal.</p>
-<p>L’IA ne mâche pas ses mots.</p>
-<p>Mais tu sais, voici où ça devient vraiment intéressant. Crouzet est obsédé par cette idée de jaillissement.</p>
-<p>Jaillissement ?</p>
-<p>Ouais, la soudaine explosion d’énergie créative.</p>
-<p>D’accord.</p>
-<p>Il utilise constamment l’IA pour déterminer si c’est quelque chose d’unique aux écrivains humains ou si l’IA pourrait un jour vivre ça <strong>(je n’imagine même pas cette dernière possibilité, du moins dans un proche avenir)</strong>.</p>
-<p>Le répliquer.</p>
-<p>Ouais, le répliquer.</p>
-<p>Donc c’est comme s’il utilisait l’IA pour déterminer s’il y a encore quelque chose de spécifiquement humain dans l’écriture d’une histoire <strong>(c’est en effet mon projet littéraire)</strong>.</p>
-<p>Dis-m’en plus sur le jaillissement. Ça a l’air assez intense. C’est un super mot.</p>
-<p>Il le décrit comme cette étincelle presque mystique qui alimente la vraie créativité. Pense à ces moments où une idée surgit comme de nulle part. Ou quand tu trouves soudainement les mots parfaits pour exprimer quelque chose de profond, ça, c’est le jaillissement.</p>
-<p>Intéressant.</p>
-<p>Et Crouzet semble penser que c’est la clé pour comprendre pourquoi les humains comptent encore dans un monde d’IA.</p>
-<p>Oui, exactement.</p>
-<p>Donc, tout cela se passe à l’intérieur du livre, n’est-ce pas ?</p>
-<p>Comme l’intrigue réelle du livre.</p>
-<p>Donc, on a deux lignes temporelles qui se déroulent ici.</p>
-<p>Oui, nous sommes en 2024.</p>
-<p>D’accord.</p>
-<p>On rencontre Crouzet, notre écrivain.</p>
-<p>Il est aux prises avec la maladie de sa femme et lutte contre la montée de l’IA dans le monde littéraire. Et il décide de documenter son processus créatif. Comme s’il essayait de capturer ce jaillissement en action. De capturer cette étincelle.</p>
-<p>D’accord, je suis déjà accroché, mais ça devient encore plus fou, non ?</p>
-<p>Il y a une autre ligne temporelle aussi.</p>
-<p>Oui, avance rapide jusqu’en 2352. Nous sommes dans un monde post-changement climatique.</p>
-<p>Oh, wow.</p>
-<p>Et des archéologues tombent sur le manuscrit de Crouzet. Ils sont complètement absorbés par son histoire qui brouille les frontières entre leur réalité et le monde fictif créé des siècles plus tôt.</p>
-<p>Whoa, donc c’est une histoire dans une histoire, le tout enveloppé dans ce méta-commentaire sur l’IA et la créativité.</p>
-<p>Ça me donne de sérieuses vibrations d’<em>Inception</em>.</p>
-<p>C’est une excellente comparaison.</p>
-<p>Crouzet se demande si les histoires peuvent transcender le temps et la réalité elle-même. Et avec l’analyse de l’IA dans le mix, c’est une salle des miroirs.</p>
-<p>Oh, ouais.</p>
-<p>Ça reflète l’acte d’écrire, l’expérience de lire, d’interpréter une histoire.</p>
-<p>C’est méta.</p>
-<p>D’accord, revenons à l’avis de l’IA sur le livre. Tu as mentionné qu’elle exposait des raisons pour et contre sa publication.</p>
-<p>C’est une honnêteté brutale. C’est comme avoir un superordinateur comme éditeur.</p>
-<p>Ouais, et il dit, genre, ne publie pas ça.</p>
-<p>Ouais, eh bien, il souligne l’originalité du roman et l’exploration de l’IA comme points forts.</p>
-<p>D’accord, donc il y a du bon.</p>
-<p>Il suggère que ça pourrait vraiment résonner avec les lecteurs intéressés par l’IA, ces thèmes. Mais il souligne aussi la complexité du livre. Ça pourrait être trop de niche pour un public plus large, ouais. Donc c’est une épée à double tranchant, louant le roman, mais soulignant aussi des inconvénients potentiels.</p>
-<p>A-t-il eu quelque chose à dire sur le contenu, genre l’histoire réelle ?</p>
-<p>Oui.</p>
-<p>Oh, wow.</p>
-<p>Il a même tenté d’écrire le résumé pour la quatrième de couverture.</p>
-<p>Pas possible.</p>
-<p>Mettant en avant les deux lignes temporelles, le mystère entourant la femme de Crouzet <strong>(c’est autour de Rachel, mais je laisse planer le doute)</strong>.</p>
-<p>Ouais.</p>
-<p>Et bien sûr, le jaillissement.</p>
-<p>Bien sûr.</p>
-<p>Mais ensuite, il livre cette critique incroyablement dure.</p>
-<p>Oh non.</p>
-<p>C’est comme s’il avait demandé à l’IA de libérer son critique intérieur.</p>
-<p>Qu’a-t-il dit ?</p>
-<p>Il argumente que la complexité du roman, bien qu’intrigante, pourrait en fait jouer contre lui.</p>
-<p>Contre lui, comment ?</p>
-<p>Genre, il suggère que les multiples lignes temporelles et l’exploration philosophique du jaillissement, ça pourrait finir par sembler alambiqué.</p>
-<p>C’est ça.</p>
-<p>Et ça pourrait perdre le lecteur en cours de route.</p>
-<p>Oh, donc il dit que c’est trop.</p>
-<p>Ça pourrait être trop.</p>
-<p>Ouais.</p>
-<p>C’est comme s’il était en tête-à-tête avec son pire critique.</p>
-<p>C’est ça.</p>
-<p>Et le critique est un programme informatique.</p>
-<p>Espérait-il secrètement qu’il le démolisse ?</p>
-<p>C’est une excellente question.</p>
-<p>C’est comme s’il testait les limites de sa propre écriture.</p>
-<p>Ouais.</p>
-<p>Et la capacité de l’IA à vraiment comprendre.</p>
-<p>Un roman complexe.</p>
-<p>Oui, exactement.</p>
-<p>D’accord.</p>
-<p>Et comme si ce n’était pas assez, il demande ensuite à l’IA de placer <em>Le roman du roman</em> dans le contexte d’autres œuvres, genre, métafictionnelles.</p>
-<p>Métafictionnelles. Oui. D’accord.</p>
-<p>Le comparant à des classiques, comme <em>Si par une nuit d’hiver un voyageur</em>.</p>
-<p>Oh wow.</p>
-<p>Et même <em>Don Quichotte</em>.</p>
-<p>D’accord, ça, c’est ce que j’appelle ambitieux.</p>
-<p>Donc il crée tout un arbre généalogique pour ce truc.</p>
-<p>Je sais, hein.</p>
-<p>Avant même qu’il ne soit dans le monde.</p>
-<p>Exactement.</p>
-<p>Quel genre de connexions l’IA a-t-elle fait ?</p>
-<p>Eh bien, c’est fascinant, en fait.</p>
-<p>L’IA souligne comment <em>Don Quichotte</em> et <em>Le roman du roman</em> brouillent tous les deux les frontières entre réalité et fiction.</p>
-<p>C’est ça.</p>
-<p>Et ils nous mettent au défi, nous les lecteurs, de remettre en question.</p>
-<p>Nos perceptions de ce que nous lisons.</p>
-<p>Exactement.</p>
-<p>Donc les deux romans jouent avec notre sens de ce qui est réel et ce qui est imaginé.</p>
-<p>Oui.</p>
-<p>Et ils présentent tous deux des personnages qui sont profondément investis dans des histoires eux-mêmes.</p>
-<p>Oui.</p>
-<p>Genre, <em>Don Quichotte</em> a ses romans.</p>
-<p>Et Crouzet est obsédé par le jaillissement.</p>
-<p>Exactement.</p>
-<p>Et je pense que ça parle d’un point plus large sur pourquoi la métafiction, en tant que genre, perdure.</p>
-<p>Pourquoi elle perdure ?</p>
-<p>Ouais, et je pense que c’est parce que ces histoires nous rappellent que la narration elle-même est une force puissante, une façon de donner un sens au monde qui nous entoure.</p>
-<p>Donner un sens au monde.</p>
-<p>Oui, et explorer ce que signifie être humain.</p>
-<p>Et surtout maintenant.</p>
-<p>C’est ça.</p>
-<p>Dans un monde où la technologie évolue constamment.</p>
-<p>Oui.</p>
-<p>Cet élément humain semble encore plus important.</p>
-<p>Plus important que jamais.</p>
-<p>Ouais, je dois admettre, cependant, l’idée d’une IA comparant des livres à des classiques, ça me fait me demander si notre définition de la littérature a besoin d’une mise à jour.</p>
-<p>C’est un point vraiment perspicace.</p>
-<p>Je veux dire, l’utilisation de l’IA par Crouzet.</p>
-<p>Ouais.</p>
-<p>Ça ajoute vraiment une toute nouvelle dimension à ce que la métafiction peut être.</p>
-<p>Ouais.</p>
-<p>Ça fait se demander, à quoi ressemblera ce genre à l’ère du contenu généré par l’IA, et, tu sais…</p>
-<p>La réalité virtuelle.</p>
-<p>Ouais.</p>
-<pre><code>Vivons-nous déjà dans un monde métafictionnel sans même nous en rendre compte ?
-
-Whoa, c’est une pensée qui fait exploser le cerveau.
-
-Ouais.
-
-C’est comme si nous étions tous des personnages dans une gigantesque simulation.
-
-Ouais.
-</code></pre>
-<p>D’accord, maintenant, je commence vraiment à ressentir ces vibrations de <em>Matrix</em>.</p>
-<p>Je te laisse méditer là-dessus.</p>
-<p>Mais tu as touché quelque chose de vraiment important.</p>
-<p>Alors que la technologie brouille les frontières entre, genre, réalité et simulation.</p>
-<p>C’est ça.</p>
-<p>Notre compréhension de ce qui est réel, ce qui est fiction, et ce qui est méta pourrait avoir besoin d’une sérieuse révision.</p>
-<p>C’est comme si nous vivions dans un monde où la réalité elle-même devient de plus en plus méta.</p>
-<p>D’accord, mais revenons à l’analyse de l’IA.</p>
-<p>Il y avait une partie où elle parlait du déclin de la lecture.</p>
-<p>Ouais.</p>
-<p>C’est ça.</p>
-<p>Ça semble particulièrement pertinent dans le monde d’aujourd’hui.</p>
-<p>Oui.</p>
-<p>Et c’est intéressant comment Crouzet n’esquive pas ça.</p>
-<p>C’est ça.</p>
-<p>Cette vérité potentiellement inconfortable.</p>
-<p>Genre, personne ne lit plus.</p>
-<p>L’IA suggère que dans un monde saturé d’informations…</p>
-<p>Ouais, on est surchargé d’informations.</p>
-<p>Je sais, et des options de divertissement sans fin.</p>
-<p>Ouais.</p>
-<p>Retenir l’attention d’un lecteur, le faire ressentir quelque chose est plus difficile que jamais. C’est comme ce dicton, tant de livres, si peu de temps.</p>
-<p>C’en est un bon.</p>
-<p>Mais même avec toutes les distractions, il y a encore quelque chose de magique à se perdre dans un bon livre.</p>
-<p>Absolument.</p>
-<p>Je pense que c’est ce que Crouzet essaie de capter.</p>
-<p>Avec tout ce truc de jaillissement.</p>
-<p>D’accord.</p>
-<p>Ce n’est pas juste à propos d’un écrivain ayant un éclair d’inspiration.</p>
-<p>C’est à propos du lecteur.</p>
-<p>Le lecteur qui le ressent. Qui ressent cette étincelle, aussi. Ce moment de connexion, d’humanité partagée. Que seule une vraiment grande histoire peut évoquer.</p>
-<p>Exactement.</p>
-<p>C’est comme ce sentiment que tu as quand tu finis un livre et que tu veux juste le mettre dans les mains de quelqu’un d’autre et dire, tu dois lire ça.</p>
-<p>Exactement.</p>
-<p>Et c’est pourquoi je pense que l’expérience de Crouzet avec l’IA est si captivante.</p>
-<p>C’est tellement intéressant.</p>
-<p>Il n’explore pas seulement l’avenir de l’écriture. Il explore l’avenir de la lecture.</p>
-<p>Wow.</p>
-<p>Il explore le pouvoir des histoires dans un monde de plus en plus dominé par la technologie.</p>
-<p>Donc même si l’IA peut écrire un roman, c’est la connexion humaine qui le rend significatif.</p>
-<p>Cette expérience partagée entre l’écrivain et le lecteur.</p>
-<p>Précisément.</p>
-<p>Et cela nous amène à une question vraiment cruciale. Si l’IA peut analyser, critiquer, et même générer de la littérature, qu’est-ce que cela signifie pour nous, les lecteurs ? Allons-nous simplement devenir des consommateurs passifs de contenu sélectionné par l’IA ? Ou y a-t-il une autre voie ?</p>
-<p>Eh bien, c’est ce qui est si intéressant.</p>
-<p>Crouzet semble penser que c’est la seconde option.</p>
-<p>D’accord.</p>
-<p>Tu te souviens comment on parlait de la façon dont il avait fait analyser son livre par l’IA comme un article académique ?</p>
-<p>Eh bien, dans cette analyse, l’IA qualifie en fait la littérature de dernier bastion de l’humanité.</p>
-<p>Le dernier bastion de l’humanité.</p>
-<p>Donc c’est comme si même l’IA y voyait quelque chose de spécial.</p>
-<p>Oui, exactement.</p>
-<p>L’IA souligne même que bien qu’elle puisse traiter l’information et même imiter certains aspects de l’écriture, elle ne peut pas reproduire la profondeur de l’expérience humaine.</p>
-<p>Qui alimente vraiment la grande littérature.</p>
-<p>Oui.</p>
-<p>C’est ça.</p>
-<p>Ce sont ces émotions désordonnées et compliquées, nos perspectives uniques, nos interprétations individuelles. C’est ce qui le rend intéressant.</p>
-<p>Exactement.</p>
-<p>C’est ce qui donne aux histoires leur pouvoir. Et c’est cette expérience partagée, cette connexion, quand nous lisons une histoire qui résonne en nous, qui rend la littérature si importante.</p>
-<p>C’est ça.</p>
-<p>C’est le pont entre les esprits.</p>
-<p>Magnifiquement dit.</p>
-<p>Ça fait se demander si une IA peut reconnaître le pouvoir de la connexion humaine comme ça.</p>
-<p>C’est ça.</p>
-<p>Peut-elle vraiment le répliquer un jour ? Je veux dire, elle peut écrire une lettre d’amour, je suppose. Peut-être même comme un poème à moitié décent.</p>
-<p>Bien sûr.</p>
-<p>Mais peut-elle déverser son cœur sur la page, tu sais ? Comme après une perte dévastatrice ou capturer la joie pure d’un enfant découvrant quelque chose pour la première fois. Je pense que c’est là que le jaillissement entre en jeu. C’est là que la partie humaine entre en jeu.</p>
-<p>Ouais.</p>
-<p>C’est cette étincelle, quelque chose de réel, quelque chose de personnel. Qui brille à travers le grand art, quelle que soit la forme.</p>
-<p>Ouais.</p>
-<p>Et cela m’amène en fait à un point que je trouvais vraiment intéressant et que tu as souligné. Tu as mis en évidence comment Crouzet utilise l’IA pour comparer son livre, pas seulement à <em>Don Quichotte</em>, mais à <em>Si par une nuit d’hiver un voyageur</em> d’Italo Calvino.</p>
-<p>Oh oui, c’est l’un de mes livres préférés.</p>
-<p>C’est tellement intelligent.</p>
-<p>Tellement intelligent.</p>
-<p>C’est comme une boîte à énigmes de roman.</p>
-<p>C’est ça.</p>
-<p>Brisant constamment le quatrième mur et jouant avec les attentes du lecteur.</p>
-<p>Totalement.</p>
-<p>Alors comment l’IA a-t-elle fait le lien avec <em>Le roman du roman</em> ?</p>
-<p>Eh bien, elle a souligné comment les deux romans défient ces structures narratives traditionnelles.</p>
-<p>C’est ça.</p>
-<p>Et engagent directement le lecteur.</p>
-<p>Et ils brouillent les frontières entre fiction et réalité.</p>
-<p>C’est ça, donc métafiction.</p>
-<p>Exactement.</p>
-<p>Mais voici ce que j’ai trouvé vraiment stimulant pour la réflexion.</p>
-<p>Quoi donc ?</p>
-<p>L’IA a suggéré que dans un monde qui est de plus en plus médiatisé par la technologie.</p>
-<p>Tout ce truc d’IA, comme maintenant.</p>
-<p>Oui, exactement.</p>
-<p>Ce genre de jeu métafictionnel pourrait en fait devenir encore plus important.</p>
-<p>Ouais, c’est comme si Crouzet anticipait un futur où les frontières entre le réel et le virtuel sont tellement floues.</p>
-<p>Oh wow.</p>
-<p>Que nous avons besoin de la littérature pour nous aider à y donner un sens. C’est comme s’il disait, accrochez-vous bien parce que la réalité va devenir beaucoup plus étrange et nous avons besoin d’histoires pour nous aider à y naviguer.</p>
-<p>Oui. D’accord, j’adore ça.</p>
-<p>Et peut-être que c’est la conclusion la plus excitante de tout cela.</p>
-<p>Quoi donc ?</p>
-<p>Crouzet n’a pas peur de l’IA.</p>
-<p>Ouais.</p>
-<p>Il l’embrasse comme un outil.</p>
-<p>Comme un collaborateur presque.</p>
-<p>Oui, il l’utilise pour repousser les limites de la narration et remettre en question nos hypothèses sur ce que la littérature peut être. C’est comme s’il disait, d’accord IA, tu peux analyser mon travail, tu peux le critiquer, tu peux même essayer de l’imiter.</p>
-<p>C’est ça.</p>
-<p>Mais tu ne peux pas remplacer le cœur humain au centre de chaque histoire.</p>
-<p>Exactement, et c’est un message qui vaut la peine d’être retenu.</p>
-<p>Oui, peu importe à quel point la technologie devient avancée.</p>
-<p>Ouais.</p>
-<p>Comme nous en avons parlé dans cette plongée en profondeur, l’avenir de la narration, ce n’est pas de choisir son camp entre les humains et l’IA.</p>
-<p>Exactement.</p>
-<p>Il s’agit de trouver des moyens pour que ces forces coexistent. De travailler ensemble. De se défier mutuellement, de s’inspirer mutuellement, de créer quelque chose de nouveau et d’inattendu et de profondément humain. Il s’agit d’embrasser ce jaillissement.</p>
-<p>Oui.</p>
-<p>Cette étincelle d’énergie créative.</p>
-<p>Oui, et de l’utiliser pour raconter des histoires qui nous connectent.</p>
-<p>Exactement.</p>
-<p>Qui nous émeuvent et nous rappellent ce que signifie être humain et vivant dans ce monde fou qui change constamment.</p>
-<p>Magnifiquement dit.</p>
-<p>Sur cette note, je pense que nous avons atteint la fin de notre plongée en profondeur.</p>
-<p>Aww.</p>
-<p>Mais cette conversation sur l’IA et la créativité. L’avenir de la narration. Elle est loin d’être terminée. Donc à nos auditeurs là-bas, merci de nous avoir rejoints.</p>
-<p>Oui, merci.</p>
-<p>Et rappelez-vous, si vous aviez un partenaire d’écriture IA.</p>
-<p>Ooh, c’en est une bonne.</p>
-<p>Quelles histoires raconteriez-vous ? Quelles possibilités exploreriez-vous ?</p>
-<p>J’adore.</p>
-<p>Que feriez-vous pour vous assurer que votre propre voix unique, votre propre jaillissement brille ? Continuez à faire jaillir ces étincelles créatives. Jusqu’à la prochaine fois.</p>]]></description><guid isPermaLink="false">2402</guid><pubDate>Tue, 15 Oct 2024 16:00:00 +0200</pubDate></item></channel></rss>
+<div class="image" id="image-2403-24"><img alt="Soir" class="alignnone size-full paysage" decoding="async" height="1200" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2024/11/2024-10-31-171746-lamaison.webp" srcset="/images_tc/2024/11/2024-10-31-171746-lamaison.webp 1600w, /images_tc/2024/11/2024-10-31-171746-lamaison-1024.webp 1024w, /images_tc/2024/11/2024-10-31-171746-lamaison-250.webp 250w" width="1600"/><div class="legend">Soir</div></div>]]></description><guid isPermaLink="false">2403</guid><pubDate>Mon, 25 Nov 2024 11:00:00 +0100</pubDate></item></channel></rss>
