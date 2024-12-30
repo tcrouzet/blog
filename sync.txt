@@ -1,41 +1,203 @@
-Completed 22.4 KiB/~273.4 KiB (100.1 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/2024/12/25/un-an-avec-obsidian/content.html to s3://tcrouzet.com/2024/12/25/un-an-avec-obsidian/content.html
-Completed 22.4 KiB/~273.4 KiB (100.1 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 49.0 KiB/~273.4 KiB (152.3 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/2024/12/25/un-an-avec-obsidian/index.html to s3://tcrouzet.com/2024/12/25/un-an-avec-obsidian/index.html
-Completed 49.0 KiB/~273.4 KiB (152.3 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 78.6 KiB/~273.4 KiB (217.8 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html             
-Completed 78.6 KiB/~273.4 KiB (217.8 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 182.9 KiB/~273.4 KiB (313.2 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 182.9 KiB/~273.4 KiB (313.2 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 273.4 KiB/~273.4 KiB (467.8 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
-Completed 273.4 KiB/~273.4 KiB (467.8 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 278.9 KiB/~278.9 KiB (44.3 KiB/s) with ~1 file(s) remaining (calculating...) 
-upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
-Completed 278.9 KiB/~278.9 KiB (44.3 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 280.0 KiB/374.3 KiB (43.8 KiB/s) with 8 file(s) remaining                   
+Completed 24.2 KiB/~676.0 KiB (218.2 KiB/s) with ~35 file(s) remaining (calculating...)
+upload: ../../static/2021/01/02/carnet-de-route-decembre-2020/content.html to s3://tcrouzet.com/2021/01/02/carnet-de-route-decembre-2020/content.html
+Completed 24.2 KiB/~676.0 KiB (218.2 KiB/s) with ~34 file(s) remaining (calculating...)
+Completed 30.3 KiB/~883.5 KiB (165.0 KiB/s) with ~47 file(s) remaining (calculating...)
+upload: ../../static/2021/04/28/de-sete-a-sete-en-video/content.html to s3://tcrouzet.com/2021/04/28/de-sete-a-sete-en-video/content.html
+Completed 30.3 KiB/~883.5 KiB (165.0 KiB/s) with ~46 file(s) remaining (calculating...)
+Completed 41.0 KiB/~883.5 KiB (202.7 KiB/s) with ~46 file(s) remaining (calculating...)
+upload: ../../static/2021/01/25/sete-par-les-chemins-insolites/content.html to s3://tcrouzet.com/2021/01/25/sete-par-les-chemins-insolites/content.html
+Completed 41.0 KiB/~883.5 KiB (202.7 KiB/s) with ~45 file(s) remaining (calculating...)
+Completed 56.0 KiB/~946.7 KiB (244.3 KiB/s) with ~49 file(s) remaining (calculating...)
+upload: ../../static/2021/01/25/sete-par-les-chemins-insolites/index.html to s3://tcrouzet.com/2021/01/25/sete-par-les-chemins-insolites/index.html
+Completed 56.0 KiB/~946.7 KiB (244.3 KiB/s) with ~48 file(s) remaining (calculating...)
+Completed 84.2 KiB/~959.3 KiB (345.7 KiB/s) with ~50 file(s) remaining (calculating...)
+upload: ../../static/2021/01/02/carnet-de-route-decembre-2020/index.html to s3://tcrouzet.com/2021/01/02/carnet-de-route-decembre-2020/index.html
+Completed 84.2 KiB/~959.3 KiB (345.7 KiB/s) with ~49 file(s) remaining (calculating...)
+Completed 115.0 KiB/~1.1 MiB (470.7 KiB/s) with ~51 file(s) remaining (calculating...) 
+upload: ../../static/2021/02/06/carnet-de-route-janvier-2021/content.html to s3://tcrouzet.com/2021/02/06/carnet-de-route-janvier-2021/content.html
+Completed 115.0 KiB/~1.1 MiB (470.7 KiB/s) with ~50 file(s) remaining (calculating...)
+Completed 125.4 KiB/~1.4 MiB (491.4 KiB/s) with ~53 file(s) remaining (calculating...)
+upload: ../../static/2021/04/28/de-sete-a-sete-en-video/index.html to s3://tcrouzet.com/2021/04/28/de-sete-a-sete-en-video/index.html
+Completed 125.4 KiB/~1.4 MiB (491.4 KiB/s) with ~52 file(s) remaining (calculating...)
+Completed 143.7 KiB/~1.4 MiB (561.3 KiB/s) with ~52 file(s) remaining (calculating...)
+upload: ../../static/2021/03/24/comment-suivre-une-trace-gps-en-bikepacking/content.html to s3://tcrouzet.com/2021/03/24/comment-suivre-une-trace-gps-en-bikepacking/content.html
+Completed 143.7 KiB/~1.4 MiB (561.3 KiB/s) with ~51 file(s) remaining (calculating...)
+Completed 178.5 KiB/~1.4 MiB (679.5 KiB/s) with ~51 file(s) remaining (calculating...)
+upload: ../../static/2021/02/06/carnet-de-route-janvier-2021/index.html to s3://tcrouzet.com/2021/02/06/carnet-de-route-janvier-2021/index.html
+Completed 178.5 KiB/~1.4 MiB (679.5 KiB/s) with ~50 file(s) remaining (calculating...)
+Completed 200.8 KiB/~1.4 MiB (755.5 KiB/s) with ~50 file(s) remaining (calculating...)
+upload: ../../static/2021/03/24/comment-suivre-une-trace-gps-en-bikepacking/index.html to s3://tcrouzet.com/2021/03/24/comment-suivre-une-trace-gps-en-bikepacking/index.html
+Completed 200.8 KiB/~1.4 MiB (755.5 KiB/s) with ~49 file(s) remaining (calculating...)
+Completed 238.3 KiB/~1.4 MiB (848.5 KiB/s) with ~49 file(s) remaining (calculating...)
+upload: ../../static/2021/03/04/carnet-de-route-fevrier-2021/index.html to s3://tcrouzet.com/2021/03/04/carnet-de-route-fevrier-2021/index.html
+Completed 238.3 KiB/~1.4 MiB (848.5 KiB/s) with ~48 file(s) remaining (calculating...)
+Completed 250.6 KiB/~1.4 MiB (862.3 KiB/s) with ~48 file(s) remaining (calculating...)
+upload: ../../static/2021/04/30/pedaler-cest-aussi-politique/content.html to s3://tcrouzet.com/2021/04/30/pedaler-cest-aussi-politique/content.html
+Completed 250.6 KiB/~1.4 MiB (862.3 KiB/s) with ~47 file(s) remaining (calculating...)
+Completed 284.1 KiB/~1.4 MiB (930.8 KiB/s) with ~47 file(s) remaining (calculating...)
+upload: ../../static/2021/03/04/carnet-de-route-fevrier-2021/content.html to s3://tcrouzet.com/2021/03/04/carnet-de-route-fevrier-2021/content.html
+Completed 284.1 KiB/~1.4 MiB (930.8 KiB/s) with ~46 file(s) remaining (calculating...)
+Completed 295.5 KiB/~1.4 MiB (925.3 KiB/s) with ~46 file(s) remaining (calculating...)
+upload: ../../static/2021/08/20/je-vends-mon-blog-aux-encheres-en-nft/content.html to s3://tcrouzet.com/2021/08/20/je-vends-mon-blog-aux-encheres-en-nft/content.html
+Completed 295.5 KiB/~1.4 MiB (925.3 KiB/s) with ~45 file(s) remaining (calculating...)
+Completed 312.0 KiB/~1.4 MiB (969.1 KiB/s) with ~45 file(s) remaining (calculating...)
+upload: ../../static/2021/04/30/pedaler-cest-aussi-politique/index.html to s3://tcrouzet.com/2021/04/30/pedaler-cest-aussi-politique/index.html
+Completed 312.0 KiB/~1.4 MiB (969.1 KiB/s) with ~44 file(s) remaining (calculating...)
+Completed 325.0 KiB/~1.4 MiB (993.7 KiB/s) with ~44 file(s) remaining (calculating...)
+upload: ../../static/2021/09/10/one-minute-edition-luxe-en-coffret/index.html to s3://tcrouzet.com/2021/09/10/one-minute-edition-luxe-en-coffret/index.html
+Completed 325.0 KiB/~1.4 MiB (993.7 KiB/s) with ~43 file(s) remaining (calculating...)
+Completed 333.7 KiB/~1.4 MiB (990.0 KiB/s) with ~43 file(s) remaining (calculating...)
+upload: ../../static/2021/09/10/one-minute-edition-luxe-en-coffret/content.html to s3://tcrouzet.com/2021/09/10/one-minute-edition-luxe-en-coffret/content.html
+Completed 333.7 KiB/~1.4 MiB (990.0 KiB/s) with ~42 file(s) remaining (calculating...)
+Completed 342.7 KiB/~1.4 MiB (994.7 KiB/s) with ~42 file(s) remaining (calculating...)
+upload: ../../static/2021/09/14/de-lecriture-de-la-vie-du-roman/content.html to s3://tcrouzet.com/2021/09/14/de-lecriture-de-la-vie-du-roman/content.html
+Completed 342.7 KiB/~1.4 MiB (994.7 KiB/s) with ~41 file(s) remaining (calculating...)
+Completed 358.4 KiB/~1.4 MiB (1013.6 KiB/s) with ~41 file(s) remaining (calculating...)
+upload: ../../static/2021/08/20/je-vends-mon-blog-aux-encheres-en-nft/index.html to s3://tcrouzet.com/2021/08/20/je-vends-mon-blog-aux-encheres-en-nft/index.html
+Completed 358.4 KiB/~1.4 MiB (1013.6 KiB/s) with ~40 file(s) remaining (calculating...)
+Completed 371.7 KiB/~1.4 MiB (1012.6 KiB/s) with ~40 file(s) remaining (calculating...)
+upload: ../../static/2021/09/14/de-lecriture-de-la-vie-du-roman/index.html to s3://tcrouzet.com/2021/09/14/de-lecriture-de-la-vie-du-roman/index.html
+Completed 371.7 KiB/~1.4 MiB (1012.6 KiB/s) with ~39 file(s) remaining (calculating...)
+Completed 383.0 KiB/~1.4 MiB (1005.3 KiB/s) with ~39 file(s) remaining (calculating...)
+upload: ../../static/2021/10/26/pourquoi-je-fais-du-velo/content.html to s3://tcrouzet.com/2021/10/26/pourquoi-je-fais-du-velo/content.html
+Completed 383.0 KiB/~1.4 MiB (1005.3 KiB/s) with ~38 file(s) remaining (calculating...)
+Completed 398.5 KiB/~1.4 MiB (1.0 MiB/s) with ~38 file(s) remaining (calculating...)   
+upload: ../../static/2021/09/26/one-minute-extraits/content.html to s3://tcrouzet.com/2021/09/26/one-minute-extraits/content.html
+Completed 398.5 KiB/~1.4 MiB (1.0 MiB/s) with ~37 file(s) remaining (calculating...)
+Completed 405.8 KiB/~1.4 MiB (1.0 MiB/s) with ~37 file(s) remaining (calculating...)
+upload: ../../static/2022/01/13/nft-une-chaine-de-speculation-vertueuse-pour-les-createurs/content.html to s3://tcrouzet.com/2022/01/13/nft-une-chaine-de-speculation-vertueuse-pour-les-createurs/content.html
+Completed 405.8 KiB/~1.4 MiB (1.0 MiB/s) with ~36 file(s) remaining (calculating...)
+Completed 425.4 KiB/~1.4 MiB (1.1 MiB/s) with ~36 file(s) remaining (calculating...)
+upload: ../../static/2021/09/26/one-minute-extraits/index.html to s3://tcrouzet.com/2021/09/26/one-minute-extraits/index.html
+Completed 425.4 KiB/~1.4 MiB (1.1 MiB/s) with ~35 file(s) remaining (calculating...)
+Completed 437.2 KiB/~1.4 MiB (1.1 MiB/s) with ~35 file(s) remaining (calculating...)
+upload: ../../static/2022/01/13/nft-une-chaine-de-speculation-vertueuse-pour-les-createurs/index.html to s3://tcrouzet.com/2022/01/13/nft-une-chaine-de-speculation-vertueuse-pour-les-createurs/index.html
+Completed 437.2 KiB/~1.4 MiB (1.1 MiB/s) with ~34 file(s) remaining (calculating...)
+Completed 452.8 KiB/~1.4 MiB (1.1 MiB/s) with ~34 file(s) remaining (calculating...)
+upload: ../../static/2021/10/26/pourquoi-je-fais-du-velo/index.html to s3://tcrouzet.com/2021/10/26/pourquoi-je-fais-du-velo/index.html
+Completed 452.8 KiB/~1.4 MiB (1.1 MiB/s) with ~33 file(s) remaining (calculating...)
+Completed 465.1 KiB/~1.4 MiB (1013.3 KiB/s) with ~33 file(s) remaining (calculating...)
+upload: ../../static/2022/03/12/manifeste-pour-un-bikepacking-ouvert-et-roots/content.html to s3://tcrouzet.com/2022/03/12/manifeste-pour-un-bikepacking-ouvert-et-roots/content.html
+Completed 465.1 KiB/~1.4 MiB (1013.3 KiB/s) with ~32 file(s) remaining (calculating...)
+Completed 471.9 KiB/~1.4 MiB (1015.9 KiB/s) with ~32 file(s) remaining (calculating...)
+upload: ../../static/2022/10/30/nantes-les-extraterrestres-et-la-theorie-de-la-connerie-maximale/content.html to s3://tcrouzet.com/2022/10/30/nantes-les-extraterrestres-et-la-theorie-de-la-connerie-maximale/content.html
+Completed 471.9 KiB/~1.4 MiB (1015.9 KiB/s) with ~31 file(s) remaining (calculating...)
+Completed 483.0 KiB/~1.4 MiB (1.0 MiB/s) with ~31 file(s) remaining (calculating...)   
+upload: ../../static/2022/10/30/nantes-les-extraterrestres-et-la-theorie-de-la-connerie-maximale/index.html to s3://tcrouzet.com/2022/10/30/nantes-les-extraterrestres-et-la-theorie-de-la-connerie-maximale/index.html
+Completed 483.0 KiB/~1.4 MiB (1.0 MiB/s) with ~30 file(s) remaining (calculating...)
+Completed 513.5 KiB/~1.4 MiB (1.0 MiB/s) with ~30 file(s) remaining (calculating...)
+upload: ../../static/2022/03/02/carnet-de-route-fevrier-2022/content.html to s3://tcrouzet.com/2022/03/02/carnet-de-route-fevrier-2022/content.html
+Completed 513.5 KiB/~1.4 MiB (1.0 MiB/s) with ~29 file(s) remaining (calculating...)
+Completed 559.5 KiB/~1.4 MiB (1.1 MiB/s) with ~29 file(s) remaining (calculating...)
+upload: ../../static/2022/02/01/carnet-de-route-janvier-2022/content.html to s3://tcrouzet.com/2022/02/01/carnet-de-route-janvier-2022/content.html
+Completed 559.5 KiB/~1.4 MiB (1.1 MiB/s) with ~28 file(s) remaining (calculating...)
+Completed 576.2 KiB/~1.4 MiB (1.1 MiB/s) with ~28 file(s) remaining (calculating...)
+upload: ../../static/2022/03/12/manifeste-pour-un-bikepacking-ouvert-et-roots/index.html to s3://tcrouzet.com/2022/03/12/manifeste-pour-un-bikepacking-ouvert-et-roots/index.html
+Completed 576.2 KiB/~1.4 MiB (1.1 MiB/s) with ~27 file(s) remaining (calculating...)
+Completed 591.6 KiB/~1.4 MiB (1.1 MiB/s) with ~27 file(s) remaining (calculating...)
+upload: ../../static/2023/02/20/la-seconde-revolution-numerique-frappe-la-litterature/content.html to s3://tcrouzet.com/2023/02/20/la-seconde-revolution-numerique-frappe-la-litterature/content.html
+Completed 591.6 KiB/~1.4 MiB (1.1 MiB/s) with ~26 file(s) remaining (calculating...)
+Completed 611.5 KiB/~1.4 MiB (1.2 MiB/s) with ~26 file(s) remaining (calculating...)
+upload: ../../static/2023/02/20/la-seconde-revolution-numerique-frappe-la-litterature/index.html to s3://tcrouzet.com/2023/02/20/la-seconde-revolution-numerique-frappe-la-litterature/index.html
+Completed 611.5 KiB/~1.4 MiB (1.2 MiB/s) with ~25 file(s) remaining (calculating...)
+Completed 661.4 KiB/~1.4 MiB (1.2 MiB/s) with ~25 file(s) remaining (calculating...)
+upload: ../../static/2022/02/01/carnet-de-route-janvier-2022/index.html to s3://tcrouzet.com/2022/02/01/carnet-de-route-janvier-2022/index.html
+Completed 661.4 KiB/~1.4 MiB (1.2 MiB/s) with ~24 file(s) remaining (calculating...)
+Completed 695.9 KiB/~1.4 MiB (1.3 MiB/s) with ~24 file(s) remaining (calculating...)
+upload: ../../static/2022/03/02/carnet-de-route-fevrier-2022/index.html to s3://tcrouzet.com/2022/03/02/carnet-de-route-fevrier-2022/index.html
+Completed 695.9 KiB/~1.4 MiB (1.3 MiB/s) with ~23 file(s) remaining (calculating...)
+Completed 704.5 KiB/~1.4 MiB (1.3 MiB/s) with ~23 file(s) remaining (calculating...)
+upload: ../../static/2023/02/21/ecrire-sur-le-territoire/content.html to s3://tcrouzet.com/2023/02/21/ecrire-sur-le-territoire/content.html
+Completed 704.5 KiB/~1.4 MiB (1.3 MiB/s) with ~22 file(s) remaining (calculating...)
+Completed 717.5 KiB/~1.4 MiB (1.3 MiB/s) with ~22 file(s) remaining (calculating...)
+upload: ../../static/2023/02/21/ecrire-sur-le-territoire/index.html to s3://tcrouzet.com/2023/02/21/ecrire-sur-le-territoire/index.html
+Completed 717.5 KiB/~1.4 MiB (1.3 MiB/s) with ~21 file(s) remaining (calculating...)
+Completed 724.5 KiB/~1.4 MiB (1.3 MiB/s) with ~21 file(s) remaining (calculating...)
+upload: ../../static/2023/03/24/comment-je-prepare-mon-gps-pour-un-bikepacking/content.html to s3://tcrouzet.com/2023/03/24/comment-je-prepare-mon-gps-pour-un-bikepacking/content.html
+Completed 724.5 KiB/~1.4 MiB (1.3 MiB/s) with ~20 file(s) remaining (calculating...)
+Completed 735.6 KiB/~1.4 MiB (1.3 MiB/s) with ~20 file(s) remaining (calculating...)
+upload: ../../static/2023/03/24/comment-je-prepare-mon-gps-pour-un-bikepacking/index.html to s3://tcrouzet.com/2023/03/24/comment-je-prepare-mon-gps-pour-un-bikepacking/index.html
+Completed 735.6 KiB/~1.4 MiB (1.3 MiB/s) with ~19 file(s) remaining (calculating...)
+Completed 750.8 KiB/~1.4 MiB (1.3 MiB/s) with ~19 file(s) remaining (calculating...)
+upload: ../../static/2023/12/01/edition-la-fin-des-correcteurs/content.html to s3://tcrouzet.com/2023/12/01/edition-la-fin-des-correcteurs/content.html
+Completed 750.8 KiB/~1.4 MiB (1.3 MiB/s) with ~18 file(s) remaining (calculating...)
+Completed 770.3 KiB/~1.4 MiB (1.3 MiB/s) with ~18 file(s) remaining (calculating...)
+upload: ../../static/2023/12/01/edition-la-fin-des-correcteurs/index.html to s3://tcrouzet.com/2023/12/01/edition-la-fin-des-correcteurs/index.html
+Completed 770.3 KiB/~1.4 MiB (1.3 MiB/s) with ~17 file(s) remaining (calculating...)
+Completed 775.3 KiB/~1.4 MiB (1.2 MiB/s) with ~17 file(s) remaining (calculating...)
+upload: ../../static/2024/03/19/des-textes-reserves-aux-abonnees/content.html to s3://tcrouzet.com/2024/03/19/des-textes-reserves-aux-abonnees/content.html
+Completed 775.3 KiB/~1.4 MiB (1.2 MiB/s) with ~16 file(s) remaining (calculating...)
+Completed 784.7 KiB/~1.4 MiB (1.2 MiB/s) with ~16 file(s) remaining (calculating...)
+upload: ../../static/2024/03/19/des-textes-reserves-aux-abonnees/index.html to s3://tcrouzet.com/2024/03/19/des-textes-reserves-aux-abonnees/index.html
+Completed 784.7 KiB/~1.4 MiB (1.2 MiB/s) with ~15 file(s) remaining (calculating...)
+Completed 822.2 KiB/~1.4 MiB (1.3 MiB/s) with ~15 file(s) remaining (calculating...)
+upload: ../../static/2023/07/16/tour-du-massif-vosgien-le-bikepacking-a-ne-pas-manquer-en-juillet/index.html to s3://tcrouzet.com/2023/07/16/tour-du-massif-vosgien-le-bikepacking-a-ne-pas-manquer-en-juillet/index.html
+Completed 822.2 KiB/~1.4 MiB (1.3 MiB/s) with ~14 file(s) remaining (calculating...)
+Completed 834.1 KiB/~1.4 MiB (1.3 MiB/s) with ~14 file(s) remaining (calculating...)
+upload: ../../static/2024/02/25/pourquoi-encore-bloguer-en-2024/content.html to s3://tcrouzet.com/2024/02/25/pourquoi-encore-bloguer-en-2024/content.html
+Completed 834.1 KiB/~1.4 MiB (1.3 MiB/s) with ~13 file(s) remaining (calculating...)
+Completed 867.2 KiB/~1.4 MiB (1.4 MiB/s) with ~13 file(s) remaining (calculating...)
+upload: ../../static/2023/07/16/tour-du-massif-vosgien-le-bikepacking-a-ne-pas-manquer-en-juillet/content.html to s3://tcrouzet.com/2023/07/16/tour-du-massif-vosgien-le-bikepacking-a-ne-pas-manquer-en-juillet/content.html
+Completed 867.2 KiB/~1.4 MiB (1.4 MiB/s) with ~12 file(s) remaining (calculating...)
+Completed 879.7 KiB/~1.4 MiB (1.4 MiB/s) with ~12 file(s) remaining (calculating...)
+upload: ../../static/books/la-quatrieme-theorie/la-quatrieme-theorie-historique/content.html to s3://tcrouzet.com/books/la-quatrieme-theorie/la-quatrieme-theorie-historique/content.html
+Completed 879.7 KiB/~1.4 MiB (1.4 MiB/s) with ~11 file(s) remaining (calculating...)
+Completed 895.9 KiB/~1.4 MiB (1.4 MiB/s) with ~11 file(s) remaining (calculating...)
+upload: ../../static/2024/02/25/pourquoi-encore-bloguer-en-2024/index.html to s3://tcrouzet.com/2024/02/25/pourquoi-encore-bloguer-en-2024/index.html
+Completed 895.9 KiB/~1.4 MiB (1.4 MiB/s) with ~10 file(s) remaining (calculating...)
+Completed 912.5 KiB/~1.4 MiB (1.4 MiB/s) with ~10 file(s) remaining (calculating...)
+upload: ../../static/books/la-quatrieme-theorie/la-quatrieme-theorie-historique/index.html to s3://tcrouzet.com/books/la-quatrieme-theorie/la-quatrieme-theorie-historique/index.html
+Completed 912.5 KiB/~1.4 MiB (1.4 MiB/s) with ~9 file(s) remaining (calculating...)
+Completed 927.6 KiB/~1.4 MiB (1.3 MiB/s) with ~9 file(s) remaining (calculating...)
+Completed 931.9 KiB/~1.4 MiB (1.3 MiB/s) with ~9 file(s) remaining (calculating...)
+upload: ../../static/books/lalternative-nomade-historique/content.html to s3://tcrouzet.com/books/lalternative-nomade-historique/content.html
+Completed 931.9 KiB/~1.4 MiB (1.3 MiB/s) with ~8 file(s) remaining (calculating...)
+upload: ../../static/books/la-quatrieme-theorie/la-quatrieme-theorie-liens/content.html to s3://tcrouzet.com/books/la-quatrieme-theorie/la-quatrieme-theorie-liens/content.html
+Completed 931.9 KiB/~1.4 MiB (1.3 MiB/s) with ~7 file(s) remaining (calculating...)
+Completed 940.1 KiB/~1.4 MiB (1.3 MiB/s) with ~7 file(s) remaining (calculating...)
+upload: ../../static/books/lalternative-nomade-historique/index.html to s3://tcrouzet.com/books/lalternative-nomade-historique/index.html
+Completed 940.1 KiB/~1.4 MiB (1.3 MiB/s) with ~6 file(s) remaining (calculating...)
+Completed 959.3 KiB/~1.4 MiB (1.3 MiB/s) with ~6 file(s) remaining (calculating...)
+upload: ../../static/books/la-quatrieme-theorie/la-quatrieme-theorie-liens/index.html to s3://tcrouzet.com/books/la-quatrieme-theorie/la-quatrieme-theorie-liens/index.html
+Completed 959.3 KiB/~1.4 MiB (1.3 MiB/s) with ~5 file(s) remaining (calculating...)
+Completed 971.9 KiB/~1.4 MiB (1.3 MiB/s) with ~5 file(s) remaining (calculating...)
+upload: ../../static/feeds/mailing.xml to s3://tcrouzet.com/feeds/mailing.xml      
+Completed 971.9 KiB/~1.4 MiB (1.3 MiB/s) with ~4 file(s) remaining (calculating...)
+Completed 1.1 MiB/~1.4 MiB (1.2 MiB/s) with ~4 file(s) remaining (calculating...)  
+upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml            
+Completed 1.1 MiB/~1.4 MiB (1.2 MiB/s) with ~3 file(s) remaining (calculating...)
+Completed 1.2 MiB/~1.4 MiB (1.3 MiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/feeds/borntobike.xml to s3://tcrouzet.com/feeds/borntobike.xml
+Completed 1.2 MiB/~1.4 MiB (1.3 MiB/s) with ~2 file(s) remaining (calculating...)
+Completed 1.2 MiB/~1.4 MiB (1.5 MiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml          
+Completed 1.2 MiB/~1.4 MiB (1.5 MiB/s) with ~1 file(s) remaining (calculating...)
+Completed 1.4 MiB/~1.4 MiB (1.5 MiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/feeds/carnet-de-route.xml to s3://tcrouzet.com/feeds/carnet-de-route.xml
+Completed 1.4 MiB/~1.4 MiB (1.5 MiB/s) with ~0 file(s) remaining (calculating...)
+Completed 1.4 MiB/~1.4 MiB (181.5 KiB/s) with ~8 file(s) remaining (calculating...)
+upload: ../../static/page/concours/content.html to s3://tcrouzet.com/page/concours/content.html
+Completed 1.4 MiB/~1.4 MiB (181.5 KiB/s) with ~7 file(s) remaining (calculating...)
+Completed 1.4 MiB/1.5 MiB (181.5 KiB/s) with 8 file(s) remaining                   
+upload: ../../static/tag/sur_1_minute/index.html to s3://tcrouzet.com/tag/sur_1_minute/index.html
+Completed 1.4 MiB/1.5 MiB (181.5 KiB/s) with 7 file(s) remaining
+Completed 1.4 MiB/1.5 MiB (181.3 KiB/s) with 7 file(s) remaining
 upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 280.0 KiB/374.3 KiB (43.8 KiB/s) with 7 file(s) remaining
-Completed 280.8 KiB/374.3 KiB (44.0 KiB/s) with 7 file(s) remaining
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
-Completed 280.8 KiB/374.3 KiB (44.0 KiB/s) with 6 file(s) remaining
-Completed 303.8 KiB/374.3 KiB (47.5 KiB/s) with 6 file(s) remaining
-upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
-Completed 303.8 KiB/374.3 KiB (47.5 KiB/s) with 5 file(s) remaining
-Completed 334.2 KiB/374.3 KiB (51.9 KiB/s) with 5 file(s) remaining
+Completed 1.4 MiB/1.5 MiB (181.3 KiB/s) with 6 file(s) remaining
+Completed 1.4 MiB/1.5 MiB (182.0 KiB/s) with 6 file(s) remaining
+upload: ../../static/page/experience-inedite/index.html to s3://tcrouzet.com/page/experience-inedite/index.html
+Completed 1.4 MiB/1.5 MiB (182.0 KiB/s) with 5 file(s) remaining
+Completed 1.4 MiB/1.5 MiB (182.4 KiB/s) with 5 file(s) remaining
+upload: ../../static/page/experience-inedite/content.html to s3://tcrouzet.com/page/experience-inedite/content.html
+Completed 1.4 MiB/1.5 MiB (182.4 KiB/s) with 4 file(s) remaining
+Completed 1.4 MiB/1.5 MiB (183.6 KiB/s) with 4 file(s) remaining
+upload: ../../static/page/concours/index.html to s3://tcrouzet.com/page/concours/index.html
+Completed 1.4 MiB/1.5 MiB (183.6 KiB/s) with 3 file(s) remaining
+Completed 1.4 MiB/1.5 MiB (183.8 KiB/s) with 3 file(s) remaining
+upload: ../../static/tag/nft/index.html to s3://tcrouzet.com/tag/nft/index.html
+Completed 1.4 MiB/1.5 MiB (183.8 KiB/s) with 2 file(s) remaining
+Completed 1.4 MiB/1.5 MiB (187.6 KiB/s) with 2 file(s) remaining
 upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 334.2 KiB/374.3 KiB (51.9 KiB/s) with 4 file(s) remaining
-Completed 341.2 KiB/374.3 KiB (52.5 KiB/s) with 4 file(s) remaining
-upload: ../../static/tag/obsidian/index.html to s3://tcrouzet.com/tag/obsidian/index.html
-Completed 341.2 KiB/374.3 KiB (52.5 KiB/s) with 3 file(s) remaining
-Completed 341.5 KiB/374.3 KiB (52.4 KiB/s) with 3 file(s) remaining
-upload: ../../static/update.json to s3://tcrouzet.com/update.json  
-Completed 341.5 KiB/374.3 KiB (52.4 KiB/s) with 2 file(s) remaining
-Completed 346.4 KiB/374.3 KiB (53.1 KiB/s) with 2 file(s) remaining
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
-Completed 346.4 KiB/374.3 KiB (53.1 KiB/s) with 1 file(s) remaining
-Completed 374.3 KiB/374.3 KiB (57.1 KiB/s) with 1 file(s) remaining
-upload: ../../static/tag/cuisine/index.html to s3://tcrouzet.com/tag/cuisine/index.html
+Completed 1.4 MiB/1.5 MiB (187.6 KiB/s) with 1 file(s) remaining
+Completed 1.5 MiB/1.5 MiB (190.7 KiB/s) with 1 file(s) remaining
+upload: ../../static/tag/edition/index.html to s3://tcrouzet.com/tag/edition/index.html
