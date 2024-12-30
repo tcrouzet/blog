@@ -270,7 +270,8 @@ async function showComments(button) {
 
 async function loadComments(postUrl) {
     console.log(postUrl);
-    const response = await fetch(`https://api.github.com/repos/tcrouzet/BlogComments/contents/${postUrl}?ref=main`);
+    // const response = await fetch(`https://api.github.com/repos/tcrouzet/BlogComments/contents/${postUrl}?ref=main`);
+    const response = await fetch(`https://api.github.com/repos/tcrouzet/md/contents/comments${postUrl}?ref=main`);
     const file = await response.json();
     const rawContent = new TextDecoder('utf-8').decode(Uint8Array.from(atob(file.content), c => c.charCodeAt(0)));
     return formatComments(rawContent);
