@@ -1,2 +1,5 @@
-Completed 340 Bytes/340 Bytes (4.2 KiB/s) with 1 file(s) remaining
+Completed 134 Bytes/191 Bytes (1.9 KiB/s) with 2 file(s) remaining
 upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt       
+Completed 134 Bytes/191 Bytes (1.9 KiB/s) with 1 file(s) remaining
+Completed 191 Bytes/191 Bytes (1.3 KiB/s) with 1 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json     
