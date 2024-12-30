@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2024/12/30/commentaires-ou-pas/index.html</loc>
+    <lastmod>2024-12-30T14:02:23+01:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/12/comments.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2024/12/25/un-an-avec-obsidian/index.html</loc>
-    <lastmod>2024-12-25T17:59:14+01:00</lastmod>
+    <lastmod>2024-12-30T13:01:29+01:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/12/obsidian00.webp</image:loc>
     </image:image>
@@ -2508,7 +2515,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2019/05/26/bikepacking-dans-les-smoky-mountains/index.html</loc>
-    <lastmod>2024-04-30T10:05:07+02:00</lastmod>
+    <lastmod>2024-12-30T12:33:25+01:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2019/05/IMG_5032.webp</image:loc>
     </image:image>
@@ -2557,7 +2564,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2019/05/01/carnet-de-route-avril-2019/index.html</loc>
-    <lastmod>2024-04-30T10:02:06+02:00</lastmod>
+    <lastmod>2024-12-30T12:23:46+01:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2019/05/P1090607.webp</image:loc>
     </image:image>
