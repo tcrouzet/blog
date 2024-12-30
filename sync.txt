@@ -1,35 +1,8 @@
-Completed 27.1 KiB/~274.2 KiB (107.9 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/2024/12/25/un-an-avec-obsidian/index.html to s3://tcrouzet.com/2024/12/25/un-an-avec-obsidian/index.html
-Completed 27.1 KiB/~274.2 KiB (107.9 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 56.7 KiB/~274.2 KiB (185.8 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html             
-Completed 56.7 KiB/~274.2 KiB (185.8 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 79.5 KiB/~274.2 KiB (239.8 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/2024/12/25/un-an-avec-obsidian/content.html to s3://tcrouzet.com/2024/12/25/un-an-avec-obsidian/content.html
-Completed 79.5 KiB/~274.2 KiB (239.8 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 170.0 KiB/~274.2 KiB (378.5 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
-Completed 170.0 KiB/~274.2 KiB (378.5 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 274.2 KiB/~274.2 KiB (421.1 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 274.2 KiB/~274.2 KiB (421.1 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 279.6 KiB/372.3 KiB (36.4 KiB/s) with 7 file(s) remaining                    
-upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
-Completed 279.6 KiB/372.3 KiB (36.4 KiB/s) with 6 file(s) remaining
-Completed 280.8 KiB/372.3 KiB (36.3 KiB/s) with 6 file(s) remaining
-upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 280.8 KiB/372.3 KiB (36.3 KiB/s) with 5 file(s) remaining
-Completed 303.7 KiB/372.3 KiB (38.5 KiB/s) with 5 file(s) remaining
-upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
-Completed 303.7 KiB/372.3 KiB (38.5 KiB/s) with 4 file(s) remaining
-Completed 310.7 KiB/372.3 KiB (39.3 KiB/s) with 4 file(s) remaining
-upload: ../../static/tag/obsidian/index.html to s3://tcrouzet.com/tag/obsidian/index.html
-Completed 310.7 KiB/372.3 KiB (39.3 KiB/s) with 3 file(s) remaining
-Completed 313.9 KiB/372.3 KiB (39.7 KiB/s) with 3 file(s) remaining
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
-Completed 313.9 KiB/372.3 KiB (39.7 KiB/s) with 2 file(s) remaining
-Completed 341.9 KiB/372.3 KiB (42.9 KiB/s) with 2 file(s) remaining
-upload: ../../static/tag/cuisine/index.html to s3://tcrouzet.com/tag/cuisine/index.html
-Completed 341.9 KiB/372.3 KiB (42.9 KiB/s) with 1 file(s) remaining
-Completed 372.3 KiB/372.3 KiB (46.8 KiB/s) with 1 file(s) remaining
-upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
+Completed 546 Bytes/3.6 KiB (6.0 KiB/s) with 3 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json   
+Completed 546 Bytes/3.6 KiB (6.0 KiB/s) with 2 file(s) remaining
+Completed 3.4 KiB/3.6 KiB (16.1 KiB/s) with 2 file(s) remaining 
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt     
+Completed 3.4 KiB/3.6 KiB (16.1 KiB/s) with 1 file(s) remaining
+Completed 3.6 KiB/3.6 KiB (15.2 KiB/s) with 1 file(s) remaining
+upload: ../../static/update.json to s3://tcrouzet.com/update.json
