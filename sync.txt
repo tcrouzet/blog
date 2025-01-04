@@ -1,250 +1,41 @@
-Completed 4.4 KiB/~1.5 MiB (49.8 KiB/s) with ~56 file(s) remaining (calculating...)
-upload: ../../static/2025/index.html to s3://tcrouzet.com/2025/index.html          
-Completed 4.4 KiB/~1.5 MiB (49.8 KiB/s) with ~55 file(s) remaining (calculating...)
-Completed 17.3 KiB/~1.6 MiB (102.0 KiB/s) with ~57 file(s) remaining (calculating...)
+Completed 12.9 KiB/~237.1 KiB (101.3 KiB/s) with ~5 file(s) remaining (calculating...)
 upload: ../../static/2025/01/04/barthes-et-le-vouloir-ecrire/content.html to s3://tcrouzet.com/2025/01/04/barthes-et-le-vouloir-ecrire/content.html
-Completed 17.3 KiB/~1.6 MiB (102.0 KiB/s) with ~56 file(s) remaining (calculating...)
-Completed 44.9 KiB/~1.6 MiB (242.2 KiB/s) with ~56 file(s) remaining (calculating...)
-upload: ../../static/blog/contener16.html to s3://tcrouzet.com/blog/contener16.html  
-Completed 44.9 KiB/~1.6 MiB (242.2 KiB/s) with ~55 file(s) remaining (calculating...)
-Completed 62.1 KiB/~1.6 MiB (324.9 KiB/s) with ~55 file(s) remaining (calculating...)
+Completed 12.9 KiB/~237.1 KiB (101.3 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 42.4 KiB/~237.1 KiB (206.4 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html             
+Completed 42.4 KiB/~237.1 KiB (206.4 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 59.6 KiB/~237.1 KiB (282.3 KiB/s) with ~3 file(s) remaining (calculating...)
 upload: ../../static/2025/01/04/barthes-et-le-vouloir-ecrire/index.html to s3://tcrouzet.com/2025/01/04/barthes-et-le-vouloir-ecrire/index.html
-Completed 62.1 KiB/~1.6 MiB (324.9 KiB/s) with ~54 file(s) remaining (calculating...)
-Completed 90.9 KiB/~1.6 MiB (438.1 KiB/s) with ~54 file(s) remaining (calculating...)
-upload: ../../static/blog/contener11.html to s3://tcrouzet.com/blog/contener11.html  
-Completed 90.9 KiB/~1.6 MiB (438.1 KiB/s) with ~53 file(s) remaining (calculating...)
-Completed 118.9 KiB/~1.6 MiB (570.7 KiB/s) with ~53 file(s) remaining (calculating...)
-upload: ../../static/blog/contener14.html to s3://tcrouzet.com/blog/contener14.html   
-Completed 118.9 KiB/~1.6 MiB (570.7 KiB/s) with ~52 file(s) remaining (calculating...)
-Completed 148.2 KiB/~1.6 MiB (703.9 KiB/s) with ~52 file(s) remaining (calculating...)
-upload: ../../static/blog/contener13.html to s3://tcrouzet.com/blog/contener13.html   
-Completed 148.2 KiB/~1.6 MiB (703.9 KiB/s) with ~51 file(s) remaining (calculating...)
-Completed 175.5 KiB/~1.6 MiB (791.2 KiB/s) with ~51 file(s) remaining (calculating...)
-upload: ../../static/blog/contener15.html to s3://tcrouzet.com/blog/contener15.html   
-Completed 175.5 KiB/~1.6 MiB (791.2 KiB/s) with ~50 file(s) remaining (calculating...)
-Completed 204.0 KiB/~1.6 MiB (917.3 KiB/s) with ~50 file(s) remaining (calculating...)
-upload: ../../static/blog/contener12.html to s3://tcrouzet.com/blog/contener12.html   
-Completed 204.0 KiB/~1.6 MiB (917.3 KiB/s) with ~49 file(s) remaining (calculating...)
-Completed 231.7 KiB/~1.6 MiB (1.0 MiB/s) with ~49 file(s) remaining (calculating...)  
-upload: ../../static/blog/contener10.html to s3://tcrouzet.com/blog/contener10.html   
-Completed 231.7 KiB/~1.6 MiB (1.0 MiB/s) with ~48 file(s) remaining (calculating...)
-Completed 259.8 KiB/~1.6 MiB (1.1 MiB/s) with ~48 file(s) remaining (calculating...)
-upload: ../../static/blog/contener17.html to s3://tcrouzet.com/blog/contener17.html 
-Completed 259.8 KiB/~1.6 MiB (1.1 MiB/s) with ~47 file(s) remaining (calculating...)
-Completed 287.7 KiB/~1.6 MiB (1.0 MiB/s) with ~47 file(s) remaining (calculating...)
-upload: ../../static/blog/contener19.html to s3://tcrouzet.com/blog/contener19.html 
-Completed 287.7 KiB/~1.6 MiB (1.0 MiB/s) with ~46 file(s) remaining (calculating...)
-Completed 316.4 KiB/~1.6 MiB (1.1 MiB/s) with ~46 file(s) remaining (calculating...)
-upload: ../../static/blog/contener18.html to s3://tcrouzet.com/blog/contener18.html 
-Completed 316.4 KiB/~1.6 MiB (1.1 MiB/s) with ~45 file(s) remaining (calculating...)
-Completed 343.9 KiB/~1.6 MiB (1.2 MiB/s) with ~45 file(s) remaining (calculating...)
-upload: ../../static/blog/contener2.html to s3://tcrouzet.com/blog/contener2.html   
-Completed 343.9 KiB/~1.6 MiB (1.2 MiB/s) with ~44 file(s) remaining (calculating...)
-Completed 371.9 KiB/~1.6 MiB (1.2 MiB/s) with ~44 file(s) remaining (calculating...)
-upload: ../../static/blog/contener23.html to s3://tcrouzet.com/blog/contener23.html 
-Completed 371.9 KiB/~1.6 MiB (1.2 MiB/s) with ~43 file(s) remaining (calculating...)
-Completed 399.8 KiB/~1.6 MiB (1.3 MiB/s) with ~43 file(s) remaining (calculating...)
-upload: ../../static/blog/contener20.html to s3://tcrouzet.com/blog/contener20.html 
-Completed 399.8 KiB/~1.6 MiB (1.3 MiB/s) with ~42 file(s) remaining (calculating...)
-Completed 427.9 KiB/~1.6 MiB (1.4 MiB/s) with ~42 file(s) remaining (calculating...)
-upload: ../../static/blog/contener22.html to s3://tcrouzet.com/blog/contener22.html 
-Completed 427.9 KiB/~1.6 MiB (1.4 MiB/s) with ~41 file(s) remaining (calculating...)
-Completed 455.2 KiB/~1.6 MiB (1.4 MiB/s) with ~41 file(s) remaining (calculating...)
-upload: ../../static/blog/contener24.html to s3://tcrouzet.com/blog/contener24.html 
-Completed 455.2 KiB/~1.6 MiB (1.4 MiB/s) with ~40 file(s) remaining (calculating...)
-Completed 479.3 KiB/~1.6 MiB (1.5 MiB/s) with ~40 file(s) remaining (calculating...)
-upload: ../../static/blog/contener25.html to s3://tcrouzet.com/blog/contener25.html 
-Completed 479.3 KiB/~1.6 MiB (1.5 MiB/s) with ~39 file(s) remaining (calculating...)
-Completed 507.2 KiB/~1.6 MiB (1.5 MiB/s) with ~39 file(s) remaining (calculating...)
-upload: ../../static/blog/contener21.html to s3://tcrouzet.com/blog/contener21.html 
-Completed 507.2 KiB/~1.6 MiB (1.5 MiB/s) with ~38 file(s) remaining (calculating...)
-Completed 744.3 KiB/~1.6 MiB (2.1 MiB/s) with ~38 file(s) remaining (calculating...)
-upload: ../../static/archives/index.html to s3://tcrouzet.com/archives/index.html   
-Completed 744.3 KiB/~1.6 MiB (2.1 MiB/s) with ~37 file(s) remaining (calculating...)
-Completed 769.2 KiB/~1.6 MiB (2.2 MiB/s) with ~37 file(s) remaining (calculating...)
-upload: ../../static/blog/contener26.html to s3://tcrouzet.com/blog/contener26.html 
-Completed 769.2 KiB/~1.6 MiB (2.2 MiB/s) with ~36 file(s) remaining (calculating...)
-Completed 794.8 KiB/~1.6 MiB (2.2 MiB/s) with ~36 file(s) remaining (calculating...)
-upload: ../../static/blog/contener27.html to s3://tcrouzet.com/blog/contener27.html 
-Completed 794.8 KiB/~1.6 MiB (2.2 MiB/s) with ~35 file(s) remaining (calculating...)
-Completed 820.2 KiB/~1.6 MiB (2.1 MiB/s) with ~35 file(s) remaining (calculating...)
-Completed 846.3 KiB/~1.6 MiB (2.2 MiB/s) with ~35 file(s) remaining (calculating...)
-upload: ../../static/blog/contener29.html to s3://tcrouzet.com/blog/contener29.html 
-Completed 846.3 KiB/~1.6 MiB (2.2 MiB/s) with ~34 file(s) remaining (calculating...)
-upload: ../../static/blog/contener28.html to s3://tcrouzet.com/blog/contener28.html 
-Completed 846.3 KiB/~1.6 MiB (2.2 MiB/s) with ~33 file(s) remaining (calculating...)
-Completed 871.3 KiB/~1.6 MiB (2.2 MiB/s) with ~33 file(s) remaining (calculating...)
-upload: ../../static/blog/contener30.html to s3://tcrouzet.com/blog/contener30.html 
-Completed 871.3 KiB/~1.6 MiB (2.2 MiB/s) with ~32 file(s) remaining (calculating...)
-Completed 900.8 KiB/~1.6 MiB (2.3 MiB/s) with ~32 file(s) remaining (calculating...)
-upload: ../../static/blog/contener3.html to s3://tcrouzet.com/blog/contener3.html   
-Completed 900.8 KiB/~1.6 MiB (2.3 MiB/s) with ~31 file(s) remaining (calculating...)
-Completed 919.3 KiB/~1.6 MiB (2.1 MiB/s) with ~31 file(s) remaining (calculating...)
-Completed 937.3 KiB/~1.6 MiB (2.1 MiB/s) with ~31 file(s) remaining (calculating...)
-Completed 956.1 KiB/~1.6 MiB (2.2 MiB/s) with ~31 file(s) remaining (calculating...)
-upload: ../../static/blog/contener33.html to s3://tcrouzet.com/blog/contener33.html 
-Completed 956.1 KiB/~1.6 MiB (2.2 MiB/s) with ~30 file(s) remaining (calculating...)
-Completed 973.5 KiB/~1.6 MiB (2.2 MiB/s) with ~30 file(s) remaining (calculating...)
-upload: ../../static/blog/contener36.html to s3://tcrouzet.com/blog/contener36.html 
-Completed 973.5 KiB/~1.6 MiB (2.2 MiB/s) with ~29 file(s) remaining (calculating...)
-Completed 996.4 KiB/~1.6 MiB (2.2 MiB/s) with ~29 file(s) remaining (calculating...)
-upload: ../../static/blog/contener31.html to s3://tcrouzet.com/blog/contener31.html 
-Completed 996.4 KiB/~1.6 MiB (2.2 MiB/s) with ~28 file(s) remaining (calculating...)
-upload: ../../static/blog/contener32.html to s3://tcrouzet.com/blog/contener32.html 
-Completed 996.4 KiB/~1.6 MiB (2.2 MiB/s) with ~27 file(s) remaining (calculating...)
-upload: ../../static/blog/contener35.html to s3://tcrouzet.com/blog/contener35.html 
-Completed 996.4 KiB/~1.6 MiB (2.2 MiB/s) with ~26 file(s) remaining (calculating...)
-Completed 1014.7 KiB/~1.6 MiB (2.3 MiB/s) with ~26 file(s) remaining (calculating...)
-upload: ../../static/blog/contener34.html to s3://tcrouzet.com/blog/contener34.html  
-Completed 1014.7 KiB/~1.6 MiB (2.3 MiB/s) with ~25 file(s) remaining (calculating...)
-Completed 1.0 MiB/~1.6 MiB (2.1 MiB/s) with ~25 file(s) remaining (calculating...)   
-upload: ../../static/blog/contener37.html to s3://tcrouzet.com/blog/contener37.html  
-Completed 1.0 MiB/~1.6 MiB (2.1 MiB/s) with ~24 file(s) remaining (calculating...)
-Completed 1.0 MiB/~1.6 MiB (2.1 MiB/s) with ~24 file(s) remaining (calculating...)
-upload: ../../static/blog/contener38.html to s3://tcrouzet.com/blog/contener38.html
-Completed 1.0 MiB/~1.6 MiB (2.1 MiB/s) with ~23 file(s) remaining (calculating...)
-Completed 1.1 MiB/~1.6 MiB (2.1 MiB/s) with ~23 file(s) remaining (calculating...)
-upload: ../../static/blog/contener4.html to s3://tcrouzet.com/blog/contener4.html 
-Completed 1.1 MiB/~1.6 MiB (2.1 MiB/s) with ~22 file(s) remaining (calculating...)
-Completed 1.1 MiB/~1.6 MiB (2.0 MiB/s) with ~22 file(s) remaining (calculating...)
-upload: ../../static/blog/contener41.html to s3://tcrouzet.com/blog/contener41.html
-Completed 1.1 MiB/~1.6 MiB (2.0 MiB/s) with ~21 file(s) remaining (calculating...)
-Completed 1.1 MiB/~1.6 MiB (2.0 MiB/s) with ~21 file(s) remaining (calculating...)
-upload: ../../static/blog/contener40.html to s3://tcrouzet.com/blog/contener40.html
-Completed 1.1 MiB/~1.6 MiB (2.0 MiB/s) with ~20 file(s) remaining (calculating...)
-Completed 1.1 MiB/~1.6 MiB (2.1 MiB/s) with ~20 file(s) remaining (calculating...)
-upload: ../../static/blog/contener39.html to s3://tcrouzet.com/blog/contener39.html
-Completed 1.1 MiB/~1.6 MiB (2.1 MiB/s) with ~19 file(s) remaining (calculating...)
-Completed 1.1 MiB/~1.6 MiB (2.1 MiB/s) with ~19 file(s) remaining (calculating...)
-upload: ../../static/blog/contener45.html to s3://tcrouzet.com/blog/contener45.html
-Completed 1.1 MiB/~1.6 MiB (2.1 MiB/s) with ~18 file(s) remaining (calculating...)
-Completed 1.1 MiB/~1.6 MiB (2.1 MiB/s) with ~18 file(s) remaining (calculating...)
-upload: ../../static/blog/contener44.html to s3://tcrouzet.com/blog/contener44.html
-Completed 1.1 MiB/~1.6 MiB (2.1 MiB/s) with ~17 file(s) remaining (calculating...)
-Completed 1.2 MiB/~1.6 MiB (2.1 MiB/s) with ~17 file(s) remaining (calculating...)
-upload: ../../static/blog/contener43.html to s3://tcrouzet.com/blog/contener43.html
-Completed 1.2 MiB/~1.6 MiB (2.1 MiB/s) with ~16 file(s) remaining (calculating...)
-Completed 1.2 MiB/~1.6 MiB (2.1 MiB/s) with ~16 file(s) remaining (calculating...)
-upload: ../../static/blog/contener42.html to s3://tcrouzet.com/blog/contener42.html
-Completed 1.2 MiB/~1.6 MiB (2.1 MiB/s) with ~15 file(s) remaining (calculating...)
-Completed 1.2 MiB/~1.6 MiB (2.2 MiB/s) with ~15 file(s) remaining (calculating...)
-upload: ../../static/blog/contener46.html to s3://tcrouzet.com/blog/contener46.html
-Completed 1.2 MiB/~1.6 MiB (2.2 MiB/s) with ~14 file(s) remaining (calculating...)
-Completed 1.2 MiB/~1.6 MiB (2.2 MiB/s) with ~14 file(s) remaining (calculating...)
-upload: ../../static/blog/contener47.html to s3://tcrouzet.com/blog/contener47.html
-Completed 1.2 MiB/~1.6 MiB (2.2 MiB/s) with ~13 file(s) remaining (calculating...)
-Completed 1.2 MiB/~1.6 MiB (2.1 MiB/s) with ~13 file(s) remaining (calculating...)
-upload: ../../static/blog/contener48.html to s3://tcrouzet.com/blog/contener48.html
-Completed 1.2 MiB/~1.6 MiB (2.1 MiB/s) with ~12 file(s) remaining (calculating...)
-Completed 1.3 MiB/~1.6 MiB (2.1 MiB/s) with ~12 file(s) remaining (calculating...)
-upload: ../../static/blog/contener49.html to s3://tcrouzet.com/blog/contener49.html
-Completed 1.3 MiB/~1.6 MiB (2.1 MiB/s) with ~11 file(s) remaining (calculating...)
-Completed 1.3 MiB/~1.6 MiB (2.1 MiB/s) with ~11 file(s) remaining (calculating...)
-upload: ../../static/blog/contener5.html to s3://tcrouzet.com/blog/contener5.html 
-Completed 1.3 MiB/~1.6 MiB (2.1 MiB/s) with ~10 file(s) remaining (calculating...)
-Completed 1.3 MiB/~1.6 MiB (2.1 MiB/s) with ~10 file(s) remaining (calculating...)
-upload: ../../static/blog/contener50.html to s3://tcrouzet.com/blog/contener50.html
-Completed 1.3 MiB/~1.6 MiB (2.1 MiB/s) with ~9 file(s) remaining (calculating...)
-Completed 1.3 MiB/~1.6 MiB (2.1 MiB/s) with ~9 file(s) remaining (calculating...)
-upload: ../../static/blog/contener51.html to s3://tcrouzet.com/blog/contener51.html
-Completed 1.3 MiB/~1.6 MiB (2.1 MiB/s) with ~8 file(s) remaining (calculating...)
-Completed 1.3 MiB/~1.6 MiB (2.1 MiB/s) with ~8 file(s) remaining (calculating...)
-upload: ../../static/blog/contener52.html to s3://tcrouzet.com/blog/contener52.html
-Completed 1.3 MiB/~1.6 MiB (2.1 MiB/s) with ~7 file(s) remaining (calculating...)
-Completed 1.3 MiB/~1.6 MiB (2.1 MiB/s) with ~7 file(s) remaining (calculating...)
-upload: ../../static/blog/contener7.html to s3://tcrouzet.com/blog/contener7.html
-Completed 1.3 MiB/~1.6 MiB (2.1 MiB/s) with ~6 file(s) remaining (calculating...)
-Completed 1.4 MiB/~1.6 MiB (2.1 MiB/s) with ~6 file(s) remaining (calculating...)
-upload: ../../static/blog/contener9.html to s3://tcrouzet.com/blog/contener9.html
-Completed 1.4 MiB/~1.6 MiB (2.1 MiB/s) with ~5 file(s) remaining (calculating...)
-Completed 1.4 MiB/~1.6 MiB (2.1 MiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html        
-Completed 1.4 MiB/~1.6 MiB (2.1 MiB/s) with ~4 file(s) remaining (calculating...)
-Completed 1.4 MiB/~1.6 MiB (2.2 MiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/blog/contener6.html to s3://tcrouzet.com/blog/contener6.html
-Completed 1.4 MiB/~1.6 MiB (2.2 MiB/s) with ~3 file(s) remaining (calculating...)
-Completed 1.5 MiB/~1.6 MiB (2.2 MiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/blog/contener8.html to s3://tcrouzet.com/blog/contener8.html
-Completed 1.5 MiB/~1.6 MiB (2.2 MiB/s) with ~2 file(s) remaining (calculating...)
-Completed 1.5 MiB/~1.6 MiB (2.1 MiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml          
-Completed 1.5 MiB/~1.6 MiB (2.1 MiB/s) with ~1 file(s) remaining (calculating...)
-Completed 1.6 MiB/~1.6 MiB (2.2 MiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml          
-Completed 1.6 MiB/~1.6 MiB (2.2 MiB/s) with ~0 file(s) remaining (calculating...)
-Completed 1.8 MiB/4.2 MiB (259.0 KiB/s) with 23 file(s) remaining                
-upload: ../../static/images_tc/2025/01/vouloir-1024.webp to s3://tcrouzet.com/images_tc/2025/01/vouloir-1024.webp
-Completed 1.8 MiB/4.2 MiB (259.0 KiB/s) with 22 file(s) remaining
-Completed 1.8 MiB/4.2 MiB (256.2 KiB/s) with 22 file(s) remaining
-Completed 1.8 MiB/4.2 MiB (257.0 KiB/s) with 22 file(s) remaining
-upload: ../../static/index.html to s3://tcrouzet.com/index.html  
-Completed 1.8 MiB/4.2 MiB (257.0 KiB/s) with 21 file(s) remaining
-upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 1.8 MiB/4.2 MiB (257.0 KiB/s) with 20 file(s) remaining
-Completed 1.8 MiB/4.2 MiB (261.2 KiB/s) with 20 file(s) remaining
-upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 1.8 MiB/4.2 MiB (261.2 KiB/s) with 19 file(s) remaining
-Completed 1.8 MiB/4.2 MiB (263.9 KiB/s) with 19 file(s) remaining
-upload: ../../static/images_tc/2025/01/vouloir-250.webp to s3://tcrouzet.com/images_tc/2025/01/vouloir-250.webp
-Completed 1.8 MiB/4.2 MiB (263.9 KiB/s) with 18 file(s) remaining
-Completed 2.1 MiB/4.2 MiB (298.5 KiB/s) with 18 file(s) remaining
-Completed 2.3 MiB/4.2 MiB (334.4 KiB/s) with 18 file(s) remaining
-Completed 2.4 MiB/4.2 MiB (337.6 KiB/s) with 18 file(s) remaining
-upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
-Completed 2.4 MiB/4.2 MiB (337.6 KiB/s) with 17 file(s) remaining
-Completed 2.6 MiB/4.2 MiB (372.7 KiB/s) with 17 file(s) remaining
-Completed 2.9 MiB/4.2 MiB (407.4 KiB/s) with 17 file(s) remaining
-Completed 3.1 MiB/4.2 MiB (442.1 KiB/s) with 17 file(s) remaining
-Completed 3.1 MiB/4.2 MiB (442.1 KiB/s) with 17 file(s) remaining
-upload: ../../static/sitemap/sitemap.xml to s3://tcrouzet.com/sitemap/sitemap.xml
-Completed 3.1 MiB/4.2 MiB (442.1 KiB/s) with 16 file(s) remaining
-Completed 3.1 MiB/4.2 MiB (442.4 KiB/s) with 16 file(s) remaining
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt      
-Completed 3.1 MiB/4.2 MiB (442.4 KiB/s) with 15 file(s) remaining
-Completed 3.1 MiB/4.2 MiB (442.4 KiB/s) with 15 file(s) remaining
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json    
-Completed 3.1 MiB/4.2 MiB (442.4 KiB/s) with 14 file(s) remaining
-Completed 3.1 MiB/4.2 MiB (443.1 KiB/s) with 14 file(s) remaining
-upload: ../../static/sitemap/sitemap-years.xml to s3://tcrouzet.com/sitemap/sitemap-years.xml
-Completed 3.1 MiB/4.2 MiB (443.1 KiB/s) with 13 file(s) remaining
-Completed 3.4 MiB/4.2 MiB (478.4 KiB/s) with 13 file(s) remaining
-Completed 3.6 MiB/4.2 MiB (513.9 KiB/s) with 13 file(s) remaining
-Completed 3.9 MiB/4.2 MiB (547.9 KiB/s) with 13 file(s) remaining
-Completed 3.9 MiB/4.2 MiB (545.0 KiB/s) with 13 file(s) remaining
-upload: ../../static/images_tc/2025/01/vouloir.webp to s3://tcrouzet.com/images_tc/2025/01/vouloir.webp
-Completed 3.9 MiB/4.2 MiB (545.0 KiB/s) with 12 file(s) remaining
-Completed 3.9 MiB/4.2 MiB (548.6 KiB/s) with 12 file(s) remaining
-upload: ../../static/tag/ia/index.html to s3://tcrouzet.com/tag/ia/index.html
-Completed 3.9 MiB/4.2 MiB (548.6 KiB/s) with 11 file(s) remaining
-Completed 3.9 MiB/4.2 MiB (549.7 KiB/s) with 11 file(s) remaining
-upload: ../../static/images_tc/2025/02/vouloir.webp to s3://tcrouzet.com/images_tc/2025/02/vouloir.webp
-Completed 3.9 MiB/4.2 MiB (549.7 KiB/s) with 10 file(s) remaining
-Completed 3.9 MiB/4.2 MiB (551.6 KiB/s) with 10 file(s) remaining
-upload: ../../static/sitemap/sitemap-posts.xml to s3://tcrouzet.com/sitemap/sitemap-posts.xml
-Completed 3.9 MiB/4.2 MiB (551.6 KiB/s) with 9 file(s) remaining
-Completed 4.0 MiB/4.2 MiB (562.0 KiB/s) with 9 file(s) remaining
-upload: ../../static/images_tc/2025/02/vouloir.jpeg to s3://tcrouzet.com/images_tc/2025/02/vouloir.jpeg
-Completed 4.0 MiB/4.2 MiB (562.0 KiB/s) with 8 file(s) remaining
-Completed 4.0 MiB/4.2 MiB (564.4 KiB/s) with 8 file(s) remaining
-upload: ../../static/tag/netlitterature/contener4.html to s3://tcrouzet.com/tag/netlitterature/contener4.html
-Completed 4.0 MiB/4.2 MiB (564.4 KiB/s) with 7 file(s) remaining
-Completed 4.1 MiB/4.2 MiB (566.6 KiB/s) with 7 file(s) remaining
-upload: ../../static/tag/netlitterature/contener2.html to s3://tcrouzet.com/tag/netlitterature/contener2.html
-Completed 4.1 MiB/4.2 MiB (566.6 KiB/s) with 6 file(s) remaining
-Completed 4.1 MiB/4.2 MiB (569.6 KiB/s) with 6 file(s) remaining
-upload: ../../static/tag/netlitterature/contener5.html to s3://tcrouzet.com/tag/netlitterature/contener5.html
-Completed 4.1 MiB/4.2 MiB (569.6 KiB/s) with 5 file(s) remaining
-Completed 4.1 MiB/4.2 MiB (569.2 KiB/s) with 5 file(s) remaining
-upload: ../../static/update.json to s3://tcrouzet.com/update.json
-Completed 4.1 MiB/4.2 MiB (569.2 KiB/s) with 4 file(s) remaining
-Completed 4.1 MiB/4.2 MiB (569.0 KiB/s) with 4 file(s) remaining
-upload: ../../static/tag/netlitterature/contener6.html to s3://tcrouzet.com/tag/netlitterature/contener6.html
-Completed 4.1 MiB/4.2 MiB (569.0 KiB/s) with 3 file(s) remaining
-Completed 4.1 MiB/4.2 MiB (572.2 KiB/s) with 3 file(s) remaining
+Completed 59.6 KiB/~237.1 KiB (282.3 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 119.8 KiB/~237.1 KiB (353.4 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
+Completed 119.8 KiB/~237.1 KiB (353.4 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 237.1 KiB/~237.1 KiB (566.5 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
+Completed 237.1 KiB/~237.1 KiB (566.5 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 242.5 KiB/~348.3 KiB (31.9 KiB/s) with ~7 file(s) remaining (calculating...) 
+upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
+Completed 242.5 KiB/~348.3 KiB (31.9 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 269.4 KiB/375.5 KiB (35.0 KiB/s) with 8 file(s) remaining                   
 upload: ../../static/tag/netlitterature/index.html to s3://tcrouzet.com/tag/netlitterature/index.html
-Completed 4.1 MiB/4.2 MiB (572.2 KiB/s) with 2 file(s) remaining
-Completed 4.2 MiB/4.2 MiB (583.6 KiB/s) with 2 file(s) remaining
-upload: ../../static/images_tc/2025/01/vouloir.jpeg to s3://tcrouzet.com/images_tc/2025/01/vouloir.jpeg
-Completed 4.2 MiB/4.2 MiB (583.6 KiB/s) with 1 file(s) remaining
-Completed 4.2 MiB/4.2 MiB (586.9 KiB/s) with 1 file(s) remaining
-upload: ../../static/tag/netlitterature/contener3.html to s3://tcrouzet.com/tag/netlitterature/contener3.html
+Completed 269.4 KiB/375.5 KiB (35.0 KiB/s) with 7 file(s) remaining
+Completed 272.9 KiB/375.5 KiB (35.4 KiB/s) with 7 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
+Completed 272.9 KiB/375.5 KiB (35.4 KiB/s) with 6 file(s) remaining
+Completed 274.0 KiB/375.5 KiB (35.5 KiB/s) with 6 file(s) remaining
+upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
+Completed 274.0 KiB/375.5 KiB (35.5 KiB/s) with 5 file(s) remaining
+Completed 304.5 KiB/375.5 KiB (39.2 KiB/s) with 5 file(s) remaining
+upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
+Completed 304.5 KiB/375.5 KiB (39.2 KiB/s) with 4 file(s) remaining
+Completed 327.4 KiB/375.5 KiB (42.1 KiB/s) with 4 file(s) remaining
+upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
+Completed 327.4 KiB/375.5 KiB (42.1 KiB/s) with 3 file(s) remaining
+Completed 327.7 KiB/375.5 KiB (42.0 KiB/s) with 3 file(s) remaining
+upload: ../../static/update.json to s3://tcrouzet.com/update.json  
+Completed 327.7 KiB/375.5 KiB (42.0 KiB/s) with 2 file(s) remaining
+Completed 347.7 KiB/375.5 KiB (44.6 KiB/s) with 2 file(s) remaining
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
+Completed 347.7 KiB/375.5 KiB (44.6 KiB/s) with 1 file(s) remaining
+Completed 375.5 KiB/375.5 KiB (48.0 KiB/s) with 1 file(s) remaining
+upload: ../../static/tag/ia/index.html to s3://tcrouzet.com/tag/ia/index.html
