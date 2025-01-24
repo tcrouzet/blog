@@ -1,41 +1,171 @@
-Completed 12.9 KiB/~237.1 KiB (101.3 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 12.9 KiB/~539.0 KiB (106.0 KiB/s) with ~9 file(s) remaining (calculating...)
 upload: ../../static/2025/01/04/barthes-et-le-vouloir-ecrire/content.html to s3://tcrouzet.com/2025/01/04/barthes-et-le-vouloir-ecrire/content.html
-Completed 12.9 KiB/~237.1 KiB (101.3 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 42.4 KiB/~237.1 KiB (206.4 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html             
-Completed 42.4 KiB/~237.1 KiB (206.4 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 59.6 KiB/~237.1 KiB (282.3 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 12.9 KiB/~539.0 KiB (106.0 KiB/s) with ~8 file(s) remaining (calculating...)
+Completed 17.9 KiB/~539.0 KiB (91.8 KiB/s) with ~8 file(s) remaining (calculating...) 
+upload: ../../static/2025/index.html to s3://tcrouzet.com/2025/index.html             
+Completed 17.9 KiB/~539.0 KiB (91.8 KiB/s) with ~7 file(s) remaining (calculating...)
+Completed 35.1 KiB/~539.0 KiB (145.7 KiB/s) with ~7 file(s) remaining (calculating...)
 upload: ../../static/2025/01/04/barthes-et-le-vouloir-ecrire/index.html to s3://tcrouzet.com/2025/01/04/barthes-et-le-vouloir-ecrire/index.html
-Completed 59.6 KiB/~237.1 KiB (282.3 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 119.8 KiB/~237.1 KiB (353.4 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 35.1 KiB/~539.0 KiB (145.7 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 48.9 KiB/~539.0 KiB (202.4 KiB/s) with ~6 file(s) remaining (calculating...)
+upload: ../../static/2025/01/24/coros-dura-bikepaxking/content.html to s3://tcrouzet.com/2025/01/24/coros-dura-bikepaxking/content.html
+Completed 48.9 KiB/~539.0 KiB (202.4 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 67.0 KiB/~539.0 KiB (234.2 KiB/s) with ~5 file(s) remaining (calculating...)
+upload: ../../static/2025/01/24/coros-dura-bikepaxking/index.html to s3://tcrouzet.com/2025/01/24/coros-dura-bikepaxking/index.html
+Completed 67.0 KiB/~539.0 KiB (234.2 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 140.6 KiB/~539.0 KiB (444.9 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/feeds/borntobike.xml to s3://tcrouzet.com/feeds/borntobike.xml    
+Completed 140.6 KiB/~539.0 KiB (444.9 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 241.5 KiB/~539.0 KiB (692.9 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 301.8 KiB/~539.0 KiB (864.6 KiB/s) with ~3 file(s) remaining (calculating...)
 upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
-Completed 119.8 KiB/~237.1 KiB (353.4 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 237.1 KiB/~237.1 KiB (566.5 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 301.8 KiB/~539.0 KiB (864.6 KiB/s) with ~2 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 237.1 KiB/~237.1 KiB (566.5 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 242.5 KiB/~348.3 KiB (31.9 KiB/s) with ~7 file(s) remaining (calculating...) 
-upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
-Completed 242.5 KiB/~348.3 KiB (31.9 KiB/s) with ~6 file(s) remaining (calculating...)
-Completed 269.4 KiB/375.5 KiB (35.0 KiB/s) with 8 file(s) remaining                   
-upload: ../../static/tag/netlitterature/index.html to s3://tcrouzet.com/tag/netlitterature/index.html
-Completed 269.4 KiB/375.5 KiB (35.0 KiB/s) with 7 file(s) remaining
-Completed 272.9 KiB/375.5 KiB (35.4 KiB/s) with 7 file(s) remaining
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
-Completed 272.9 KiB/375.5 KiB (35.4 KiB/s) with 6 file(s) remaining
-Completed 274.0 KiB/375.5 KiB (35.5 KiB/s) with 6 file(s) remaining
-upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 274.0 KiB/375.5 KiB (35.5 KiB/s) with 5 file(s) remaining
-Completed 304.5 KiB/375.5 KiB (39.2 KiB/s) with 5 file(s) remaining
-upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 304.5 KiB/375.5 KiB (39.2 KiB/s) with 4 file(s) remaining
-Completed 327.4 KiB/375.5 KiB (42.1 KiB/s) with 4 file(s) remaining
+Completed 301.8 KiB/~539.0 KiB (864.6 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 539.0 KiB/~539.0 KiB (905.8 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/archives/index.html to s3://tcrouzet.com/archives/index.html      
+Completed 539.0 KiB/~539.0 KiB (905.8 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 557.8 KiB/4.5 MiB (82.6 KiB/s) with 45 file(s) remaining                     
+upload: ../../static/images_tc/2025/01/2025-01-21-163952-250.webp to s3://tcrouzet.com/images_tc/2025/01/2025-01-21-163952-250.webp
+Completed 557.8 KiB/4.5 MiB (82.6 KiB/s) with 44 file(s) remaining
+Completed 562.6 KiB/4.5 MiB (83.2 KiB/s) with 44 file(s) remaining
+upload: ../../static/images_tc/2025/01/dura01-250.webp to s3://tcrouzet.com/images_tc/2025/01/dura01-250.webp
+Completed 562.6 KiB/4.5 MiB (83.2 KiB/s) with 43 file(s) remaining
+Completed 736.4 KiB/4.5 MiB (108.4 KiB/s) with 43 file(s) remaining
+Completed 744.5 KiB/4.5 MiB (109.6 KiB/s) with 43 file(s) remaining
+upload: ../../static/images_tc/2025/01/dura02-250.webp to s3://tcrouzet.com/images_tc/2025/01/dura02-250.webp
+Completed 744.5 KiB/4.5 MiB (109.6 KiB/s) with 42 file(s) remaining
+upload: ../../static/images_tc/2025/01/2025-01-21-163952-1024.webp to s3://tcrouzet.com/images_tc/2025/01/2025-01-21-163952-1024.webp
+Completed 744.5 KiB/4.5 MiB (109.6 KiB/s) with 41 file(s) remaining
+Completed 778.1 KiB/4.5 MiB (114.3 KiB/s) with 41 file(s) remaining
+upload: ../../static/images_tc/2025/01/dura01-1024.webp to s3://tcrouzet.com/images_tc/2025/01/dura01-1024.webp
+Completed 778.1 KiB/4.5 MiB (114.3 KiB/s) with 40 file(s) remaining
+Completed 849.9 KiB/4.5 MiB (124.8 KiB/s) with 40 file(s) remaining
+upload: ../../static/images_tc/2025/01/dura02-1024.webp to s3://tcrouzet.com/images_tc/2025/01/dura02-1024.webp
+Completed 849.9 KiB/4.5 MiB (124.8 KiB/s) with 39 file(s) remaining
+Completed 939.7 KiB/4.5 MiB (137.7 KiB/s) with 39 file(s) remaining
+upload: ../../static/images_tc/2025/01/dura02.webp to s3://tcrouzet.com/images_tc/2025/01/dura02.webp
+Completed 939.7 KiB/4.5 MiB (137.7 KiB/s) with 38 file(s) remaining
+Completed 945.1 KiB/4.5 MiB (136.7 KiB/s) with 38 file(s) remaining
+upload: ../../static/images_tc/2025/01/dura_dura-250.webp to s3://tcrouzet.com/images_tc/2025/01/dura_dura-250.webp
+Completed 945.1 KiB/4.5 MiB (136.7 KiB/s) with 37 file(s) remaining
+Completed 954.7 KiB/4.5 MiB (138.0 KiB/s) with 37 file(s) remaining
+upload: ../../static/images_tc/2025/01/dura_IGN-250.webp to s3://tcrouzet.com/images_tc/2025/01/dura_IGN-250.webp
+Completed 954.7 KiB/4.5 MiB (138.0 KiB/s) with 36 file(s) remaining
+Completed 993.2 KiB/4.5 MiB (143.5 KiB/s) with 36 file(s) remaining
+upload: ../../static/images_tc/2025/01/dura01.webp to s3://tcrouzet.com/images_tc/2025/01/dura01.webp
+Completed 993.2 KiB/4.5 MiB (143.5 KiB/s) with 35 file(s) remaining
+Completed 1.0 MiB/4.5 MiB (147.8 KiB/s) with 35 file(s) remaining  
+upload: ../../static/images_tc/2025/01/dura_my-1024.webp to s3://tcrouzet.com/images_tc/2025/01/dura_my-1024.webp
+Completed 1.0 MiB/4.5 MiB (147.8 KiB/s) with 34 file(s) remaining
+Completed 1.1 MiB/4.5 MiB (156.9 KiB/s) with 34 file(s) remaining
+upload: ../../static/images_tc/2025/01/dura_dura.webp to s3://tcrouzet.com/images_tc/2025/01/dura_dura.webp
+Completed 1.1 MiB/4.5 MiB (156.9 KiB/s) with 33 file(s) remaining
+Completed 1.1 MiB/4.5 MiB (161.5 KiB/s) with 33 file(s) remaining
+Completed 1.2 MiB/4.5 MiB (181.3 KiB/s) with 33 file(s) remaining
+upload: ../../static/images_tc/2025/01/dura_IGN.webp to s3://tcrouzet.com/images_tc/2025/01/dura_IGN.webp
+Completed 1.2 MiB/4.5 MiB (181.3 KiB/s) with 32 file(s) remaining
+Completed 1.2 MiB/4.5 MiB (182.0 KiB/s) with 32 file(s) remaining
+upload: ../../static/images_tc/2025/01/dura_my-250.webp to s3://tcrouzet.com/images_tc/2025/01/dura_my-250.webp
+Completed 1.2 MiB/4.5 MiB (182.0 KiB/s) with 31 file(s) remaining
+upload: ../../static/images_tc/2025/01/dura_dura-1024.webp to s3://tcrouzet.com/images_tc/2025/01/dura_dura-1024.webp
+Completed 1.2 MiB/4.5 MiB (182.0 KiB/s) with 30 file(s) remaining
+Completed 1.5 MiB/4.5 MiB (217.9 KiB/s) with 30 file(s) remaining
+Completed 1.6 MiB/4.5 MiB (228.2 KiB/s) with 30 file(s) remaining
+upload: ../../static/images_tc/2025/01/dura_IGN-1024.webp to s3://tcrouzet.com/images_tc/2025/01/dura_IGN-1024.webp
+Completed 1.6 MiB/4.5 MiB (228.2 KiB/s) with 29 file(s) remaining
+Completed 1.6 MiB/4.5 MiB (227.5 KiB/s) with 29 file(s) remaining
+upload: ../../static/images_tc/2025/01/dura_osm-250.webp to s3://tcrouzet.com/images_tc/2025/01/dura_osm-250.webp
+Completed 1.6 MiB/4.5 MiB (227.5 KiB/s) with 28 file(s) remaining
+Completed 1.8 MiB/4.5 MiB (263.5 KiB/s) with 28 file(s) remaining
+Completed 1.9 MiB/4.5 MiB (277.7 KiB/s) with 28 file(s) remaining
+upload: ../../static/images_tc/2025/01/dura_osm.webp to s3://tcrouzet.com/images_tc/2025/01/dura_osm.webp
+Completed 1.9 MiB/4.5 MiB (277.7 KiB/s) with 27 file(s) remaining
+Completed 1.9 MiB/4.5 MiB (279.3 KiB/s) with 27 file(s) remaining
+upload: ../../static/page/informations/content.html to s3://tcrouzet.com/page/informations/content.html
+Completed 1.9 MiB/4.5 MiB (279.3 KiB/s) with 26 file(s) remaining
+Completed 2.0 MiB/4.5 MiB (279.7 KiB/s) with 26 file(s) remaining
+upload: ../../static/index.html to s3://tcrouzet.com/index.html  
+Completed 2.0 MiB/4.5 MiB (279.7 KiB/s) with 25 file(s) remaining
+Completed 2.0 MiB/4.5 MiB (282.6 KiB/s) with 25 file(s) remaining
+upload: ../../static/page/informations/index.html to s3://tcrouzet.com/page/informations/index.html
+Completed 2.0 MiB/4.5 MiB (282.6 KiB/s) with 24 file(s) remaining
+Completed 2.0 MiB/4.5 MiB (289.9 KiB/s) with 24 file(s) remaining
+upload: ../../static/images_tc/2025/01/dura_my.webp to s3://tcrouzet.com/images_tc/2025/01/dura_my.webp
+Completed 2.0 MiB/4.5 MiB (289.9 KiB/s) with 23 file(s) remaining
+Completed 2.1 MiB/4.5 MiB (292.1 KiB/s) with 23 file(s) remaining
+upload: ../../static/series/contener2.html to s3://tcrouzet.com/series/contener2.html
+Completed 2.1 MiB/4.5 MiB (292.1 KiB/s) with 22 file(s) remaining
+Completed 2.1 MiB/4.5 MiB (294.8 KiB/s) with 22 file(s) remaining
+upload: ../../static/series/contener3.html to s3://tcrouzet.com/series/contener3.html
+Completed 2.1 MiB/4.5 MiB (294.8 KiB/s) with 21 file(s) remaining
+Completed 2.1 MiB/4.5 MiB (303.6 KiB/s) with 21 file(s) remaining
+upload: ../../static/images_tc/2025/01/dura_osm-1024.webp to s3://tcrouzet.com/images_tc/2025/01/dura_osm-1024.webp
+Completed 2.1 MiB/4.5 MiB (303.6 KiB/s) with 20 file(s) remaining
+Completed 2.1 MiB/4.5 MiB (303.1 KiB/s) with 20 file(s) remaining
+upload: ../../static/series/contener4.html to s3://tcrouzet.com/series/contener4.html
+Completed 2.1 MiB/4.5 MiB (303.1 KiB/s) with 19 file(s) remaining
+Completed 2.2 MiB/4.5 MiB (304.2 KiB/s) with 19 file(s) remaining
 upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
-Completed 327.4 KiB/375.5 KiB (42.1 KiB/s) with 3 file(s) remaining
-Completed 327.7 KiB/375.5 KiB (42.0 KiB/s) with 3 file(s) remaining
-upload: ../../static/update.json to s3://tcrouzet.com/update.json  
-Completed 327.7 KiB/375.5 KiB (42.0 KiB/s) with 2 file(s) remaining
-Completed 347.7 KiB/375.5 KiB (44.6 KiB/s) with 2 file(s) remaining
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
-Completed 347.7 KiB/375.5 KiB (44.6 KiB/s) with 1 file(s) remaining
-Completed 375.5 KiB/375.5 KiB (48.0 KiB/s) with 1 file(s) remaining
-upload: ../../static/tag/ia/index.html to s3://tcrouzet.com/tag/ia/index.html
+Completed 2.2 MiB/4.5 MiB (304.2 KiB/s) with 18 file(s) remaining
+Completed 2.2 MiB/4.5 MiB (304.4 KiB/s) with 18 file(s) remaining
+upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
+Completed 2.2 MiB/4.5 MiB (304.4 KiB/s) with 17 file(s) remaining
+Completed 2.2 MiB/4.5 MiB (303.2 KiB/s) with 17 file(s) remaining
+upload: ../../static/sitemap/sitemap.xml to s3://tcrouzet.com/sitemap/sitemap.xml
+Completed 2.2 MiB/4.5 MiB (303.2 KiB/s) with 16 file(s) remaining
+Completed 2.4 MiB/4.5 MiB (338.0 KiB/s) with 16 file(s) remaining
+Completed 2.4 MiB/4.5 MiB (336.9 KiB/s) with 16 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json    
+Completed 2.4 MiB/4.5 MiB (336.9 KiB/s) with 15 file(s) remaining
+Completed 2.4 MiB/4.5 MiB (337.3 KiB/s) with 15 file(s) remaining
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt      
+Completed 2.4 MiB/4.5 MiB (337.3 KiB/s) with 14 file(s) remaining
+Completed 2.4 MiB/4.5 MiB (337.8 KiB/s) with 14 file(s) remaining
+upload: ../../static/sitemap/sitemap-years.xml to s3://tcrouzet.com/sitemap/sitemap-years.xml
+Completed 2.4 MiB/4.5 MiB (337.8 KiB/s) with 13 file(s) remaining
+Completed 2.4 MiB/4.5 MiB (341.6 KiB/s) with 13 file(s) remaining
+upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
+Completed 2.4 MiB/4.5 MiB (341.6 KiB/s) with 12 file(s) remaining
+Completed 2.5 MiB/4.5 MiB (343.8 KiB/s) with 12 file(s) remaining
+upload: ../../static/tag/bikepacking/index.html to s3://tcrouzet.com/tag/bikepacking/index.html
+Completed 2.5 MiB/4.5 MiB (343.8 KiB/s) with 11 file(s) remaining
+Completed 2.5 MiB/4.5 MiB (347.0 KiB/s) with 11 file(s) remaining
+upload: ../../static/tag/borntobike/contener2.html to s3://tcrouzet.com/tag/borntobike/contener2.html
+Completed 2.5 MiB/4.5 MiB (347.0 KiB/s) with 10 file(s) remaining
+Completed 2.8 MiB/4.5 MiB (379.2 KiB/s) with 10 file(s) remaining
+Completed 2.8 MiB/4.5 MiB (381.3 KiB/s) with 10 file(s) remaining
+upload: ../../static/tag/borntobike/contener4.html to s3://tcrouzet.com/tag/borntobike/contener4.html
+Completed 2.8 MiB/4.5 MiB (381.3 KiB/s) with 9 file(s) remaining
+Completed 2.8 MiB/4.5 MiB (381.8 KiB/s) with 9 file(s) remaining
+upload: ../../static/tag/borntobike/contener5.html to s3://tcrouzet.com/tag/borntobike/contener5.html
+Completed 2.8 MiB/4.5 MiB (381.8 KiB/s) with 8 file(s) remaining
+Completed 3.0 MiB/4.5 MiB (416.1 KiB/s) with 8 file(s) remaining
+Completed 3.0 MiB/4.5 MiB (416.5 KiB/s) with 8 file(s) remaining
+upload: ../../static/tag/gps/index.html to s3://tcrouzet.com/tag/gps/index.html
+Completed 3.0 MiB/4.5 MiB (416.5 KiB/s) with 7 file(s) remaining
+Completed 3.1 MiB/4.5 MiB (418.9 KiB/s) with 7 file(s) remaining
+upload: ../../static/tag/borntobike/contener3.html to s3://tcrouzet.com/tag/borntobike/contener3.html
+Completed 3.1 MiB/4.5 MiB (418.9 KiB/s) with 6 file(s) remaining
+Completed 3.1 MiB/4.5 MiB (418.0 KiB/s) with 6 file(s) remaining
+upload: ../../static/update.json to s3://tcrouzet.com/update.json
+Completed 3.1 MiB/4.5 MiB (418.0 KiB/s) with 5 file(s) remaining
+Completed 3.1 MiB/4.5 MiB (421.2 KiB/s) with 5 file(s) remaining
+Completed 3.1 MiB/4.5 MiB (424.2 KiB/s) with 5 file(s) remaining
+upload: ../../static/tag/page/index.html to s3://tcrouzet.com/tag/page/index.html
+Completed 3.1 MiB/4.5 MiB (424.2 KiB/s) with 4 file(s) remaining
+Completed 3.4 MiB/4.5 MiB (458.3 KiB/s) with 4 file(s) remaining
+upload: ../../static/tag/borntobike/index.html to s3://tcrouzet.com/tag/borntobike/index.html
+Completed 3.4 MiB/4.5 MiB (458.3 KiB/s) with 3 file(s) remaining
+Completed 3.4 MiB/4.5 MiB (456.2 KiB/s) with 3 file(s) remaining
+upload: ../../static/sitemap/sitemap-posts.xml to s3://tcrouzet.com/sitemap/sitemap-posts.xml
+Completed 3.4 MiB/4.5 MiB (456.2 KiB/s) with 2 file(s) remaining
+Completed 3.6 MiB/4.5 MiB (484.9 KiB/s) with 2 file(s) remaining
+Completed 3.9 MiB/4.5 MiB (515.5 KiB/s) with 2 file(s) remaining
+Completed 3.9 MiB/4.5 MiB (512.2 KiB/s) with 2 file(s) remaining
+upload: ../../static/images_tc/2025/01/2025-01-21-163952.webp to s3://tcrouzet.com/images_tc/2025/01/2025-01-21-163952.webp
+Completed 3.9 MiB/4.5 MiB (512.2 KiB/s) with 1 file(s) remaining
+Completed 4.2 MiB/4.5 MiB (543.1 KiB/s) with 1 file(s) remaining
+Completed 4.4 MiB/4.5 MiB (564.7 KiB/s) with 1 file(s) remaining
+Completed 4.5 MiB/4.5 MiB (555.9 KiB/s) with 1 file(s) remaining
+upload: ../../static/images_tc/2025/01/2025-01-21-163952.jpeg to s3://tcrouzet.com/images_tc/2025/01/2025-01-21-163952.jpeg

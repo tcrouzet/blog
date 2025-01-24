@@ -2,16 +2,16 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tcrouzet.com/series/index.html</loc>
-    <lastmod>2025-01-04T13:25:57+01:00</lastmod>
+    <lastmod>2025-01-24T13:24:57+01:00</lastmod>
     <image:image>
-      <image:loc>https://tcrouzet.com/images_tc/2025/02/vouloir.webp</image:loc>
+      <image:loc>https://tcrouzet.com/images_tc/2025/01/2025-01-21-163952.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/blog/index.html</loc>
     <lastmod>2025-01-04T13:25:57+01:00</lastmod>
     <image:image>
-      <image:loc>https://tcrouzet.com/images_tc/2025/02/vouloir.webp</image:loc>
+      <image:loc>https://tcrouzet.com/images_tc/2025/01/vouloir.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -20,6 +20,6 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/archives/index.html</loc>
-    <lastmod>2025-01-04T12:26:23+00:00</lastmod>
+    <lastmod>2025-01-24T12:26:35+00:00</lastmod>
   </url>
 </urlset>
