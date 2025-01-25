@@ -1,8 +1,5 @@
-Completed 557 Bytes/3.9 KiB (6.5 KiB/s) with 3 file(s) remaining
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json   
-Completed 557 Bytes/3.9 KiB (6.5 KiB/s) with 2 file(s) remaining
-Completed 3.6 KiB/3.9 KiB (19.1 KiB/s) with 2 file(s) remaining 
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt     
-Completed 3.6 KiB/3.9 KiB (19.1 KiB/s) with 1 file(s) remaining
-Completed 3.9 KiB/3.9 KiB (18.1 KiB/s) with 1 file(s) remaining
-upload: ../../static/update.json to s3://tcrouzet.com/update.json
+Completed 519 Bytes/640 Bytes (6.8 KiB/s) with 2 file(s) remaining
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt       
+Completed 519 Bytes/640 Bytes (6.8 KiB/s) with 1 file(s) remaining
+Completed 640 Bytes/640 Bytes (4.0 KiB/s) with 1 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json     
