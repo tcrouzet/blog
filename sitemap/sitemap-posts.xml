@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2025/02/18/data-work/index.html</loc>
+    <lastmod>2025-02-18T18:13:12+01:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2025/02/malib.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2025/02/12/janvier-2025/index.html</loc>
-    <lastmod>2025-02-12T17:52:24+01:00</lastmod>
+    <lastmod>2025-02-12T22:16:47+01:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2025/02/2025-01-15-143640-Palavas-les-Flots.webp</image:loc>
     </image:image>
@@ -2403,7 +2410,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2019/10/04/auteurs-pas-de-salut-hors-des-librairies/index.html</loc>
-    <lastmod>2024-04-30T08:24:31+02:00</lastmod>
+    <lastmod>2025-02-14T12:38:05+01:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2019/10/P1090842.webp</image:loc>
     </image:image>

@@ -2,24 +2,24 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tcrouzet.com/series/index.html</loc>
-    <lastmod>2025-02-12T22:16:47+01:00</lastmod>
+    <lastmod>2025-02-18T18:13:12+01:00</lastmod>
     <image:image>
-      <image:loc>https://tcrouzet.com/images_tc/2025/02/2025-01-15-143640-Palavas-les-Flots.webp</image:loc>
+      <image:loc>https://tcrouzet.com/images_tc/2025/02/malib.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/blog/index.html</loc>
-    <lastmod>2025-02-09T17:42:13+01:00</lastmod>
+    <lastmod>2025-02-18T18:13:12+01:00</lastmod>
     <image:image>
-      <image:loc>https://tcrouzet.com/images_tc/2025/02/freedoom.webp</image:loc>
+      <image:loc>https://tcrouzet.com/images_tc/2025/02/malib.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/index.html</loc>
-    <lastmod>2025-02-09T17:42:13+01:00</lastmod>
+    <lastmod>2025-02-18T18:13:12+01:00</lastmod>
   </url>
   <url>
     <loc>https://tcrouzet.com/archives/index.html</loc>
-    <lastmod>2025-02-12T21:18:54+00:00</lastmod>
+    <lastmod>2025-02-18T17:14:38+00:00</lastmod>
   </url>
 </urlset>
