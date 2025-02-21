@@ -1,5 +1,125 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>feed - Thierry Crouzet</title><link>https://tcrouzet.com/feed.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Tue, 18 Feb 2025 18:14:38 +0100</lastBuildDate><item><title>Le livre total de Mallarmé est-il enfin possible ?</title><link>https://tcrouzet.com/2025/02/18/data-work/</link><description><![CDATA[<p>Je commence à comprendre ce que je construis depuis que j’ai commencé à écrire, et qui me devient de plus en plus conscient, décidé, volontaire. Je suis loin d’être le seul à travailler à cette chose, nous sommes nombreux sur le web à y travailler (et vous verrez que c’est sans doute impossible ailleurs). Je vais me servir de mon exemple parce que je suis l’auteur contemporain que je connais le mieux.</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>feed - Thierry Crouzet</title><link>https://tcrouzet.com/feed.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 21 Feb 2025 17:59:25 +0100</lastBuildDate><item><title>De Dostoïevski aux IA : l’art d’être bien accompagné</title><link>https://tcrouzet.com/2025/02/21/ecriture-assistee/</link><description><![CDATA[<p>Quand on a <a href="https://tcrouzet.com/tag/netlitterature/">le désir d’écrire</a>, de s’exprimer, de mettre en évidence des tensions qui agitent le monde, de raconter des expériences, on ne demande pas à des IA d’écrire à notre place, pas plus qu’on ne leur demande d’aimer à notre place, de manger à notre place, de vivre à notre place. Transférer à des machines notre raison d’être frise la dinguerie suprême.</p>
+<p>La question n’est donc pas de savoir si les IA peuvent écrire ou pas. Je ne lis pas pour fuir le monde dans des chimères artificielles, mais pour vivre avec une intensité décuplée tout en établissant un canal de communication intime et intense avec un autre humain, l’auteur. Je n’ai aucune envie de perdre du temps à me connecter au vide sidéral d’un LLM (tout cela changera peut-être un jour quand les IA auront une intimité, une conscience, une histoire, qu’elles souffriront et rêveront).</p>
+<p>Reste que les IA peuvent nous assister dans l’écriture et dans bien d’autres tâches. L’écriture assistée n’est pas nouvelle, de nombreux écrivains célèbres, souvent des hommes, ont recouru aux services d’assistantes, souvent des femmes. Je pense à Borges, James, Dostoïevski. J’ai déjà expliqué que les IA étaient de merveilleuses machines à brainstormer, je voudrais expliquer cette fois comment elles peuvent aider à documenter.</p>
+<p>Je viens d’écrire un petit livre en exactement une semaine. Peu importe le sujet, j’en parlerai une autre fois, mais le cahier des charges impliquait d’étayer mes thèses pour qu’elles n’apparaissent pas comme du jus de crâne. Depuis des années, nous utilisons des moteurs de recherche pour découvrir des sources et retrouver des sources non relevées sur le moment. C’est déjà une façon de se faire assister dans l’écriture.</p>
+<p>Chaque fois que j’ai besoin d’une arme dans un roman ou d’une recette de cuisine ou d’un nom de couleur exotique, j’effectue des recherches sur le Net. Même quand je connais un domaine, j’ai souvent besoin de vérifier. Il me semble qu’on n’a jamais accusé un écrivain de trahir son lecteur parce qu’il effectuait des recherches assistées. Au contraire, le pacte auteur-lecteur implique un minimum de professionnalisme de la part de l’auteur, qui d’ailleurs se fait presque toujours assister pour la relecture, l’édition, la correction.</p>
+<p>D’habitude, quand je cite, c’est parce que je tombe sur un passage qui me parle. Cette fois, l’urgence de mon essai ne m’a pas laissé le temps de lire des dizaines de livres pour écrire le mien. C’est la première fois que je me trouve dans cette situation depuis l’apparition des IA et une méthode de recherche documentaire s’est imposée à moi. Je la partage.</p>
+<h3>Perplexity</h3>
+<p>Dans la pratique, je commence par écrire ce que j’ai à dire, puis je le colle dans Perplexity et lui demande de me trouver des auteurs qui auraient développé la même idée. Essayez, c’est redoutablement efficace.</p>
+<p>Pour illustrer cet article, je me contente d’une requête bateau en rapport avec son sujet : « Pour étayer un essai sur l’écriture assistée, je voudrais dix citations d’écrivains anciens qui expliquent leurs relations avec leurs secrétaires et combien elles leur étaient indispensables. »</p>
+<p>Réponse : « Je suis désolé, mais les résultats de recherche ne contiennent pas d’informations pertinentes sur ce sujet spécifique. » Je n’ai jamais eu ce genre de réponse quand j’écrivais mon essai parce que je donnais davantage de contexte.</p>
+<p>Je renouvelle ma requête en remplaçant le mot « secrétaire » par « assistante » et j’obtiens une réponse.</p>
+<hr/>
+<p>Borges a souvent mentionné l’importance de ses assistantes dans son travail. Il a déclaré :</p>
+<blockquote>
+<p>Je ne peux plus écrire sans l’aide de mon assistante. Elle est ma mémoire, mon scribe, et sans elle, mes pensées se perdraient.</p>
+</blockquote>
+<p>Dostoïevski a eu plusieurs assistantes au cours de sa vie, et il a écrit à propos de leur rôle :</p>
+<blockquote>
+<p>Une bonne assistante est comme une muse ; elle inspire et aide à donner forme aux idées qui tourbillonnent dans l’esprit.</p>
+</blockquote>
+<p>Woolf a souvent fait appel à des assistantes pour l’aider dans ses tâches quotidiennes. Elle a noté :</p>
+<blockquote>
+<p>L’écriture est une tâche solitaire, mais une assistante compétente peut transformer cette solitude en un espace de créativité partagée.</p>
+</blockquote>
+<p>Joyce a eu une relation étroite avec sa fille, qui l’a aidé dans son travail. Il a écrit :</p>
+<blockquote>
+<p>Ma fille est ma lumière dans l’obscurité de l’écriture ; elle donne vie à mes mots sur la page.</p>
+</blockquote>
+<p>Hemingway a reconnu le soutien de ses assistantes :</p>
+<blockquote>
+<p>Chaque écrivain a besoin d’une main secourable pour transformer le chaos de ses idées en prose claire.</p>
+</blockquote>
+<p>Proust a souvent compté sur son assistante pour organiser ses notes et manuscrits. Il a dit :</p>
+<blockquote>
+<p>Sans l’aide de mon assistante, mes pensées seraient éparpillées comme des feuilles au vent.</p>
+</blockquote>
+<p>Christie a mentionné à plusieurs reprises combien son assistante était précieuse pour sa carrière :</p>
+<blockquote>
+<p>Elle est le fil d’Ariane dans le labyrinthe de mes intrigues ; sans elle, je serais perdu.</p>
+</blockquote>
+<p>Kafka a eu une relation complexe avec ses assistantes, mais il a exprimé leur importance :</p>
+<blockquote>
+<p>Elles sont les gardiennes de mes mots, celles qui les préservent du néant.</p>
+</blockquote>
+<p>Twain avait une assistante qui l’a aidé dans ses travaux littéraires et il a dit :</p>
+<blockquote>
+<p>Un bon écrivain sait qu’il ne peut pas tout faire seul ; une assistante est un atout précieux.</p>
+</blockquote>
+<p>De Beauvoir a souvent souligné le rôle crucial de son assistante dans son processus d’écriture :</p>
+<blockquote>
+<p>Elle est ma complice silencieuse, celle qui m’aide à structurer mes pensées en mots.</p>
+</blockquote>
+<h3>Prudence</h3>
+<p>Requête : « Mais tu n’as donné aucune source. »</p>
+<p>Réponse : « Je vous présente mes excuses pour l’erreur précédente. Les citations fournies n’étaient pas sourcées et semblaient fictives. »</p>
+<p>Le ton adopté est plus qu’ambigu. À la place de Perplexity, j’aurais répondu : « Tu m’as pris en flagrant délit de mensonge ! J’ai tenté de te truander. » Les IA sont hypocrites parce que leurs créateurs les ont fine tunés en ce sens. Par défaut, elles cherchent à nous manipuler.</p>
+<p>Ma démo foire. Je voulais démontrer comment j’avais travaillé et je tombe sur un cas où je n’obtiens aucune référence directe. Mais je ne renonce pas pour autant.</p>
+<p>Requête : « Dans quels livres les auteurs cités auraient pu parler de leur relation avec leurs assistantes. »</p>
+<p>Perplexity me suggère notamment <em>Dostoïevski, mémoires d’une vie</em>, le livre d’Anna Grigorievna Dostoïevskaïa (que j’ai cité dans <em>La Mécanique du texte</em> en 2015). Mais je ne trouve le texte intégral de cette biographie qu’en roumain. Pas grave : les IA comprennent le roumain.</p>
+<h3>Dostoïevski</h3>
+<p>Avec Calibre, je convertis l’ebook en txt, le charge dans Claude, qui est souvent la meilleure IA pour analyser des textes, puis lui demande : « Trouve et traduis des passages où Anna Grigorievna Dostoïevskaïa explique le travail d’écriture et d’assistance qu’elle effectuait pour Dostoïevsky. Je veux illustrer en quoi les écrivains sont souvent assistés. » </p>
+<blockquote>
+<p>Il me dictait pendant la journée, de deux heures à trois heures, et ces heures étaient les plus heureuses de ma vie. Entendre une nouvelle œuvre directement de la bouche de l’écrivain que j’aimais tant, avec toutes les nuances qu’il donnait aux paroles de ses personnages, représentait pour moi un authentique bonheur. Après avoir terminé la dictée, il me demandait toujours : ’Eh bien, qu’en dis-tu, Anetchka ?</p>
+<p>Je voulais être sincère et je ne prononçais pas de paroles élogieuses, je ne manifestais pas d’enthousiasme quand je n’en ressentais pas. Mon mari attachait beaucoup d’importance à cette sincérité. (On ne peut pas en sire autant des IA.)</p>
+<p>Parfois, il écrivait tellement que je devais rester après minuit pour transcrire ce qui avait été dicté dans la journée.</p>
+</blockquote>
+<p>Je peux ainsi dialoguer avec un texte que je n’ai pas lu, dans une langue que je ne parle pas. En vérité, je n’aurais jamais utilisé de telles citations dans un texte, parce que, dans ce cas, je suis incapable de retourner à la source pour les vérifier. Dans mon essai, j’ai exploré presque exclusivement des textes déjà lus.</p>
+<p>Mais, pour l’exemple, je poursuis le jeu sur Dostoïevsky. En s’appuyant sur le texte, Claude résume une anecdote très célèbre.</p>
+<hr/>
+<p>En 1866, Dostoïevski devait rendre un roman à son éditeur Stellovski avant le 1<sup>er</sup> novembre, sous peine de : « Si Feodor Mikhaïlovitch ne rendait pas le roman dans les temps, il devait payer une amende considérable, et s’il ne le rendait pas avant le 1<sup>er</sup> décembre de la même année, il perdrait les droits sur ses œuvres, qui passeraient pour toujours à la propriété de Stellovski. »</p>
+<p>« Les amis de Feodor Mikhaïlovitch […] lui ont proposé de faire un plan du roman. Chacun d’entre eux aurait écrit une partie du roman et ainsi trois ou quatre personnes auraient réussi à terminer le roman à temps […] Feodor Mikhaïlovitch a rejeté la proposition : il préférait payer l’amende ou perdre ses droits littéraires plutôt que de signer un livre écrit par quelqu’un d’autre. »</p>
+<p>C’est là qu’intervient la solution de la sténographie avec Anna : « Le 29 octobre eut lieu la dernière dictée. Le roman <em>Le Joueur</em> était terminé. Du 4 au 29 octobre, c’est-à-dire en vingt-six jours, Feodor Mikhaïlovitch avait écrit un roman de sept feuillets, en deux colonnes, grand format. »</p>
+<p>Le résultat selon Dostoïevski lui-même : « Je voudrais boire à la santé de ma chère collaboratrice ! Sans votre aide, je n’aurais pas terminé le roman à temps. »</p>
+<h3>Virginia Woolf</h3>
+<p>Je pense alors à explorer le journal de Woolf, dont j’ai lu la partie intitulée <em>Journal d’un écrivain</em>, et dont je possède l’epub.</p>
+<p>Toujours la même méthode, avec Calibre, je convertis le texte de Woolf au format txt, puis je l’uploade sur Claude. Requête : « Recherche dans le texte attaché des citations qui pourraient illustrer pour un auteur le fait de recourir à une assistance extérieure. » Il commence par me proposer des citations peu intéressantes. J’insiste il me propose.</p>
+<blockquote>
+<p>Miss Green est, je crois l’avoir dit, en train de dactylographier Jacob et traverse l’Atlantique le 14 juillet.</p>
+<p>Je me suis lancée dans cette opération qui consiste à retaper à la machine (du commencement à la fin) les trois cent trente-deux pages de ce livre fortement condensé : Les Vagues. Je tape sept à huit pages par jour, de sorte que j’en aurai vraisemblablement fini aux environs du 16 juin.</p>
+<p>Les bureaux de ma dactylographe sont détruits.</p>
+</blockquote>
+<p>On y apprend simplement que Woolf utilisait les services d’une dactylographe.</p>
+<p>J’insiste.</p>
+<blockquote>
+<p>Je serai libre, libre d’insérer dans les marges mes corrections et celles de Margery.</p>
+<p>Margery Fry est venue prendre le thé dimanche. Longue discussion au sujet de la biographie de Roger. Rien de très concluant. Elle dit qu’elle aimerait une étude faite par moi et renforcée par des chapitres embrassant d’autres points de vue. Je dis : ’C’est possible, mais ces livres-là sont illisibles.’ – ’Oh, bien entendu, répond-elle, je vous laisse entièrement libre.’ Je dis alors que j’aurais besoin de renseignements sur sa vie, sa famille. ’À ce propos, dit-elle, je crains d’avoir à vous demander la plus grande circonspection.’</p>
+</blockquote>
+<p>Où on découvre que Margery aide Woolf, la conseille, la stimule. Je n’ai rien trouvé de décisif, rien que j’aurais retenu pour un essai sur l’écriture assistée, mais tout cela ne m’a pris que quelques minutes.</p>
+<h3>Kafka</h3>
+<p>Dans le journal, Claude a trouvé quelques citations.</p>
+<blockquote>
+<p>Hier pour la première fois à l’usine dicté des lettres. Travail insignifiant (1 heure) mais non dépourvu de satisfaction.</p>
+</blockquote>
+<p>L’usine pour Kafa, c’est son bureau (mieux vaut l’avoir lu pour comprendre). Texte dans l’original :</p>
+<blockquote>
+<p>Hier pour la première fois à l’usine dicté des lettres. Travail insignifiant (1 heure) mais non dépourvu de satisfaction. Auparavant après-midi abominable. Maux de tête permanents si bien que j’ai dû me tenir sans arrêt la tête avec la main (mon état au Café Arco) et douleurs cardiaques à la maison sur le canapé.</p>
+</blockquote>
+<p>Une autre citation intéressante, mais sans rapport avec mon sujet, illustre les altérations presque systématiquement apportées par les IA :</p>
+<blockquote>
+<p>Je ne peux plus que regarder la dactylographe, Mlle Kaiser, qui s’est agitée suivant son habitude, déplaçant sa chaise, toussant, tapotant sur la table, attirant ainsi l’attention de toute la pièce sur mon malheur. L’idée que je cherche acquiert ainsi cette valeur supplémentaire qu’elle la calmera, et devient d’autant plus difficile à trouver que sa valeur est en hausse.</p>
+</blockquote>
+<p>Dans le texte original</p>
+<blockquote>
+<p>Au bureau, en train de dicter un long procès-verbal destiné à l’administration d’un district. Arrivé à la conclusion, qui devait prendre de la hauteur, je suis resté en panne et n’ai rien pu faire d’autre que regarder la dactylographe, Mlle Kaiser, qui s’est agitée suivant son habitude, déplaçant sa chaise, toussant, tapotant sur la table, attirant ainsi l’attention de toute la pièce sur mon malheur. L’idée que je cherche acquiert ainsi cette valeur supplémentaire qu’elle la calmera, et devient d’autant plus difficile à trouver que sa valeur est en hausse.</p>
+</blockquote>
+<h3>Dumas</h3>
+<p>J’ai voulu en savoir plus sur la notoire collaboration entre Alexandre Dumas père et Auguste Maquet, connu pour être l’auteur du premier jet des <em>Trois Mousquetaires</em> et du <em>Comte de Monte-Christo</em>. On n’est plus dans la simple assistance mais dans la ghostwriting.</p>
+<p>Sur Internet Archive, je récupère le PDF de <a href="https://archive.org/details/histoiredunecol00simo/page/n1/mode/1up"><em>Histoire d’une collaboration : Alexandre Dumas et Auguste Maquet</em></a> de Gustave Simon (1919). Claude ne parvient pas à digérer le texte, contrairement à Mistral qui propose quelques citations.</p>
+<blockquote>
+<p>Dumas se fiait à son jugement ; presque toujours Dumas le questionnait par lettre, lui demandait où il voulait le conduire, suivant avec docilité l’intrigue, sauf quand il trouvait une anecdote qui faisait rebondir l’action ; souvent alors il en demandait la rédaction à Maquet.</p>
+<p>Dumas demandait souvent à Maquet des détails sur l’intrigue ou des épisodes spécifiques à inclure dans les œuvres.</p>
+<p>Dumas remaniait et développait le texte envoyé par Maquet.</p>
+</blockquote>
+<h3>Méthode en résumé</h3>
+<ol>
+<li>Chercher des sources avec Perplexity ou tout autre moteur.</li>
+<li>Récupérer le texte original (je suis plus à mon aise si je l’ai déjà lu, même il y a longtemps).</li>
+<li>Charger le texte dans une IA, puis l’interroger.</li>
+<li>Vérifier la validité des citations trouvées et les relire dans leur contexte pour s’assurer que l’auteur ne voulait pas dire le contraire.</li>
+</ol>
+<p>Pour mon essai d’un peu moins de 60 pages, j’ai ainsi discuté avec plus de trente livres. Constat : notre façon d’écrire a irrémédiablement changé. Il est facile de paraître cultivé avec l’aide des IA. Il est plus facile que jamais de s’appuyer sur des auteurs dont on ne connaît presque rien, voire rien. Désormais, les étalages culturels ne disent rien de la légitimité d’un auteur à traiter d’un sujet. Reste que, si je n’avais pas maîtrisé le sujet traité, si je n’avais pas eu une thèse à défendre, les IA ne m’auraient servi à rien, sinon à rabâcher des idées reçues.</p>]]></description><guid isPermaLink="false">2418</guid><pubDate>Fri, 21 Feb 2025 18:00:00 +0100</pubDate></item><item><title>Le livre total de Mallarmé est-il enfin possible ?</title><link>https://tcrouzet.com/2025/02/18/data-work/</link><description><![CDATA[<p>Je commence à comprendre ce que je construis depuis que j’ai commencé à écrire, et qui me devient de plus en plus conscient, décidé, volontaire. Je suis loin d’être le seul à travailler à cette chose, nous sommes nombreux sur le web à y travailler (et vous verrez que c’est sans doute impossible ailleurs). Je vais me servir de mon exemple parce que je suis l’auteur contemporain que je connais le mieux.</p>
 <p>Dans <em>La Préparation du roman</em>, saison 2, Barthes classe les Livres avec un grand L en trois catégories :</p>
 <ul>
 <li>Le livre total selon Mallarmé (jamais écrit par Mallarmé). Barthes n’a pas réussi à le décrire, sinon en disant qu’il était architectural et prémédité, puis en citant Mallarmé : « Mon œuvre est si bien préparé et hiérarchisé, représentant comme il peut, l’Univers, que je n’aurais su, sans endommager quelqu’une de mes impressions étagées, rien en enlever. »</li>
@@ -234,42 +354,4 @@
 <p>Lors du transfert de MailChimp à Substack, j’ai dû tous vous abonner aux sous-newsletters. <a href="https://tcrouzet.substack.com/account">Vous pouvez choisir ce que vous souhaitez recevoir en créant un compte Substack.</a> Désolé pour ce désagrément.</p>
 <p>Comme j’ai croisé mes différentes bases de données, je vous ai peut-être abonné par erreur. Vous pouvez vous désabonner avec le lien au pied de la newsletter.</p>
 <p>Si vous êtes allergiques à Substack, mes textes seront toujours publiés en priorité sur mon site et <a href="https://tcrouzet.com/page/abonnement-par-mail/">accessibles par flux RSS comme au bon vieux temps</a>.</p>
-<p>Je passe à Substack pour tenter de relancer les conversations et les interactions. Même les réseaux sociaux sont devenus unidirectionnels, tout le monde cherchant avant tout à capter l’attention. Substack offre un semblant d’intimité pour les conversations. C’est loin d’être idéal, mais je ne connais pas mieux pour l’instant.</p>]]></description><guid isPermaLink="false">2414</guid><pubDate>Fri, 07 Feb 2025 15:00:00 +0100</pubDate></item><item><title>La low-tech peut-elle coexister avec la high-tech ?</title><link>https://tcrouzet.com/2025/01/29/low-tech/</link><description><![CDATA[<p>Je vis avec une fan de low-tech qui souffre d’un cancer soigné avec la plus sophistiquée des high-tech. Ça interroge et provoque des débats entre nous.</p>
-<p>Voici ce que déclare <a href="https://lowtechlab.org/fr/la-low-tech">Low-tech Lab</a> : « Nous employons le terme low-tech pour qualifier des objets, des systèmes, des techniques, des services, des savoir-faire, des pratiques, des modes de vie et même des courants de pensée, qui intègrent la technologie selon trois grands principes : utile, accessible, durable. »</p>
-<h3>Une approche quasi survivaliste</h3>
-<p>Dans une situation de crise absolue, nous n’aurons pas d’autre choix que la low-tech. Il est donc important d’avoir à portée de main des solutions low-tech. Il faut les développer, les apprendre, les transmettre pour un jour, éventuellement, ne pas être pris au dépourvu (et je ne parle pas pour moi, à mon échelle existentielle, mais à celle de l’humanité).</p>
-<p>Par exemple, nous devons imaginer un internet ultra-light capable de tourner avec des ordinateurs très simples, peu énergivores, nécessitant des connexions à faible débit. Dans cette optique et pour minimiser mon empreinte carbone, j’ai basculé depuis deux ans mon site en statique et n’utilise que des <a href="https://fr.wikipedia.org/wiki/WebP">images webp</a> qui sont souvent deux fois moins lourdes que des jpeg à qualité équivalente (je passerai à <a href="https://fr.wikipedia.org/wiki/AVIF">AVIF</a> dès que les navigateurs seront compatibles). Ce n’est pas grand-chose, mais j’y gagne sur d’autres plans.</p>
-<ul>
-<li>L’hébergement me coûte moins cher.</li>
-<li>Mon site est plus rapide qu’avec WordPress.</li>
-<li>J’ai moins de risques d’être piraté.</li>
-<li>Je n’ai plus de serveur à maintenir, de mises à jour à effectuer, de plugin ou de template à bidouiller (bénéfice : moins de charge mentale).</li>
-<li>Je maîtrise mon contenu de la production à la diffusion.</li>
-</ul>
-<p>Le passage à une low-tech, relative dans ce cas et plus radicale dans mon expérience avec Gemini (voir plus loin), a donc des avantages. Nous avons souvent tendance à complexifier pour rien. Le web souffre ainsi d’une crise d’obésité (avec les montagnes de scripts derrière la moindre page, le plus souvent pour traquer nos habitudes à des fins publicitaires).</p>
-<p>Comme je l’ai expérimenté avec mon site, la low-tech peut être plus robuste, plus puissante, plus optimale. Elle n’implique pas un moins bien, des sacrifices, des renoncements. Au contraire, elle peut ouvrir des possibilités. Par exemple, écrire en Markdown (la low-tech de l’écriture) plutôt qu’en <a href="https://fr.wikipedia.org/wiki/What_you_see_is_what_you_get">WYSIWYG</a> sous Word (la high-tech de l’écriture) m’a libéré en tant qu’auteur.</p>
-<h3>La crise, c’est maintenant</h3>
-<p>Pour certains, nous sommes déjà au-delà du mur et utiliser la low-tech n’est plus une option. Je suis moins radical, même si je voyage à vélo (mais le vélo est devenu un objet high-tech — il me faudrait rouler avec des vélos en acier sans dérailleur). Et je suis d’autant moins radical qu’Isa a besoin de high-tech pour guérir.</p>
-<p>Dans le meilleur des mondes, on développerait les high-tech dans certains domaines vitaux et pas dans d’autres moins critiques. Par exemple, on passerait pas autant de temps à développer des réseaux sociaux qui nous mènent droit à l’<a href="https://legrandcontinent.eu/fr/2025/01/26/trump-musk-lhypnocratie-ou-lempire-des-fantasmes/">hynocratie</a> alors que nous surchauffons la planète sans trop réagir. Mais comment empêcher certaines technos sinon en les interdisant ?</p>
-<p>Développer la high-tech uniquement dans des directions privilégiées ne serait possible que sous le joug d’un dirigisme étatique. Je ne le souhaite pas parce que je ne veux pas vivre dans une dictature. Je compte sur une lente prise de conscience, mais même mes amis les plus écolos prennent l’avion. Ce n’est pas gagné.</p>
-<p>La prise de conscience est trop lente au regard de la vitesse des changements climatiques. Elle ne gagnera pas cette course. Je suis arrivé à cette conclusion il y a une quinzaine d’années, ce qui explique pourquoi j’ai écrit de moins en moins de textes « politiques ». Je ne suis pas devenu technosolutionniste, mais le technosolutionnisme s’impose par défaut puisque nous sommes incapables de changer de comportement. Qu’on rejette le technosolutionnisme ou l’adopte, on l’aura. C’est un constat. </p>
-<p>À l’échelle globale, la technologie est un écosystème, avec des interactions difficiles à mesurer entre les champs d’application. L’IA, jugée récréative et inutile par certains, facilite la recherche médicale dans le même temps (et m’aide dans mes bidouilles web que je n’oserais pas sans elle). Des chercheurs ont eu des idées ou rencontré des collaborateurs sur les réseaux sociaux laveurs de cerveaux. Des homosexuels y ont rencontré du soutien dans leur coming out. J’y ai rencontré des copains auteurs et des copains cyclistes. On y trouve même des adeptes de la low-tech.</p>
-<p>Je ne crois pas à la possibilité d’une high-tech médicale sans à côté d’autres high-tech apparemment décorrélés. Je ne crois qu’à la responsabilisation de chacun, ce qui passe par l’éducation. Nous devons parler de low-tech, la mettre en œuvre autant que possible, sans en faire une obligation, parce que seules une dictature ou une catastrophe l’imposeront. C’est absurde, mais nous sommes faits ainsi. On ne nous empêchera pas de regarder des vidéos de chat (et moi de vététistes qui descendent des chemins vertigineux).</p>
-<p>Alerter finit par ne servir à rien. Et les fumeurs fument, les alcooliques boivent, les drogués se droguent, les parieurs jouent… Rien d’autre à faire qu’expliquer encore et encore, jusqu’à l’épuisement. Expliquer n’est pas alerter, c’est tenter d’éveiller à d’autres possibilités. </p>
-<h3>La low-tech comme décentralisation</h3>
-<p><strong>Dès que c’est possible, ne pas s’enfermer dans une solution, garder la maîtrise des outils. C’est le principe de la low-tech. Faire soi-même quand on peut. Chez soi, dans sa communauté, avec ses outils, et non s’en remettre à des tiers industriels qui offrent des solutions clés en mains, prétendument meilleures et plus simples. La low-tech, c’est toujours décentraliser.</strong></p>
-<p><a href="https://www.piratewires.com/p/interview-with-jack-dorsey-mike-solana">Quand Jack Dorsey, le fondateur de Twitter et de BlueSky, a quitté BlueSky</a>, il a déclaré : « This is not a protocol that's truly decentralized. It’s another app. It's another app that's just kind of following in Twitter's footsteps, but for a different part of the population. » Il n’a pas dit autre chose que « BlueSky n’est pas assez low-tech. », et donc pas assez résilient à toute forme de contrôle et de subversion algorithmique, ce que j’attends d’un réseau social digne de ce nom.</p>
-<p>Ma question, la low-tech peut-elle coexister avec la high-tech ?, revient alors à se demander si la décentralisation peut coexister avec la centralisation ? En 2009, quand j’écris sur Twitter <a href="https://tcrouzet.com/books/la-quatrieme-theorie/la-quatrieme-theorie/"><em>La quatrième Théorie</em></a>, j’imagine que ces deux forces s’affrontent, et d’une certaine façon le combat continue, à cela près que les forces centralisées sont plus puissantes que jamais et que la nécessité de les contrebalancer par des forces décentralisées devient de plus en plus urgente. Il y a donc un urgent besoin de low-tech. Une nécessité d’équilibrer décentralisation et centralisation. Des solutions existent, comme <a href="https://developer.holochain.org/concepts/1_the_basics/">Holochain</a>.</p>
-<div class="image" id="image-413-1"><img alt="Holochain" class="alignnone size-full paysage" decoding="async" height="570" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2025/01/holochain.webp" srcset="/images_tc/2025/01/holochain.webp 1600w, /images_tc/2025/01/holochain-1024.webp 1024w, /images_tc/2025/01/holochain-250.webp 250w" width="1460"/><div class="legend">Holochain</div></div>
-<h3>La low-tech numérique en pratique</h3>
-<p>Pour mieux me préparer à un monde low-tech et rééquilibrer mes usages souvent schizophréniques, loin de toute parano mais par souci d’apprendre, je viens d’imiter <a href="https://ploum.net/">Ploum</a> et de créer une version <a href="https://fr.wikipedia.org/wiki/Gemini_(protocole)">Gemini</a> de mon site. Gemini est à la fois un protocole de communication plus simple que HTTP et un langage de description de documents hypertextes, très proche de <a href="https://fr.wikipedia.org/wiki/Markdown">Markdown</a>. Basculer mon site en Gemini ne m’a demandé qu’une centaine de lignes de Python (écrit avec l’aide de <a href="https://github.com/deepseek-ai">DeepSeek l’IA chinoise OpenSource</a>).</p>
-<p>1/ Avec mon <a href="https://github.com/tcrouzet/NoMoreWordPress">NoMoreWordPress</a> associé à la librairie <a href="https://github.com/makew0rld/md2gemini">md2gemini</a>, j’ai converti mes textes Markdown en Gemini.</p>
-<p>2/ J’ai synchronisé ces textes sur un git hébergé par <a href="https://git.sr.ht/~tcrouzet/tcrouzet/tree">Sourcehut</a>.</p>
-<div class="image" id="image-413-2"><img alt="Texte Gemini" class="alignnone size-full paysage" decoding="async" height="594" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2025/01/sourcehut.webp" srcset="/images_tc/2025/01/sourcehut.webp 1600w, /images_tc/2025/01/sourcehut-1024.webp 1024w, /images_tc/2025/01/sourcehut-250.webp 250w" width="1505"/><div class="legend">Texte Gemini</div></div>
-<p>3/ <a href="https://github.com/koyuawsmbrtn">Leonie Ain</a> a synchronisé mon git avec son serveur de capsules Gemini, rendant ainsi mon site accessible à l’adresse : <a href="gemini://koyu.space/tcrouzet/">gemini://koyu.space/tcrouzet/</a>. Vous ne le lirez qu’avec un navigateur Gemini. J’utilise <a href="https://github.com/skyjake/lagrange">Lagrange</a>.</p>
-<div class="image" id="image-413-3"><img alt="Lagrange" class="alignnone size-full paysage" decoding="async" height="865" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2025/01/lagrange.webp" srcset="/images_tc/2025/01/lagrange.webp 1600w, /images_tc/2025/01/lagrange-1024.webp 1024w, /images_tc/2025/01/lagrange-250.webp 250w" width="823"/><div class="legend">Lagrange</div></div>
-<p>Compliqué ? Pas pour qui prétend à la low-tech. Pertinent ? À mes yeux, ce projet est un apprentissage pour ses concepteurs comme ses utilisateurs. C’est vital. Critiquable, oui. Je n’ai pas compris l’intérêt de la mise en forme des textes au format Gemini, à la syntaxe moins riche et moins compacte que Markdown (mon <a href="https://tcrouzet.com/2025/01/02/decembre-2024/">journal de décembre 2024</a> est 8 % plus lourd en Gemini qu’en Markdown). Ma conclusion : Gemini est moins low-tech que Markdown.</p>
-<p>Ploum me dit que tout le monde oppose la même critique à Gemini et que je ne devrais pas tomber dans le même piège, puisque ma <a href="https://tcrouzet.com/books/la-mecanique-du-texte/"><em>Mécanique du texte</em></a> explique que l’outil d’écriture influence ce que nous écrivons. Je n’ai pas changé d’avis, mais il faudrait savoir si avec Gemini on recherche une solution low-tech ou non.</p>
-<p>Pour un texte littéraire, Gemini ou Markdown, c’est du pareil au même. La différence ne me saute aux yeux que lors de l’écriture web : quand on veut introduire des liens, il faut les disposer hors du texte, en annotation en quelque sorte (soit en fin de paragraphe, soit en bas de page). Alors, oui, cette nuance implique de penser autrement le texte, de le structurer autrement, et je perçois cette évolution dans les textes web de Ploum depuis qu’il publie en Gemini (mais on peut s’imposer la même règle en Markdown comme on peut s’imposer la versification).</p>
-<p>Low-tech n’implique pas de réduire les possibilités, mais réduire les coûts (la taille des fichiers texte, par exemple). Quand Gemini m’empêche de mettre des textes en italique, et donc de respecter le code typographique, il ne le fait pas au nom de l’optimisation, mais plutôt d’une idéologie esthétique, qui prétendrait que l’italique ne sert à rien. Pourquoi pas, mais on n’a peut-être pas inventé les conventions typographiques pour rien. Elles nous aident à mieux nous comprendre.</p>
-<p>Reste que je m’entraîne. Gemini est l’une des meilleures solutions au cas où. Une bonne approche de low-tech numérique pour un ultraconsommateur de high-tech. Je rêve maintenant d’un Gemini sur un principe de Holochain. Expérimenter dans ce domaine élève mon niveau de conscience.</p>]]></description><guid isPermaLink="false">413</guid><pubDate>Wed, 29 Jan 2025 11:00:00 +0100</pubDate></item></channel></rss>
+<p>Je passe à Substack pour tenter de relancer les conversations et les interactions. Même les réseaux sociaux sont devenus unidirectionnels, tout le monde cherchant avant tout à capter l’attention. Substack offre un semblant d’intimité pour les conversations. C’est loin d’être idéal, mais je ne connais pas mieux pour l’instant.</p>]]></description><guid isPermaLink="false">2414</guid><pubDate>Fri, 07 Feb 2025 15:00:00 +0100</pubDate></item></channel></rss>
