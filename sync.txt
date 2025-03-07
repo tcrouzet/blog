@@ -1,32 +1,367 @@
-Completed 11.1 KiB/~199.0 KiB (131.5 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/2025/02/27/edition-francophone-mastodon/content.html to s3://tcrouzet.com/2025/02/27/edition-francophone-mastodon/content.html
-Completed 11.1 KiB/~199.0 KiB (131.5 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 25.7 KiB/~199.0 KiB (126.4 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/2025/02/27/edition-francophone-mastodon/index.html to s3://tcrouzet.com/2025/02/27/edition-francophone-mastodon/index.html
-Completed 25.7 KiB/~199.0 KiB (126.4 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 55.0 KiB/~199.0 KiB (245.3 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html             
-Completed 55.0 KiB/~199.0 KiB (245.3 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 108.0 KiB/~199.0 KiB (429.6 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
-Completed 108.0 KiB/~199.0 KiB (429.6 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 199.0 KiB/~199.0 KiB (571.9 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 38.1 KiB/~679.6 KiB (320.2 KiB/s) with ~7 file(s) remaining (calculating...)
+upload: ../../static/2025/03/07/february-2025/index.html to s3://tcrouzet.com/2025/03/07/february-2025/index.html
+Completed 38.1 KiB/~679.6 KiB (320.2 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 48.9 KiB/~679.6 KiB (326.5 KiB/s) with ~6 file(s) remaining (calculating...)
+upload: ../../static/2025/index.html to s3://tcrouzet.com/2025/index.html             
+Completed 48.9 KiB/~679.6 KiB (326.5 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 84.0 KiB/~679.6 KiB (482.9 KiB/s) with ~5 file(s) remaining (calculating...)
+upload: ../../static/2025/03/07/february-2025/content.html to s3://tcrouzet.com/2025/03/07/february-2025/content.html
+Completed 84.0 KiB/~679.6 KiB (482.9 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 198.5 KiB/~679.6 KiB (726.0 KiB/s) with ~4 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 199.0 KiB/~199.0 KiB (571.9 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 203.6 KiB/~261.3 KiB (32.5 KiB/s) with ~5 file(s) remaining (calculating...) 
-upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
-Completed 203.6 KiB/~261.3 KiB (32.5 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 204.8 KiB/~291.6 KiB (32.6 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 204.8 KiB/~291.6 KiB (32.6 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 235.0 KiB/291.6 KiB (37.1 KiB/s) with 4 file(s) remaining                   
-upload: ../../static/tag/politique/index.html to s3://tcrouzet.com/tag/politique/index.html
-Completed 235.0 KiB/291.6 KiB (37.1 KiB/s) with 3 file(s) remaining
-Completed 258.0 KiB/291.6 KiB (40.6 KiB/s) with 3 file(s) remaining
+Completed 198.5 KiB/~679.6 KiB (726.0 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 251.5 KiB/~679.6 KiB (903.1 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
+Completed 251.5 KiB/~679.6 KiB (903.1 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 442.5 KiB/~679.6 KiB (1.5 MiB/s) with ~2 file(s) remaining (calculating...)  
+upload: ../../static/feeds/carnet-de-route.xml to s3://tcrouzet.com/feeds/carnet-de-route.xml
+Completed 442.5 KiB/~679.6 KiB (1.5 MiB/s) with ~1 file(s) remaining (calculating...)
+Completed 679.6 KiB/~679.6 KiB (2.2 MiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/archives/index.html to s3://tcrouzet.com/archives/index.html    
+Completed 679.6 KiB/~679.6 KiB (2.2 MiB/s) with ~0 file(s) remaining (calculating...)
+Completed 763.6 KiB/~22.5 MiB (119.0 KiB/s) with ~91 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2025/03/2025-02-01-104436-Argelliers-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-01-104436-Argelliers-1024.webp
+Completed 763.6 KiB/~22.5 MiB (119.0 KiB/s) with ~90 file(s) remaining (calculating...)
+Completed 770.0 KiB/~22.6 MiB (119.2 KiB/s) with ~93 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2025/03/2025-02-01-104436-Argelliers-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-01-104436-Argelliers-250.webp
+Completed 770.0 KiB/~22.6 MiB (119.2 KiB/s) with ~92 file(s) remaining (calculating...)
+Completed 771.3 KiB/22.6 MiB (119.1 KiB/s) with 93 file(s) remaining                   
+upload: ../../static/images_tc/2025/03/2025-02-03-183351-lamaison-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-03-183351-lamaison-250.webp
+Completed 771.3 KiB/22.6 MiB (119.1 KiB/s) with 92 file(s) remaining
+Completed 773.2 KiB/22.6 MiB (119.4 KiB/s) with 92 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-03-183342-lamaison-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-03-183342-lamaison-250.webp
+Completed 773.2 KiB/22.6 MiB (119.4 KiB/s) with 91 file(s) remaining
+Completed 775.0 KiB/22.6 MiB (119.5 KiB/s) with 91 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-03-183347-lamaison-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-03-183347-lamaison-250.webp
+Completed 775.0 KiB/22.6 MiB (119.5 KiB/s) with 90 file(s) remaining
+Completed 791.0 KiB/22.6 MiB (121.8 KiB/s) with 90 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-03-183342-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-03-183342-lamaison-1024.webp
+Completed 791.0 KiB/22.6 MiB (121.8 KiB/s) with 89 file(s) remaining
+Completed 803.0 KiB/22.6 MiB (123.4 KiB/s) with 89 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-03-183351-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-03-183351-lamaison-1024.webp
+Completed 803.0 KiB/22.6 MiB (123.4 KiB/s) with 88 file(s) remaining
+Completed 819.7 KiB/22.6 MiB (125.6 KiB/s) with 88 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-03-183347-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-03-183347-lamaison-1024.webp
+Completed 819.7 KiB/22.6 MiB (125.6 KiB/s) with 87 file(s) remaining
+Completed 911.6 KiB/22.6 MiB (139.3 KiB/s) with 87 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-03-183347-lamaison.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-03-183347-lamaison.webp
+Completed 911.6 KiB/22.6 MiB (139.3 KiB/s) with 86 file(s) remaining
+Completed 913.5 KiB/22.6 MiB (139.5 KiB/s) with 86 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-04-104418-lamaison-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-04-104418-lamaison-250.webp
+Completed 913.5 KiB/22.6 MiB (139.5 KiB/s) with 85 file(s) remaining
+Completed 1.1 MiB/22.6 MiB (178.6 KiB/s) with 85 file(s) remaining  
+Completed 1.2 MiB/22.6 MiB (193.5 KiB/s) with 85 file(s) remaining  
+upload: ../../static/images_tc/2025/03/2025-02-03-183342-lamaison.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-03-183342-lamaison.webp
+Completed 1.2 MiB/22.6 MiB (193.5 KiB/s) with 84 file(s) remaining
+Completed 1.3 MiB/22.6 MiB (196.1 KiB/s) with 84 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-04-104418-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-04-104418-lamaison-1024.webp
+Completed 1.3 MiB/22.6 MiB (196.1 KiB/s) with 83 file(s) remaining
+Completed 1.3 MiB/22.6 MiB (196.3 KiB/s) with 83 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-05-182329-lamaison-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-05-182329-lamaison-250.webp
+Completed 1.3 MiB/22.6 MiB (196.3 KiB/s) with 82 file(s) remaining
+Completed 1.3 MiB/22.6 MiB (197.5 KiB/s) with 82 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-05-182329-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-05-182329-lamaison-1024.webp
+Completed 1.3 MiB/22.6 MiB (197.5 KiB/s) with 81 file(s) remaining
+Completed 1.4 MiB/22.6 MiB (218.5 KiB/s) with 81 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-04-104418-lamaison.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-04-104418-lamaison.webp
+Completed 1.4 MiB/22.6 MiB (218.5 KiB/s) with 80 file(s) remaining
+Completed 1.6 MiB/22.6 MiB (251.8 KiB/s) with 80 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-01-104436-Argelliers.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-01-104436-Argelliers.webp
+Completed 1.6 MiB/22.6 MiB (251.8 KiB/s) with 79 file(s) remaining
+Completed 1.7 MiB/22.6 MiB (263.8 KiB/s) with 79 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-05-182329-lamaison.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-05-182329-lamaison.webp
+Completed 1.7 MiB/22.6 MiB (263.8 KiB/s) with 78 file(s) remaining
+Completed 2.0 MiB/22.6 MiB (302.4 KiB/s) with 78 file(s) remaining
+Completed 2.0 MiB/22.6 MiB (305.3 KiB/s) with 78 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-06-113225-Nages-et-SolorguesetVauvert-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-06-113225-Nages-et-SolorguesetVauvert-250.webp
+Completed 2.0 MiB/22.6 MiB (305.3 KiB/s) with 77 file(s) remaining
+Completed 2.2 MiB/22.6 MiB (343.6 KiB/s) with 77 file(s) remaining
+Completed 2.2 MiB/22.6 MiB (345.7 KiB/s) with 77 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-06-123517-Nages-et-SolorguesetVauvert-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-06-123517-Nages-et-SolorguesetVauvert-250.webp
+Completed 2.2 MiB/22.6 MiB (345.7 KiB/s) with 76 file(s) remaining
+Completed 2.5 MiB/22.6 MiB (383.9 KiB/s) with 76 file(s) remaining
+Completed 2.7 MiB/22.6 MiB (421.8 KiB/s) with 76 file(s) remaining
+Completed 3.0 MiB/22.6 MiB (452.8 KiB/s) with 76 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-03-183351-lamaison.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-03-183351-lamaison.webp
+Completed 3.0 MiB/22.6 MiB (452.8 KiB/s) with 75 file(s) remaining
+Completed 3.2 MiB/22.6 MiB (490.4 KiB/s) with 75 file(s) remaining
+Completed 3.5 MiB/22.6 MiB (528.2 KiB/s) with 75 file(s) remaining
+Completed 3.7 MiB/22.6 MiB (565.2 KiB/s) with 75 file(s) remaining
+Completed 4.0 MiB/22.6 MiB (602.8 KiB/s) with 75 file(s) remaining
+Completed 4.2 MiB/22.6 MiB (640.8 KiB/s) with 75 file(s) remaining
+Completed 4.5 MiB/22.6 MiB (678.6 KiB/s) with 75 file(s) remaining
+Completed 4.7 MiB/22.6 MiB (715.7 KiB/s) with 75 file(s) remaining
+Completed 5.0 MiB/22.6 MiB (753.7 KiB/s) with 75 file(s) remaining
+Completed 5.2 MiB/22.6 MiB (791.6 KiB/s) with 75 file(s) remaining
+Completed 5.2 MiB/22.6 MiB (791.8 KiB/s) with 75 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-06-130815-Nages-et-SolorguesetVauvert-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-06-130815-Nages-et-SolorguesetVauvert-250.webp
+Completed 5.2 MiB/22.6 MiB (791.8 KiB/s) with 74 file(s) remaining
+Completed 5.5 MiB/22.6 MiB (829.5 KiB/s) with 74 file(s) remaining
+Completed 5.7 MiB/22.6 MiB (867.3 KiB/s) with 74 file(s) remaining
+Completed 5.7 MiB/22.6 MiB (867.8 KiB/s) with 74 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-08-181045-lamaison-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-08-181045-lamaison-250.webp
+Completed 5.7 MiB/22.6 MiB (867.8 KiB/s) with 73 file(s) remaining
+Completed 5.8 MiB/22.6 MiB (883.0 KiB/s) with 73 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-08-181045-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-08-181045-lamaison-1024.webp
+Completed 5.8 MiB/22.6 MiB (883.0 KiB/s) with 72 file(s) remaining
+Completed 6.1 MiB/22.6 MiB (920.6 KiB/s) with 72 file(s) remaining
+Completed 6.1 MiB/22.6 MiB (931.4 KiB/s) with 72 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-06-113225-Nages-et-SolorguesetVauvert-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-06-113225-Nages-et-SolorguesetVauvert-1024.webp
+Completed 6.1 MiB/22.6 MiB (931.4 KiB/s) with 71 file(s) remaining
+Completed 6.4 MiB/22.6 MiB (969.1 KiB/s) with 71 file(s) remaining
+Completed 6.6 MiB/22.6 MiB (1006.7 KiB/s) with 71 file(s) remaining
+Completed 6.9 MiB/22.6 MiB (1.0 MiB/s) with 71 file(s) remaining   
+Completed 7.1 MiB/22.6 MiB (1.1 MiB/s) with 71 file(s) remaining   
+Completed 7.4 MiB/22.6 MiB (1.1 MiB/s) with 71 file(s) remaining   
+Completed 7.6 MiB/22.6 MiB (1.1 MiB/s) with 71 file(s) remaining   
+Completed 7.9 MiB/22.6 MiB (1.2 MiB/s) with 71 file(s) remaining   
+Completed 8.1 MiB/22.6 MiB (1.2 MiB/s) with 71 file(s) remaining   
+upload: ../../static/images_tc/2025/03/2025-02-06-130815-Nages-et-SolorguesetVauvert-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-06-130815-Nages-et-SolorguesetVauvert-1024.webp
+Completed 8.1 MiB/22.6 MiB (1.2 MiB/s) with 70 file(s) remaining
+Completed 8.3 MiB/22.6 MiB (1.2 MiB/s) with 70 file(s) remaining
+Completed 8.4 MiB/22.6 MiB (1.2 MiB/s) with 70 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-06-123517-Nages-et-SolorguesetVauvert-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-06-123517-Nages-et-SolorguesetVauvert-1024.webp
+Completed 8.4 MiB/22.6 MiB (1.2 MiB/s) with 69 file(s) remaining
+Completed 8.7 MiB/22.6 MiB (1.3 MiB/s) with 69 file(s) remaining
+Completed 8.9 MiB/22.6 MiB (1.3 MiB/s) with 69 file(s) remaining
+Completed 9.2 MiB/22.6 MiB (1.3 MiB/s) with 69 file(s) remaining
+Completed 9.4 MiB/22.6 MiB (1.4 MiB/s) with 69 file(s) remaining
+Completed 9.6 MiB/22.6 MiB (1.4 MiB/s) with 69 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-08-181045-lamaison.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-08-181045-lamaison.webp
+Completed 9.6 MiB/22.6 MiB (1.4 MiB/s) with 68 file(s) remaining
+Completed 9.9 MiB/22.6 MiB (1.4 MiB/s) with 68 file(s) remaining
+Completed 10.1 MiB/22.6 MiB (1.5 MiB/s) with 68 file(s) remaining
+Completed 10.1 MiB/22.6 MiB (1.5 MiB/s) with 68 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-08-181052-lamaison-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-08-181052-lamaison-250.webp
+Completed 10.1 MiB/22.6 MiB (1.5 MiB/s) with 67 file(s) remaining
+Completed 10.4 MiB/22.6 MiB (1.5 MiB/s) with 67 file(s) remaining
+Completed 10.6 MiB/22.6 MiB (1.5 MiB/s) with 67 file(s) remaining
+Completed 10.9 MiB/22.6 MiB (1.6 MiB/s) with 67 file(s) remaining
+Completed 10.9 MiB/22.6 MiB (1.6 MiB/s) with 67 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-08-181052-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-08-181052-lamaison-1024.webp
+Completed 10.9 MiB/22.6 MiB (1.6 MiB/s) with 66 file(s) remaining
+Completed 11.2 MiB/22.6 MiB (1.6 MiB/s) with 66 file(s) remaining
+Completed 11.2 MiB/22.6 MiB (1.6 MiB/s) with 66 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-13-150908-Pomrols-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-13-150908-Pomrols-250.webp
+Completed 11.2 MiB/22.6 MiB (1.6 MiB/s) with 65 file(s) remaining
+Completed 11.3 MiB/22.6 MiB (1.6 MiB/s) with 65 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-13-151501-Pomrols-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-13-151501-Pomrols-1024.webp
+Completed 11.3 MiB/22.6 MiB (1.6 MiB/s) with 64 file(s) remaining
+Completed 11.4 MiB/22.6 MiB (1.6 MiB/s) with 64 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-06-113225-Nages-et-SolorguesetVauvert.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-06-113225-Nages-et-SolorguesetVauvert.webp
+Completed 11.4 MiB/22.6 MiB (1.6 MiB/s) with 63 file(s) remaining
+Completed 11.5 MiB/22.6 MiB (1.7 MiB/s) with 63 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-06-123517-Nages-et-SolorguesetVauvert.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-06-123517-Nages-et-SolorguesetVauvert.webp
+Completed 11.5 MiB/22.6 MiB (1.7 MiB/s) with 62 file(s) remaining
+Completed 11.8 MiB/22.6 MiB (1.7 MiB/s) with 62 file(s) remaining
+Completed 11.9 MiB/22.6 MiB (1.7 MiB/s) with 62 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-08-181052-lamaison.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-08-181052-lamaison.webp
+Completed 11.9 MiB/22.6 MiB (1.7 MiB/s) with 61 file(s) remaining
+Completed 11.9 MiB/22.6 MiB (1.7 MiB/s) with 61 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-13-151501-Pomrols-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-13-151501-Pomrols-250.webp
+Completed 11.9 MiB/22.6 MiB (1.7 MiB/s) with 60 file(s) remaining
+Completed 12.0 MiB/22.6 MiB (1.7 MiB/s) with 60 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-06-130815-Nages-et-SolorguesetVauvert.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-06-130815-Nages-et-SolorguesetVauvert.webp
+Completed 12.0 MiB/22.6 MiB (1.7 MiB/s) with 59 file(s) remaining
+Completed 12.2 MiB/22.6 MiB (1.7 MiB/s) with 59 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-13-150908-Pomrols-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-13-150908-Pomrols-1024.webp
+Completed 12.2 MiB/22.6 MiB (1.7 MiB/s) with 58 file(s) remaining
+Completed 12.5 MiB/22.6 MiB (1.8 MiB/s) with 58 file(s) remaining
+Completed 12.6 MiB/22.6 MiB (1.8 MiB/s) with 58 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-13-151510-Pomrols-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-13-151510-Pomrols-1024.webp
+Completed 12.6 MiB/22.6 MiB (1.8 MiB/s) with 57 file(s) remaining
+Completed 12.6 MiB/22.6 MiB (1.8 MiB/s) with 57 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-13-151510-Pomrols-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-13-151510-Pomrols-250.webp
+Completed 12.6 MiB/22.6 MiB (1.8 MiB/s) with 56 file(s) remaining
+Completed 12.8 MiB/22.6 MiB (1.8 MiB/s) with 56 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-13-150908-Pomrols.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-13-150908-Pomrols.webp
+Completed 12.8 MiB/22.6 MiB (1.8 MiB/s) with 55 file(s) remaining
+Completed 12.8 MiB/22.6 MiB (1.8 MiB/s) with 55 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-13-151516-Pomrols-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-13-151516-Pomrols-250.webp
+Completed 12.8 MiB/22.6 MiB (1.8 MiB/s) with 54 file(s) remaining
+Completed 12.9 MiB/22.6 MiB (1.8 MiB/s) with 54 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-13-151516-Pomrols-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-13-151516-Pomrols-1024.webp
+Completed 12.9 MiB/22.6 MiB (1.8 MiB/s) with 53 file(s) remaining
+Completed 12.9 MiB/22.6 MiB (1.8 MiB/s) with 53 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-13-151534-Pomrols-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-13-151534-Pomrols-250.webp
+Completed 12.9 MiB/22.6 MiB (1.8 MiB/s) with 52 file(s) remaining
+Completed 13.1 MiB/22.6 MiB (1.8 MiB/s) with 52 file(s) remaining
+Completed 13.4 MiB/22.6 MiB (1.9 MiB/s) with 52 file(s) remaining
+Completed 13.5 MiB/22.6 MiB (1.9 MiB/s) with 52 file(s) remaining
+Completed 13.5 MiB/22.6 MiB (1.9 MiB/s) with 52 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-14-181234-lamaison-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-14-181234-lamaison-250.webp
+Completed 13.5 MiB/22.6 MiB (1.9 MiB/s) with 51 file(s) remaining
+Completed 13.5 MiB/22.6 MiB (1.9 MiB/s) with 51 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-14-181234-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-14-181234-lamaison-1024.webp
+Completed 13.5 MiB/22.6 MiB (1.9 MiB/s) with 50 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-13-151501-Pomrols.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-13-151501-Pomrols.webp
+Completed 13.5 MiB/22.6 MiB (1.9 MiB/s) with 49 file(s) remaining
+Completed 13.8 MiB/22.6 MiB (1.9 MiB/s) with 49 file(s) remaining
+Completed 13.9 MiB/22.6 MiB (1.9 MiB/s) with 49 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-13-151534-Pomrols-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-13-151534-Pomrols-1024.webp
+Completed 13.9 MiB/22.6 MiB (1.9 MiB/s) with 48 file(s) remaining
+Completed 14.2 MiB/22.6 MiB (2.0 MiB/s) with 48 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-13-151510-Pomrols.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-13-151510-Pomrols.webp
+Completed 14.2 MiB/22.6 MiB (2.0 MiB/s) with 47 file(s) remaining
+Completed 14.4 MiB/22.6 MiB (2.0 MiB/s) with 47 file(s) remaining
+Completed 14.7 MiB/22.6 MiB (2.0 MiB/s) with 47 file(s) remaining
+Completed 14.7 MiB/22.6 MiB (2.0 MiB/s) with 47 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-15-133812-PomrolsCastelnau-de-Guers-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-15-133812-PomrolsCastelnau-de-Guers-250.webp
+Completed 14.7 MiB/22.6 MiB (2.0 MiB/s) with 46 file(s) remaining
+Completed 14.7 MiB/22.6 MiB (2.0 MiB/s) with 46 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-15-135643-PomrolsCastelnau-de-Guers-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-15-135643-PomrolsCastelnau-de-Guers-250.webp
+Completed 14.7 MiB/22.6 MiB (2.0 MiB/s) with 45 file(s) remaining
+Completed 14.9 MiB/22.6 MiB (2.1 MiB/s) with 45 file(s) remaining
+Completed 15.2 MiB/22.6 MiB (2.1 MiB/s) with 45 file(s) remaining
+Completed 15.4 MiB/22.6 MiB (2.1 MiB/s) with 45 file(s) remaining
+Completed 15.6 MiB/22.6 MiB (2.2 MiB/s) with 45 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-14-181234-lamaison.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-14-181234-lamaison.webp
+Completed 15.6 MiB/22.6 MiB (2.2 MiB/s) with 44 file(s) remaining
+Completed 15.8 MiB/22.6 MiB (2.2 MiB/s) with 44 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-15-133812-PomrolsCastelnau-de-Guers-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-15-133812-PomrolsCastelnau-de-Guers-1024.webp
+Completed 15.8 MiB/22.6 MiB (2.2 MiB/s) with 43 file(s) remaining
+Completed 16.0 MiB/22.6 MiB (2.2 MiB/s) with 43 file(s) remaining
+Completed 16.3 MiB/22.6 MiB (2.2 MiB/s) with 43 file(s) remaining
+Completed 16.5 MiB/22.6 MiB (2.3 MiB/s) with 43 file(s) remaining
+Completed 16.6 MiB/22.6 MiB (2.3 MiB/s) with 43 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-15-135643-PomrolsCastelnau-de-Guers-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-15-135643-PomrolsCastelnau-de-Guers-1024.webp
+Completed 16.6 MiB/22.6 MiB (2.3 MiB/s) with 42 file(s) remaining
+Completed 16.8 MiB/22.6 MiB (2.3 MiB/s) with 42 file(s) remaining
+Completed 17.1 MiB/22.6 MiB (2.4 MiB/s) with 42 file(s) remaining
+Completed 17.3 MiB/22.6 MiB (2.4 MiB/s) with 42 file(s) remaining
+Completed 17.6 MiB/22.6 MiB (2.4 MiB/s) with 42 file(s) remaining
+Completed 17.8 MiB/22.6 MiB (2.5 MiB/s) with 42 file(s) remaining
+Completed 17.9 MiB/22.6 MiB (2.5 MiB/s) with 42 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-15-140624-PomrolsCastelnau-de-Guers-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-15-140624-PomrolsCastelnau-de-Guers-250.webp
+Completed 17.9 MiB/22.6 MiB (2.5 MiB/s) with 41 file(s) remaining
+Completed 17.9 MiB/22.6 MiB (2.5 MiB/s) with 41 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-13-151516-Pomrols.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-13-151516-Pomrols.webp
+Completed 17.9 MiB/22.6 MiB (2.5 MiB/s) with 40 file(s) remaining
+Completed 18.2 MiB/22.6 MiB (2.5 MiB/s) with 40 file(s) remaining
+Completed 18.4 MiB/22.6 MiB (2.5 MiB/s) with 40 file(s) remaining
+Completed 18.5 MiB/22.6 MiB (2.5 MiB/s) with 40 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-15-144616-PomrolsCastelnau-de-Guers-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-15-144616-PomrolsCastelnau-de-Guers-1024.webp
+Completed 18.5 MiB/22.6 MiB (2.5 MiB/s) with 39 file(s) remaining
+Completed 18.8 MiB/22.6 MiB (2.6 MiB/s) with 39 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-15-140624-PomrolsCastelnau-de-Guers-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-15-140624-PomrolsCastelnau-de-Guers-1024.webp
+Completed 18.8 MiB/22.6 MiB (2.6 MiB/s) with 38 file(s) remaining
+Completed 18.8 MiB/22.6 MiB (2.6 MiB/s) with 38 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-15-135643-PomrolsCastelnau-de-Guers.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-15-135643-PomrolsCastelnau-de-Guers.webp
+Completed 18.8 MiB/22.6 MiB (2.6 MiB/s) with 37 file(s) remaining
+Completed 18.8 MiB/22.6 MiB (2.6 MiB/s) with 37 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-15-144616-PomrolsCastelnau-de-Guers-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-15-144616-PomrolsCastelnau-de-Guers-250.webp
+Completed 18.8 MiB/22.6 MiB (2.6 MiB/s) with 36 file(s) remaining
+Completed 19.0 MiB/22.6 MiB (2.6 MiB/s) with 36 file(s) remaining
+Completed 19.3 MiB/22.6 MiB (2.6 MiB/s) with 36 file(s) remaining
+Completed 19.3 MiB/22.6 MiB (2.6 MiB/s) with 36 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-20-173751-lamaison-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-20-173751-lamaison-250.webp
+Completed 19.3 MiB/22.6 MiB (2.6 MiB/s) with 35 file(s) remaining
+Completed 19.3 MiB/22.6 MiB (2.6 MiB/s) with 35 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-20-173751-lamaison-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-20-173751-lamaison-1024.webp
+Completed 19.3 MiB/22.6 MiB (2.6 MiB/s) with 34 file(s) remaining
+Completed 19.5 MiB/22.6 MiB (2.6 MiB/s) with 34 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-13-151534-Pomrols.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-13-151534-Pomrols.webp
+Completed 19.5 MiB/22.6 MiB (2.6 MiB/s) with 33 file(s) remaining
+Completed 19.5 MiB/22.6 MiB (2.6 MiB/s) with 33 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-23-172251-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-23-172251-250.webp
+Completed 19.5 MiB/22.6 MiB (2.6 MiB/s) with 32 file(s) remaining
+Completed 19.5 MiB/22.6 MiB (2.6 MiB/s) with 32 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-23-172251-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-23-172251-1024.webp
+Completed 19.5 MiB/22.6 MiB (2.6 MiB/s) with 31 file(s) remaining
+Completed 19.6 MiB/22.6 MiB (2.6 MiB/s) with 31 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-23-172251.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-23-172251.webp
+Completed 19.6 MiB/22.6 MiB (2.6 MiB/s) with 30 file(s) remaining
+Completed 19.7 MiB/22.6 MiB (2.7 MiB/s) with 30 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-15-144616-PomrolsCastelnau-de-Guers.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-15-144616-PomrolsCastelnau-de-Guers.webp
+Completed 19.7 MiB/22.6 MiB (2.7 MiB/s) with 29 file(s) remaining
+Completed 19.7 MiB/22.6 MiB (2.6 MiB/s) with 29 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-15-140624-PomrolsCastelnau-de-Guers.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-15-140624-PomrolsCastelnau-de-Guers.webp
+Completed 19.7 MiB/22.6 MiB (2.6 MiB/s) with 28 file(s) remaining
+Completed 19.7 MiB/22.6 MiB (2.6 MiB/s) with 28 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-23-182201-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-23-182201-250.webp
+Completed 19.7 MiB/22.6 MiB (2.6 MiB/s) with 27 file(s) remaining
+Completed 19.8 MiB/22.6 MiB (2.6 MiB/s) with 27 file(s) remaining
+Completed 19.8 MiB/22.6 MiB (2.6 MiB/s) with 27 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-23-182201-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-23-182201-1024.webp
+Completed 19.8 MiB/22.6 MiB (2.6 MiB/s) with 26 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-20-173751-lamaison.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-20-173751-lamaison.webp
+Completed 19.8 MiB/22.6 MiB (2.6 MiB/s) with 25 file(s) remaining
+Completed 19.8 MiB/22.6 MiB (2.6 MiB/s) with 25 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-23-182233-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-23-182233-250.webp
+Completed 19.8 MiB/22.6 MiB (2.6 MiB/s) with 24 file(s) remaining
+Completed 19.8 MiB/22.6 MiB (2.6 MiB/s) with 24 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-23-182233-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-23-182233-1024.webp
+Completed 19.8 MiB/22.6 MiB (2.6 MiB/s) with 23 file(s) remaining
+Completed 19.8 MiB/22.6 MiB (2.6 MiB/s) with 23 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-24-180314-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-24-180314-1024.webp
+Completed 19.8 MiB/22.6 MiB (2.6 MiB/s) with 22 file(s) remaining
+Completed 20.1 MiB/22.6 MiB (2.7 MiB/s) with 22 file(s) remaining
+Completed 20.1 MiB/22.6 MiB (2.7 MiB/s) with 22 file(s) remaining
+Completed 20.3 MiB/22.6 MiB (2.7 MiB/s) with 22 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-15-133812-PomrolsCastelnau-de-Guers.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-15-133812-PomrolsCastelnau-de-Guers.webp
+Completed 20.3 MiB/22.6 MiB (2.7 MiB/s) with 21 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-24-180314-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-24-180314-250.webp
+Completed 20.3 MiB/22.6 MiB (2.7 MiB/s) with 20 file(s) remaining
+Completed 20.5 MiB/22.6 MiB (2.7 MiB/s) with 20 file(s) remaining
+Completed 20.8 MiB/22.6 MiB (2.8 MiB/s) with 20 file(s) remaining
+Completed 21.0 MiB/22.6 MiB (2.8 MiB/s) with 20 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-23-182233.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-23-182233.webp
+Completed 21.0 MiB/22.6 MiB (2.8 MiB/s) with 19 file(s) remaining
+Completed 21.0 MiB/22.6 MiB (2.8 MiB/s) with 19 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-27-095831-250.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-27-095831-250.webp
+Completed 21.0 MiB/22.6 MiB (2.8 MiB/s) with 18 file(s) remaining
+Completed 21.2 MiB/22.6 MiB (2.8 MiB/s) with 18 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-24-180314.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-24-180314.webp
+Completed 21.2 MiB/22.6 MiB (2.8 MiB/s) with 17 file(s) remaining
+Completed 21.3 MiB/22.6 MiB (2.8 MiB/s) with 17 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-27-095831-1024.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-27-095831-1024.webp
+Completed 21.3 MiB/22.6 MiB (2.8 MiB/s) with 16 file(s) remaining
+Completed 21.3 MiB/22.6 MiB (2.8 MiB/s) with 16 file(s) remaining
+upload: ../../static/index.html to s3://tcrouzet.com/index.html  
+Completed 21.3 MiB/22.6 MiB (2.8 MiB/s) with 15 file(s) remaining
+Completed 21.5 MiB/22.6 MiB (2.8 MiB/s) with 15 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-23-182201.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-23-182201.webp
+Completed 21.5 MiB/22.6 MiB (2.8 MiB/s) with 14 file(s) remaining
+Completed 21.8 MiB/22.6 MiB (2.9 MiB/s) with 14 file(s) remaining
+Completed 22.0 MiB/22.6 MiB (2.9 MiB/s) with 14 file(s) remaining
+Completed 22.2 MiB/22.6 MiB (2.9 MiB/s) with 14 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-24-180314.jpeg to s3://tcrouzet.com/images_tc/2025/03/2025-02-24-180314.jpeg
+Completed 22.2 MiB/22.6 MiB (2.9 MiB/s) with 13 file(s) remaining
+Completed 22.2 MiB/22.6 MiB (2.9 MiB/s) with 13 file(s) remaining
 upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
-Completed 258.0 KiB/291.6 KiB (40.6 KiB/s) with 2 file(s) remaining
-Completed 261.0 KiB/291.6 KiB (41.0 KiB/s) with 2 file(s) remaining
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
-Completed 261.0 KiB/291.6 KiB (41.0 KiB/s) with 1 file(s) remaining
-Completed 291.6 KiB/291.6 KiB (45.3 KiB/s) with 1 file(s) remaining
+Completed 22.2 MiB/22.6 MiB (2.9 MiB/s) with 12 file(s) remaining
+Completed 22.2 MiB/22.6 MiB (2.9 MiB/s) with 12 file(s) remaining
+upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
+Completed 22.2 MiB/22.6 MiB (2.9 MiB/s) with 11 file(s) remaining
+Completed 22.3 MiB/22.6 MiB (2.9 MiB/s) with 11 file(s) remaining
 upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
+Completed 22.3 MiB/22.6 MiB (2.9 MiB/s) with 10 file(s) remaining
+Completed 22.3 MiB/22.6 MiB (2.9 MiB/s) with 10 file(s) remaining
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt      
+Completed 22.3 MiB/22.6 MiB (2.9 MiB/s) with 9 file(s) remaining
+Completed 22.3 MiB/22.6 MiB (2.9 MiB/s) with 9 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json   
+Completed 22.3 MiB/22.6 MiB (2.9 MiB/s) with 8 file(s) remaining
+Completed 22.3 MiB/22.6 MiB (2.9 MiB/s) with 8 file(s) remaining
+upload: ../../static/sitemap/sitemap.xml to s3://tcrouzet.com/sitemap/sitemap.xml
+Completed 22.3 MiB/22.6 MiB (2.9 MiB/s) with 7 file(s) remaining
+Completed 22.3 MiB/22.6 MiB (2.9 MiB/s) with 7 file(s) remaining
+upload: ../../static/sitemap/sitemap-years.xml to s3://tcrouzet.com/sitemap/sitemap-years.xml
+Completed 22.3 MiB/22.6 MiB (2.9 MiB/s) with 6 file(s) remaining
+Completed 22.3 MiB/22.6 MiB (2.9 MiB/s) with 6 file(s) remaining
+upload: ../../static/tag/carnet-de-route/contener2.html to s3://tcrouzet.com/tag/carnet-de-route/contener2.html
+Completed 22.3 MiB/22.6 MiB (2.9 MiB/s) with 5 file(s) remaining
+Completed 22.5 MiB/22.6 MiB (2.9 MiB/s) with 5 file(s) remaining
+upload: ../../static/images_tc/2025/03/2025-02-27-095831.webp to s3://tcrouzet.com/images_tc/2025/03/2025-02-27-095831.webp
+Completed 22.5 MiB/22.6 MiB (2.9 MiB/s) with 4 file(s) remaining
+Completed 22.5 MiB/22.6 MiB (2.9 MiB/s) with 4 file(s) remaining
+upload: ../../static/sitemap/sitemap-posts.xml to s3://tcrouzet.com/sitemap/sitemap-posts.xml
+Completed 22.5 MiB/22.6 MiB (2.9 MiB/s) with 3 file(s) remaining
+Completed 22.6 MiB/22.6 MiB (2.9 MiB/s) with 3 file(s) remaining
+upload: ../../static/tag/carnet-de-route/index.html to s3://tcrouzet.com/tag/carnet-de-route/index.html
+Completed 22.6 MiB/22.6 MiB (2.9 MiB/s) with 2 file(s) remaining
+Completed 22.6 MiB/22.6 MiB (2.9 MiB/s) with 2 file(s) remaining
+upload: ../../static/update.json to s3://tcrouzet.com/update.json
+Completed 22.6 MiB/22.6 MiB (2.9 MiB/s) with 1 file(s) remaining
+Completed 22.6 MiB/22.6 MiB (2.9 MiB/s) with 1 file(s) remaining
+upload: ../../static/tag/carnet-de-route/contener3.html to s3://tcrouzet.com/tag/carnet-de-route/contener3.html
