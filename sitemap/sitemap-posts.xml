@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2025/03/11/the-good-social-network/index.html</loc>
+    <lastmod>2025-03-11T16:48:21+01:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2025/03/sevigne.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2025/03/10/mots-interdis-par-trump/index.html</loc>
     <lastmod>2025-03-10T09:47:23+01:00</lastmod>
     <image:image>
