@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>feed - Thierry Crouzet</title><link>https://tcrouzet.com/feed.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 14 Mar 2025 13:09:07 +0100</lastBuildDate><item><title>Comment écrire un Tract pour Gallimard</title><link>https://tcrouzet.com/2025/03/14/tract-gallimard-ia/</link><description><![CDATA[<p>Une amie me dit pourquoi tu n’écrirais pas un essai pour <a href="https://www.gallimard.fr/catalogue?f%5B0%5D=collection_serie%3A34775">notre collection Tracts</a>.</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>feed - Thierry Crouzet</title><link>https://tcrouzet.com/feed.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 14 Mar 2025 14:17:26 +0100</lastBuildDate><item><title>Comment écrire un Tract pour Gallimard</title><link>https://tcrouzet.com/2025/03/14/tract-gallimard-ia/</link><description><![CDATA[<p>Une amie me dit pourquoi tu n’écrirais pas un essai pour <a href="https://www.gallimard.fr/catalogue?f%5B0%5D=collection_serie%3A34775">notre collection Tracts</a>.</p>
 <p>Des idées me viennent tout de suite :</p>
 <ul>
 <li>Comment résister au technofascisme</li>
@@ -145,10 +145,10 @@
 <p><strong>L’Écrivain doit mourir</strong> — Sur la fin nécessaire de la figure romantique de l’auteur.</p>
 </li>
 <li>
-<p>*Le Midi contre Paris — Manifeste pour une décentralisation radicale de la culture.</p>
+<p><em>Le Midi contre Paris</em> — Manifeste pour une décentralisation radicale de la culture.</p>
 </li>
 <li>
-<p>*Pourquoi je déteste les éditeurs — Sur l’absurdité du système éditorial contemporain (je le garde parce que très mal à propos puisque je cherche une idée pour un texte à faire éditer).</p>
+<p><em>Pourquoi je déteste les éditeurs</em> — Sur l’absurdité du système éditorial contemporain (je le garde parce que très mal à propos puisque je cherche une idée pour un texte à faire éditer).</p>
 </li>
 <li>
 <p><strong>Les Complotistes ont raison</strong> — Comment la complexité du monde nous rend tous paranoïaques.</p>
@@ -240,12 +240,11 @@
 <li><em>Écrire contre l’ennemi</em></li>
 <li><em>Les Mots ne nous appartiennent plus</em></li>
 <li><em>Les Vaccins sont communistes</em> (avec Didier)</li>
-<li>J’ajoute le trop classique : <em>L’IA m’a tué</em>.</li>
-<li><em>Écrire pour les machines</em>.</li>
+<li>J’ajoute le trop classique : <em>L’IA m’a tué</em></li>
+<li><em>Écrire pour les machines</em></li>
 </ul>
 <h3>Étape 8 : la collection tracts</h3>
-<p>Quand on cherche à écrire pour une collection, il faut lire quelques-uns de ses textes, mais aussi disposer de données objectives sur leur structure.</p>
-<p>Dans Dust, j’ai créé un corpus avec une vingtaine de textes de la collection et un TractsSpecialist dédié.</p>
+<p>Quand on cherche à écrire pour une collection, il faut lire quelques-uns de ses textes, mais aussi disposer de données objectives sur leur structure. Dans Dust, j’ai créé un corpus avec une vingtaine de textes de la collection et un TractsSpecialist dédié.</p>
 <p><strong>RÉPONSE</strong></p>
 <p>1/ <strong>Structure et format</strong></p>
 <ul>
@@ -548,14 +547,12 @@
 </ul>
 <p>En conclusion, <em>Le livre contre-attaque</em> s’intègre naturellement dans la collection, tout en gardant une originalité propre. Il suit les codes stylistiques tout en apportant sa propre force évocatrice.</p>
 <h3>Étape 13 : écrire</h3>
-<p>Il n’est plus question d’utiliser les IA, sinon pour effectuer des recherches. Une fois que j’aurais un premier jet du manuscrit, je les utiliserais à nouveau pour le mettre à l’épreuve. Reste à savoir si je vais écrire <em>Le livre contre-attaque</em>. Peut-être est-ce la meilleure façon de poursuivre cette expérience et d’en documenter toute l’écriture. Il y aurait l’essai et l’histoire de l’essai.</p>
+<p>Il n’est plus question d’utiliser les IA, sinon pour effectuer des recherches. Quand j’aurai un premier jet du manuscrit, je les utiliserais à nouveau pour le mettre à l’épreuve. Reste à savoir si je vais écrire <em>Le livre contre-attaque</em>. Peut-être est-ce la meilleure façon de poursuivre cette expérience et d’en documenter l’écriture. Il y aurait l’essai et l’histoire de l’essai.</p>
 <h3>Étape 14 : le manuscrit</h3>
-<p>Finalement, j’ai écrit le premier jet du manuscrit en cinq jours intenses, début février, je l’ai proposé à Gallimard qui a fini par le refuser, j’imagine qu’ils donneront le sujet à traiter à un de leur auteur maison, mais je suis sûr qu’aucun d’eux n’osera dire ce que je dis dans ce texte, parce que la lutte contre le technofascisme passe par la décentralisation, le pluralisme, le logiciel libre et le libre partage. En prime j’ai vécu toute cette histoire en direct depuis 40 ans.</p>
-<p>Maintenant je dois publier le texte vite parce qu’il est d’une actualité brûlante. Je ne peux me contenter de le diffuser en ligne, parce que je je démontre que le livre papier a leur rôle à jouer dans la lutte contre le technofascisme.</p>
-<h3>Étapte 15 : quatrième de couverture (Claude)</h3>
-<p>À l’ère du technofascisme incarné par l’alliance Trump-Musk, nos libertés sont menacées par des plateformes numériques qui façonnent nos pensées et nos comportements. Les algorithmes nous enferment dans des bulles informationnelles tandis que les oligarques concentrent un pouvoir sans précédent.</p>
-<p>Face à cette nouvelle forme de contrôle, Thierry Crouzet nous révèle une arme insoupçonnée : le livre. Objet qui circule librement de main en main, il échappe à la surveillance des géants du web et préserve notre capacité à penser par nous-mêmes.</p>
-<p>Cet essai percutant ne se contente pas d’analyser la menace — il propose des actes de résistance accessibles à tous. Lire, c’est déjà combattre.</p>]]></description><guid isPermaLink="false">2423</guid><pubDate>Fri, 14 Mar 2025 16:00:00 +0100</pubDate></item><item><title>Pourquoi Substack tue les réseaux sociaux traditionnels</title><link>https://tcrouzet.com/2025/03/11/the-good-social-network/</link><description><![CDATA[<p>Depuis des années, je ne m’intéresse plus à combien vous êtes, mes lecteurs, ni d’où vous venez pour me lire. J’écris en priorité pour mon plaisir, et le vôtre ne peut qu’être un effet collatéral de mon égoïsme.</p>
+<p>Finalement, j’ai écrit le premier jet du manuscrit en cinq jours, début février, je l’ai proposé à Gallimard qui a fini par le refuser, j’imagine qu’ils donneront le sujet à traiter à un de leur auteur maison, mais je suis sûr qu’aucun d’eux n’osera dire ce que je dis dans ce texte, parce que la lutte contre le technofascisme passe par la décentralisation, le pluralisme, le logiciel libre et le libre partage. En prime j’ai vécu toute cette histoire en direct depuis 40 ans et suis plutôt bien placé pour la raconter.</p>
+<p>Maintenant, je dois publier le texte vite parce qu’il est d’une actualité brûlante. Je ne peux me contenter de le diffuser en ligne, parce que j’y démontre que le livre papier a son rôle à jouer dans la lutte contre le technofascisme.</p>
+<h3>Étapte 15 : mon intro</h3>
+<p><strong>L’inquiétude ne cesse de s’accroître face aux poussées autoritaristes qui animent les dirigeants politiques, en Russie, en Chine, aux États-Unis, au cœur même de l’Europe, pourtant construite pour éviter la répétition des horreurs passées.</strong> Dans ce contexte anxiogène, et après la victoire de Donald Trump, élu quarante-septième président des États-Unis, difficile de ne pas interpréter le bras droit levé d’Elon Musk, tendu, main horizontale, comme un salut nazi plutôt qu’un simple geste d’exaltation. Des observateurs ont qualifié ce moment, le 20 janvier 2025 à Washington, du jour zéro du technofascisme. En vérité, le technofascisme est en marche depuis des décennies. L’arrivée de Musk, l’homme le plus riche du monde, au sommet de la démocratie étasunienne, que ce soit provisoirement ou durablement, nous fait passer de la crainte du pire au pire. Pour nous défendre, à titre individuel, collectif et institutionnel, il ne nous reste que les livres et les autres objets culturels qui circulent comme eux, à travers un réseau de distribution maillé à la surface des territoires, hors de la juridiction des centres de pouvoir oligarchique. Après l’inquiétude monte l’espoir d’un réveil. Le Livre avec un grand L contre-attaque, et ce petit texte part à l’assaut des murailles adverses.</p>]]></description><guid isPermaLink="false">2423</guid><pubDate>Fri, 14 Mar 2025 16:00:00 +0100</pubDate></item><item><title>Pourquoi Substack tue les réseaux sociaux traditionnels</title><link>https://tcrouzet.com/2025/03/11/the-good-social-network/</link><description><![CDATA[<p>Depuis des années, je ne m’intéresse plus à combien vous êtes, mes lecteurs, ni d’où vous venez pour me lire. J’écris en priorité pour mon plaisir, et le vôtre ne peut qu’être un effet collatéral de mon égoïsme.</p>
 <p>Je comprendrais que vous vous sentiez mal à l’aise, prêts à cesser de me lire, mais je vous dois un peu de franchise. Peut-être parce que la franchise est aujourd’hui rare quand tout le monde cherche à manipuler tout le monde sur les réseaux sociaux.</p>
 <p>Même publier une photo de chat est une tentative de manipulation : je t’attendris, je te fais sourire, je t’énerve et au final je te détourne de choses plus graves, plus belles, plus profondes, souvent plus exigeantes. Manipulation par sédation progressive de l’esprit critique. Qui n’a pas subi cette stratégie, qui n’y a pas collaboré avec des reposts ou des likes ?</p>
 <p>Longtemps j’ai publié sur Instagram mes photos de coucher de soleil dans ce seul but : mettre un peu de baume au cœur chez mes amis de la grisaille. Hors du contexte de mes carnets, ces photos n’étaient que des photos de chats déguisées. J’ai cessé d’utiliser Instagram quand j’ai compris sa fonction soporifique.</p>
