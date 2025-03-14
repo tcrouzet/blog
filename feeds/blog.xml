@@ -1,5 +1,561 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>blog - Thierry Crouzet</title><link>https://tcrouzet.com/blog.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/blog.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Tue, 11 Mar 2025 16:58:30 +0100</lastBuildDate><item><title>Pourquoi Substack tue les réseaux sociaux traditionnels</title><link>https://tcrouzet.com/2025/03/11/the-good-social-network/</link><description><![CDATA[<p>Depuis des années, je ne m’intéresse plus à combien vous êtes, mes lecteurs, ni d’où vous venez pour me lire. J’écris en priorité pour mon plaisir, et le vôtre ne peut qu’être un effet collatéral de mon égoïsme.</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>blog - Thierry Crouzet</title><link>https://tcrouzet.com/blog.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/blog.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Fri, 14 Mar 2025 13:09:07 +0100</lastBuildDate><item><title>Comment écrire un Tract pour Gallimard</title><link>https://tcrouzet.com/2025/03/14/tract-gallimard-ia/</link><description><![CDATA[<p>Une amie me dit pourquoi tu n’écrirais pas un essai pour <a href="https://www.gallimard.fr/catalogue?f%5B0%5D=collection_serie%3A34775">notre collection Tracts</a>.</p>
+<p>Des idées me viennent tout de suite :</p>
+<ul>
+<li>Comment résister au technofascisme</li>
+<li>Nous sommes dix millions sur le Fediverse, pourquoi pas vous ?</li>
+<li>Pourquoi encore écrire quand les IA le font très bien ?</li>
+<li>Les IA vont-elles tuer la littérature ?</li>
+</ul>
+<p>Pour aller plus loin, je brainstorme avec les IA.</p>
+<h3>Étape 1 : les données</h3>
+<p>J’évite de gamberger dans le vide. Via <a href="https://dust.tt/">Dust</a>, je commence par donner le lien du catalogue Tracts aux IA (ChatGPT, Claude, Mistral… en même temps), mais aucune n’est capable de générer un tableau avec la totalité des titres. Je finis par copier le code HTML des pages web de Gallimard et les coller bout à bout dans un fichier. J’importe ce fichier dans Dust et demande à ChatGPT : « Donne-moi le code Python pour générer le CSV de tous les titres avec leur date de sortie. » Je dispose désormais d’un tableau avec tous les titres de la collection Tracts.</p>
+<div class="image" id="image-2423-1"><img alt="Import" class="alignnone size-full paysage" decoding="async" height="710" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2025/03/tracks01.webp" srcset="/images_tc/2025/03/tracks01.webp 1600w, /images_tc/2025/03/tracks01-1024.webp 1024w, /images_tc/2025/03/tracks01-250.webp 250w" width="1256"/><div class="legend">Import</div></div>
+<h3>Étape 2 : la contrainte</h3>
+<p>Avant de trouver des idées et des titres, il me faut analyser la structure des titres existants.</p>
+<p>Prompt : « Analyse les titres de la collection Tracts (fichier tracts.csv), en tenant compte de leur évolution au fil des années. Retrouve des caractéristiques communes, des patterns formels, longueur min, max et moyenne des titres, leur style, les grandes thématiques. »</p>
+<p>Réponse de Claude (la plus claire) :</p>
+<p>1/ <strong>Évolution quantitative</strong></p>
+<ul>
+<li>2020 est l’année la plus prolifique avec 85 titres, largement due à la crise du Covid.</li>
+<li>Les autres années comptent entre 9 et 14 titres en moyenne.</li>
+<li>La collection démarre en 2019 avec 11 titres.</li>
+<li>2025 débute avec 3 titres.</li>
+</ul>
+<p>2/ <strong>Caractéristiques formelles des titres</strong></p>
+<ul>
+<li>Longueur moyenne globale : 22,1 caractères.</li>
+<li>Titre le plus court : 7 caractères (ex : <em>Vouloir</em>, <em>Je veux</em>).</li>
+<li>Titre le plus long : 59 caractères.</li>
+<li>Tendance à l’allongement des titres : de 20,8 caractères en 2019 à 34 caractères en 2025.</li>
+</ul>
+<p>3/ <strong>Styles de titres</strong></p>
+<ul>
+<li>Titres affirmatifs majoritaires.</li>
+<li>5 titres interrogatifs au total (ex : <em>Combien vaut une vie ?</em>, <em>Croire en Dieu. Pourquoi ?</em>).</li>
+<li>45 titres commençant par un article (le, la, les, un, une).</li>
+<li>1 titre commençant par <em>Contre</em>.</li>
+<li>8 titres commençant par une préposition.</li>
+</ul>
+<p>4/ <strong>Grandes thématiques</strong></p>
+<p>a) Crises et actualités</p>
+<ul>
+<li>Covid-19 (nombreux titres en 2020)</li>
+<li>Guerre (Ukraine-Russie, <em>La dernière guerre ?</em>)</li>
+<li>Politique (<em>Municipales</em>, <em>Contre la proportionnelle</em>)</li>
+<li>Société (<em>La Société des vulnérables</em>, <em>Préférence nationale</em>)</li>
+</ul>
+<p>b) Questions sociétales</p>
+<ul>
+<li>Éducation (<em>Urgence pour l’école républicaine</em>)</li>
+<li>Santé (<em>L’Hôpital, une nouvelle industrie</em>, <em>Écrans, un désastre sanitaire</em>)</li>
+<li>Religion et laïcité (<em>France laïque</em>, <em>Abus sexuels dans l’Église catholique</em>)</li>
+<li>Environnement (<em>Le Siècle Vert</em>)</li>
+</ul>
+<p>c) Réflexions philosophiques et existentielles</p>
+<ul>
+<li>Temporalité (<em>Le Temps présent</em>, <em>Toute la vie devant nous</em>).</li>
+<li>Humanisme (<em>Le soin est un humanisme</em>).</li>
+<li>Liberté et démocratie (<em>Sans la liberté</em>, <em>De la démocratie en Pandémie</em>).</li>
+</ul>
+<p>5/ <strong>Particularités stylistiques</strong></p>
+<ul>
+<li>Usage fréquent de la métaphore (<em>L’Europe fantôme</em>).</li>
+<li>Titres binaires avec virgule ou tiret (<em>Ukraine-Russie</em>, <em>Chine-Russie</em>).</li>
+<li>Citations entre guillemets (« <em>Speak White!</em> », « <em>La dernière guerre ?</em> »).</li>
+<li>Références culturelles ou historiques (<em>En l’an 1349</em>, <em>Bonjour monsieur Orwell</em>).</li>
+</ul>
+<p>6/ <strong>Évolution thématique</strong></p>
+<ul>
+<li>2019 : focus sur des questions sociétales générales.</li>
+<li>2020 : dominée par la crise Covid.</li>
+<li>2021-2025 : diversification des sujets avec accent sur les crises contemporaines (guerre, écologie, société).</li>
+</ul>
+<p>Cette collection se caractérise par sa réactivité à l’actualité tout en maintenant une réflexion de fond sur les grandes questions sociétales et philosophiques de notre temps.</p>
+<h3>Étape 3 : test de mes titres</h3>
+<p>Prompt : « Voici des titres d’essais que j’aimerais écrire pour cette collection. {liste des titres} Qu’en penses-tu ? Comment tu les réécrirais pour qu’ils cadrent mieux avec les titres existants ? N’hésite pas à proposer des variantes pour chacun. »</p>
+<p>Réponsede Claude :</p>
+<p><strong>Comment résister au technofascisme</strong></p>
+<p>Variantes :</p>
+<ul>
+<li><em>Le Technofascisme en marche</em> (plus affirmatif, style collection</li>
+<li><em>Résister aux machines</em> (plus concis, percutant).</li>
+<li><em>La Dictature numérique</em> (métaphorique, style collection)</li>
+<li><em>L’Empire des algorithmes</em> (métaphorique, évocateur)</li>
+</ul>
+<p><strong>Nous sommes dix millions sur le Fediverse pourquoi pas vous ?</strong></p>
+<p>Variantes :</p>
+<ul>
+<li><em>L’Exode numérique</em> (plus concis, métaphorique)</li>
+<li><em>Fediverse, l’autre réseau</em> (style collection)</li>
+<li><em>La Grande Migration</em> (métaphorique, mystérieux)</li>
+<li><em>Au-delà des plateformes</em> (style collection)</li>
+</ul>
+<p><strong>Pourquoi encore écrire quand les IA le font très bien ?</strong></p>
+<p>Variantes :</p>
+<ul>
+<li><em>L’Écriture après l’IA</em> (style collection)</li>
+<li><em>Le Dernier Écrivain</em> (provocant, style collection)</li>
+<li><em>Écrire encore</em> (minimaliste, style collection)</li>
+<li><em>L’Écrivain et la machine</em> (opposition classique)</li>
+</ul>
+<p><strong>Les IA vont-elles tuer la littérature ?</strong></p>
+<p>Variantes :</p>
+<ul>
+<li><em>La Littérature à l’heure des machines</em> (style collection)</li>
+<li><em>Littérature année zéro</em> (référence au style <em>Santé publique année zéro</em>)</li>
+<li><em>Le Grand Remplacement littéraire</em> (provocant)</li>
+<li><em>L’Art contre les algorithmes</em> (opposition forte)</li>
+</ul>
+<p><strong>Justifications</strong></p>
+<ul>
+<li>Les titres proposés sont plus courts (moyenne de 20-25 caractères)</li>
+<li>Ils évitent les questions directes (rare dans la collection)</li>
+<li>Ils utilisent plus souvent l’article défini en début de titre (style collection)</li>
+<li>Ils privilégient les métaphores et les formulations percutantes</li>
+<li>Ils s’inscrivent dans la tradition des titres de la collection qui opposent souvent deux concepts ou créent une tension</li>
+<li>Ils gardent la force du propos tout en étant plus littéraires</li>
+</ul>
+<p>La collection privilégie des titres qui font réfléchir par leur formulation plutôt que par des questions directes. Les titres les plus efficaces sont souvent ceux qui posent une affirmation forte ou utilisent une métaphore évocatrice.</p>
+<h3>Étape 4 : titres retenus</h3>
+<ul>
+<li><em>Le Technofascisme en marche</em></li>
+<li><em>Fediverse, l’autre réseau</em></li>
+<li><em>Le Dernier Écrivain</em></li>
+<li><em>Le Grand Remplacement littéraire</em></li>
+</ul>
+<h3>Étape 5 : le brainstorming</h3>
+<p>Il est temps de voir comment les IA peuvent m’aider à trouver des idées. Sur Dust, je crée un assistant auquel je donne accès mon blog, à l’intégralité de mon carnet entre 2015 et 2025 sous forme texte et tracts.csv.</p>
+<p>Prompt : « Sur le modèle des livres de la collection Tracts, imagine dix titres provocants que pourrait écrire Thierry Crouzet. Évite le blabla. »</p>
+<p>Réponse (je mets en évidence ce qui n’est pas à côté de la plaque).</p>
+<ol>
+<li>
+<p><strong>Le Vélo contre l’État</strong> — Sur l’absurdité des règles imposées aux cyclistes et la liberté comme acte de résistance (je n’avais pas du tout pensé que je pouvais écrire sur le vélo dans ce cadre)</p>
+</li>
+<li>
+<p><strong>La Dictature des Likes</strong> — Comment les réseaux sociaux ont créé une nouvelle forme de totalitarisme mental.</p>
+</li>
+<li>
+<p><em>Pourquoi je n’écris plus de romans</em> — Manifeste contre la fiction dans un monde déjà fictionnel (mais j’en écris encore des fictions, je les crois même indispensables).</p>
+</li>
+<li>
+<p><strong>Les Vaccins sont communistes</strong> — Plaidoyer pour la mise dans le domaine public des innovations médicales (à écrire avec Didier Pittet).</p>
+</li>
+<li>
+<p><strong>L’Écrivain doit mourir</strong> — Sur la fin nécessaire de la figure romantique de l’auteur.</p>
+</li>
+<li>
+<p>*Le Midi contre Paris — Manifeste pour une décentralisation radicale de la culture.</p>
+</li>
+<li>
+<p>*Pourquoi je déteste les éditeurs — Sur l’absurdité du système éditorial contemporain (je le garde parce que très mal à propos puisque je cherche une idée pour un texte à faire éditer).</p>
+</li>
+<li>
+<p><strong>Les Complotistes ont raison</strong> — Comment la complexité du monde nous rend tous paranoïaques.</p>
+</li>
+<li>
+<p><em>La France est foutue</em> — Chronique d’un effondrement administratif (drôle d’idée de me proposer un tel sujet).</p>
+</li>
+<li>
+<p><strong>Tuer Facebook</strong> — Manuel de désobéissance numérique.</p>
+</li>
+</ol>
+<p>Je relance la machine avec « Je retiens 1, 2, 4, 5, 8 et 10. Creuse ces pistes avec dix nouvelles idées sans reprendre celles énoncées (que je désapprouve). » J’insiste, quelques nouvelles idées émergent.</p>
+<ul>
+<li><em>La Trace comme œuvre d’art</em> — Le GPS réinvente la littérature.</li>
+<li><em>Le Journal contre le roman</em> — La vérité de l’instant contre la fiction.</li>
+<li><em>Désobéir aux algorithmes</em> — Pour une reconquête de notre humanité.</li>
+<li><em>La Liberté se construit</em> — Manifeste pour l’action créatrice.</li>
+</ul>
+<p>Je finis par m’étonner de ne pas voir de sujet en rapport avec les IA.</p>
+<ul>
+<li><em>Écrire avec l’ennemi</em> — L’écrivain face aux IA génératives</li>
+<li><strong>J’ajoute</strong> : <em>Écrire contre l’ennemi</em> (c’est plutôt ce à quoi je m’essaie quand j’écris)</li>
+<li><em>La Dernière Génération d’écrivains</em> — L’art à l’heure des IA</li>
+<li><strong>J’ajoute</strong> : <em>Écrire pour les machines</em> — nous ne serons plus lus en profondeur que par les IA</li>
+<li><em>Le Cerveau augmenté</em> — Comment l’IA transforme notre façon de penser</li>
+</ul>
+<p>J’insiste…</p>
+<ul>
+<li><em>L’IA nous lit</em> — Comment les algorithmes digèrent la littérature</li>
+<li><em>Les Nouveaux Illettrés</em> — Quand les IA comprendront mieux les textes que nous</li>
+<li><em>Résister aux prompts</em> — Pour une écriture indomptable</li>
+<li><em>L’Écrivain face au miroir</em> — Ce que les IA révèlent de notre créativité</li>
+<li><em>Les Mots ne nous appartiennent plus</em> - Comment les IA ont volé notre langage</li>
+<li><em>Le Grand Plagiat</em> — Nos textes dans le ventre des IA</li>
+<li><em>La Fin de l’auteur</em> — Pourquoi nous devons réinventer l’écriture</li>
+</ul>
+<h3>Étape 6 : le bilan</h3>
+<p>À ce stade, je commence à surchauffer. Je demande à Claude : « Extrais de nos échanges racontés ci-dessous les titres les plus porteurs et les plus en adéquation avec la collection Tracts et son évolution. » </p>
+<p>Réponse :</p>
+<p>Voici les titres les plus pertinents pour la collection Tracts, sélectionnés selon les critères stylistiques et thématiques de la collection.</p>
+<p><strong>Titres sur le numérique et la société</strong>
+- <em>La Dictature numérique</em> (concis, métaphorique, dans l’esprit de la collection)
+- <em>L’Empire des algorithmes</em> (évocateur, style collection)
+- <em>L’Exode numérique</em> (métaphore forte, concision)
+- <em>Désobéir aux algorithmes</em> (appel à l’action, style collection)</p>
+<p><strong>Titres sur l’écriture et les IA</strong>
+- <em>Le Dernier Écrivain</em> (provocant, concis)
+- <em>Littérature année zéro</em> (référence au style de la collection)
+- <em>Écrire contre l’ennemi</em> (tension dramatique, style collection)
+- <em>Les Mots ne nous appartiennent plus</em> (formulation percutante)</p>
+<p><strong>Titres sur des sujets sociétaux</strong>
+- <em>Le Vélo contre l’État</em> (opposition forte, style collection)
+- <em>Les Vaccins sont communistes</em> (provocateur, style collection)
+- <em>La Trace comme œuvre d’art</em> (réflexion culturelle)
+- <em>La Liberté se construit</em> (affirmatif, style collection)</p>
+<p>Ces titres sont particulièrement réussis car ils :</p>
+<ul>
+<li>Respectent la longueur moyenne des titres de la collection</li>
+<li>Utilisent des formulations affirmatives plutôt qu’interrogatives</li>
+<li>Emploient des métaphores fortes</li>
+<li>Créent une tension ou une opposition</li>
+<li>S’inscrivent dans les thématiques contemporaines de la collection</li>
+<li>Évitent le style direct des questions</li>
+<li>Privilégient souvent l’article défini en début de titre</li>
+</ul>
+<p><strong>Les plus prometteurs :</strong></p>
+<ol>
+<li>
+<p><em>L’Empire des algorithmes</em> (synthétise parfaitement la question du pouvoir technologique)</p>
+</li>
+<li>
+<p><em>Le Dernier Écrivain</em> (dramatique et évocateur)</p>
+</li>
+<li>
+<p><em>Désobéir aux algorithmes</em> (appel à l’action dans l’esprit de la collection)</p>
+</li>
+<li>
+<p><em>Le Vélo contre l’État</em> (opposition politique claire)</p>
+</li>
+</ol>
+<h3>Étape 7 : laisser décanter</h3>
+<p>Ce que je retiens pour le moment…</p>
+<ul>
+<li><em>Pédaler, c’est politique</em> (que je trouve moins ambigu que <em>Le Vélo contre l’État</em>)</li>
+<li><em>Le Dernier Écrivain</em></li>
+<li><em>Le Technofascisme en marche</em></li>
+<li><em>Le Grand Remplacement littéraire</em></li>
+<li><em>L’Exode numérique</em></li>
+<li><em>Écrire contre l’ennemi</em></li>
+<li><em>Les Mots ne nous appartiennent plus</em></li>
+<li><em>Les Vaccins sont communistes</em> (avec Didier)</li>
+<li>J’ajoute le trop classique : <em>L’IA m’a tué</em>.</li>
+<li><em>Écrire pour les machines</em>.</li>
+</ul>
+<h3>Étape 8 : la collection tracts</h3>
+<p>Quand on cherche à écrire pour une collection, il faut lire quelques-uns de ses textes, mais aussi disposer de données objectives sur leur structure.</p>
+<p>Dans Dust, j’ai créé un corpus avec une vingtaine de textes de la collection et un TractsSpecialist dédié.</p>
+<p><strong>RÉPONSE</strong></p>
+<p>1/ <strong>Structure et format</strong></p>
+<ul>
+<li>Des textes courts (entre 60 000 et 85 000 signes environ)</li>
+<li>Une structure claire avec chapitres et sous-parties numérotés </li>
+<li>Des titres et sous-titres explicites qui guident la lecture</li>
+<li>Un découpage en paragraphes aérés</li>
+</ul>
+<p>2/ <strong>Style narratif</strong></p>
+<ul>
+<li>Un style direct et accessible, sans jargon inutile</li>
+<li>Un ton engagé et assumé, l’auteur défend clairement une thèse</li>
+<li>Un équilibre entre analyse critique et propositions constructives</li>
+<li>L’utilisation fréquente de la première personne (<em>je</em>, <em>nous</em>) qui implique l’auteur</li>
+</ul>
+<p>3/ <strong>Temps de la narration</strong></p>
+<ul>
+<li>Principalement au présent de l’indicatif pour ancrer le propos dans l’actualité</li>
+<li>Alternance avec le passé composé pour les exemples et faits historiques</li>
+<li>Utilisation du futur pour les propositions et perspectives</li>
+</ul>
+<p>4/ <strong>Construction argumentative</strong></p>
+<ul>
+<li>Une introduction qui pose clairement le problème et la thèse défendue</li>
+<li>Un développement qui alterne :</li>
+<li>Analyses de situations concrètes </li>
+<li>Références historiques ou juridiques</li>
+<li>Exemples précis et documentés</li>
+<li>Contre-arguments anticipés et réfutés</li>
+<li>Une conclusion qui ouvre des perspectives</li>
+</ul>
+<p>5/ <strong>Tonalité</strong></p>
+<ul>
+<li>Un style polémique, mais rigoureux</li>
+<li>Une approche pédagogique qui explique sans condescendance</li>
+<li>Un engagement citoyen affirmé</li>
+<li>Un optimisme raisonné malgré la gravité des sujets</li>
+</ul>
+<p>6/ <strong>Documentation</strong></p>
+<ul>
+<li>Des sources précises citées en notes</li>
+<li>Des références bibliographiques</li>
+<li>Des citations d’experts ou de textes de référence</li>
+<li>Des données chiffrées pour étayer l’argumentation</li>
+</ul>
+<p>7/ <strong>Public visé</strong></p>
+<ul>
+<li>Un lectorat éclairé et engagé</li>
+<li>Des citoyens soucieux de comprendre les enjeux de société</li>
+<li>Des acteurs de la vie publique (élus, responsables associatifs…)</li>
+</ul>
+<p>8/ <strong>Objectifs</strong></p>
+<ul>
+<li>Éclairer un débat de société</li>
+<li>Proposer des solutions concrètes</li>
+<li>Susciter une prise de conscience</li>
+<li>Inciter à l’action citoyenne</li>
+</ul>
+<p>La collection Tracts se caractérise donc par des textes courts mais denses, alliant rigueur analytique et engagement citoyen, dans un style accessible qui vise à éclairer les grands débats contemporains et à proposer des perspectives d’action.</p>
+<p>Ces règles d’écriture permettent de produire des ouvrages à la fois exigeants sur le fond et efficaces dans leur capacité à toucher un large public, fidèles à la tradition des <em>tracts</em> comme outils d’intervention dans le débat public.</p>
+<h3>Étape 9 : plan</h3>
+<p>Comme je le dis souvent, je n’écris pas avec les IA, mais je les utilise pour brainstormer comme je le fais en ce moment. J’évite de planifier, j’aime que l’écriture m’emporte et me pousse à découvrir des points auxquels je n’ai jamais pensés (quitte à tout réécrire). Mais pour l’exercice, voici le prompt que je soumets à TractsSpécialist :</p>
+<p>« Je veux écrire pour la collection Tracts : <em>Le Technofascisme en marche</em>. Quelques idées : point historique sur collusion entre fascisme et industrie, comment le technofascisme induit un technosolutionnisme qui peut s’avérer très dangereux pour affronter la crise climatique, peut-être commencée par le salut nazi de Musk lors de l’investiture de Trump, expliquer comment nous pouvons lutter contre le technofascisme au quotidien, tant à titre individuel que collectif et institutionnel. Je te colle <a href="https://tcrouzet.com/2025/01/24/technofascisme/">mon dernier article sur le technofascisme</a>. Propose un plan en accord avec le style de la collection. »</p>
+<p>Après quelques échanges et demande d’ajustements j’aboutis à un plan plutôt cohérent qui commence par l’alerte, explique l’histoire et se termine par des calls to action.</p>
+<p><strong>INTRODUCTION</strong></p>
+<ul>
+<li>La scène du salut nazi de Musk : symbole d’une dérive prévisible</li>
+<li>La centralisation comme ADN commun du fascisme et de la tech</li>
+<li>Annonce de la thèse : seule la décentralisation peut nous sauver</li>
+</ul>
+<p>1/ <strong>LA CENTRALISATION, MATRICE DU FASCISME</strong></p>
+<p>A. Les leçons de l’Histoire</p>
+<ul>
+<li>Le fascisme historique comme régime de la concentration</li>
+<li>La collusion entre État centralisé et grandes industries</li>
+<li>L’élimination systématique des contre-pouvoirs</li>
+<li>L’exemple d’IBM et du nazisme</li>
+</ul>
+<p>B. Le retour du même</p>
+<ul>
+<li>La Silicon Valley comme nouvelle oligarchie</li>
+<li>La concentration du pouvoir informationnel</li>
+<li>Le contrôle des infrastructures numériques</li>
+<li>La captation des données personnelles</li>
+</ul>
+<p>C. Une mécanique implacable</p>
+<ul>
+<li>La centralisation engendre la centralisation</li>
+<li>L’effet d’échelle comme justification</li>
+<li>L’illusion de l’efficacité par la concentration</li>
+</ul>
+<p>2/ <strong>L’ARCHITECTURE TECHNIQUE DE LA DOMINATION</strong></p>
+<p>A. Les fondations du contrôle</p>
+<ul>
+<li>L’unicast : péché originel d’Internet</li>
+<li>Les datacenters comme nouveaux centres du pouvoir</li>
+<li>Les protocoles centralisés contre le web originel</li>
+</ul>
+<p>B. La fin des espaces libres</p>
+<ul>
+<li>L’agonie de la blogosphère</li>
+<li>La captation des conversations par les plateformes</li>
+<li>La mort du web décentralisé</li>
+</ul>
+<p>C. L’IA comme accélérateur</p>
+<ul>
+<li>La nécessité technique de la centralisation</li>
+<li>Le mythe de l’IA générale</li>
+<li>La consolidation du pouvoir oligarchique</li>
+</ul>
+<p>3/ <strong>LE TECHNOSOLUTIONNISME, PIÈGE MORTEL</strong></p>
+<p>A. L’idéologie de la solution unique</p>
+<ul>
+<li>La croyance en la technologie salvatrice</li>
+<li>Le mépris des solutions locales</li>
+<li>L’obsession de l’échelle globale</li>
+</ul>
+<p>B. L’impasse climatique</p>
+<ul>
+<li>L’échec des solutions technologiques centralisées</li>
+<li>La nécessité d’approches locales et diversifiées</li>
+<li>Le mirage de la géo-ingénierie</li>
+</ul>
+<p>C. La fuite en avant</p>
+<ul>
+<li>L’accumulation des problèmes</li>
+<li>L’aggravation des inégalités</li>
+<li>La perte de résilience systémique</li>
+</ul>
+<p>4/ <strong>LES ARMES DE LA RÉSISTANCE</strong></p>
+<p>A. Le livre, technologie de liberté</p>
+<ul>
+<li>Un objet hors de portée des algorithmes</li>
+<li>Une expérience de lecture non surveillée</li>
+<li>Un support qui traverse le temps</li>
+<li>Le livre comme espace de pensée complexe</li>
+</ul>
+<p>B. Les bastions de la résistance</p>
+<ul>
+<li>Les librairies indépendantes comme réseau décentralisé</li>
+<li>Le conseil humain contre la recommandation algorithmique</li>
+<li>L’édition indépendante comme contre-pouvoir</li>
+<li>La bibliodiversité contre la pensée unique</li>
+</ul>
+<p>C. La décentralisation numérique</p>
+<ul>
+<li>Les outils existants (Mastodon, etc.)</li>
+<li>Les blogs et sites personnels</li>
+<li>L’auto-hébergement</li>
+<li>Les protocoles décentralisés</li>
+</ul>
+<p>D. L’action collective</p>
+<ul>
+<li>Le soutien aux alternatives locales</li>
+<li>La création de communs numériques</li>
+<li>L’éducation aux enjeux de la décentralisation</li>
+</ul>
+<p>E. Les leviers institutionnels</p>
+<ul>
+<li>Le démantèlement des monopoles</li>
+<li>L’obligation d’interopérabilité</li>
+<li>Le soutien public aux alternatives</li>
+</ul>
+<p><strong>CONCLUSION</strong></p>
+<ul>
+<li>La décentralisation comme impératif démocratique</li>
+<li>Le livre et le numérique libre comme outils complémentaires</li>
+<li>L’appel à l’action individuelle et collective</li>
+<li>L’urgence d’agir avant le point de non-retour</li>
+</ul>
+<p><strong>ANNEXES</strong></p>
+<ul>
+<li>Ressources et outils pour la décentralisation</li>
+<li>Liste de lectures recommandées</li>
+<li>Glossaire technique</li>
+<li>Notes et références</li>
+</ul>
+<p>Ce plan détaillé :</p>
+<ul>
+<li>Suit une progression logique du constat à l’action</li>
+<li>Alterne théorie et exemples concrets</li>
+<li>Met en valeur le livre comme outil de résistance</li>
+<li>Propose des solutions à différentes échelles</li>
+<li>Reste accessible tout en étant rigoureux</li>
+<li>S’inscrit dans la tradition des Tracts Gallimard</li>
+</ul>
+<p>Le texte devra maintenir un style :</p>
+<ul>
+<li>Engagé mais documenté</li>
+<li>Accessible mais non simpliste</li>
+<li>Incitatif à l’action</li>
+<li>Valorisant la culture livresque</li>
+</ul>
+<h3>Étape 10 : mon sujet</h3>
+<p>Tout en discutant avec l’assistant, j’ai repensé à une idée qui m’est chère, que j’ai traduite en prompt : « Le livre comme arme de résistance au technofascime pourrait être mon sujet. Les livres sont des objets décentralisés (en tant qu’objets et par leur mode de distribution), nous pouvons les échanger et ils ne peuvent pas être censurés une fois publiés (sauf situation extrême des autodafés). C’est sous l’angle de la défense du livre que je pourrais dénoncer le technofascisme. Tu peux me proposer des titres en accord avec ceux de la collection (consulte le fichier tracts.csv). »</p>
+<p>Malgré quelques requêtes insistantes, je n’obtiens rien de bon, mais durant ce processus, une idée me vient : <em>Le livre contre-attaque</em> (avec l’analogie à Star-Wars).</p>
+<h3>Étape 11 : nouveau plan</h3>
+<p>Je demande un nouveau plan, qui pose des idées générales.</p>
+<p><strong>INTRODUCTION</strong></p>
+<p>Le salut nazi de Musk comme point de bascule</p>
+<p>Le technofascisme déjà là : surveillance, manipulation, centralisation</p>
+<p>Le livre comme arme historique contre les totalitarismes</p>
+<p>Thèse : le livre, par sa nature décentralisée, est l’outil idéal de résistance</p>
+<p>1/ <strong>LE TECHNOFASCISME EN MARCHE</strong></p>
+<p>A. La nouvelle dictature invisible</p>
+<p>Des écrans omniprésents aux esprits surveillés</p>
+<p>L’emprise des algorithmes sur nos vies</p>
+<p>La centralisation comme mécanisme de contrôle</p>
+<p>B. Les nouveaux maîtres du monde</p>
+<p>Des GAFAM aux oligarques de la tech</p>
+<p>La collusion entre pouvoir technologique et politique</p>
+<p>La captation des données comme source de pouvoir</p>
+<p>C. L’architecture de la servitude</p>
+<p>L’Unicast et les datacenters : la centralisation technique</p>
+<p>La fin programmée du web libre</p>
+<p>L’IA comme accélérateur de contrôle</p>
+<p>2/ <strong>LE LIVRE, TECHNOLOGIE DE LA LIBERTÉ</strong></p>
+<p>A. Un objet naturellement rebelle</p>
+<p>Impossible à censurer une fois publié</p>
+<p>Intraçable dans sa circulation</p>
+<p>Imperméable à la surveillance</p>
+<p>B. Une expérience hors contrôle</p>
+<p>La lecture comme moment d’intimité absolue</p>
+<p>L’absence de tracking et de manipulation</p>
+<p>La construction d’une pensée autonome</p>
+<p>C. Un réseau naturellement décentralisé</p>
+<p>Les librairies comme maillage territorial de résistance</p>
+<p>Les bibliothèques comme espaces de liberté</p>
+<p>Les éditeurs indépendants comme contre-pouvoir</p>
+<p>3/ <strong>ANATOMIE D’UNE RÉSISTANCE</strong></p>
+<p>A. Le livre contre la centralisation</p>
+<p>Un objet qui échappe aux monopoles</p>
+<p>Une production distribuée</p>
+<p>Une diffusion incontrôlable</p>
+<p>B. Le livre contre l’accélération</p>
+<p>Le temps long contre l’instantanéité</p>
+<p>La réflexion contre la réaction</p>
+<p>La profondeur contre le scroll infini</p>
+<p>C. Le livre contre l’uniformisation</p>
+<p>La bibliodiversité contre la pensée unique</p>
+<p>Le conseil humain contre l’algorithme</p>
+<p>L’édition indépendante contre les monopoles</p>
+<p>4/ <strong>COMMENT LE LIVRE PEUT SAUVER LA DÉMOCRATIE</strong></p>
+<p>A. Les actions individuelles</p>
+<p>Privilégier les librairies indépendantes</p>
+<p>Pratiquer le bookcrossing</p>
+<p>Créer des bibliothèques parallèles</p>
+<p>B. Les actions collectives</p>
+<p>Soutenir les éditeurs indépendants</p>
+<p>Défendre les bibliothèques publiques</p>
+<p>Créer des clubs de lecture</p>
+<p>C. Les actions institutionnelles</p>
+<p>Protéger le prix unique du livre</p>
+<p>Soutenir le réseau des librairies</p>
+<p>Développer l’éducation à la lecture critique</p>
+<p><strong>CONCLUSION</strong></p>
+<p>Le livre comme dernier espace de liberté</p>
+<p>L’urgence de la résistance par la lecture</p>
+<p>Appel à l’action : lire, faire lire, partager</p>
+<h3>Étape 13 : dernier test</h3>
+<p>Je demande la validation de mon titre.</p>
+<p><strong>RÉPONSE</strong></p>
+<p><em>Le livre contre-attaque</em> s’inscrit bien dans la collection Tracts.</p>
+<p>1/ <strong>Structure du titre</strong></p>
+<ul>
+<li>Court et percutant (3 mots)</li>
+<li>Utilise l’article défini <em>Le</em> en début de titre, comme beaucoup de titres de la collection (<em>Le Siècle Vert</em>, <em>Le 8-Octobre</em>, <em>Le Nouvel Opium des progressistes</em>)</li>
+<li>Formulation directe et affirmative, similaire à <em>Tenir la ligne</em> ou <em>Résister à la corruption</em></li>
+</ul>
+<p>2/ <strong>Positionnement thématique</strong></p>
+<ul>
+<li>S’inscrit dans la lignée des titres de résistance et de combat comme :</li>
+<li><em>Résister à la corruption</em></li>
+<li><em>Tenir la ligne</em></li>
+<li><em>Premiers combats</em></li>
+<li>Fait écho aux titres d’opposition comme :</li>
+<li><em>Zemmour contre l’histoire</em></li>
+<li><em>Contre la proportionnelle</em></li>
+</ul>
+<p>3/ <strong>Style</strong></p>
+<ul>
+<li>Évoque une action, comme <em>Aider à vivre</em> ou <em>Tenir la ligne</em></li>
+<li>Suggère un conflit, comme dans <em>La dernière guerre ?</em></li>
+<li>Dynamique et combatif, dans l’esprit de <em>Au-devant des périls</em></li>
+</ul>
+<p>4/ <strong>Contexte contemporain</strong></p>
+<ul>
+<li>S’inscrit dans les préoccupations actuelles comme :</li>
+<li><em>Écrans, un désastre sanitaire</em></li>
+<li><em>L’Opinion qui ne dit pas son nom</em></li>
+<li>Évoque une résistance culturelle, comme <em>Le français va très bien, merci</em></li>
+</ul>
+<p>Le titre fonctionne particulièrement bien :</p>
+<ul>
+<li>Est simple mais puissant</li>
+<li>Évoque une action de résistance</li>
+<li>S’inscrit dans une tradition de titres combatifs de la collection</li>
+<li>Suggère une confrontation culturelle importante</li>
+<li>Reste accessible tout en portant un message fort</li>
+</ul>
+<p>En conclusion, <em>Le livre contre-attaque</em> s’intègre naturellement dans la collection, tout en gardant une originalité propre. Il suit les codes stylistiques tout en apportant sa propre force évocatrice.</p>
+<h3>Étape 13 : écrire</h3>
+<p>Il n’est plus question d’utiliser les IA, sinon pour effectuer des recherches. Une fois que j’aurais un premier jet du manuscrit, je les utiliserais à nouveau pour le mettre à l’épreuve. Reste à savoir si je vais écrire <em>Le livre contre-attaque</em>. Peut-être est-ce la meilleure façon de poursuivre cette expérience et d’en documenter toute l’écriture. Il y aurait l’essai et l’histoire de l’essai.</p>
+<h3>Étape 14 : le manuscrit</h3>
+<p>Finalement, j’ai écrit le premier jet du manuscrit en cinq jours intenses, début février, je l’ai proposé à Gallimard qui a fini par le refuser, j’imagine qu’ils donneront le sujet à traiter à un de leur auteur maison, mais je suis sûr qu’aucun d’eux n’osera dire ce que je dis dans ce texte, parce que la lutte contre le technofascisme passe par la décentralisation, le pluralisme, le logiciel libre et le libre partage. En prime j’ai vécu toute cette histoire en direct depuis 40 ans.</p>
+<p>Maintenant je dois publier le texte vite parce qu’il est d’une actualité brûlante. Je ne peux me contenter de le diffuser en ligne, parce que je je démontre que le livre papier a leur rôle à jouer dans la lutte contre le technofascisme.</p>
+<h3>Étapte 15 : quatrième de couverture (Claude)</h3>
+<p>À l’ère du technofascisme incarné par l’alliance Trump-Musk, nos libertés sont menacées par des plateformes numériques qui façonnent nos pensées et nos comportements. Les algorithmes nous enferment dans des bulles informationnelles tandis que les oligarques concentrent un pouvoir sans précédent.</p>
+<p>Face à cette nouvelle forme de contrôle, Thierry Crouzet nous révèle une arme insoupçonnée : le livre. Objet qui circule librement de main en main, il échappe à la surveillance des géants du web et préserve notre capacité à penser par nous-mêmes.</p>
+<p>Cet essai percutant ne se contente pas d’analyser la menace — il propose des actes de résistance accessibles à tous. Lire, c’est déjà combattre.</p>]]></description><guid isPermaLink="false">2423</guid><pubDate>Fri, 14 Mar 2025 16:00:00 +0100</pubDate></item><item><title>Pourquoi Substack tue les réseaux sociaux traditionnels</title><link>https://tcrouzet.com/2025/03/11/the-good-social-network/</link><description><![CDATA[<p>Depuis des années, je ne m’intéresse plus à combien vous êtes, mes lecteurs, ni d’où vous venez pour me lire. J’écris en priorité pour mon plaisir, et le vôtre ne peut qu’être un effet collatéral de mon égoïsme.</p>
 <p>Je comprendrais que vous vous sentiez mal à l’aise, prêts à cesser de me lire, mais je vous dois un peu de franchise. Peut-être parce que la franchise est aujourd’hui rare quand tout le monde cherche à manipuler tout le monde sur les réseaux sociaux.</p>
 <p>Même publier une photo de chat est une tentative de manipulation : je t’attendris, je te fais sourire, je t’énerve et au final je te détourne de choses plus graves, plus belles, plus profondes, souvent plus exigeantes. Manipulation par sédation progressive de l’esprit critique. Qui n’a pas subi cette stratégie, qui n’y a pas collaboré avec des reposts ou des likes ?</p>
 <p>Longtemps j’ai publié sur Instagram mes photos de coucher de soleil dans ce seul but : mettre un peu de baume au cœur chez mes amis de la grisaille. Hors du contexte de mes carnets, ces photos n’étaient que des photos de chats déguisées. J’ai cessé d’utiliser Instagram quand j’ai compris sa fonction soporifique.</p>
@@ -218,32 +774,4 @@
 <li>Charger les textes dans une IA, puis les interroger.</li>
 <li>Vérifier la validité des citations trouvées et les relire dans leur contexte pour s’assurer que l’auteur ne voulait pas dire le contraire.</li>
 </ol>
-<p>Pour mon essai d’une soixantaine de pages, j’ai ainsi discuté avec plus de trente livres. Constat : notre façon d’écrire a irrémédiablement changé. Il est facile de paraître cultivé avec l’aide des IA. Il est plus facile que jamais de s’appuyer sur des auteurs dont on ne connaît presque rien, voire rien. Désormais, les étalages culturels ne disent rien de la légitimité d’un auteur à traiter d’un sujet. Reste que, si je n’avais pas maîtrisé le sujet traité, si je n’avais pas eu une thèse à défendre, les IA ne m’auraient servi à rien, sinon à rabâcher des idées reçues.</p>]]></description><guid isPermaLink="false">2418</guid><pubDate>Fri, 21 Feb 2025 18:00:00 +0100</pubDate></item><item><title>Le livre total de Mallarmé est-il enfin possible ?</title><link>https://tcrouzet.com/2025/02/18/data-work/</link><description><![CDATA[<p>Je commence à comprendre ce que je construis depuis que j’ai commencé à écrire, et qui me devient de plus en plus conscient, décidé, volontaire. Je suis loin d’être le seul à travailler à cette chose, nous sommes nombreux sur le web à y travailler (et vous verrez que c’est sans doute impossible ailleurs). Je vais me servir de mon exemple parce que je suis l’auteur contemporain que je connais le mieux.</p>
-<p>Dans <em>La Préparation du roman</em>, saison 2, Barthes classe les Livres avec un grand L en trois catégories :</p>
-<ul>
-<li>Le livre total selon Mallarmé (jamais écrit par Mallarmé). Barthes n’a pas réussi à le décrire, sinon en disant qu’il était architectural et prémédité, puis en citant Mallarmé : « Mon œuvre est si bien préparé et hiérarchisé, représentant comme il peut, l’Univers, que je n’aurais su, sans endommager quelqu’une de mes impressions étagées, rien en enlever. »</li>
-<li>Le livre somme, le livre qui contiendrait tout de la vie de l’auteur, de la vie en général, du monde (<em>La divine Comédie</em> de Dante, <em>Les Essais</em> de Montaigne, <em>Les Mémoires d’outre-tombe</em> de Chateaubriand…). J’avais ce projet assez dingue avec <em>Ératosthène</em>, écrire le présent et même l’avenir à travers le passé. J’ai échoué après quatorze ans de boulot.</li>
-<li>Le livre pur, un petit texte, qui tient d’un bloc, qui se suffit à lui-même. <em>Pierre Ménard, auteur du Quichotte</em> de Borges. <em>Siddhartha</em> de Hesse. <em>La Frontière</em> de Quignard. Mon rêve. Peut-être que je l’ai approché avec <em>Épicènes</em> qui sortira avant l’été. Cette histoire d’amour fusionnel m’a pris par surprise, mais je me trompe sûrement.</li>
-</ul>
-<p>Barthes oppose les Livres aux Albums, qui seraient des accumulations, des émiettements, un journal par exemple, ou un blog désormais. Les premiers seraient construits, architecturés, les seconds dépendraient des circonstances. En filigrane, je devine l’opposition entre centralisation, hiérarchisation, et décentralisation, mise en réseau. Le Livre serait centralisé, l’Album réticulaire. Le Livre nous plongerait en lui, en son cœur, l’Album nous en éjecterait. Et s’installe une dialectique entre les deux formes, tension schizophrénique, à laquelle je n’échappe pas, et qui me semble énergisante. Barthes explique que Mallarmé, en voulant écrire son Livre total, n’a réussi qu’à produire un Album, forme dont Nietzsche fait l’éloge : « Il faut émietter l’univers, perdre le respect du tout. »</p>
-<p>Et Barthes de conclure : « Bref, vous ne pouvez choisir la forme de l’œuvre (et donc vous ne pouvez écrire) sans décider de votre propre philosophie : l’idée de Livre implique une philosophie moniste (structure, hiérarchie, ratio, science, foi, histoire) ; l’idée d’Album implique une philosophie pluraliste, relativiste, sceptique, taoïste, etc. « À quoi est-ce que je crois ? » Vouloir écrire vous renvoie brutalement d’emblée à cette question ; et cette brutalité est une épreuve qu’il vous faut surmonter ! »</p>
-<p>Mais Barthes avoue qu’il cherche une voie médiane, voie dont il a rêvé, mais qu’il n’a pas eu le temps de trouver, à cause de sa mort prématurée. Réunir les inconciliables en quelque sorte, allier Proust et Nietzsche, n’être ni l’un ni l’autre, sans renoncer à l’un et à l’autre.</p>
-<p>Au sujet de l’Album, Barthes dit : « La notation est <em>déjà</em> de l’écriture mais elle est encore de la <em>parole</em>, et c’est un statut très fragile. » Il dit aussi : « Le Journal intime est un genre facile, sauf à en faire après-coup une œuvre retorse. »</p>
-<p>Il me semble que Gombrowicz dans son <em>Journal</em> nous a montré comment pratiquer autrement la notation, une notation avec repentirs, une notation éditée puis publiée, qui échappe de plus en plus à la parole (et donc devient une œuvre retorse — œuvre achevée bien avant que Barthes ne parle du roman et c’est comme s’il était passé à côté de Gombrowicz — aucune relation entre eux découverte par Perplexity). Œuvre retorse, c’est ce que nous faisons sur nos sites, par opposition à ce qui se fait sur les réseaux sociaux, où l’écrit n’a jamais été autant parole.</p>
-<p>Mon <a href="https://tcrouzet.com/tag/carnet-de-route/"><em>Carnet</em></a>, que j’ai très tôt imaginé comme l’histoire de la pensée d’un homme, cet homme étant moi-même, possède une structure en ce sens que c’est un projet global, au même titre qu’un Livre. Je m’autorise à y dire certaines choses et pas d’autres qui ne seraient pas en accord avec le projet. Ce n’est pas une chronologie quotidienne des évènements de ma vie, mais un texte sur lequel je reviens, que je reprends, auquel je coupe et ajoute dans toute son étendue. Je le fais parce que je dispose des outils techniques pour le faire, ce que Barthes ne pouvait encore imaginer, encore moins Mallarmé.</p>
-<p>Il est essentiel que ce corpus ne soit pas édité, figé dans le papier du Livre, mais qu’il reste vivant, même s’il se donne déjà à lire en ligne. Cette publication n’entrave pas mon travail de repentir ou d’ajout. Il en va de même avec chacun des textes que j’ai publiés sur mon site.</p>
-<p>Plutôt que d’un site, j’ai envie de parler d’un dépôt, au sens GitHub, un endroit où je dépose des textes pour les rendre publics, et où se construit l’historique de leurs modifications. Les repentirs et les retours en arrière racontent à eux seuls une histoire, inaccessible à la perspicacité humaine mais pas à celle des machines qui pourront la raconter. L’œuvre dépôt gagne une profondeur temporelle. Un livre était un objet à une dimension là où le dépôt devient 3D : beaucoup de livres et d’articles étalés sur une table, chacun au sommet de la pile de leurs différentes versions et métamorphoses, chacun relié aux autres. Le site n’est qu’une mise en forme provisoire du dépôt, une impression en quelque sorte où on a choisi la couleur, la typographie, la mise en page.</p>
-<p>Toute cette masse textuelle reste malléable et c’est une différence majeure par rapport à ce qui était possible jusque là dans l’histoire de la littérature. Barthes parle d’une règle absolue de l’œuvre en train de se faire : la clandestinité. Mais ça n’a plus de sens. L’œuvre a acquis un statut organique, au-delà même de la vie de l’auteur. Je crois que tous ceux qui publient en ligne, du moins sur un « lieu maison », un « lieu racine » comprennent ce dont je parle, et le ressentent. Mes amis, « simples » auteurs de livres, passent à côté de cette chose d’aujourd’hui, de cette ivresse du texte vivant, qui s’apparente à une sculpture sans cesse remodelée.</p>
-<p>Pour décrire ces textes interconnectés, une image s’impose à moi, répugnante, excessive, débordante. Un centipède. Le corps de cette bestiole serait mon carnet, chaque patte un livre ou un article.</p>
-<div class="image" id="image-2417-1"><img alt="Centipède" class="alignnone size-full paysage" decoding="async" height="1200" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2025/02/centipede.webp" srcset="/images_tc/2025/02/centipede.webp 1600w, /images_tc/2025/02/centipede-1024.webp 1024w, /images_tc/2025/02/centipede-250.webp 250w" width="1950"/><div class="legend">Centipède</div></div>
-<p>Puis j’ai pensé à la moelle épinière, connectée aux organes et au cerveau. Je suis tombé sur une <a href="https://www.thehighestofthemountains.com/brainmaps.php">image</a>, qui pourrait décrire l’œuvre totale.</p>
-<div class="image" id="image-2417-2"><img alt="high-tech brain" class="alignnone size-full paysage" decoding="async" height="1391" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2025/02/brainmap.webp" srcset="/images_tc/2025/02/brainmap.webp 1600w, /images_tc/2025/02/brainmap-1024.webp 1024w, /images_tc/2025/02/brainmap-250.webp 250w" width="2150"/><div class="legend">high-tech brain</div></div>
-<p>Ce n’était toutefois pas encore ça. J’ai interrogé les IA.</p>
-<div class="image" id="image-2417-3"><img alt="Neuronal" class="alignnone size-full paysage" decoding="async" height="1730" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2025/02/davinci.webp" srcset="/images_tc/2025/02/davinci.webp 1600w, /images_tc/2025/02/davinci-1024.webp 1024w, /images_tc/2025/02/davinci-250.webp 250w" width="1730"/><div class="legend">Neuronal</div></div>
-<p>Le résultat est dégoûtant à souhait, mais c’est ce que j’ai en tête. Nous construisons des formes monstrueuses, des œuvres monstrueuses, et c’est peut-être d’elles dont rêvait Mallarmé : il imaginait lire tous les soirs son roman total dans un théâtre, mais en le réorganisant, car ses parties pourraient être permutées à l’infini. Le livre total serait la totalité d’un corpus interconnecté.</p>
-<p>Pour Mallarmé, toutes les parties devaient être indispensables, sinon l’édifice se serait écroulé. Un fantasme. <em>La Divine Comédie</em> sans un de ses vers reste <em>La Divine Comédie</em>. La capacité pour une œuvre de perdre certains de ses bouts, ou qu’ils soient ignorés par les lecteurs, me semble une qualité indispensable pour résister à l’entropie, qui inévitablement émiette. Barthes le reconnaît.</p>
-<p>Dans mon cas, le <em>Carnet</em> est l’axe duquel partent des textes, plus ou moins longs, plus ou moins structurés. Je n’ai même plus envie de les appeler livres. Cette chose est une base de données <a href="https://www.holochain.org/">holochain</a>, tout étant connecté avec tout. Il y a un axe, mais pas de centre. Et je n’en veux pas. L’illustration reste trop anthropocentrique. Cette chose est un code duquel extraire des contenus, quitte à les réorganiser, les reprendre, les restructurer pour gérer des variantes, et ce sera le job des IA.</p>
-<p>Nous écrivons des œuvres matricielles (ou du moins nous en avons la possibilité, et ça me donne le vertige, si bien que je me sens à l’étroit dès que j’écris un livre — et j’ai tendance à en déborder, à y faire pousser des excroissances qui ne devraient pas y être, ce qui répugne souvent au monde de l’édition et peut-être même aux lecteurs).</p>
-<p>Barthes : « Il y a toujours cette mécanique de la déception dans la parole (parce que je ne peux revenir en arrière). » Plus maintenant. La notation numérique autorise les retours en arrière. Elle ne fige rien. J’ai parlé en un temps du <a href="https://tcrouzet.com/2009/09/10/le-flux-troisieme-etat-de-linformation/">troisième état de l’information</a>, le liquide, alors que Barthes n’en connaissait encore que deux : le solide des livres ou le gazeux de la parole.</p>
-<p>J’en éprouve parfois de la douleur. J’ai du mal à me reconnaître comme un auteur liquide et je rêve encore parfois d’être un auteur solide. Je suis nostalgique de ce que je ne peux plus être parce que j’ai choisi d’écrire des textes liquides. Même mes livres deviennent liquides.</p>
-<p>Ce texte a commencé comme une note dans mon <em>Carnet</em> avant que je l’en arrache, pour illustrer ce dont je viens de parler, et je pourrais l’y remettre, ou une machine pourra l’y remettre, ou quelqu’un qui voudrait illustrer tel ou tel point d’une histoire. Tout se floute, s’entrelace, s’embrasse. Je suis habité par d’anciens rêves. Ils me disent que j’échoue, alors que, peut-être, je travaille, et que nous travaillons, à quelque chose qu’ils ne peuvent comprendre. J’aimerais me ranger dans une case, y être confortable, et elle n’existe pas encore, mais nous l’inventons, après Mallarmé, après Barthes, après le Livre, après l’Album.</p>]]></description><guid isPermaLink="false">2417</guid><pubDate>Tue, 18 Feb 2025 18:00:00 +0100</pubDate></item></channel></rss>
+<p>Pour mon essai d’une soixantaine de pages, j’ai ainsi discuté avec plus de trente livres. Constat : notre façon d’écrire a irrémédiablement changé. Il est facile de paraître cultivé avec l’aide des IA. Il est plus facile que jamais de s’appuyer sur des auteurs dont on ne connaît presque rien, voire rien. Désormais, les étalages culturels ne disent rien de la légitimité d’un auteur à traiter d’un sujet. Reste que, si je n’avais pas maîtrisé le sujet traité, si je n’avais pas eu une thèse à défendre, les IA ne m’auraient servi à rien, sinon à rabâcher des idées reçues.</p>]]></description><guid isPermaLink="false">2418</guid><pubDate>Fri, 21 Feb 2025 18:00:00 +0100</pubDate></item></channel></rss>
