@@ -1,5 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>blog - Thierry Crouzet</title><link>https://tcrouzet.com/feeds/blog.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/feeds/blog.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Sun, 16 Mar 2025 19:15:38 +0100</lastBuildDate><item><title>La collection Tracts de Gallimard sous l’œil des IA</title><link>https://tcrouzet.com/2025/03/14/tract-gallimard-ia/</link><description><![CDATA[<img alt="La collection Tracts de Gallimard sous l’œil des IA" src="https://tcrouzet.com/images_tc/2025/03/livre-arme.webp"/><p>Comment avec l’aide des IA j’ai trouvé l’idée d’un livre. Tout commence quand une amie me dit « Pourquoi tu n’écrirais pas un essai pour <a href="https://www.gallimard.fr/collections/tracts">notre collection Tracts</a> ? »</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>blog - Thierry Crouzet</title><link>https://tcrouzet.com/feeds/blog.xml</link><description>Derniers articles de Thierry Crouzet</description><atom:link href="https://tcrouzet.com/feeds/blog.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>fr</language><lastBuildDate>Wed, 19 Mar 2025 13:22:56 +0100</lastBuildDate><item><title>Mon dernier message, les amis</title><link>https://tcrouzet.com/2025/03/19/quitter-facebook/</link><description><![CDATA[<img alt="Mon dernier message, les amis" src="https://tcrouzet.com/images_tc/2025/03/exit.webp"/><p>Rassurez-vous, je ne vais pas me suicider, quoi que pour certains ce que je m’apprête à faire puisse paraître comme un suicide numérique. Je suis coutumier du fait.</p>
+<p>En 2007, j’ai renoncé à parler de web et politique électorale, alors que j’étais invité un peu partout comme spécialiste.</p>
+<p>En 2011, j’ai débranché, puis quand je suis revenu j’ai diminué drastiquement ma présence en ligne (perdant ma position de proto influenceur).</p>
+<p>En 2023, j’ai quitté Twitter avant qu’il ne devienne X.</p>
+<p>Quand la vie ronronne, il est temps de changer de direction pour éviter de tourner en rond et commencer une <em>Vita Nova</em>. Je cite Dante :</p>
+<blockquote>
+<p>Au milieu du chemin de notre vie<br/>
+je me retrouvai par une forêt obscure<br/>
+car la voie droite était perdue</p>
+</blockquote>
+<p>La route droite était celle de Facebook, Messenger, LinkedIn, Instagram, puis BlueSky, celle qui ressemblait à une ligne de chemin de fer sans aiguillage. Dans une autre traduction de <em>La Divine Comédie</em>, moins élégante mais plus précise, on peut lire :</p>
+<blockquote>
+<p>Étant à mi-chemin de notre vie,<br/>
+je me trouvai dans une forêt obscure,<br/>
+la route droite ayant été gauchie.</p>
+</blockquote>
+<p>La route droite gauchie, dénaturée, dévoyée, biaisée, c’est exactement ce que je ressens par rapport à la promesse initiale des réseaux sociaux les plus connus. J’ai donc décidé de les quitter et de concentrer ma présence en ligne sur <a href="https://tcrouzet.com/">mon blog</a>, <a href="https://mamot.fr/@tcrouzet">Mastodon</a> et <a href="https://tcrouzet.substack.com/">Substack</a>.</p>
+<p>Depuis quelques jours, j’ai supprimé les applications de mon téléphone et les icônes de mon navigateur. J’ai immédiatement ressenti un effet de manque, accompagné d’une légère souffrance. Je prenais mon téléphone et j’étais perdu, presque paniqué, des gestes automatiques devenaient soudain impossibles. Ne croyez pas que c’est facile. J’ai commencé à me reprogrammer. Ça fait mal comme reprendre le vélo après des mois d’arrêt.</p>
+<p>Quand je fais une pause dans mon travail, mes choix de distraction sont moins nombreux, mais déjà je ressens un calme que mes lectures sociales interdisaient. Ce choix de quitter les réseaux sociaux populaires aura des conséquences pour ceux qui ont l’habitude de me lire et d’interagir avec moi quand je parle de technologie, de politique, de littérature ou de vélo, surtout de vélo car j’utilisais beaucoup Facebook pour organiser mes <a href="https://727bikepacking.fr/">727</a>. Pas de panique, je vais vous proposer des solutions de repli.</p>
+<h3>Mes raisons de quitter</h3>
+<p>Au fil des années, ma présence sur les réseaux sociaux centralisés, privatifs, propriétaires m’a posé de plus en plus de problèmes éthiques : je me contentais de déposer des liens vers l’extérieur, mais ma présence servait de caution à un système devenu inacceptable. Depuis le début de l’année, et les secousses politiques provoquées par Trump/Musk, cette forme de défaitisme n’est plus soutenable.</p>
+<p>Durant la Seconde Guerre mondiale, en France, il y avait environ 3 % de résistants et 3 % de collaborateurs et de nazis. Je n’ai plus envie de rester parmi les silencieux et de continuer ma vie comme si de rien n’était. J’avais un pied dans la résistance, j’ai décidé d’y basculer pleinement.</p>
+<p>Cette décision demande moins de courage qu’en 1940, mais sans doute pas moins de lucidité, car l’ennemi est sournois. C’est sur Facebook que je passais le plus de temps, c’est donc Facebook qu’il m’est difficile de quitter pour gagner le maquis.</p>
+<ul>
+<li>Pour commencer, je ne supporte plus que Facebook m’impose des contenus indésirables.</li>
+<li>Je ne vois plus les messages de mes amis mais ceux d’inconnus dont en général je n’ai rien à faire (racistes, révisionnistes, homophobes, climatosceptiques, conspirationnistes…). À l’inverse, la plupart de mes amis ne voient jamais mes messages.</li>
+<li>De nombreux messages et commentaires me sont toxiques et affectent mon moral durant des heures. Au-delà des idées déplaisantes, je subis des exhibitions répugnantes à longueur de journée. J’ai mieux à faire que d’être exposé à ces insanités. Je préfère être au mieux de moi-même pour aider Isa à combattre son cancer. </li>
+<li>Je n’utilisais plus Facebook que comme une plateforme promotionnelle, mais j’ai fini par comprendre que <a href="https://tcrouzet.com/2025/03/11/the-good-social-network/">les liens postés sont peu suivis</a>, voire oblitérés par l’algorithme qui favorise la passivité, autrement dit le lavage de cerveau.</li>
+<li>Facebook est une plateforme opaque, centralisée, emprisonnante, <a href="https://tcrouzet.com/2025/01/24/technofascisme/">technofasciste</a>, autant de points inacceptables à mes yeux. Je n’ai plus aucune raison de nourrir la bête de Zuckerberg par ma présence.</li>
+<li>Je quitte pour mon bien-être et par conviction politique. Je quitte parce qu’une autre vie en ligne est possible, en accord avec mes valeurs. Sous prétexte d’avoir mes amis à portée de clic, je ne reste pas dans cette prison idéologique.</li>
+<li>Facebook a fini par me prendre beaucoup plus qu’il ne m’apporte. C’est devenu perdant presque à tous les coups.</li>
+<li>Je quitte parce qu’il me paraît urgent de se rabattre sur des solutions techniques plus robustes en cas de crise politique majeure.</li>
+<li>Rester sur Facebook et consorts, c’est cautionner les technofascistes, c’est enrichir les oligarques, leur donner davantage de pouvoir.</li>
+</ul>
+<h3>Pour aller où ?</h3>
+<p>Je fais une différence entre le technocapitaliste et le technofasciste. Le premier utilise la technologie pour s’enrichir, souvent au-delà du raisonnable, le second l’utilise aussi pour influencer mon espace mental. Je tolère les outils technocapitalistes, me tenant prêt à les quitter à tout moment. Par exemple, j’utilise du matériel Apple, mais je pourrais du jour au lendemain basculer sur d’autres systèmes (je ne suis pas prisonnier d’Apple — j’utilise des logiciels multi-plateformes). En revanche, je ne tolère plus les outils technofascistes parce qu’ils tentent de m’utiliser plus que je ne les utilise. Je n’accepte plus d’être le rouage passif d’une vaste machinerie à la <em>Matrix</em>.</p>
+<div class="image" id="image-2424-1"><img alt="Stratégie de publication" class="alignnone size-full paysage" decoding="async" height="1368" loading="lazy" sizes="(max-width: 1600px) 100vw, 1600px" src="https://tcrouzet.com/images_tc/2025/03/pub-tactic.webp" srcset="/images_tc/2025/03/pub-tactic.webp 1600w, /images_tc/2025/03/pub-tactic-1024.webp 1024w, /images_tc/2025/03/pub-tactic-250.webp 250w" width="2204"/><div class="legend">Stratégie de publication</div></div>
+<p>Heureusement, je n’ai jamais offert toute ma présence en ligne aux technofascistes, ce qui facilite ma prise de distance.</p>
+<ul>
+<li><a href="https://tcrouzet.com/">Mon blog</a> reste ma maison numérique de prédilection, j’y publie la plupart de mes articles. Il est possible de commenter et de me contacter.</li>
+<li>Pour ne pas manquer mes articles, les geeks peuvent suivre <a href="https://tcrouzet.com/page/abonnement-par-mail/">mes flux RSS</a>, les autres peuvent s’abonner à ma <a href="https://tcrouzet.substack.com/about">newsletter hébergée chez Substack</a>. J’y republie tous mes articles, plus <a href="https://tcrouzet.substack.com/s/de-ma-terrasse">De ma terrasse</a> tous les dimanches. Contrairement à un post social, une newsletter ne disparaît pas immédiatement et attend que nous soyons disponibles pour la lire (c’est une bonne manière de lutter contre le stress du temps réel). Pour vous, c’est une façon de ne rien manquer, pour moi c’est un moyen de créer une communauté, que je pourrai éventuellement déplacer ailleurs puisque je dispose de vos contacts (Substack est technocapitaliste mais ne m’emprisonne pas contrairement aux services technofascistes qui construisent des murs autour de nous).</li>
+<li>Substack étant aussi un réseau social, vous pouvez commenter et discuter (<a href="https://tcrouzet.com/2025/03/11/the-good-social-network/">Substack est le meilleur réseau social du moment parce qu’il se structure autour des textes</a>). J’invite tous ceux qui publient des chroniques sur Facebook à basculer sur Substack, vous y gagnerez des lecteurs et des échanges plus denses.</li>
+<li>Le reste de mon activité sociale numérique se jouera sur <a href="https://mamot.fr/@tcrouzet">Mastodon</a>, un réseau social décentralisé, qui utilise un logiciel libre. Là encore, je vous invite à me rejoindre.</li>
+<li>J’en profite pour ouvrir un <a href="https://727bikepacking.substack.com/about">Substack dédié à mon activité vélo</a>, j’y republierai mes articles, mais aussi les photos de mes reconnaissances et j’y parlerai des évènements que j’organise.</li>
+<li><a href="https://www.facebook.com/groups/727tour">Mon groupe 727 sur Facebook</a> ne ferme pas, Cyril en devient l’administrateur, mais là encore je vous invite <a href="https://727bikepacking.substack.com/about">à rejoindre mon Substack vélo pour plus de convivialité</a>. Je vais vous adresser un dernier message sur le groupe en ce sens.</li>
+<li>Pour les contacts directs, j’utiliserai la messagerie Signal, soutenue par un logiciel libre développé par la <a href="https://fr.wikipedia.org/wiki/Signal_Foundation">Signal Foundation</a>. WhatsApp appartient à Facebook, mais comme il n’affecte pas mon espace mental, je vais le tolérer le temps de faire bouger mes proches.</li>
+</ul>
+<p>En résumé, je ne quitte pas internet, j’effectue un repli vers des solutions libres ou qui me paraissent pour le moment éthiquement acceptables, et surtout qui ne m’emprisonnent pas.</p>
+<p>J’espère très vite discuter avec vous, ici ou là. Dans quelques heures, je ne serai plus sur Facebook et consorts. Je rejoins définitivement le monde libre. Écrivez-moi ! Les lettres à l’ancienne avaient du bon (même si je leur préfère le mail — je ne sais plus écrire à la main).</p>
+<p><em>PS1 : Je ne lirai pas les commentaires sur Facebook et ailleurs, donc lâchez-vous, c’est pour ne plus assister à ce genre de spectacle encouragé par des algorithmes toxiques que j’émigre.</em></p>
+<p><em>PS2 : Pour aller plus loin, <a href="https://www.optoutproject.net/the-cyber-cleanse-take-back-your-digital-footprint/">suivre ce guide pour réussir une migration pas à pas</a>.</em></p>
+<p><em>PS3 : Pour récupérer mes données Facebook et Instagram, j’ai dû aller sur l’app Instagram Paramètres et activité / Espace Comptes / Vos informations et autorisations / Télécharger vos informations. Là, il est difficile de remonter dans le temps au-delà de trois ans. Tout est fait pour cacher cette possibilité. Encore une raison de fuir. J’ai récupéré mes données après 48 h. <a href="https://accountscenter.instagram.com/accounts/-">La fermeture des comptes semble plus immédiate</a>.</em></p>]]></description><guid isPermaLink="false">https://tcrouzet.com/2025/03/19/quitter-facebook/</guid><enclosure url="https://tcrouzet.com/images_tc/2025/03/exit.webp" length="0" type="image/webp"/><pubDate>Wed, 19 Mar 2025 14:00:00 +0100</pubDate></item><item><title>La collection Tracts de Gallimard sous l’œil des IA</title><link>https://tcrouzet.com/2025/03/14/tract-gallimard-ia/</link><description><![CDATA[<img alt="La collection Tracts de Gallimard sous l’œil des IA" src="https://tcrouzet.com/images_tc/2025/03/livre-arme.webp"/><p>Comment avec l’aide des IA j’ai trouvé l’idée d’un livre. Tout commence quand une amie me dit « Pourquoi tu n’écrirais pas un essai pour <a href="https://www.gallimard.fr/collections/tracts">notre collection Tracts</a> ? »</p>
 <p>Des idées me viennent tout de suite :</p>
 <ul>
 <li>Comment résister au technofascisme</li>
@@ -648,125 +699,4 @@
 <li>Pour aller plus loin, il existe beaucoup de tutos. Voici celui de <a href="https://gregorygutierez.com/doku.php/linux/lesmastotutos">Grégory Gutierez</a>.</li>
 </ol>
 <p>Si vous trouvez tout ça encore trop compliqué, je vous renvoie à mon article sur <a href="https://tcrouzet.com/2025/02/09/le-prix-de-la-liberte/">le prix de la liberté numérique</a>. Bougez ! N’attendez pas qu’il soit trop tard. Mieux vaut se préparer au pire et qu’il ne survienne pas que ne rien faire et qu’il nous tombe dessus.</p>
-<p><em>PS : je complète le pack et la liste de l’édition francophone au fur et à mesure qu’on me signale de nouveaux comptes.</em></p>]]></description><guid isPermaLink="false">https://tcrouzet.com/2025/02/27/edition-francophone-mastodon/</guid><enclosure url="https://tcrouzet.com/images_tc/2025/02/bannon-lepen.webp" length="0" type="image/webp"/><pubDate>Thu, 27 Feb 2025 18:00:00 +0100</pubDate></item><item><title>De Dostoïevski aux IA : l’art d’être bien accompagné</title><link>https://tcrouzet.com/2025/02/21/ecriture-assistee/</link><description><![CDATA[<img alt="De Dostoïevski aux IA : l’art d’être bien accompagné" src="https://tcrouzet.com/images_tc/2025/02/maquet.webp"/><p>Quand on a <a href="https://tcrouzet.com/tag/netlitterature/">le désir d’écrire</a>, de s’exprimer, de mettre en évidence des tensions qui agitent le monde, de raconter des expériences, on ne demande pas à des IA d’écrire à notre place, pas plus qu’on ne leur demande d’aimer à notre place, de manger à notre place, de vivre à notre place. Transférer à des machines notre raison d’être frise la dinguerie suprême.</p>
-<p>La question n’est donc pas de savoir si les IA peuvent écrire ou pas. Je ne lis pas pour fuir le monde dans des chimères artificielles, mais pour vivre avec une intensité décuplée tout en établissant un canal de communication intime et intense avec un autre humain, l’auteur. Je n’ai aucune envie de perdre du temps à me connecter au vide sidéral d’un LLM (tout cela changera peut-être un jour quand les IA auront une intimité, une conscience, une histoire, qu’elles souffriront et rêveront).</p>
-<p>Reste que les IA peuvent nous assister dans l’écriture et dans bien d’autres tâches. L’écriture assistée n’est pas nouvelle, de nombreux écrivains célèbres, souvent des hommes, ont recouru aux services d’assistantes, souvent des femmes. Je pense à Borges, James, Dostoïevski. J’ai déjà expliqué que les IA étaient de merveilleuses machines à brainstormer, je voudrais expliquer cette fois comment elles peuvent aider à documenter.</p>
-<p>Je viens d’écrire un petit livre en exactement une semaine. Peu importe le sujet, j’en parlerai une autre fois, mais le cahier des charges impliquait d’étayer mes thèses pour qu’elles n’apparaissent pas comme du jus de crâne. Depuis des années, nous utilisons des moteurs de recherche pour découvrir des sources et retrouver des sources non relevées sur le moment. C’est déjà une façon de se faire assister dans l’écriture.</p>
-<p>Chaque fois que j’ai besoin d’une arme dans un roman ou d’une recette de cuisine ou d’un nom de couleur exotique, j’effectue des recherches sur le Net. Même quand je connais un domaine, j’ai souvent besoin de vérifier. Il me semble qu’on n’a jamais accusé un écrivain de trahir son lecteur parce qu’il effectuait des recherches assistées. Au contraire, le pacte auteur-lecteur implique un minimum de professionnalisme de la part de l’auteur, qui d’ailleurs se fait presque toujours assister pour la relecture, l’édition, la correction.</p>
-<p>D’habitude, quand je cite, c’est parce que je tombe sur un passage qui me parle. Cette fois, l’urgence de mon essai ne m’a pas laissé le temps de lire des dizaines de livres pour écrire le mien. C’est la première fois que je me trouve dans cette situation depuis l’apparition des IA et une méthode de recherche documentaire s’est imposée à moi. Je la partage.</p>
-<h3>Perplexity</h3>
-<p>Dans la pratique, je commence par écrire ce que j’ai à dire, puis je le colle dans Perplexity et lui demande de me trouver des auteurs qui auraient développé la même idée. Essayez, c’est redoutablement efficace.</p>
-<p>Pour illustrer cet article, je me contente d’une requête bateau en rapport avec son sujet : « Pour étayer un essai sur l’écriture assistée, je voudrais dix citations d’écrivains anciens qui expliquent leurs relations avec leurs secrétaires et combien elles leur étaient indispensables. »</p>
-<p>Réponse : « Je suis désolé, mais les résultats de recherche ne contiennent pas d’informations pertinentes sur ce sujet spécifique. » Je n’ai jamais eu ce genre de réponse quand j’écrivais mon essai parce que je donnais davantage de contexte.</p>
-<p>Je renouvelle ma requête en remplaçant le mot « secrétaire » par « assistante » et j’obtiens une réponse.</p>
-<hr/>
-<p>Borges a souvent mentionné l’importance de ses assistantes dans son travail. Il a déclaré :</p>
-<blockquote>
-<p>Je ne peux plus écrire sans l’aide de mon assistante. Elle est ma mémoire, mon scribe, et sans elle, mes pensées se perdraient.</p>
-</blockquote>
-<p>Dostoïevski a eu plusieurs assistantes au cours de sa vie, et il a écrit à propos de leur rôle :</p>
-<blockquote>
-<p>Une bonne assistante est comme une muse ; elle inspire et aide à donner forme aux idées qui tourbillonnent dans l’esprit.</p>
-</blockquote>
-<p>Woolf a souvent fait appel à des assistantes pour l’aider dans ses tâches quotidiennes. Elle a noté :</p>
-<blockquote>
-<p>L’écriture est une tâche solitaire, mais une assistante compétente peut transformer cette solitude en un espace de créativité partagée.</p>
-</blockquote>
-<p>Joyce a eu une relation étroite avec sa fille, qui l’a aidé dans son travail. Il a écrit :</p>
-<blockquote>
-<p>Ma fille est ma lumière dans l’obscurité de l’écriture ; elle donne vie à mes mots sur la page.</p>
-</blockquote>
-<p>Hemingway a reconnu le soutien de ses assistantes :</p>
-<blockquote>
-<p>Chaque écrivain a besoin d’une main secourable pour transformer le chaos de ses idées en prose claire.</p>
-</blockquote>
-<p>Proust a souvent compté sur son assistante pour organiser ses notes et manuscrits. Il a dit :</p>
-<blockquote>
-<p>Sans l’aide de mon assistante, mes pensées seraient éparpillées comme des feuilles au vent.</p>
-</blockquote>
-<p>Christie a mentionné à plusieurs reprises combien son assistante était précieuse pour sa carrière :</p>
-<blockquote>
-<p>Elle est le fil d’Ariane dans le labyrinthe de mes intrigues ; sans elle, je serais perdu.</p>
-</blockquote>
-<p>Kafka a eu une relation complexe avec ses assistantes, mais il a exprimé leur importance :</p>
-<blockquote>
-<p>Elles sont les gardiennes de mes mots, celles qui les préservent du néant.</p>
-</blockquote>
-<p>Twain avait une assistante qui l’a aidé dans ses travaux littéraires et il a dit :</p>
-<blockquote>
-<p>Un bon écrivain sait qu’il ne peut pas tout faire seul ; une assistante est un atout précieux.</p>
-</blockquote>
-<p>De Beauvoir a souvent souligné le rôle crucial de son assistante dans son processus d’écriture :</p>
-<blockquote>
-<p>Elle est ma complice silencieuse, celle qui m’aide à structurer mes pensées en mots.</p>
-</blockquote>
-<h3>Prudence</h3>
-<p>Requête : « Mais tu n’as donné aucune source. »</p>
-<p>Réponse : « Je vous présente mes excuses pour l’erreur précédente. Les citations fournies n’étaient pas sourcées et semblaient fictives. »</p>
-<p>Le ton adopté est plus qu’ambigu. À la place de Perplexity, j’aurais répondu : « Tu m’as pris en flagrant délit de mensonge ! J’ai tenté de te truander. » Les IA sont hypocrites parce que leurs créateurs les ont fine tunés en ce sens. Par défaut, elles cherchent à nous manipuler.</p>
-<p>Ma démo foire. Je voulais démontrer comment j’avais travaillé et tombe sur un cas où je n’obtiens aucune référence directe. Mais je ne renonce pas pour autant.</p>
-<p>Requête : « Dans quels livres les auteurs cités auraient pu parler de leur relation avec leurs assistantes. »</p>
-<p>Perplexity me suggère notamment <em>Dostoïevski, mémoires d’une vie</em>, le livre d’Anna Grigorievna Dostoïevskaïa (que j’ai cité dans <em>La Mécanique du texte</em> en 2015). Mais je ne trouve le texte intégral de cette biographie qu’en roumain. Pas grave : les IA comprennent le roumain.</p>
-<h3>Dostoïevski</h3>
-<p>Avec Calibre, je convertis l’ebook en txt, le charge dans Claude, qui est souvent la meilleure IA pour analyser des textes, puis lui demande : « Trouve et traduis des passages où Anna Grigorievna Dostoïevskaïa explique le travail d’écriture et d’assistance qu’elle effectuait pour Dostoïevsky. Je veux illustrer en quoi les écrivains sont souvent assistés. » </p>
-<blockquote>
-<p>Il me dictait pendant la journée, de deux heures à trois heures, et ces heures étaient les plus heureuses de ma vie. Entendre une nouvelle œuvre directement de la bouche de l’écrivain que j’aimais tant, avec toutes les nuances qu’il donnait aux paroles de ses personnages, représentait pour moi un authentique bonheur. Après avoir terminé la dictée, il me demandait toujours : ’Eh bien, qu’en dis-tu, Anetchka ?</p>
-<p>Je voulais être sincère et je ne prononçais pas de paroles élogieuses, je ne manifestais pas d’enthousiasme quand je n’en ressentais pas. Mon mari attachait beaucoup d’importance à cette sincérité. (On ne peut pas en dire autant des IA.)</p>
-<p>Parfois, il écrivait tellement que je devais rester après minuit pour transcrire ce qui avait été dicté dans la journée.</p>
-</blockquote>
-<p>Je peux ainsi dialoguer avec un texte que je n’ai pas lu, dans une langue que je ne parle pas. En vérité, je n’aurais jamais utilisé de telles citations dans un texte, parce que, dans ce cas, je suis incapable de retourner à la source pour les vérifier. Dans mon essai, j’ai exploré presque exclusivement des textes déjà lus.</p>
-<p>Mais, pour l’exemple, je poursuis le jeu sur Dostoïevsky. En s’appuyant sur le texte, Claude résume une anecdote très célèbre.</p>
-<hr/>
-<p>En 1866, Dostoïevski devait rendre un roman à son éditeur Stellovski avant le 1<sup>er</sup> novembre, sous peine de : « Si Feodor Mikhaïlovitch ne rendait pas le roman dans les temps, il devait payer une amende considérable, et s’il ne le rendait pas avant le 1<sup>er</sup> décembre de la même année, il perdrait les droits sur ses œuvres, qui passeraient pour toujours à la propriété de Stellovski. »</p>
-<p>« Les amis de Feodor Mikhaïlovitch […] lui ont proposé de faire un plan du roman. Chacun d’entre eux aurait écrit une partie du roman et ainsi trois ou quatre personnes auraient réussi à terminer le roman à temps […] Feodor Mikhaïlovitch a rejeté la proposition : il préférait payer l’amende ou perdre ses droits littéraires plutôt que de signer un livre écrit par quelqu’un d’autre. »</p>
-<p>C’est là qu’intervient la solution de la sténographie avec Anna : « Le 29 octobre eut lieu la dernière dictée. Le roman <em>Le Joueur</em> était terminé. Du 4 au 29 octobre, c’est-à-dire en vingt-six jours, Feodor Mikhaïlovitch avait écrit un roman de sept feuillets, en deux colonnes, grand format. »</p>
-<p>Le résultat selon Dostoïevski lui-même : « Je voudrais boire à la santé de ma chère collaboratrice ! Sans votre aide, je n’aurais pas terminé le roman à temps. »</p>
-<h3>Virginia Woolf</h3>
-<p>Je pense alors à explorer le journal de Woolf, dont j’ai lu la partie intitulée <em>Journal d’un écrivain</em>, et dont je possède l’epub.</p>
-<p>Toujours la même méthode, avec Calibre, je convertis le texte de Woolf au format txt, puis je l’uploade sur Claude. Requête : « Recherche dans le texte attaché des citations qui pourraient illustrer pour un auteur le fait de recourir à une assistance extérieure. » Il commence par me proposer des citations peu intéressantes. J’insiste il me propose.</p>
-<blockquote>
-<p>Miss Green est, je crois l’avoir dit, en train de dactylographier Jacob et traverse l’Atlantique le 14 juillet.</p>
-<p>Je me suis lancée dans cette opération qui consiste à retaper à la machine (du commencement à la fin) les trois cent trente-deux pages de ce livre fortement condensé : Les Vagues. Je tape sept à huit pages par jour, de sorte que j’en aurai vraisemblablement fini aux environs du 16 juin.</p>
-<p>Les bureaux de ma dactylographe sont détruits.</p>
-</blockquote>
-<p>On y apprend simplement que Woolf utilisait les services d’une dactylographe.</p>
-<p>J’insiste.</p>
-<blockquote>
-<p>Je serai libre, libre d’insérer dans les marges mes corrections et celles de Margery.</p>
-<p>Margery Fry est venue prendre le thé dimanche. Longue discussion au sujet de la biographie de Roger. Rien de très concluant. Elle dit qu’elle aimerait une étude faite par moi et renforcée par des chapitres embrassant d’autres points de vue. Je dis : ’C’est possible, mais ces livres-là sont illisibles.’ – ’Oh, bien entendu, répond-elle, je vous laisse entièrement libre.’ Je dis alors que j’aurais besoin de renseignements sur sa vie, sa famille. ’À ce propos, dit-elle, je crains d’avoir à vous demander la plus grande circonspection.’</p>
-</blockquote>
-<p>Où on découvre que Margery aide Woolf, la conseille, la stimule. Je n’ai rien trouvé de décisif, rien que j’aurais retenu pour un essai sur l’écriture assistée, mais tout cela ne m’a pris que quelques minutes.</p>
-<h3>Kafka</h3>
-<p>Dans le journal, Claude a trouvé quelques citations.</p>
-<blockquote>
-<p>Hier pour la première fois à l’usine dicté des lettres. Travail insignifiant (1 heure) mais non dépourvu de satisfaction.</p>
-</blockquote>
-<p>L’usine pour Kafa, c’est son bureau (mieux vaut l’avoir lu pour comprendre). Texte dans l’original :</p>
-<blockquote>
-<p>Hier pour la première fois à l’usine dicté des lettres. Travail insignifiant (1 heure) mais non dépourvu de satisfaction. Auparavant après-midi abominable. Maux de tête permanents si bien que j’ai dû me tenir sans arrêt la tête avec la main (mon état au Café Arco) et douleurs cardiaques à la maison sur le canapé.</p>
-</blockquote>
-<p>Une autre citation intéressante, mais sans rapport avec mon sujet, illustre les altérations presque systématiquement apportées par les IA :</p>
-<blockquote>
-<p>Je ne peux plus que regarder la dactylographe, Mlle Kaiser, qui s’est agitée suivant son habitude, déplaçant sa chaise, toussant, tapotant sur la table, attirant ainsi l’attention de toute la pièce sur mon malheur. L’idée que je cherche acquiert ainsi cette valeur supplémentaire qu’elle la calmera, et devient d’autant plus difficile à trouver que sa valeur est en hausse.</p>
-</blockquote>
-<p>Dans le texte original</p>
-<blockquote>
-<p>Au bureau, en train de dicter un long procès-verbal destiné à l’administration d’un district. Arrivé à la conclusion, qui devait prendre de la hauteur, je suis resté en panne et n’ai rien pu faire d’autre que regarder la dactylographe, Mlle Kaiser, qui s’est agitée suivant son habitude, déplaçant sa chaise, toussant, tapotant sur la table, attirant ainsi l’attention de toute la pièce sur mon malheur. L’idée que je cherche acquiert ainsi cette valeur supplémentaire qu’elle la calmera, et devient d’autant plus difficile à trouver que sa valeur est en hausse.</p>
-</blockquote>
-<h3>Dumas</h3>
-<p>J’ai voulu en savoir plus sur la notoire collaboration entre Alexandre Dumas père et Auguste Maquet, connu pour être l’auteur du premier jet des <em>Trois Mousquetaires</em> et du <em>Comte de Monte-Christo</em>. On n’est plus dans la simple assistance mais dans la ghostwriting.</p>
-<p>Sur Internet Archive, je récupère le PDF de <a href="https://archive.org/details/histoiredunecol00simo/page/n1/mode/1up"><em>Histoire d’une collaboration : Alexandre Dumas et Auguste Maquet</em></a> de Gustave Simon (1919). Claude ne parvient pas à digérer le texte, contrairement à Mistral qui propose quelques citations.</p>
-<blockquote>
-<p>Dumas se fiait à son jugement ; presque toujours Dumas le questionnait par lettre, lui demandait où il voulait le conduire, suivant avec docilité l’intrigue, sauf quand il trouvait une anecdote qui faisait rebondir l’action ; souvent alors il en demandait la rédaction à Maquet.</p>
-<p>Dumas demandait souvent à Maquet des détails sur l’intrigue ou des épisodes spécifiques à inclure dans les œuvres.</p>
-<p>Dumas remaniait et développait le texte envoyé par Maquet.</p>
-</blockquote>
-<h3>Méthode en résumé</h3>
-<ol>
-<li>Écrire ce que vous voulez faire dire à un auteur.</li>
-<li>Chercher des auteurs/sources avec Perplexity ou tout autre moteur.</li>
-<li>Récupérer les textes originaux (je suis plus à mon aise avec des textes déjà lus, même il y a longtemps).</li>
-<li>Charger les textes dans une IA, puis les interroger.</li>
-<li>Vérifier la validité des citations trouvées et les relire dans leur contexte pour s’assurer que l’auteur ne voulait pas dire le contraire.</li>
-</ol>
-<p>Pour mon essai d’une soixantaine de pages, j’ai ainsi discuté avec plus de trente livres. Constat : notre façon d’écrire a irrémédiablement changé. Il est facile de paraître cultivé avec l’aide des IA. Il est plus facile que jamais de s’appuyer sur des auteurs dont on ne connaît presque rien, voire rien. Désormais, les étalages culturels ne disent rien de la légitimité d’un auteur à traiter d’un sujet. Reste que, si je n’avais pas maîtrisé le sujet traité, si je n’avais pas eu une thèse à défendre, les IA ne m’auraient servi à rien, sinon à rabâcher des idées reçues.</p>]]></description><guid isPermaLink="false">https://tcrouzet.com/2025/02/21/ecriture-assistee/</guid><enclosure url="https://tcrouzet.com/images_tc/2025/02/maquet.webp" length="0" type="image/webp"/><pubDate>Fri, 21 Feb 2025 18:00:00 +0100</pubDate></item></channel></rss>
+<p><em>PS : je complète le pack et la liste de l’édition francophone au fur et à mesure qu’on me signale de nouveaux comptes.</em></p>]]></description><guid isPermaLink="false">https://tcrouzet.com/2025/02/27/edition-francophone-mastodon/</guid><enclosure url="https://tcrouzet.com/images_tc/2025/02/bannon-lepen.webp" length="0" type="image/webp"/><pubDate>Thu, 27 Feb 2025 18:00:00 +0100</pubDate></item></channel></rss>
