@@ -6,6 +6,10 @@ var toggleSearch = document.getElementById('toggle-search');
 var search = document.getElementById('access-search');
 var searchLoaded = false;
 
+var newsletter = document.getElementById('newsletter');
+var newsletterLoaded = false;
+
+
 function toggleMenu(){
     toggle.classList.toggle("close");
     access.classList.toggle("shown");
@@ -38,6 +42,33 @@ function searchMenu(){
     );
     searchLoaded=true;
 };
+
+function toggleNewsletter() {
+    // Si la newsletter est déjà visible, la cacher
+    if (newsletter.style.display === 'block') {
+        newsletter.style.display = 'none';
+        document.body.style.overflow = 'auto'; // Réactiver le défilement
+        return;
+    }
+    
+    // Si la newsletter n'est pas encore chargée
+    if (!newsletterLoaded) {
+        doAPIcall(
+            "GET", "/ajax-newsletter.html?15", false,
+            function (data) {
+                if (data) {
+                    newsletter.innerHTML = data;
+                    newsletter.style.display = 'block';
+                    newsletterLoaded = true;
+                }
+            }
+        );
+    } else {
+        // Si déjà chargée, simplement l'afficher
+        newsletter.style.display = 'block';
+        document.body.style.overflow = 'hidden'; // Empêcher le défilement
+    }
+}
 
 toggle.addEventListener("click", toggleMenu, false);
 toggleSearch.addEventListener("click", searchMenu, false);
@@ -129,6 +160,7 @@ function fetchContent(url) {
 }
 
 function updateNextURL() {
+    console.log("UpdateNextURL");
     var loadMoreUrls = document.querySelectorAll('.load-more-url');
     if (loadMoreUrls.length > 0) {
         var lastUrlElement = loadMoreUrls[loadMoreUrls.length - 1]; // Prend le dernier élément de la liste
