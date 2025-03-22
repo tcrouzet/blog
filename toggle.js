@@ -33,7 +33,7 @@ function searchMenu(){
 
     if(searchLoaded) return;
     doAPIcall(
-        "GET","/ajax-search.html", 2,
+        "GET","/ajax-search.html?2", 2,
         function (data) {
             if(data){
                 search.innerHTML=data;
