@@ -1,65 +1,375 @@
-Completed 10.5 KiB/~18.2 KiB (111.1 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/2012/01/18/francois-hollande-ne-sera-pas-president/index.html to s3://tcrouzet.com/2012/01/18/francois-hollande-ne-sera-pas-president/index.html
-Completed 10.5 KiB/~18.2 KiB (111.1 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 18.2 KiB/~18.2 KiB (126.8 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/2012/01/18/francois-hollande-ne-sera-pas-president/content.html to s3://tcrouzet.com/2012/01/18/francois-hollande-ne-sera-pas-president/content.html
-Completed 18.2 KiB/~18.2 KiB (126.8 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 24.2 KiB/~196.6 KiB (19.7 KiB/s) with ~6 file(s) remaining (calculating...)
-upload: ../../static/2025/03/24/divination-002/content.html to s3://tcrouzet.com/2025/03/24/divination-002/content.html
-Completed 24.2 KiB/~196.6 KiB (19.7 KiB/s) with ~5 file(s) remaining (calculating...)
-Completed 32.5 KiB/~196.6 KiB (26.4 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/2025/03/24/divination-002/index.html to s3://tcrouzet.com/2025/03/24/divination-002/index.html
-Completed 32.5 KiB/~196.6 KiB (26.4 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 61.7 KiB/~196.6 KiB (45.4 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html            
-Completed 61.7 KiB/~196.6 KiB (45.4 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 90.0 KiB/~196.6 KiB (65.4 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/blog/contener21.html to s3://tcrouzet.com/blog/contener21.html  
-Completed 90.0 KiB/~196.6 KiB (65.4 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 143.3 KiB/~196.6 KiB (98.3 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml               
-Completed 143.3 KiB/~196.6 KiB (98.3 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 196.6 KiB/~196.6 KiB (133.2 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
-Completed 196.6 KiB/~196.6 KiB (133.2 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 207.0 KiB/~339.3 KiB (89.2 KiB/s) with ~4 file(s) remaining (calculating...) 
-upload: ../../static/images_tc/2012/01/Francois_Hollande_Septembre_2011-250.webp to s3://tcrouzet.com/images_tc/2012/01/Francois_Hollande_Septembre_2011-250.webp
-Completed 207.0 KiB/~339.3 KiB (89.2 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 233.4 KiB/~339.3 KiB (98.2 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2012/01/Francois_Hollande_Septembre_2011.webp to s3://tcrouzet.com/images_tc/2012/01/Francois_Hollande_Septembre_2011.webp
-Completed 233.4 KiB/~339.3 KiB (98.2 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 272.8 KiB/~339.3 KiB (113.5 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2012/01/Francois_Hollande_Septembre_2011.jpeg to s3://tcrouzet.com/images_tc/2012/01/Francois_Hollande_Septembre_2011.jpeg
-Completed 272.8 KiB/~339.3 KiB (113.5 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 339.3 KiB/~339.3 KiB (139.2 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2012/01/Francois_Hollande_Septembre_2011-1024.webp to s3://tcrouzet.com/images_tc/2012/01/Francois_Hollande_Septembre_2011-1024.webp
-Completed 339.3 KiB/~339.3 KiB (139.2 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 342.9 KiB/~405.9 KiB (46.9 KiB/s) with ~7 file(s) remaining (calculating...) 
-upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
-Completed 342.9 KiB/~405.9 KiB (46.9 KiB/s) with ~6 file(s) remaining (calculating...)
-Completed 344.1 KiB/~405.9 KiB (46.9 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 22.1 KiB/~50.9 KiB (109.5 KiB/s) with ~5 file(s) remaining (calculating...)
+upload: ../../static/2012/contener2.html to s3://tcrouzet.com/2012/contener2.html    
+Completed 22.1 KiB/~50.9 KiB (109.5 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 29.7 KiB/~50.9 KiB (80.0 KiB/s) with ~4 file(s) remaining (calculating...) 
+upload: ../../static/2014/01/21/astuce-blog-evaluer-la-popularite-geek/content.html to s3://tcrouzet.com/2014/01/21/astuce-blog-evaluer-la-popularite-geek/content.html
+Completed 29.7 KiB/~50.9 KiB (80.0 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 36.4 KiB/~50.9 KiB (96.2 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/2014/01/21/reabonnez-vous-je-vous-ai-detruits/index.html to s3://tcrouzet.com/2014/01/21/reabonnez-vous-je-vous-ai-detruits/index.html
+Completed 36.4 KiB/~50.9 KiB (96.2 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 40.6 KiB/~50.9 KiB (107.0 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/2014/01/21/reabonnez-vous-je-vous-ai-detruits/content.html to s3://tcrouzet.com/2014/01/21/reabonnez-vous-je-vous-ai-detruits/content.html
+Completed 40.6 KiB/~50.9 KiB (107.0 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 50.9 KiB/~50.9 KiB (124.4 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/2014/01/21/astuce-blog-evaluer-la-popularite-geek/index.html to s3://tcrouzet.com/2014/01/21/astuce-blog-evaluer-la-popularite-geek/index.html
+Completed 50.9 KiB/~50.9 KiB (124.4 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 58.6 KiB/~120.4 KiB (70.4 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/2016/02/29/onvautmieuxqueca-explication-de-texte/content.html to s3://tcrouzet.com/2016/02/29/onvautmieuxqueca-explication-de-texte/content.html
+Completed 58.6 KiB/~120.4 KiB (70.4 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 83.0 KiB/~120.4 KiB (95.5 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/2014/contener5.html to s3://tcrouzet.com/2014/contener5.html    
+Completed 83.0 KiB/~120.4 KiB (95.5 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 93.3 KiB/~120.4 KiB (106.2 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/2016/02/29/onvautmieuxqueca-explication-de-texte/index.html to s3://tcrouzet.com/2016/02/29/onvautmieuxqueca-explication-de-texte/index.html
+Completed 93.3 KiB/~120.4 KiB (106.2 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 120.4 KiB/~120.4 KiB (127.1 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/2016/contener2.html to s3://tcrouzet.com/2016/contener2.html      
+Completed 120.4 KiB/~120.4 KiB (127.1 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 129.7 KiB/~1010.4 KiB (88.6 KiB/s) with ~15 file(s) remaining (calculating...)
+upload: ../../static/2025/03/24/le-bon-deniv/content.html to s3://tcrouzet.com/2025/03/24/le-bon-deniv/content.html
+Completed 129.7 KiB/~1010.4 KiB (88.6 KiB/s) with ~14 file(s) remaining (calculating...)
+Completed 177.1 KiB/~1010.4 KiB (114.3 KiB/s) with ~14 file(s) remaining (calculating...)
+upload: ../../static/2024/05/03/avril2024/content.html to s3://tcrouzet.com/2024/05/03/avril2024/content.html
+Completed 177.1 KiB/~1010.4 KiB (114.3 KiB/s) with ~13 file(s) remaining (calculating...)
+Completed 222.8 KiB/~1010.4 KiB (142.0 KiB/s) with ~13 file(s) remaining (calculating...)
+upload: ../../static/2024/07/10/juin-2024/index.html to s3://tcrouzet.com/2024/07/10/juin-2024/index.html
+Completed 222.8 KiB/~1010.4 KiB (142.0 KiB/s) with ~12 file(s) remaining (calculating...)
+Completed 272.5 KiB/~1010.4 KiB (172.9 KiB/s) with ~12 file(s) remaining (calculating...)
+upload: ../../static/2024/05/03/avril2024/index.html to s3://tcrouzet.com/2024/05/03/avril2024/index.html
+Completed 272.5 KiB/~1010.4 KiB (172.9 KiB/s) with ~11 file(s) remaining (calculating...)
+Completed 315.9 KiB/~1010.4 KiB (197.6 KiB/s) with ~11 file(s) remaining (calculating...)
+upload: ../../static/2024/07/10/juin-2024/content.html to s3://tcrouzet.com/2024/07/10/juin-2024/content.html
+Completed 315.9 KiB/~1010.4 KiB (197.6 KiB/s) with ~10 file(s) remaining (calculating...)
+Completed 345.2 KiB/~1010.4 KiB (215.9 KiB/s) with ~10 file(s) remaining (calculating...)
+upload: ../../static/2024/index.html to s3://tcrouzet.com/2024/index.html                
+Completed 345.2 KiB/~1010.4 KiB (215.9 KiB/s) with ~9 file(s) remaining (calculating...)
+Completed 373.4 KiB/~1010.4 KiB (223.9 KiB/s) with ~9 file(s) remaining (calculating...)
+upload: ../../static/blog/contener8.html to s3://tcrouzet.com/blog/contener8.html       
+Completed 373.4 KiB/~1010.4 KiB (223.9 KiB/s) with ~8 file(s) remaining (calculating...)
+Completed 385.4 KiB/~1010.4 KiB (227.6 KiB/s) with ~8 file(s) remaining (calculating...)
+upload: ../../static/2025/03/24/le-bon-deniv/index.html to s3://tcrouzet.com/2025/03/24/le-bon-deniv/index.html
+Completed 385.4 KiB/~1010.4 KiB (227.6 KiB/s) with ~7 file(s) remaining (calculating...)
+Completed 401.3 KiB/~1010.4 KiB (233.7 KiB/s) with ~7 file(s) remaining (calculating...)
+upload: ../../static/2025/index.html to s3://tcrouzet.com/2025/index.html               
+Completed 401.3 KiB/~1010.4 KiB (233.7 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 428.7 KiB/~1010.4 KiB (249.4 KiB/s) with ~6 file(s) remaining (calculating...)
+upload: ../../static/blog/contener15.html to s3://tcrouzet.com/blog/contener15.html     
+Completed 428.7 KiB/~1010.4 KiB (249.4 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 497.6 KiB/~1010.4 KiB (274.5 KiB/s) with ~5 file(s) remaining (calculating...)
+upload: ../../static/feeds/borntobike.xml to s3://tcrouzet.com/feeds/borntobike.xml     
+Completed 497.6 KiB/~1010.4 KiB (274.5 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 550.9 KiB/~1010.4 KiB (300.8 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                 
+Completed 550.9 KiB/~1010.4 KiB (300.8 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 577.4 KiB/~1010.4 KiB (313.0 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                 
+Completed 577.4 KiB/~1010.4 KiB (313.0 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 772.4 KiB/~1010.4 KiB (382.7 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/feeds/carnet-de-route.xml to s3://tcrouzet.com/feeds/carnet-de-route.xml
+Completed 772.4 KiB/~1010.4 KiB (382.7 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 1010.4 KiB/~1010.4 KiB (441.2 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/archives/index.html to s3://tcrouzet.com/archives/index.html        
+Completed 1010.4 KiB/~1010.4 KiB (441.2 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 1.0 MiB/~1.3 MiB (289.9 KiB/s) with ~3 file(s) remaining (calculating...)      
+upload: ../../static/images_tc/2014/01/Capture-2014-01-21-à-08.56.37.png to s3://tcrouzet.com/images_tc/2014/01/Capture-2014-01-21-à-08.56.37.png
+Completed 1.0 MiB/~1.3 MiB (289.9 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 1.2 MiB/~1.3 MiB (315.2 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2014/01/Capture--2014-01-21-à-11.34.44.png to s3://tcrouzet.com/images_tc/2014/01/Capture--2014-01-21-à-11.34.44.png
+Completed 1.2 MiB/~1.3 MiB (315.2 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 1.3 MiB/~1.3 MiB (345.8 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2014/01/Capture--2014-01-21-à-09.50.38.png to s3://tcrouzet.com/images_tc/2014/01/Capture--2014-01-21-à-09.50.38.png
+Completed 1.3 MiB/~1.3 MiB (345.8 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 1.4 MiB/~1.9 MiB (249.9 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2019/05/IMG_4824-250.webp to s3://tcrouzet.com/images_tc/2019/05/IMG_4824-250.webp
+Completed 1.4 MiB/~1.9 MiB (249.9 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 1.6 MiB/~1.9 MiB (288.9 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 1.8 MiB/~1.9 MiB (317.5 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2019/05/IMG_4824-1024.webp to s3://tcrouzet.com/images_tc/2019/05/IMG_4824-1024.webp
+Completed 1.8 MiB/~1.9 MiB (317.5 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 1.9 MiB/~1.9 MiB (316.8 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2019/05/IMG_4824.webp to s3://tcrouzet.com/images_tc/2019/05/IMG_4824.webp
+Completed 1.9 MiB/~1.9 MiB (316.8 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 1.9 MiB/~9.9 MiB (221.2 KiB/s) with ~42 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-01-123755-Sete-250.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-01-123755-Sete-250.webp
+Completed 1.9 MiB/~9.9 MiB (221.2 KiB/s) with ~41 file(s) remaining (calculating...)
+Completed 1.9 MiB/~9.9 MiB (222.2 KiB/s) with ~41 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-01-123806-Sete-250.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-01-123806-Sete-250.webp
+Completed 1.9 MiB/~9.9 MiB (222.2 KiB/s) with ~40 file(s) remaining (calculating...)
+Completed 1.9 MiB/~9.9 MiB (229.9 KiB/s) with ~40 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-01-123755-Sete-1024.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-01-123755-Sete-1024.webp
+Completed 1.9 MiB/~9.9 MiB (229.9 KiB/s) with ~39 file(s) remaining (calculating...)
+Completed 2.0 MiB/~9.9 MiB (229.2 KiB/s) with ~39 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-01-200809-maison-250.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-01-200809-maison-250.webp
+Completed 2.0 MiB/~9.9 MiB (229.2 KiB/s) with ~38 file(s) remaining (calculating...)
+Completed 2.1 MiB/~9.9 MiB (248.3 KiB/s) with ~38 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-01-123755-Sete.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-01-123755-Sete.webp
+Completed 2.1 MiB/~9.9 MiB (248.3 KiB/s) with ~37 file(s) remaining (calculating...)
+Completed 2.2 MiB/~9.9 MiB (257.6 KiB/s) with ~37 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-01-200809-maison.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-01-200809-maison.webp
+Completed 2.2 MiB/~9.9 MiB (257.6 KiB/s) with ~36 file(s) remaining (calculating...)
+Completed 2.2 MiB/~9.9 MiB (258.8 KiB/s) with ~36 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-11-140801-Cazouls-Herault-Belarga-250.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-140801-Cazouls-Herault-Belarga-250.webp
+Completed 2.2 MiB/~9.9 MiB (258.8 KiB/s) with ~35 file(s) remaining (calculating...)
+Completed 2.2 MiB/~9.9 MiB (259.2 KiB/s) with ~35 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-01-123955-Sete-250.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-01-123955-Sete-250.webp
+Completed 2.2 MiB/~9.9 MiB (259.2 KiB/s) with ~34 file(s) remaining (calculating...)
+Completed 2.5 MiB/~9.9 MiB (286.4 KiB/s) with ~34 file(s) remaining (calculating...)
+Completed 2.7 MiB/~9.9 MiB (310.3 KiB/s) with ~34 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-11-140801-Cazouls-Herault-Belarga-1024.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-140801-Cazouls-Herault-Belarga-1024.webp
+Completed 2.7 MiB/~9.9 MiB (310.3 KiB/s) with ~33 file(s) remaining (calculating...)
+Completed 2.7 MiB/~9.9 MiB (310.0 KiB/s) with ~33 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-11-141557-Cazouls-Herault-Belarga-250.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-141557-Cazouls-Herault-Belarga-250.webp
+Completed 2.7 MiB/~9.9 MiB (310.0 KiB/s) with ~32 file(s) remaining (calculating...)
+Completed 2.8 MiB/~9.9 MiB (313.2 KiB/s) with ~32 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-01-200809-maison-1024.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-01-200809-maison-1024.webp
+Completed 2.8 MiB/~9.9 MiB (313.2 KiB/s) with ~31 file(s) remaining (calculating...)
+Completed 3.0 MiB/~9.9 MiB (334.9 KiB/s) with ~31 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-11-141557-Cazouls-Herault-Belarga-1024.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-141557-Cazouls-Herault-Belarga-1024.webp
+Completed 3.0 MiB/~9.9 MiB (334.9 KiB/s) with ~30 file(s) remaining (calculating...)
+Completed 3.2 MiB/~9.9 MiB (362.8 KiB/s) with ~30 file(s) remaining (calculating...)
+Completed 3.3 MiB/~11.9 MiB (372.4 KiB/s) with ~42 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-01-123955-Sete-1024.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-01-123955-Sete-1024.webp
+Completed 3.3 MiB/~11.9 MiB (372.4 KiB/s) with ~41 file(s) remaining (calculating...)
+Completed 3.6 MiB/~11.9 MiB (399.4 KiB/s) with ~41 file(s) remaining (calculating...)
+Completed 3.8 MiB/~11.9 MiB (427.2 KiB/s) with ~41 file(s) remaining (calculating...)
+Completed 3.9 MiB/~11.9 MiB (427.3 KiB/s) with ~41 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-11-143028-Cazouls-Herault-Belarga-250.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-143028-Cazouls-Herault-Belarga-250.webp
+Completed 3.9 MiB/~11.9 MiB (427.3 KiB/s) with ~40 file(s) remaining (calculating...)
+Completed 3.9 MiB/~11.9 MiB (425.2 KiB/s) with ~40 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-11-140801-Cazouls-Herault-Belarga.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-140801-Cazouls-Herault-Belarga.webp
+Completed 3.9 MiB/~11.9 MiB (425.2 KiB/s) with ~39 file(s) remaining (calculating...)
+Completed 3.9 MiB/~11.9 MiB (425.4 KiB/s) with ~39 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-11-143908-Cazouls-Herault-Belarga-250.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-143908-Cazouls-Herault-Belarga-250.webp
+Completed 3.9 MiB/~11.9 MiB (425.4 KiB/s) with ~38 file(s) remaining (calculating...)
+Completed 4.1 MiB/~11.9 MiB (449.3 KiB/s) with ~38 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-11-143028-Cazouls-Herault-Belarga-1024.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-143028-Cazouls-Herault-Belarga-1024.webp
+Completed 4.1 MiB/~11.9 MiB (449.3 KiB/s) with ~37 file(s) remaining (calculating...)
+Completed 4.3 MiB/~11.9 MiB (476.5 KiB/s) with ~37 file(s) remaining (calculating...)
+Completed 4.4 MiB/~11.9 MiB (480.8 KiB/s) with ~37 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-11-143908-Cazouls-Herault-Belarga-1024.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-143908-Cazouls-Herault-Belarga-1024.webp
+Completed 4.4 MiB/~11.9 MiB (480.8 KiB/s) with ~36 file(s) remaining (calculating...)
+Completed 4.7 MiB/~11.9 MiB (508.1 KiB/s) with ~36 file(s) remaining (calculating...)
+Completed 4.9 MiB/~11.9 MiB (533.3 KiB/s) with ~36 file(s) remaining (calculating...)
+Completed 5.2 MiB/~11.9 MiB (560.5 KiB/s) with ~36 file(s) remaining (calculating...)
+Completed 5.4 MiB/~11.9 MiB (577.5 KiB/s) with ~36 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-01-123955-Sete.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-01-123955-Sete.webp
+Completed 5.4 MiB/~11.9 MiB (577.5 KiB/s) with ~35 file(s) remaining (calculating...)
+Completed 5.4 MiB/~11.9 MiB (578.2 KiB/s) with ~35 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-11-144243-Cazouls-Herault-Belarga-250.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-144243-Cazouls-Herault-Belarga-250.webp
+Completed 5.4 MiB/~11.9 MiB (578.2 KiB/s) with ~34 file(s) remaining (calculating...)
+Completed 5.6 MiB/~11.9 MiB (598.9 KiB/s) with ~34 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-01-123806-Sete-1024.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-01-123806-Sete-1024.webp
+Completed 5.6 MiB/~11.9 MiB (598.9 KiB/s) with ~33 file(s) remaining (calculating...)
+Completed 5.7 MiB/~11.9 MiB (610.3 KiB/s) with ~33 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-11-144243-Cazouls-Herault-Belarga-1024.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-144243-Cazouls-Herault-Belarga-1024.webp
+Completed 5.7 MiB/~11.9 MiB (610.3 KiB/s) with ~32 file(s) remaining (calculating...)
+Completed 6.0 MiB/~13.6 MiB (629.1 KiB/s) with ~40 file(s) remaining (calculating...)
+Completed 6.1 MiB/~14.2 MiB (646.2 KiB/s) with ~48 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-11-154104-Cazouls-Herault-Belarga-1024.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-154104-Cazouls-Herault-Belarga-1024.webp
+Completed 6.1 MiB/~14.2 MiB (646.2 KiB/s) with ~47 file(s) remaining (calculating...)
+Completed 6.2 MiB/~14.2 MiB (648.4 KiB/s) with ~47 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-11-144243-Cazouls-Herault-Belarga.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-144243-Cazouls-Herault-Belarga.webp
+Completed 6.2 MiB/~14.2 MiB (648.4 KiB/s) with ~46 file(s) remaining (calculating...)
+Completed 6.2 MiB/~14.5 MiB (647.3 KiB/s) with ~59 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-11-154104-Cazouls-Herault-Belarga-250.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-154104-Cazouls-Herault-Belarga-250.webp
+Completed 6.2 MiB/~14.5 MiB (647.3 KiB/s) with ~58 file(s) remaining (calculating...)
+Completed 6.2 MiB/~14.5 MiB (648.2 KiB/s) with ~58 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-11-155247-Cazouls-Herault-Belarga-250.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-155247-Cazouls-Herault-Belarga-250.webp
+Completed 6.2 MiB/~14.5 MiB (648.2 KiB/s) with ~57 file(s) remaining (calculating...)
+Completed 6.4 MiB/~14.5 MiB (669.3 KiB/s) with ~59 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2024/05/2024-04-11-143908-Cazouls-Herault-Belarga.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-143908-Cazouls-Herault-Belarga.webp
+Completed 6.4 MiB/~14.5 MiB (669.3 KiB/s) with ~58 file(s) remaining (calculating...)
+Completed 6.6 MiB/~14.5 MiB (695.2 KiB/s) with ~58 file(s) remaining (calculating...)
+Completed 6.9 MiB/14.5 MiB (717.8 KiB/s) with 59 file(s) remaining                   
+Completed 7.1 MiB/14.5 MiB (741.7 KiB/s) with 59 file(s) remaining                   
+Completed 7.1 MiB/14.5 MiB (736.0 KiB/s) with 59 file(s) remaining                   
+upload: ../../static/images_tc/2024/05/2024-04-11-161250-Cazouls-Herault-Belarga-250.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-161250-Cazouls-Herault-Belarga-250.webp
+Completed 7.1 MiB/14.5 MiB (736.0 KiB/s) with 58 file(s) remaining
+Completed 7.4 MiB/14.5 MiB (757.2 KiB/s) with 58 file(s) remaining
+upload: ../../static/images_tc/2024/05/2024-04-11-161250-Cazouls-Herault-Belarga-1024.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-161250-Cazouls-Herault-Belarga-1024.webp
+Completed 7.4 MiB/14.5 MiB (757.2 KiB/s) with 57 file(s) remaining
+Completed 7.6 MiB/14.5 MiB (777.4 KiB/s) with 57 file(s) remaining
+Completed 7.8 MiB/14.5 MiB (791.2 KiB/s) with 57 file(s) remaining
+upload: ../../static/images_tc/2024/05/2024-04-11-155247-Cazouls-Herault-Belarga.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-155247-Cazouls-Herault-Belarga.webp
+Completed 7.8 MiB/14.5 MiB (791.2 KiB/s) with 56 file(s) remaining
+Completed 7.8 MiB/14.5 MiB (791.7 KiB/s) with 56 file(s) remaining
+upload: ../../static/images_tc/2024/05/2024-04-14-100846-Agde-et-Meze-1024.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-14-100846-Agde-et-Meze-1024.webp
+Completed 7.8 MiB/14.5 MiB (791.7 KiB/s) with 55 file(s) remaining
+Completed 8.0 MiB/14.5 MiB (815.2 KiB/s) with 55 file(s) remaining
+Completed 8.0 MiB/14.5 MiB (815.3 KiB/s) with 55 file(s) remaining
+upload: ../../static/images_tc/2024/05/2024-04-14-100846-Agde-et-Meze-250.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-14-100846-Agde-et-Meze-250.webp
+Completed 8.0 MiB/14.5 MiB (815.3 KiB/s) with 54 file(s) remaining
+Completed 8.3 MiB/14.5 MiB (836.7 KiB/s) with 54 file(s) remaining
+Completed 8.4 MiB/14.5 MiB (852.4 KiB/s) with 54 file(s) remaining
+upload: ../../static/images_tc/2024/05/2024-04-11-155247-Cazouls-Herault-Belarga-1024.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-155247-Cazouls-Herault-Belarga-1024.webp
+Completed 8.4 MiB/14.5 MiB (852.4 KiB/s) with 53 file(s) remaining
+Completed 8.4 MiB/14.5 MiB (848.9 KiB/s) with 53 file(s) remaining
+upload: ../../static/images_tc/2024/05/2024-04-14-110346-Agde-et-Meze-250.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-14-110346-Agde-et-Meze-250.webp
+Completed 8.4 MiB/14.5 MiB (848.9 KiB/s) with 52 file(s) remaining
+Completed 8.5 MiB/14.5 MiB (851.9 KiB/s) with 52 file(s) remaining
+upload: ../../static/images_tc/2024/05/2024-04-14-110346-Agde-et-Meze-1024.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-14-110346-Agde-et-Meze-1024.webp
+Completed 8.5 MiB/14.5 MiB (851.9 KiB/s) with 51 file(s) remaining
+Completed 8.7 MiB/14.5 MiB (876.5 KiB/s) with 51 file(s) remaining
+Completed 8.9 MiB/14.5 MiB (895.0 KiB/s) with 51 file(s) remaining
+upload: ../../static/images_tc/2024/05/2024-04-11-141557-Cazouls-Herault-Belarga.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-141557-Cazouls-Herault-Belarga.webp
+Completed 8.9 MiB/14.5 MiB (895.0 KiB/s) with 50 file(s) remaining
+Completed 9.2 MiB/14.5 MiB (919.4 KiB/s) with 50 file(s) remaining
+Completed 9.2 MiB/14.5 MiB (925.7 KiB/s) with 50 file(s) remaining
+upload: ../../static/images_tc/2024/05/2024-04-14-110346-Agde-et-Meze.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-14-110346-Agde-et-Meze.webp
+Completed 9.2 MiB/14.5 MiB (925.7 KiB/s) with 49 file(s) remaining
+Completed 9.3 MiB/14.5 MiB (926.5 KiB/s) with 49 file(s) remaining
+upload: ../../static/images_tc/2024/05/2024-04-01-123806-Sete.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-01-123806-Sete.webp
+Completed 9.3 MiB/14.5 MiB (926.5 KiB/s) with 48 file(s) remaining
+Completed 9.3 MiB/14.5 MiB (923.0 KiB/s) with 48 file(s) remaining
+upload: ../../static/images_tc/2024/07/2024-06-04-172255-Frontignan-Fabregues-250.webp to s3://tcrouzet.com/images_tc/2024/07/2024-06-04-172255-Frontignan-Fabregues-250.webp
+Completed 9.3 MiB/14.5 MiB (923.0 KiB/s) with 47 file(s) remaining
+Completed 9.3 MiB/14.5 MiB (919.2 KiB/s) with 47 file(s) remaining
+upload: ../../static/images_tc/2024/07/2024-06-04-172259-Frontignan-Fabregues-250.webp to s3://tcrouzet.com/images_tc/2024/07/2024-06-04-172259-Frontignan-Fabregues-250.webp
+Completed 9.3 MiB/14.5 MiB (919.2 KiB/s) with 46 file(s) remaining
+Completed 9.4 MiB/14.5 MiB (927.0 KiB/s) with 46 file(s) remaining
+upload: ../../static/images_tc/2024/07/2024-06-04-172255-Frontignan-Fabregues-1024.webp to s3://tcrouzet.com/images_tc/2024/07/2024-06-04-172255-Frontignan-Fabregues-1024.webp
+Completed 9.4 MiB/14.5 MiB (927.0 KiB/s) with 45 file(s) remaining
+Completed 9.6 MiB/14.5 MiB (946.1 KiB/s) with 45 file(s) remaining
+upload: ../../static/images_tc/2024/07/2024-06-04-172255-Frontignan-Fabregues.webp to s3://tcrouzet.com/images_tc/2024/07/2024-06-04-172255-Frontignan-Fabregues.webp
+Completed 9.6 MiB/14.5 MiB (946.1 KiB/s) with 44 file(s) remaining
+Completed 9.7 MiB/14.5 MiB (952.7 KiB/s) with 44 file(s) remaining
+upload: ../../static/images_tc/2024/05/2024-04-14-100846-Agde-et-Meze.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-14-100846-Agde-et-Meze.webp
+Completed 9.7 MiB/14.5 MiB (952.7 KiB/s) with 43 file(s) remaining
+Completed 10.0 MiB/14.5 MiB (974.5 KiB/s) with 43 file(s) remaining
+Completed 10.0 MiB/14.5 MiB (972.3 KiB/s) with 43 file(s) remaining
+upload: ../../static/images_tc/2024/07/2024-06-04-172800-Frontignan-Fabregues-250.webp to s3://tcrouzet.com/images_tc/2024/07/2024-06-04-172800-Frontignan-Fabregues-250.webp
+Completed 10.0 MiB/14.5 MiB (972.3 KiB/s) with 42 file(s) remaining
+Completed 10.0 MiB/14.5 MiB (974.7 KiB/s) with 42 file(s) remaining
+upload: ../../static/images_tc/2024/05/2024-04-11-143028-Cazouls-Herault-Belarga.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-143028-Cazouls-Herault-Belarga.webp
+Completed 10.0 MiB/14.5 MiB (974.7 KiB/s) with 41 file(s) remaining
+Completed 10.1 MiB/14.5 MiB (988.2 KiB/s) with 41 file(s) remaining
+upload: ../../static/images_tc/2024/07/2024-06-04-172800-Frontignan-Fabregues-1024.webp to s3://tcrouzet.com/images_tc/2024/07/2024-06-04-172800-Frontignan-Fabregues-1024.webp
+Completed 10.1 MiB/14.5 MiB (988.2 KiB/s) with 40 file(s) remaining
+Completed 10.4 MiB/14.5 MiB (1009.8 KiB/s) with 40 file(s) remaining
+Completed 10.6 MiB/14.5 MiB (1.0 MiB/s) with 40 file(s) remaining   
+upload: ../../static/images_tc/2024/05/2024-04-11-154104-Cazouls-Herault-Belarga.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-154104-Cazouls-Herault-Belarga.webp
+Completed 10.6 MiB/14.5 MiB (1.0 MiB/s) with 39 file(s) remaining
+Completed 10.8 MiB/14.5 MiB (1.0 MiB/s) with 39 file(s) remaining
+Completed 10.8 MiB/14.5 MiB (1.0 MiB/s) with 39 file(s) remaining
+upload: ../../static/images_tc/2024/07/2024-06-04-183101-Frontignan-Fabregues-250.webp to s3://tcrouzet.com/images_tc/2024/07/2024-06-04-183101-Frontignan-Fabregues-250.webp
+Completed 10.8 MiB/14.5 MiB (1.0 MiB/s) with 38 file(s) remaining
+Completed 11.0 MiB/14.5 MiB (1.0 MiB/s) with 38 file(s) remaining
+upload: ../../static/images_tc/2024/07/2024-06-04-183101-Frontignan-Fabregues-1024.webp to s3://tcrouzet.com/images_tc/2024/07/2024-06-04-183101-Frontignan-Fabregues-1024.webp
+Completed 11.0 MiB/14.5 MiB (1.0 MiB/s) with 37 file(s) remaining
+Completed 11.2 MiB/14.5 MiB (1.1 MiB/s) with 37 file(s) remaining
+upload: ../../static/images_tc/2024/07/2024-06-04-172259-Frontignan-Fabregues-1024.webp to s3://tcrouzet.com/images_tc/2024/07/2024-06-04-172259-Frontignan-Fabregues-1024.webp
+Completed 11.2 MiB/14.5 MiB (1.1 MiB/s) with 36 file(s) remaining
+Completed 11.2 MiB/14.5 MiB (1.1 MiB/s) with 36 file(s) remaining
+upload: ../../static/images_tc/2024/05/2024-04-11-161250-Cazouls-Herault-Belarga.webp to s3://tcrouzet.com/images_tc/2024/05/2024-04-11-161250-Cazouls-Herault-Belarga.webp
+Completed 11.2 MiB/14.5 MiB (1.1 MiB/s) with 35 file(s) remaining
+Completed 11.2 MiB/14.5 MiB (1.0 MiB/s) with 35 file(s) remaining
+upload: ../../static/images_tc/2025/03/devplus-cover-250.webp to s3://tcrouzet.com/images_tc/2025/03/devplus-cover-250.webp
+Completed 11.2 MiB/14.5 MiB (1.0 MiB/s) with 34 file(s) remaining
+Completed 11.5 MiB/14.5 MiB (1.1 MiB/s) with 34 file(s) remaining
+Completed 11.7 MiB/14.5 MiB (1.1 MiB/s) with 34 file(s) remaining
+Completed 11.9 MiB/14.5 MiB (1.1 MiB/s) with 34 file(s) remaining
+upload: ../../static/images_tc/2025/03/devplus-cover-1024.webp to s3://tcrouzet.com/images_tc/2025/03/devplus-cover-1024.webp
+Completed 11.9 MiB/14.5 MiB (1.1 MiB/s) with 33 file(s) remaining
+Completed 12.2 MiB/14.5 MiB (1.1 MiB/s) with 33 file(s) remaining
+Completed 12.3 MiB/14.5 MiB (1.1 MiB/s) with 33 file(s) remaining
+upload: ../../static/images_tc/2025/03/deniv-visu.png to s3://tcrouzet.com/images_tc/2025/03/deniv-visu.png
+Completed 12.3 MiB/14.5 MiB (1.1 MiB/s) with 32 file(s) remaining
+Completed 12.4 MiB/14.5 MiB (1.1 MiB/s) with 32 file(s) remaining
+upload: ../../static/images_tc/2024/07/2024-06-04-183101-Frontignan-Fabregues.webp to s3://tcrouzet.com/images_tc/2024/07/2024-06-04-183101-Frontignan-Fabregues.webp
+Completed 12.4 MiB/14.5 MiB (1.1 MiB/s) with 31 file(s) remaining
+Completed 12.7 MiB/14.5 MiB (1.2 MiB/s) with 31 file(s) remaining
+Completed 12.7 MiB/14.5 MiB (1.2 MiB/s) with 31 file(s) remaining
+upload: ../../static/index.html to s3://tcrouzet.com/index.html  
+Completed 12.7 MiB/14.5 MiB (1.2 MiB/s) with 30 file(s) remaining
+Completed 12.7 MiB/14.5 MiB (1.2 MiB/s) with 30 file(s) remaining
+upload: ../../static/images_tc/2025/03/pou100-estim.png to s3://tcrouzet.com/images_tc/2025/03/pou100-estim.png
+Completed 12.7 MiB/14.5 MiB (1.2 MiB/s) with 29 file(s) remaining
+Completed 12.8 MiB/14.5 MiB (1.2 MiB/s) with 29 file(s) remaining
+upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
+Completed 12.8 MiB/14.5 MiB (1.2 MiB/s) with 28 file(s) remaining
+Completed 13.0 MiB/14.5 MiB (1.2 MiB/s) with 28 file(s) remaining
+Completed 13.3 MiB/14.5 MiB (1.2 MiB/s) with 28 file(s) remaining
+Completed 13.3 MiB/14.5 MiB (1.2 MiB/s) with 28 file(s) remaining
+upload: ../../static/images_tc/2025/03/pou100-profil.png to s3://tcrouzet.com/images_tc/2025/03/pou100-profil.png
+Completed 13.3 MiB/14.5 MiB (1.2 MiB/s) with 27 file(s) remaining
+Completed 13.3 MiB/14.5 MiB (1.2 MiB/s) with 27 file(s) remaining
 upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 344.1 KiB/~405.9 KiB (46.9 KiB/s) with ~5 file(s) remaining (calculating...)
-Completed 344.6 KiB/~462.7 KiB (47.0 KiB/s) with ~7 file(s) remaining (calculating...)
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                         
-Completed 344.6 KiB/~462.7 KiB (47.0 KiB/s) with ~6 file(s) remaining (calculating...)
-Completed 367.5 KiB/462.9 KiB (50.0 KiB/s) with 7 file(s) remaining                   
-upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html         
-Completed 367.5 KiB/462.9 KiB (50.0 KiB/s) with 6 file(s) remaining
-Completed 398.1 KiB/462.9 KiB (54.1 KiB/s) with 6 file(s) remaining
+Completed 13.3 MiB/14.5 MiB (1.2 MiB/s) with 26 file(s) remaining
+Completed 13.6 MiB/14.5 MiB (1.2 MiB/s) with 26 file(s) remaining
+upload: ../../static/images_tc/2025/03/devplus-cover.webp to s3://tcrouzet.com/images_tc/2025/03/devplus-cover.webp
+Completed 13.6 MiB/14.5 MiB (1.2 MiB/s) with 25 file(s) remaining
+Completed 13.8 MiB/14.5 MiB (1.3 MiB/s) with 25 file(s) remaining
+Completed 14.0 MiB/14.5 MiB (1.3 MiB/s) with 25 file(s) remaining
+upload: ../../static/images_tc/2024/07/2024-06-04-172259-Frontignan-Fabregues.webp to s3://tcrouzet.com/images_tc/2024/07/2024-06-04-172259-Frontignan-Fabregues.webp
+Completed 14.0 MiB/14.5 MiB (1.3 MiB/s) with 24 file(s) remaining
+Completed 14.0 MiB/14.5 MiB (1.3 MiB/s) with 24 file(s) remaining
+upload: ../../static/sitemap/sitemap.xml to s3://tcrouzet.com/sitemap/sitemap.xml
+Completed 14.0 MiB/14.5 MiB (1.3 MiB/s) with 23 file(s) remaining
+Completed 14.0 MiB/14.5 MiB (1.3 MiB/s) with 23 file(s) remaining
+upload: ../../static/sitemap/sitemap-years.xml to s3://tcrouzet.com/sitemap/sitemap-years.xml
+Completed 14.0 MiB/14.5 MiB (1.3 MiB/s) with 22 file(s) remaining
+Completed 14.0 MiB/14.5 MiB (1.3 MiB/s) with 22 file(s) remaining
 upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 398.1 KiB/462.9 KiB (54.1 KiB/s) with 5 file(s) remaining
-Completed 398.4 KiB/462.9 KiB (53.8 KiB/s) with 5 file(s) remaining
-upload: ../../static/update.json to s3://tcrouzet.com/update.json  
-Completed 398.4 KiB/462.9 KiB (53.8 KiB/s) with 4 file(s) remaining
-Completed 401.4 KiB/462.9 KiB (54.1 KiB/s) with 4 file(s) remaining
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
-Completed 401.4 KiB/462.9 KiB (54.1 KiB/s) with 3 file(s) remaining
-Completed 427.8 KiB/462.9 KiB (57.6 KiB/s) with 3 file(s) remaining
-upload: ../../static/tag/politique/contener3.html to s3://tcrouzet.com/tag/politique/contener3.html
-Completed 427.8 KiB/462.9 KiB (57.6 KiB/s) with 2 file(s) remaining
-Completed 458.1 KiB/462.9 KiB (61.7 KiB/s) with 2 file(s) remaining
-upload: ../../static/tag/politique/index.html to s3://tcrouzet.com/tag/politique/index.html
-Completed 458.1 KiB/462.9 KiB (61.7 KiB/s) with 1 file(s) remaining
-Completed 462.9 KiB/462.9 KiB (62.1 KiB/s) with 1 file(s) remaining
-upload: ../../static/tag/divination/index.html to s3://tcrouzet.com/tag/divination/index.html
+Completed 14.0 MiB/14.5 MiB (1.3 MiB/s) with 21 file(s) remaining
+Completed 14.1 MiB/14.5 MiB (1.3 MiB/s) with 21 file(s) remaining
+upload: ../../static/images_tc/2024/07/2024-06-04-172800-Frontignan-Fabregues.webp to s3://tcrouzet.com/images_tc/2024/07/2024-06-04-172800-Frontignan-Fabregues.webp
+Completed 14.1 MiB/14.5 MiB (1.3 MiB/s) with 20 file(s) remaining
+Completed 14.1 MiB/14.5 MiB (1.3 MiB/s) with 20 file(s) remaining
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt      
+Completed 14.1 MiB/14.5 MiB (1.3 MiB/s) with 19 file(s) remaining
+Completed 14.1 MiB/14.5 MiB (1.3 MiB/s) with 19 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json    
+Completed 14.1 MiB/14.5 MiB (1.3 MiB/s) with 18 file(s) remaining
+Completed 14.2 MiB/14.5 MiB (1.3 MiB/s) with 18 file(s) remaining
+upload: ../../static/tag/blog/index.html to s3://tcrouzet.com/tag/blog/index.html
+Completed 14.2 MiB/14.5 MiB (1.3 MiB/s) with 17 file(s) remaining
+Completed 14.2 MiB/14.5 MiB (1.3 MiB/s) with 17 file(s) remaining
+upload: ../../static/tag/borntobike/contener4.html to s3://tcrouzet.com/tag/borntobike/contener4.html
+Completed 14.2 MiB/14.5 MiB (1.3 MiB/s) with 16 file(s) remaining
+Completed 14.2 MiB/14.5 MiB (1.3 MiB/s) with 16 file(s) remaining
+upload: ../../static/tag/borntobike/contener5.html to s3://tcrouzet.com/tag/borntobike/contener5.html
+Completed 14.2 MiB/14.5 MiB (1.3 MiB/s) with 15 file(s) remaining
+Completed 14.2 MiB/14.5 MiB (1.3 MiB/s) with 15 file(s) remaining
+upload: ../../static/tag/borntobike/contener3.html to s3://tcrouzet.com/tag/borntobike/contener3.html
+Completed 14.2 MiB/14.5 MiB (1.3 MiB/s) with 14 file(s) remaining
+Completed 14.2 MiB/14.5 MiB (1.3 MiB/s) with 14 file(s) remaining
+upload: ../../static/tag/borntobike/contener2.html to s3://tcrouzet.com/tag/borntobike/contener2.html
+Completed 14.2 MiB/14.5 MiB (1.3 MiB/s) with 13 file(s) remaining
+Completed 14.3 MiB/14.5 MiB (1.3 MiB/s) with 13 file(s) remaining
+upload: ../../static/tag/borntobike/index.html to s3://tcrouzet.com/tag/borntobike/index.html
+Completed 14.3 MiB/14.5 MiB (1.3 MiB/s) with 12 file(s) remaining
+Completed 14.3 MiB/14.5 MiB (1.3 MiB/s) with 12 file(s) remaining
+upload: ../../static/images_tc/2025/03/devplus-cover.jpeg to s3://tcrouzet.com/images_tc/2025/03/devplus-cover.jpeg
+Completed 14.3 MiB/14.5 MiB (1.3 MiB/s) with 11 file(s) remaining
+Completed 14.3 MiB/14.5 MiB (1.3 MiB/s) with 11 file(s) remaining
+upload: ../../static/sitemap/sitemap-posts.xml to s3://tcrouzet.com/sitemap/sitemap-posts.xml
+Completed 14.3 MiB/14.5 MiB (1.3 MiB/s) with 10 file(s) remaining
+Completed 14.3 MiB/14.5 MiB (1.3 MiB/s) with 10 file(s) remaining
+upload: ../../static/tag/coup_de_gueule/index.html to s3://tcrouzet.com/tag/coup_de_gueule/index.html
+Completed 14.3 MiB/14.5 MiB (1.3 MiB/s) with 9 file(s) remaining
+Completed 14.4 MiB/14.5 MiB (1.3 MiB/s) with 9 file(s) remaining
+upload: ../../static/tag/breves/index.html to s3://tcrouzet.com/tag/breves/index.html
+Completed 14.4 MiB/14.5 MiB (1.3 MiB/s) with 8 file(s) remaining
+Completed 14.4 MiB/14.5 MiB (1.3 MiB/s) with 8 file(s) remaining
+Completed 14.4 MiB/14.5 MiB (1.3 MiB/s) with 8 file(s) remaining
+upload: ../../static/tag/cuisine/index.html to s3://tcrouzet.com/tag/cuisine/index.html
+Completed 14.4 MiB/14.5 MiB (1.3 MiB/s) with 7 file(s) remaining
+upload: ../../static/tag/cuisine/contener2.html to s3://tcrouzet.com/tag/cuisine/contener2.html
+Completed 14.4 MiB/14.5 MiB (1.3 MiB/s) with 6 file(s) remaining
+Completed 14.4 MiB/14.5 MiB (1.3 MiB/s) with 6 file(s) remaining
+upload: ../../static/tag/dialogue/index.html to s3://tcrouzet.com/tag/dialogue/index.html
+Completed 14.4 MiB/14.5 MiB (1.3 MiB/s) with 5 file(s) remaining
+Completed 14.5 MiB/14.5 MiB (1.3 MiB/s) with 5 file(s) remaining
+upload: ../../static/tag/gps/index.html to s3://tcrouzet.com/tag/gps/index.html
+Completed 14.5 MiB/14.5 MiB (1.3 MiB/s) with 4 file(s) remaining
+Completed 14.5 MiB/14.5 MiB (1.3 MiB/s) with 4 file(s) remaining
+upload: ../../static/tag/politique/contener2.html to s3://tcrouzet.com/tag/politique/contener2.html
+Completed 14.5 MiB/14.5 MiB (1.3 MiB/s) with 3 file(s) remaining
+Completed 14.5 MiB/14.5 MiB (1.3 MiB/s) with 3 file(s) remaining
+upload: ../../static/tag/mrdb/index.html to s3://tcrouzet.com/tag/mrdb/index.html
+Completed 14.5 MiB/14.5 MiB (1.3 MiB/s) with 2 file(s) remaining
+Completed 14.5 MiB/14.5 MiB (1.3 MiB/s) with 2 file(s) remaining
+upload: ../../static/tag/dialogue/contener7.html to s3://tcrouzet.com/tag/dialogue/contener7.html
+Completed 14.5 MiB/14.5 MiB (1.3 MiB/s) with 1 file(s) remaining
+Completed 14.5 MiB/14.5 MiB (1.3 MiB/s) with 1 file(s) remaining
+upload: ../../static/update.json to s3://tcrouzet.com/update.json
