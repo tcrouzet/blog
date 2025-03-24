@@ -1,38 +1,65 @@
-Completed 8.3 KiB/~150.1 KiB (93.5 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/2025/03/24/divination-002/index.html to s3://tcrouzet.com/2025/03/24/divination-002/index.html
-Completed 8.3 KiB/~150.1 KiB (93.5 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 14.3 KiB/~150.1 KiB (81.4 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 10.5 KiB/~18.2 KiB (111.1 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/2012/01/18/francois-hollande-ne-sera-pas-president/index.html to s3://tcrouzet.com/2012/01/18/francois-hollande-ne-sera-pas-president/index.html
+Completed 10.5 KiB/~18.2 KiB (111.1 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 18.2 KiB/~18.2 KiB (126.8 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/2012/01/18/francois-hollande-ne-sera-pas-president/content.html to s3://tcrouzet.com/2012/01/18/francois-hollande-ne-sera-pas-president/content.html
+Completed 18.2 KiB/~18.2 KiB (126.8 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 24.2 KiB/~196.6 KiB (19.7 KiB/s) with ~6 file(s) remaining (calculating...)
 upload: ../../static/2025/03/24/divination-002/content.html to s3://tcrouzet.com/2025/03/24/divination-002/content.html
-Completed 14.3 KiB/~150.1 KiB (81.4 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 43.5 KiB/~150.1 KiB (160.0 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html             
-Completed 43.5 KiB/~150.1 KiB (160.0 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 96.8 KiB/~150.1 KiB (258.7 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml               
-Completed 96.8 KiB/~150.1 KiB (258.7 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 150.1 KiB/~150.1 KiB (378.6 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 150.1 KiB/~150.1 KiB (378.6 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 153.8 KiB/~224.8 KiB (22.8 KiB/s) with ~7 file(s) remaining (calculating...) 
+Completed 24.2 KiB/~196.6 KiB (19.7 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 32.5 KiB/~196.6 KiB (26.4 KiB/s) with ~5 file(s) remaining (calculating...)
+upload: ../../static/2025/03/24/divination-002/index.html to s3://tcrouzet.com/2025/03/24/divination-002/index.html
+Completed 32.5 KiB/~196.6 KiB (26.4 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 61.7 KiB/~196.6 KiB (45.4 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html            
+Completed 61.7 KiB/~196.6 KiB (45.4 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 90.0 KiB/~196.6 KiB (65.4 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/blog/contener21.html to s3://tcrouzet.com/blog/contener21.html  
+Completed 90.0 KiB/~196.6 KiB (65.4 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 143.3 KiB/~196.6 KiB (98.3 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml               
+Completed 143.3 KiB/~196.6 KiB (98.3 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 196.6 KiB/~196.6 KiB (133.2 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
+Completed 196.6 KiB/~196.6 KiB (133.2 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 207.0 KiB/~339.3 KiB (89.2 KiB/s) with ~4 file(s) remaining (calculating...) 
+upload: ../../static/images_tc/2012/01/Francois_Hollande_Septembre_2011-250.webp to s3://tcrouzet.com/images_tc/2012/01/Francois_Hollande_Septembre_2011-250.webp
+Completed 207.0 KiB/~339.3 KiB (89.2 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 233.4 KiB/~339.3 KiB (98.2 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2012/01/Francois_Hollande_Septembre_2011.webp to s3://tcrouzet.com/images_tc/2012/01/Francois_Hollande_Septembre_2011.webp
+Completed 233.4 KiB/~339.3 KiB (98.2 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 272.8 KiB/~339.3 KiB (113.5 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2012/01/Francois_Hollande_Septembre_2011.jpeg to s3://tcrouzet.com/images_tc/2012/01/Francois_Hollande_Septembre_2011.jpeg
+Completed 272.8 KiB/~339.3 KiB (113.5 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 339.3 KiB/~339.3 KiB (139.2 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2012/01/Francois_Hollande_Septembre_2011-1024.webp to s3://tcrouzet.com/images_tc/2012/01/Francois_Hollande_Septembre_2011-1024.webp
+Completed 339.3 KiB/~339.3 KiB (139.2 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 342.9 KiB/~405.9 KiB (46.9 KiB/s) with ~7 file(s) remaining (calculating...) 
 upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
-Completed 153.8 KiB/~224.8 KiB (22.8 KiB/s) with ~6 file(s) remaining (calculating...)
-Completed 154.1 KiB/225.1 KiB (22.5 KiB/s) with 7 file(s) remaining                   
-upload: ../../static/update.json to s3://tcrouzet.com/update.json                     
-Completed 154.1 KiB/225.1 KiB (22.5 KiB/s) with 6 file(s) remaining
-Completed 155.2 KiB/225.1 KiB (22.7 KiB/s) with 6 file(s) remaining
+Completed 342.9 KiB/~405.9 KiB (46.9 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 344.1 KiB/~405.9 KiB (46.9 KiB/s) with ~6 file(s) remaining (calculating...)
 upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 155.2 KiB/225.1 KiB (22.7 KiB/s) with 5 file(s) remaining
-Completed 157.3 KiB/225.1 KiB (23.0 KiB/s) with 5 file(s) remaining
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
-Completed 157.3 KiB/225.1 KiB (23.0 KiB/s) with 4 file(s) remaining
-Completed 162.1 KiB/225.1 KiB (23.5 KiB/s) with 4 file(s) remaining
-upload: ../../static/tag/divination/index.html to s3://tcrouzet.com/tag/divination/index.html
-Completed 162.1 KiB/225.1 KiB (23.5 KiB/s) with 3 file(s) remaining
-Completed 171.6 KiB/225.1 KiB (24.9 KiB/s) with 3 file(s) remaining
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
-Completed 171.6 KiB/225.1 KiB (24.9 KiB/s) with 2 file(s) remaining
-Completed 194.5 KiB/225.1 KiB (28.1 KiB/s) with 2 file(s) remaining
-upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
-Completed 194.5 KiB/225.1 KiB (28.1 KiB/s) with 1 file(s) remaining
-Completed 225.1 KiB/225.1 KiB (32.5 KiB/s) with 1 file(s) remaining
+Completed 344.1 KiB/~405.9 KiB (46.9 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 344.6 KiB/~462.7 KiB (47.0 KiB/s) with ~7 file(s) remaining (calculating...)
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                         
+Completed 344.6 KiB/~462.7 KiB (47.0 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 367.5 KiB/462.9 KiB (50.0 KiB/s) with 7 file(s) remaining                   
+upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html         
+Completed 367.5 KiB/462.9 KiB (50.0 KiB/s) with 6 file(s) remaining
+Completed 398.1 KiB/462.9 KiB (54.1 KiB/s) with 6 file(s) remaining
 upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
+Completed 398.1 KiB/462.9 KiB (54.1 KiB/s) with 5 file(s) remaining
+Completed 398.4 KiB/462.9 KiB (53.8 KiB/s) with 5 file(s) remaining
+upload: ../../static/update.json to s3://tcrouzet.com/update.json  
+Completed 398.4 KiB/462.9 KiB (53.8 KiB/s) with 4 file(s) remaining
+Completed 401.4 KiB/462.9 KiB (54.1 KiB/s) with 4 file(s) remaining
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
+Completed 401.4 KiB/462.9 KiB (54.1 KiB/s) with 3 file(s) remaining
+Completed 427.8 KiB/462.9 KiB (57.6 KiB/s) with 3 file(s) remaining
+upload: ../../static/tag/politique/contener3.html to s3://tcrouzet.com/tag/politique/contener3.html
+Completed 427.8 KiB/462.9 KiB (57.6 KiB/s) with 2 file(s) remaining
+Completed 458.1 KiB/462.9 KiB (61.7 KiB/s) with 2 file(s) remaining
+upload: ../../static/tag/politique/index.html to s3://tcrouzet.com/tag/politique/index.html
+Completed 458.1 KiB/462.9 KiB (61.7 KiB/s) with 1 file(s) remaining
+Completed 462.9 KiB/462.9 KiB (62.1 KiB/s) with 1 file(s) remaining
+upload: ../../static/tag/divination/index.html to s3://tcrouzet.com/tag/divination/index.html
