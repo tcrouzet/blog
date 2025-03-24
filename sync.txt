@@ -1,96 +1,38 @@
-Completed 29.5 KiB/~414.1 KiB (205.7 KiB/s) with ~10 file(s) remaining (calculating...)
-upload: ../../static/2024/09/18/aout-2024/index.html to s3://tcrouzet.com/2024/09/18/aout-2024/index.html
-Completed 29.5 KiB/~414.1 KiB (205.7 KiB/s) with ~9 file(s) remaining (calculating...)
-Completed 35.5 KiB/~414.1 KiB (203.1 KiB/s) with ~9 file(s) remaining (calculating...)
-upload: ../../static/2025/03/24/divination-002/content.html to s3://tcrouzet.com/2025/03/24/divination-002/content.html
-Completed 35.5 KiB/~414.1 KiB (203.1 KiB/s) with ~8 file(s) remaining (calculating...)
-Completed 40.4 KiB/~414.1 KiB (212.8 KiB/s) with ~8 file(s) remaining (calculating...)
-upload: ../../static/2025/03/20/divination-001/content.html to s3://tcrouzet.com/2025/03/20/divination-001/content.html
-Completed 40.4 KiB/~414.1 KiB (212.8 KiB/s) with ~7 file(s) remaining (calculating...)
-Completed 47.8 KiB/~414.1 KiB (250.8 KiB/s) with ~7 file(s) remaining (calculating...)
-upload: ../../static/2025/03/20/divination-001/index.html to s3://tcrouzet.com/2025/03/20/divination-001/index.html
-Completed 47.8 KiB/~414.1 KiB (250.8 KiB/s) with ~6 file(s) remaining (calculating...)
-Completed 56.1 KiB/~414.1 KiB (282.9 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 8.3 KiB/~150.1 KiB (93.5 KiB/s) with ~5 file(s) remaining (calculating...)
 upload: ../../static/2025/03/24/divination-002/index.html to s3://tcrouzet.com/2025/03/24/divination-002/index.html
-Completed 56.1 KiB/~414.1 KiB (282.9 KiB/s) with ~5 file(s) remaining (calculating...)
-Completed 85.3 KiB/~414.1 KiB (362.9 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 8.3 KiB/~150.1 KiB (93.5 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 14.3 KiB/~150.1 KiB (81.4 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/2025/03/24/divination-002/content.html to s3://tcrouzet.com/2025/03/24/divination-002/content.html
+Completed 14.3 KiB/~150.1 KiB (81.4 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 43.5 KiB/~150.1 KiB (160.0 KiB/s) with ~3 file(s) remaining (calculating...)
 upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html             
-Completed 85.3 KiB/~414.1 KiB (362.9 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 112.4 KiB/~414.1 KiB (467.0 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/2024/09/18/aout-2024/content.html to s3://tcrouzet.com/2024/09/18/aout-2024/content.html
-Completed 112.4 KiB/~414.1 KiB (467.0 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 165.7 KiB/~414.1 KiB (491.7 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
-Completed 165.7 KiB/~414.1 KiB (491.7 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 219.0 KiB/~414.1 KiB (646.0 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 43.5 KiB/~150.1 KiB (160.0 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 96.8 KiB/~150.1 KiB (258.7 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml               
+Completed 96.8 KiB/~150.1 KiB (258.7 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 150.1 KiB/~150.1 KiB (378.6 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 219.0 KiB/~414.1 KiB (646.0 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 414.1 KiB/~414.1 KiB (802.4 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/feeds/carnet-de-route.xml to s3://tcrouzet.com/feeds/carnet-de-route.xml
-Completed 414.1 KiB/~414.1 KiB (802.4 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 421.7 KiB/~1.6 MiB (68.3 KiB/s) with ~13 file(s) remaining (calculating...)  
-upload: ../../static/images_tc/2024/09/2024-08-12-073243-Gigean-Villeneuve-les-Maguelone-250.webp to s3://tcrouzet.com/images_tc/2024/09/2024-08-12-073243-Gigean-Villeneuve-les-Maguelone-250.webp
-Completed 421.7 KiB/~1.6 MiB (68.3 KiB/s) with ~12 file(s) remaining (calculating...)
-Completed 426.4 KiB/~1.6 MiB (69.1 KiB/s) with ~12 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2024/09/2024-08-12-082330-Gigean-Villeneuve-les-Maguelone-250.webp to s3://tcrouzet.com/images_tc/2024/09/2024-08-12-082330-Gigean-Villeneuve-les-Maguelone-250.webp
-Completed 426.4 KiB/~1.6 MiB (69.1 KiB/s) with ~11 file(s) remaining (calculating...)
-Completed 475.3 KiB/~1.6 MiB (76.5 KiB/s) with ~11 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2024/09/2024-08-12-072202-Gigean-Villeneuve-les-Maguelone-1024.webp to s3://tcrouzet.com/images_tc/2024/09/2024-08-12-072202-Gigean-Villeneuve-les-Maguelone-1024.webp
-Completed 475.3 KiB/~1.6 MiB (76.5 KiB/s) with ~10 file(s) remaining (calculating...)
-Completed 479.6 KiB/~1.6 MiB (77.0 KiB/s) with ~10 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2024/09/2024-08-12-072202-Gigean-Villeneuve-les-Maguelone-250.webp to s3://tcrouzet.com/images_tc/2024/09/2024-08-12-072202-Gigean-Villeneuve-les-Maguelone-250.webp
-Completed 479.6 KiB/~1.6 MiB (77.0 KiB/s) with ~9 file(s) remaining (calculating...)
-Completed 597.4 KiB/~1.6 MiB (95.6 KiB/s) with ~9 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2024/09/2024-08-12-082330-Gigean-Villeneuve-les-Maguelone.webp to s3://tcrouzet.com/images_tc/2024/09/2024-08-12-082330-Gigean-Villeneuve-les-Maguelone.webp
-Completed 597.4 KiB/~1.6 MiB (95.6 KiB/s) with ~8 file(s) remaining (calculating...)
-Completed 643.2 KiB/~1.6 MiB (102.5 KiB/s) with ~8 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2024/09/2024-08-12-082458-Gigean-Villeneuve-les-Maguelone-1024.webp to s3://tcrouzet.com/images_tc/2024/09/2024-08-12-082458-Gigean-Villeneuve-les-Maguelone-1024.webp
-Completed 643.2 KiB/~1.6 MiB (102.5 KiB/s) with ~7 file(s) remaining (calculating...)
-Completed 692.8 KiB/~1.6 MiB (110.0 KiB/s) with ~7 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2024/09/2024-08-12-082330-Gigean-Villeneuve-les-Maguelone-1024.webp to s3://tcrouzet.com/images_tc/2024/09/2024-08-12-082330-Gigean-Villeneuve-les-Maguelone-1024.webp
-Completed 692.8 KiB/~1.6 MiB (110.0 KiB/s) with ~6 file(s) remaining (calculating...)
-Completed 809.8 KiB/~1.6 MiB (128.5 KiB/s) with ~6 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2024/09/2024-08-12-072202-Gigean-Villeneuve-les-Maguelone.webp to s3://tcrouzet.com/images_tc/2024/09/2024-08-12-072202-Gigean-Villeneuve-les-Maguelone.webp
-Completed 809.8 KiB/~1.6 MiB (128.5 KiB/s) with ~5 file(s) remaining (calculating...)
-Completed 813.8 KiB/~1.6 MiB (129.1 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2024/09/2024-08-12-082458-Gigean-Villeneuve-les-Maguelone-250.webp to s3://tcrouzet.com/images_tc/2024/09/2024-08-12-082458-Gigean-Villeneuve-les-Maguelone-250.webp
-Completed 813.8 KiB/~1.6 MiB (129.1 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 995.5 KiB/~1.6 MiB (157.8 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2024/09/2024-08-12-072202-Gigean-Villeneuve-les-Maguelone.jpeg to s3://tcrouzet.com/images_tc/2024/09/2024-08-12-072202-Gigean-Villeneuve-les-Maguelone.jpeg
-Completed 995.5 KiB/~1.6 MiB (157.8 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 1.2 MiB/~1.6 MiB (197.8 KiB/s) with ~3 file(s) remaining (calculating...)  
-Completed 1.4 MiB/~1.6 MiB (218.3 KiB/s) with ~3 file(s) remaining (calculating...)  
-upload: ../../static/images_tc/2024/09/2024-08-12-073243-Gigean-Villeneuve-les-Maguelone-1024.webp to s3://tcrouzet.com/images_tc/2024/09/2024-08-12-073243-Gigean-Villeneuve-les-Maguelone-1024.webp
-Completed 1.4 MiB/~1.6 MiB (218.3 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 1.5 MiB/~1.6 MiB (233.8 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2024/09/2024-08-12-082458-Gigean-Villeneuve-les-Maguelone.webp to s3://tcrouzet.com/images_tc/2024/09/2024-08-12-082458-Gigean-Villeneuve-les-Maguelone.webp
-Completed 1.5 MiB/~1.6 MiB (233.8 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 1.6 MiB/~1.6 MiB (245.5 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2024/09/2024-08-12-073243-Gigean-Villeneuve-les-Maguelone.webp to s3://tcrouzet.com/images_tc/2024/09/2024-08-12-073243-Gigean-Villeneuve-les-Maguelone.webp
-Completed 1.6 MiB/~1.6 MiB (245.5 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 1.6 MiB/~1.7 MiB (243.5 KiB/s) with ~8 file(s) remaining (calculating...)
-upload: ../../static/index.html to s3://tcrouzet.com/index.html                    
-Completed 1.6 MiB/~1.7 MiB (243.5 KiB/s) with ~7 file(s) remaining (calculating...)
-Completed 1.6 MiB/~1.7 MiB (246.3 KiB/s) with ~7 file(s) remaining (calculating...)
-Completed 1.6 MiB/~1.7 MiB (246.5 KiB/s) with ~7 file(s) remaining (calculating...)
-upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html      
-Completed 1.6 MiB/~1.7 MiB (246.5 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 150.1 KiB/~150.1 KiB (378.6 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 153.8 KiB/~224.8 KiB (22.8 KiB/s) with ~7 file(s) remaining (calculating...) 
+upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
+Completed 153.8 KiB/~224.8 KiB (22.8 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 154.1 KiB/225.1 KiB (22.5 KiB/s) with 7 file(s) remaining                   
+upload: ../../static/update.json to s3://tcrouzet.com/update.json                     
+Completed 154.1 KiB/225.1 KiB (22.5 KiB/s) with 6 file(s) remaining
+Completed 155.2 KiB/225.1 KiB (22.7 KiB/s) with 6 file(s) remaining
 upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 1.6 MiB/~1.7 MiB (246.5 KiB/s) with ~5 file(s) remaining (calculating...)
-Completed 1.6 MiB/~1.7 MiB (246.8 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                        
-Completed 1.6 MiB/~1.7 MiB (246.8 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 1.6 MiB/~1.7 MiB (246.9 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                      
-Completed 1.6 MiB/~1.7 MiB (246.9 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 1.6 MiB/1.7 MiB (246.5 KiB/s) with 4 file(s) remaining                   
+Completed 155.2 KiB/225.1 KiB (22.7 KiB/s) with 5 file(s) remaining
+Completed 157.3 KiB/225.1 KiB (23.0 KiB/s) with 5 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
+Completed 157.3 KiB/225.1 KiB (23.0 KiB/s) with 4 file(s) remaining
+Completed 162.1 KiB/225.1 KiB (23.5 KiB/s) with 4 file(s) remaining
 upload: ../../static/tag/divination/index.html to s3://tcrouzet.com/tag/divination/index.html
-Completed 1.6 MiB/1.7 MiB (246.5 KiB/s) with 3 file(s) remaining
-Completed 1.6 MiB/1.7 MiB (250.8 KiB/s) with 3 file(s) remaining
+Completed 162.1 KiB/225.1 KiB (23.5 KiB/s) with 3 file(s) remaining
+Completed 171.6 KiB/225.1 KiB (24.9 KiB/s) with 3 file(s) remaining
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
+Completed 171.6 KiB/225.1 KiB (24.9 KiB/s) with 2 file(s) remaining
+Completed 194.5 KiB/225.1 KiB (28.1 KiB/s) with 2 file(s) remaining
+upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
+Completed 194.5 KiB/225.1 KiB (28.1 KiB/s) with 1 file(s) remaining
+Completed 225.1 KiB/225.1 KiB (32.5 KiB/s) with 1 file(s) remaining
 upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 1.6 MiB/1.7 MiB (250.8 KiB/s) with 2 file(s) remaining
-Completed 1.7 MiB/1.7 MiB (254.6 KiB/s) with 2 file(s) remaining
-upload: ../../static/tag/carnet-de-route/index.html to s3://tcrouzet.com/tag/carnet-de-route/index.html
-Completed 1.7 MiB/1.7 MiB (254.6 KiB/s) with 1 file(s) remaining
-Completed 1.7 MiB/1.7 MiB (253.7 KiB/s) with 1 file(s) remaining
-upload: ../../static/update.json to s3://tcrouzet.com/update.json
