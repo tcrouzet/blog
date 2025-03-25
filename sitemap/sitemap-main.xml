@@ -2,24 +2,24 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tcrouzet.com/series/index.html</loc>
-    <lastmod>2025-03-25T14:41:14+01:00</lastmod>
+    <lastmod>2025-03-25T18:32:58+01:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2025/03/003.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/blog/index.html</loc>
-    <lastmod>2025-03-25T14:41:14+01:00</lastmod>
+    <lastmod>2025-03-25T18:32:58+01:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2025/03/003.webp</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/index.html</loc>
-    <lastmod>2025-03-25T14:41:14+01:00</lastmod>
+    <lastmod>2025-03-25T18:32:58+01:00</lastmod>
   </url>
   <url>
     <loc>https://tcrouzet.com/archives/index.html</loc>
-    <lastmod>2025-03-25T13:58:57+00:00</lastmod>
+    <lastmod>2025-03-25T17:35:07+00:00</lastmod>
   </url>
 </urlset>
