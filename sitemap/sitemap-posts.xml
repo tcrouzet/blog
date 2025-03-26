@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2025/03/26/divination-004/index.html</loc>
+    <lastmod>2025-03-26T09:42:21+01:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2025/03/004.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2025/03/25/divination-003/index.html</loc>
-    <lastmod>2025-03-25T14:41:14+01:00</lastmod>
+    <lastmod>2025-03-25T18:46:32+01:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2025/03/003.webp</image:loc>
     </image:image>
@@ -30,7 +37,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2025/03/20/mythologies-de-poche/index.html</loc>
-    <lastmod>2025-03-24T20:12:10+01:00</lastmod>
+    <lastmod>2025-03-26T06:13:05+01:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2025/03/montage_final.webp</image:loc>
     </image:image>
@@ -289,7 +296,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2024/08/10/juillet-2024/index.html</loc>
-    <lastmod>2025-03-24T21:21:07+01:00</lastmod>
+    <lastmod>2025-03-25T14:58:22+01:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/08/hockney.webp</image:loc>
     </image:image>
