@@ -249,7 +249,7 @@ function showComments(commentId) {
         // Charger le formulaire de commentaires via doAPIcall
         doAPIcall(
             "GET", 
-            "/ajax-comment.html?7", 
+            "/ajax-comment.html?9", 
             false,
             function (htmlData) {
                 if (htmlData) {

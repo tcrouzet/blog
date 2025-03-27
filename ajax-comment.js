@@ -36,6 +36,7 @@ function initCommentSystem(commentId) {
     
     // Convertir l'URL du post au format attendu pour les commentaires GitHub
     const githubPostUrl = postUrl.replace(/(\d{4})\/0?(\d|1[0-2])\/\d{2}\/(.+?)\/?$/, '$1/$2/$3.md');
+    console.log('URL du post pour GitHub:', githubPostUrl);
     
     // Configurer les champs cachés avec les valeurs récupérées
     const postUrlField = commentsDiv.querySelector('.postUrlField');
@@ -171,6 +172,7 @@ function submitComment(form) {
     const formData = new FormData(form);
     const messageDiv = form.querySelector('.message');
     const actionUrl = "https://formspree.io/f/mgebvkwn"; // Pour l'email
+    const githubUrl = "https://blog-comment.tc8790.workers.dev/"; // URL de votre Worker Cloudflare
     
     // Afficher un message de chargement
     messageDiv.innerHTML = "<div style='color: blue;'>Envoi en cours...</div>";
@@ -183,7 +185,7 @@ function submitComment(form) {
         if (response.ok) {
             return data;
         } else {
-            throw new Error(data.message || data.error || `Erreur lors de l'envoi à ${serviceName}.`);
+            throw new Error(data.error || data.message || `Erreur lors de l'envoi à ${serviceName}.`);
         }
     };
   
@@ -198,34 +200,28 @@ function submitComment(form) {
     .then(() => {
         // Check if the message type is public before sending to GitHub
         if (formData.get('messageType') === 'public') {
-            const postUrl = formData.get('postUrl');
-            const postTitle = formData.get('postTitle');
-            const author = formData.get('nom');
-            const message = formData.get('message');
-            
-            // Créer le corps de l'issue
-            const issueBody = `postUrl: ${postUrl}
-postTitle: ${postTitle}
-author: ${author}
-message: ${message}`;
-            
-            // Créer une issue GitHub pour déclencher l'action
-            return fetch('https://api.github.com/repos/tcrouzet/md/issues', {
-                method: 'POST',
+            // Préparer les données pour le Worker
+            const commentData = {
+                postUrl: formData.get('postUrl'),
+                postTitle: formData.get('postTitle'),
+                nom: formData.get('nom'),
+                email: formData.get('email'),
+                message: formData.get('message')
+            };
+            console.log('Données envoyées :', commentData);
+
+
+            return fetch(githubUrl, {
+                method: "POST",
                 headers: {
-                    'Authorization': 'token GITHUB_TOKEN_PUBLIC_READONLY', // Token avec droits minimaux
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({
-                    title: `COMMENT_SUBMISSION: ${postTitle}`,
-                    body: issueBody,
-                    labels: ['comment']
-                })
+                body: JSON.stringify(commentData)
             })
             .then(response => handleResponse(response, 'GitHub'));
         }
     })
-    .then(() => {
+    .then((data) => {
         form.reset(); // Clear the form fields
         if (formData.get('messageType') === 'public') {
             messageDiv.innerHTML = "<div style='color: green;'>Le message sera vite publié.</div>";
@@ -241,7 +237,7 @@ message: ${message}`;
                             existingComments.innerHTML = comments;
                         }
                     });
-            }, 10000); // Attendre que l'action GitHub s'exécute
+            }, 5000); // Attendre 5 secondes pour que le commentaire soit traité
         } else {
             messageDiv.innerHTML = "<div style='color: green;'>Message privé envoyé.</div>";
         }
