@@ -1,337 +1,56 @@
-Completed 28.8 KiB/~516.8 KiB (177.2 KiB/s) with ~7 file(s) remaining (calculating...)
-upload: ../../static/2025/04/02/freiner-en-monte/index.html to s3://tcrouzet.com/2025/04/02/freiner-en-monte/index.html
-Completed 28.8 KiB/~516.8 KiB (177.2 KiB/s) with ~6 file(s) remaining (calculating...)
-Completed 55.1 KiB/~516.8 KiB (279.2 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 8.3 KiB/~319.1 KiB (49.7 KiB/s) with ~9 file(s) remaining (calculating...)
+upload: ../../static/2025/03/26/divination-004/index.html to s3://tcrouzet.com/2025/03/26/divination-004/index.html
+Completed 8.3 KiB/~319.1 KiB (49.7 KiB/s) with ~8 file(s) remaining (calculating...)
+Completed 14.2 KiB/~319.1 KiB (42.5 KiB/s) with ~8 file(s) remaining (calculating...)
+upload: ../../static/2025/03/26/divination-004/content.html to s3://tcrouzet.com/2025/03/26/divination-004/content.html
+Completed 14.2 KiB/~319.1 KiB (42.5 KiB/s) with ~7 file(s) remaining (calculating...)
+Completed 29.9 KiB/~319.1 KiB (69.0 KiB/s) with ~7 file(s) remaining (calculating...)
+Completed 56.2 KiB/~319.1 KiB (129.3 KiB/s) with ~7 file(s) remaining (calculating...)
 upload: ../../static/2025/04/02/freiner-en-monte/content.html to s3://tcrouzet.com/2025/04/02/freiner-en-monte/content.html
-Completed 55.1 KiB/~516.8 KiB (279.2 KiB/s) with ~5 file(s) remaining (calculating...)
-Completed 73.6 KiB/~516.8 KiB (315.4 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/2025/index.html to s3://tcrouzet.com/2025/index.html             
-Completed 73.6 KiB/~516.8 KiB (315.4 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 89.3 KiB/~516.8 KiB (297.3 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml               
-Completed 89.3 KiB/~516.8 KiB (297.3 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 175.6 KiB/~516.8 KiB (583.4 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 56.2 KiB/~319.1 KiB (129.3 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 85.0 KiB/~319.1 KiB (195.1 KiB/s) with ~6 file(s) remaining (calculating...)
+upload: ../../static/2025/04/02/freiner-en-monte/index.html to s3://tcrouzet.com/2025/04/02/freiner-en-monte/index.html
+Completed 85.0 KiB/~319.1 KiB (195.1 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 100.8 KiB/~319.1 KiB (231.0 KiB/s) with ~5 file(s) remaining (calculating...)
+upload: ../../static/feeds/ecriture.xml to s3://tcrouzet.com/feeds/ecriture.xml        
+Completed 100.8 KiB/~319.1 KiB (231.0 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
+Completed 100.8 KiB/~319.1 KiB (231.0 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 129.9 KiB/~319.1 KiB (272.3 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html              
+Completed 129.9 KiB/~319.1 KiB (272.3 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 232.8 KiB/~319.1 KiB (369.8 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 319.1 KiB/~319.1 KiB (506.6 KiB/s) with ~2 file(s) remaining (calculating...)
 upload: ../../static/feeds/borntobike.xml to s3://tcrouzet.com/feeds/borntobike.xml    
-Completed 175.6 KiB/~516.8 KiB (583.4 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 278.5 KiB/~516.8 KiB (599.9 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 319.1 KiB/~319.1 KiB (506.6 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 278.5 KiB/~516.8 KiB (599.9 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 516.8 KiB/~516.8 KiB (881.8 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/archives/index.html to s3://tcrouzet.com/archives/index.html      
-Completed 516.8 KiB/~516.8 KiB (881.8 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 698.9 KiB/~23.6 MiB (94.7 KiB/s) with ~81 file(s) remaining (calculating...) 
-upload: ../../static/images_tc/2025/04/2025-03-28-163818-CastelldEmpries-1024.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-163818-CastelldEmpries-1024.webp
-Completed 698.9 KiB/~23.6 MiB (94.7 KiB/s) with ~80 file(s) remaining (calculating...)
-Completed 708.9 KiB/~23.6 MiB (95.8 KiB/s) with ~80 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2025/04/2025-03-28-163818-CastelldEmpries-250.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-163818-CastelldEmpries-250.webp
-Completed 708.9 KiB/~23.6 MiB (95.8 KiB/s) with ~79 file(s) remaining (calculating...)
-Completed 719.8 KiB/~23.6 MiB (97.2 KiB/s) with ~79 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2025/04/2025-03-28-164354-CastelldEmpries-250.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-164354-CastelldEmpries-250.webp
-Completed 719.8 KiB/~23.6 MiB (97.2 KiB/s) with ~78 file(s) remaining (calculating...)
-Completed 736.9 KiB/~23.6 MiB (99.2 KiB/s) with ~78 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2025/04/2025-03-28-163939-CastelldEmpries-250.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-163939-CastelldEmpries-250.webp
-Completed 736.9 KiB/~23.6 MiB (99.2 KiB/s) with ~77 file(s) remaining (calculating...)
-Completed 744.8 KiB/~23.6 MiB (99.6 KiB/s) with ~78 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2025/04/2025-03-28-181022-CastelldEmpries-250.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-181022-CastelldEmpries-250.webp
-Completed 744.8 KiB/~23.6 MiB (99.6 KiB/s) with ~77 file(s) remaining (calculating...)
-Completed 755.4 KiB/23.6 MiB (100.3 KiB/s) with 78 file(s) remaining                  
-upload: ../../static/images_tc/2025/04/2025-03-28-183550-CastelldEmpries-250.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-183550-CastelldEmpries-250.webp
-Completed 755.4 KiB/23.6 MiB (100.3 KiB/s) with 77 file(s) remaining
-Completed 1011.4 KiB/23.6 MiB (133.7 KiB/s) with 77 file(s) remaining
-Completed 1.2 MiB/23.6 MiB (166.5 KiB/s) with 77 file(s) remaining   
-Completed 1.5 MiB/23.6 MiB (199.7 KiB/s) with 77 file(s) remaining   
-Completed 1.7 MiB/23.6 MiB (233.0 KiB/s) with 77 file(s) remaining   
-Completed 2.0 MiB/23.6 MiB (266.1 KiB/s) with 77 file(s) remaining   
-Completed 2.2 MiB/23.6 MiB (298.9 KiB/s) with 77 file(s) remaining   
-Completed 2.5 MiB/23.6 MiB (331.2 KiB/s) with 77 file(s) remaining   
-Completed 2.6 MiB/23.6 MiB (347.5 KiB/s) with 77 file(s) remaining   
-upload: ../../static/images_tc/2025/04/2025-03-28-181022-CastelldEmpries-1024.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-181022-CastelldEmpries-1024.webp
-Completed 2.6 MiB/23.6 MiB (347.5 KiB/s) with 76 file(s) remaining
-Completed 2.9 MiB/23.6 MiB (378.3 KiB/s) with 76 file(s) remaining
-Completed 3.1 MiB/23.6 MiB (411.1 KiB/s) with 76 file(s) remaining
-Completed 3.1 MiB/23.6 MiB (408.5 KiB/s) with 76 file(s) remaining
-Completed 3.3 MiB/23.6 MiB (435.4 KiB/s) with 76 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-28-164354-CastelldEmpries-1024.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-164354-CastelldEmpries-1024.webp
-Completed 3.3 MiB/23.6 MiB (435.4 KiB/s) with 75 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-28-183602-CastelldEmpries-250.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-183602-CastelldEmpries-250.webp
-Completed 3.3 MiB/23.6 MiB (435.4 KiB/s) with 74 file(s) remaining
-Completed 3.5 MiB/23.6 MiB (453.9 KiB/s) with 74 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-28-183550-CastelldEmpries-1024.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-183550-CastelldEmpries-1024.webp
-Completed 3.5 MiB/23.6 MiB (453.9 KiB/s) with 73 file(s) remaining
-Completed 3.6 MiB/23.6 MiB (456.2 KiB/s) with 73 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-28-183550-CastelldEmpries.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-183550-CastelldEmpries.webp
-Completed 3.6 MiB/23.6 MiB (456.2 KiB/s) with 72 file(s) remaining
-Completed 3.6 MiB/23.6 MiB (456.8 KiB/s) with 72 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-28-184204-CastelldEmpries-250.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-184204-CastelldEmpries-250.webp
-Completed 3.6 MiB/23.6 MiB (456.8 KiB/s) with 71 file(s) remaining
-Completed 3.8 MiB/23.6 MiB (485.8 KiB/s) with 71 file(s) remaining
-Completed 3.9 MiB/23.6 MiB (493.8 KiB/s) with 71 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-28-163939-CastelldEmpries-1024.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-163939-CastelldEmpries-1024.webp
-Completed 3.9 MiB/23.6 MiB (493.8 KiB/s) with 70 file(s) remaining
-Completed 4.1 MiB/23.6 MiB (525.5 KiB/s) with 70 file(s) remaining
-Completed 4.4 MiB/23.6 MiB (556.1 KiB/s) with 70 file(s) remaining
-Completed 4.6 MiB/23.6 MiB (585.6 KiB/s) with 70 file(s) remaining
-Completed 4.9 MiB/23.6 MiB (617.1 KiB/s) with 70 file(s) remaining
-Completed 5.1 MiB/23.6 MiB (647.4 KiB/s) with 70 file(s) remaining
-Completed 5.4 MiB/23.6 MiB (674.1 KiB/s) with 70 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-28-183602-CastelldEmpries-1024.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-183602-CastelldEmpries-1024.webp
-Completed 5.4 MiB/23.6 MiB (674.1 KiB/s) with 69 file(s) remaining
-Completed 5.6 MiB/23.6 MiB (703.1 KiB/s) with 69 file(s) remaining
-Completed 5.6 MiB/23.6 MiB (701.8 KiB/s) with 69 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-29-095337-Cadaqus-250.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-29-095337-Cadaqus-250.webp
-Completed 5.6 MiB/23.6 MiB (701.8 KiB/s) with 68 file(s) remaining
-Completed 5.7 MiB/23.6 MiB (710.6 KiB/s) with 68 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-28-184204-CastelldEmpries-1024.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-184204-CastelldEmpries-1024.webp
-Completed 5.7 MiB/23.6 MiB (710.6 KiB/s) with 67 file(s) remaining
-Completed 5.9 MiB/23.6 MiB (725.3 KiB/s) with 67 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-28-184204-CastelldEmpries.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-184204-CastelldEmpries.webp
-Completed 5.9 MiB/23.6 MiB (725.3 KiB/s) with 66 file(s) remaining
-Completed 6.2 MiB/23.6 MiB (751.4 KiB/s) with 66 file(s) remaining
-Completed 6.2 MiB/23.6 MiB (752.3 KiB/s) with 66 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-29-095732-Cadaqus-250.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-29-095732-Cadaqus-250.webp
-Completed 6.2 MiB/23.6 MiB (752.3 KiB/s) with 65 file(s) remaining
-Completed 6.4 MiB/23.6 MiB (782.5 KiB/s) with 65 file(s) remaining
-Completed 6.6 MiB/23.6 MiB (799.5 KiB/s) with 65 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-29-095337-Cadaqus-1024.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-29-095337-Cadaqus-1024.webp
-Completed 6.6 MiB/23.6 MiB (799.5 KiB/s) with 64 file(s) remaining
-Completed 6.8 MiB/23.6 MiB (826.3 KiB/s) with 64 file(s) remaining
-Completed 7.1 MiB/23.6 MiB (856.5 KiB/s) with 64 file(s) remaining
-Completed 7.3 MiB/23.6 MiB (886.7 KiB/s) with 64 file(s) remaining
-Completed 7.6 MiB/23.6 MiB (916.9 KiB/s) with 64 file(s) remaining
-Completed 7.8 MiB/23.6 MiB (940.2 KiB/s) with 64 file(s) remaining
-Completed 8.1 MiB/23.6 MiB (967.1 KiB/s) with 64 file(s) remaining
-Completed 8.3 MiB/23.6 MiB (996.8 KiB/s) with 64 file(s) remaining
-Completed 8.3 MiB/23.6 MiB (993.9 KiB/s) with 64 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-29-105816-Cadaqus-250.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-29-105816-Cadaqus-250.webp
-Completed 8.3 MiB/23.6 MiB (993.9 KiB/s) with 63 file(s) remaining
-Completed 8.6 MiB/23.6 MiB (1021.5 KiB/s) with 63 file(s) remaining
-Completed 8.8 MiB/23.6 MiB (1.0 MiB/s) with 63 file(s) remaining   
-upload: ../../static/images_tc/2025/04/2025-03-29-095732-Cadaqus-1024.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-29-095732-Cadaqus-1024.webp
-Completed 8.8 MiB/23.6 MiB (1.0 MiB/s) with 62 file(s) remaining
-Completed 9.0 MiB/23.6 MiB (1.0 MiB/s) with 62 file(s) remaining
-Completed 9.3 MiB/23.6 MiB (1.1 MiB/s) with 62 file(s) remaining
-Completed 9.5 MiB/23.6 MiB (1.1 MiB/s) with 62 file(s) remaining
-Completed 9.8 MiB/23.6 MiB (1.1 MiB/s) with 62 file(s) remaining
-Completed 10.0 MiB/23.6 MiB (1.1 MiB/s) with 62 file(s) remaining
-Completed 10.1 MiB/23.6 MiB (1.1 MiB/s) with 62 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-28-181022-CastelldEmpries.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-181022-CastelldEmpries.webp
-Completed 10.1 MiB/23.6 MiB (1.1 MiB/s) with 61 file(s) remaining
-Completed 10.4 MiB/23.6 MiB (1.2 MiB/s) with 61 file(s) remaining
-Completed 10.4 MiB/23.6 MiB (1.2 MiB/s) with 61 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-29-095732-Cadaqus.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-29-095732-Cadaqus.webp
-Completed 10.4 MiB/23.6 MiB (1.2 MiB/s) with 60 file(s) remaining
-Completed 10.7 MiB/23.6 MiB (1.2 MiB/s) with 60 file(s) remaining
-Completed 10.9 MiB/23.6 MiB (1.2 MiB/s) with 60 file(s) remaining
-Completed 11.1 MiB/23.6 MiB (1.2 MiB/s) with 60 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-29-105816-Cadaqus-1024.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-29-105816-Cadaqus-1024.webp
-Completed 11.1 MiB/23.6 MiB (1.2 MiB/s) with 59 file(s) remaining
-Completed 11.4 MiB/23.6 MiB (1.3 MiB/s) with 59 file(s) remaining
-Completed 11.6 MiB/23.6 MiB (1.3 MiB/s) with 59 file(s) remaining
-Completed 11.6 MiB/23.6 MiB (1.3 MiB/s) with 59 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-30-102835-Capmany-250.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-30-102835-Capmany-250.webp
-Completed 11.6 MiB/23.6 MiB (1.3 MiB/s) with 58 file(s) remaining
-Completed 11.9 MiB/23.6 MiB (1.3 MiB/s) with 58 file(s) remaining
-Completed 12.0 MiB/23.6 MiB (1.3 MiB/s) with 58 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-28-163818-CastelldEmpries.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-163818-CastelldEmpries.webp
-Completed 12.0 MiB/23.6 MiB (1.3 MiB/s) with 57 file(s) remaining
-Completed 12.2 MiB/23.6 MiB (1.3 MiB/s) with 57 file(s) remaining
-Completed 12.3 MiB/23.6 MiB (1.3 MiB/s) with 57 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-30-102835-Capmany-1024.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-30-102835-Capmany-1024.webp
-Completed 12.3 MiB/23.6 MiB (1.3 MiB/s) with 56 file(s) remaining
-Completed 12.5 MiB/23.6 MiB (1.4 MiB/s) with 56 file(s) remaining
-Completed 12.8 MiB/23.6 MiB (1.4 MiB/s) with 56 file(s) remaining
-Completed 13.0 MiB/23.6 MiB (1.4 MiB/s) with 56 file(s) remaining
-Completed 13.3 MiB/23.6 MiB (1.4 MiB/s) with 56 file(s) remaining
-Completed 13.5 MiB/23.6 MiB (1.5 MiB/s) with 56 file(s) remaining
-Completed 13.8 MiB/23.6 MiB (1.5 MiB/s) with 56 file(s) remaining
-Completed 13.8 MiB/23.6 MiB (1.5 MiB/s) with 56 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-30-130408-Capmany-250.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-30-130408-Capmany-250.webp
-Completed 13.8 MiB/23.6 MiB (1.5 MiB/s) with 55 file(s) remaining
-Completed 14.1 MiB/23.6 MiB (1.5 MiB/s) with 55 file(s) remaining
-Completed 14.3 MiB/23.6 MiB (1.5 MiB/s) with 55 file(s) remaining
-Completed 14.6 MiB/23.6 MiB (1.5 MiB/s) with 55 file(s) remaining
-Completed 14.6 MiB/23.6 MiB (1.5 MiB/s) with 55 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-28-164354-CastelldEmpries.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-164354-CastelldEmpries.webp
-Completed 14.6 MiB/23.6 MiB (1.5 MiB/s) with 54 file(s) remaining
-Completed 14.8 MiB/23.6 MiB (1.6 MiB/s) with 54 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-30-130408-Capmany-1024.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-30-130408-Capmany-1024.webp
-Completed 14.8 MiB/23.6 MiB (1.6 MiB/s) with 53 file(s) remaining
-Completed 14.8 MiB/23.6 MiB (1.6 MiB/s) with 53 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-28-183602-CastelldEmpries.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-183602-CastelldEmpries.webp
-Completed 14.8 MiB/23.6 MiB (1.6 MiB/s) with 52 file(s) remaining
-Completed 15.0 MiB/23.6 MiB (1.6 MiB/s) with 52 file(s) remaining
-Completed 15.1 MiB/23.6 MiB (1.6 MiB/s) with 52 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-31-115751-CadaqusetRoses-1024.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-31-115751-CadaqusetRoses-1024.webp
-Completed 15.1 MiB/23.6 MiB (1.6 MiB/s) with 51 file(s) remaining
-Completed 15.4 MiB/23.6 MiB (1.6 MiB/s) with 51 file(s) remaining
-Completed 15.6 MiB/23.6 MiB (1.6 MiB/s) with 51 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-30-130408-Capmany.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-30-130408-Capmany.webp
-Completed 15.6 MiB/23.6 MiB (1.6 MiB/s) with 50 file(s) remaining
-Completed 15.6 MiB/23.6 MiB (1.6 MiB/s) with 50 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-31-115751-CadaqusetRoses-250.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-31-115751-CadaqusetRoses-250.webp
-Completed 15.6 MiB/23.6 MiB (1.6 MiB/s) with 49 file(s) remaining
-Completed 15.8 MiB/23.6 MiB (1.6 MiB/s) with 49 file(s) remaining
-Completed 16.1 MiB/23.6 MiB (1.7 MiB/s) with 49 file(s) remaining
-Completed 16.3 MiB/23.6 MiB (1.7 MiB/s) with 49 file(s) remaining
-Completed 16.6 MiB/23.6 MiB (1.7 MiB/s) with 49 file(s) remaining
-Completed 16.8 MiB/23.6 MiB (1.7 MiB/s) with 49 file(s) remaining
-Completed 16.8 MiB/23.6 MiB (1.7 MiB/s) with 49 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-31-122615-CadaqusetRoses-250.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-31-122615-CadaqusetRoses-250.webp
-Completed 16.8 MiB/23.6 MiB (1.7 MiB/s) with 48 file(s) remaining
-Completed 17.1 MiB/23.6 MiB (1.7 MiB/s) with 48 file(s) remaining
-Completed 17.3 MiB/23.6 MiB (1.8 MiB/s) with 48 file(s) remaining
-Completed 17.4 MiB/23.6 MiB (1.8 MiB/s) with 48 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-31-122615-CadaqusetRoses-1024.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-31-122615-CadaqusetRoses-1024.webp
-Completed 17.4 MiB/23.6 MiB (1.8 MiB/s) with 47 file(s) remaining
-Completed 17.7 MiB/23.6 MiB (1.8 MiB/s) with 47 file(s) remaining
-Completed 17.8 MiB/23.6 MiB (1.8 MiB/s) with 47 file(s) remaining
-upload: ../../static/images_tc/2025/04/Rosas_J3-1024.webp to s3://tcrouzet.com/images_tc/2025/04/Rosas_J3-1024.webp
-Completed 17.8 MiB/23.6 MiB (1.8 MiB/s) with 46 file(s) remaining
-Completed 18.0 MiB/23.6 MiB (1.8 MiB/s) with 46 file(s) remaining
-Completed 18.3 MiB/23.6 MiB (1.8 MiB/s) with 46 file(s) remaining
-Completed 18.3 MiB/23.6 MiB (1.8 MiB/s) with 46 file(s) remaining
-upload: ../../static/images_tc/2025/04/Rosas_J3-250.webp to s3://tcrouzet.com/images_tc/2025/04/Rosas_J3-250.webp
-Completed 18.3 MiB/23.6 MiB (1.8 MiB/s) with 45 file(s) remaining
-Completed 18.5 MiB/23.6 MiB (1.8 MiB/s) with 45 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-29-095337-Cadaqus.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-29-095337-Cadaqus.webp
-Completed 18.5 MiB/23.6 MiB (1.8 MiB/s) with 44 file(s) remaining
-Completed 18.5 MiB/23.6 MiB (1.8 MiB/s) with 44 file(s) remaining
-upload: ../../static/images_tc/2025/04/Rosas_J4-1024.webp to s3://tcrouzet.com/images_tc/2025/04/Rosas_J4-1024.webp
-Completed 18.5 MiB/23.6 MiB (1.8 MiB/s) with 43 file(s) remaining
-Completed 18.7 MiB/23.6 MiB (1.8 MiB/s) with 43 file(s) remaining
-Completed 18.9 MiB/23.6 MiB (1.9 MiB/s) with 43 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-31-122615-CadaqusetRoses.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-31-122615-CadaqusetRoses.webp
-Completed 18.9 MiB/23.6 MiB (1.9 MiB/s) with 42 file(s) remaining
-Completed 19.0 MiB/23.6 MiB (1.9 MiB/s) with 42 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-28-163939-CastelldEmpries.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-28-163939-CastelldEmpries.webp
-Completed 19.0 MiB/23.6 MiB (1.9 MiB/s) with 41 file(s) remaining
-Completed 19.0 MiB/23.6 MiB (1.9 MiB/s) with 41 file(s) remaining
-upload: ../../static/images_tc/2025/04/Rosas_J4-250.webp to s3://tcrouzet.com/images_tc/2025/04/Rosas_J4-250.webp
-Completed 19.0 MiB/23.6 MiB (1.9 MiB/s) with 40 file(s) remaining
-Completed 19.1 MiB/23.6 MiB (1.9 MiB/s) with 40 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-29-105816-Cadaqus.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-29-105816-Cadaqus.webp
-Completed 19.1 MiB/23.6 MiB (1.9 MiB/s) with 39 file(s) remaining
-Completed 19.4 MiB/23.6 MiB (1.9 MiB/s) with 39 file(s) remaining
-Completed 19.4 MiB/23.6 MiB (1.9 MiB/s) with 39 file(s) remaining
-upload: ../../static/images_tc/2025/04/Rosas_j2-1024.webp to s3://tcrouzet.com/images_tc/2025/04/Rosas_j2-1024.webp
-Completed 19.4 MiB/23.6 MiB (1.9 MiB/s) with 38 file(s) remaining
-Completed 19.7 MiB/23.6 MiB (1.9 MiB/s) with 38 file(s) remaining
-Completed 19.7 MiB/23.6 MiB (1.9 MiB/s) with 38 file(s) remaining
-upload: ../../static/images_tc/2025/04/Rosas_j2-250.webp to s3://tcrouzet.com/images_tc/2025/04/Rosas_j2-250.webp
-Completed 19.7 MiB/23.6 MiB (1.9 MiB/s) with 37 file(s) remaining
-Completed 19.7 MiB/23.6 MiB (1.9 MiB/s) with 37 file(s) remaining
-Completed 19.9 MiB/23.6 MiB (1.9 MiB/s) with 37 file(s) remaining
-upload: ../../static/images_tc/2025/04/Rosas_J3.webp to s3://tcrouzet.com/images_tc/2025/04/Rosas_J3.webp
-Completed 19.9 MiB/23.6 MiB (1.9 MiB/s) with 36 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-31-115751-CadaqusetRoses.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-31-115751-CadaqusetRoses.webp
-Completed 19.9 MiB/23.6 MiB (1.9 MiB/s) with 35 file(s) remaining
-Completed 19.9 MiB/23.6 MiB (1.9 MiB/s) with 35 file(s) remaining
-upload: ../../static/images_tc/2025/04/capcreus-250.webp to s3://tcrouzet.com/images_tc/2025/04/capcreus-250.webp
-Completed 19.9 MiB/23.6 MiB (1.9 MiB/s) with 34 file(s) remaining
-Completed 20.0 MiB/23.6 MiB (1.9 MiB/s) with 34 file(s) remaining
-upload: ../../static/images_tc/2025/04/Rosas_j2.webp to s3://tcrouzet.com/images_tc/2025/04/Rosas_j2.webp
-Completed 20.0 MiB/23.6 MiB (1.9 MiB/s) with 33 file(s) remaining
-Completed 20.2 MiB/23.6 MiB (2.0 MiB/s) with 33 file(s) remaining
-upload: ../../static/images_tc/2025/04/Rosas_J4.webp to s3://tcrouzet.com/images_tc/2025/04/Rosas_J4.webp
-Completed 20.2 MiB/23.6 MiB (2.0 MiB/s) with 32 file(s) remaining
-Completed 20.2 MiB/23.6 MiB (2.0 MiB/s) with 32 file(s) remaining
-upload: ../../static/images_tc/2025/04/capcreus-1024.webp to s3://tcrouzet.com/images_tc/2025/04/capcreus-1024.webp
-Completed 20.2 MiB/23.6 MiB (2.0 MiB/s) with 31 file(s) remaining
-Completed 20.3 MiB/23.6 MiB (1.9 MiB/s) with 31 file(s) remaining
-upload: ../../static/images_tc/2025/04/didier01-250.webp to s3://tcrouzet.com/images_tc/2025/04/didier01-250.webp
-Completed 20.3 MiB/23.6 MiB (1.9 MiB/s) with 30 file(s) remaining
-Completed 20.4 MiB/23.6 MiB (2.0 MiB/s) with 30 file(s) remaining
-Completed 20.6 MiB/23.6 MiB (2.0 MiB/s) with 30 file(s) remaining
-upload: ../../static/images_tc/2025/04/didier01-1024.webp to s3://tcrouzet.com/images_tc/2025/04/didier01-1024.webp
-Completed 20.6 MiB/23.6 MiB (2.0 MiB/s) with 29 file(s) remaining
-upload: ../../static/images_tc/2025/04/capcreus.webp to s3://tcrouzet.com/images_tc/2025/04/capcreus.webp
-Completed 20.6 MiB/23.6 MiB (2.0 MiB/s) with 28 file(s) remaining
-Completed 20.9 MiB/23.6 MiB (2.0 MiB/s) with 28 file(s) remaining
-Completed 20.9 MiB/23.6 MiB (2.0 MiB/s) with 28 file(s) remaining
-Completed 21.1 MiB/23.6 MiB (2.0 MiB/s) with 28 file(s) remaining
-upload: ../../static/images_tc/2025/04/didier02-250.webp to s3://tcrouzet.com/images_tc/2025/04/didier02-250.webp
-Completed 21.1 MiB/23.6 MiB (2.0 MiB/s) with 27 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-29-123723-Cadaqus.jpeg to s3://tcrouzet.com/images_tc/2025/04/2025-03-29-123723-Cadaqus.jpeg
-Completed 21.1 MiB/23.6 MiB (2.0 MiB/s) with 26 file(s) remaining
-Completed 21.1 MiB/23.6 MiB (2.0 MiB/s) with 26 file(s) remaining
-upload: ../../static/images_tc/2025/04/didier03-250.webp to s3://tcrouzet.com/images_tc/2025/04/didier03-250.webp
-Completed 21.1 MiB/23.6 MiB (2.0 MiB/s) with 25 file(s) remaining
-Completed 21.3 MiB/23.6 MiB (2.0 MiB/s) with 25 file(s) remaining
-upload: ../../static/images_tc/2025/04/didier01.webp to s3://tcrouzet.com/images_tc/2025/04/didier01.webp
-Completed 21.3 MiB/23.6 MiB (2.0 MiB/s) with 24 file(s) remaining
-Completed 21.5 MiB/23.6 MiB (2.0 MiB/s) with 24 file(s) remaining
-upload: ../../static/images_tc/2025/04/didier02.webp to s3://tcrouzet.com/images_tc/2025/04/didier02.webp
-Completed 21.5 MiB/23.6 MiB (2.0 MiB/s) with 23 file(s) remaining
-Completed 21.5 MiB/23.6 MiB (2.0 MiB/s) with 23 file(s) remaining
-Completed 21.5 MiB/23.6 MiB (2.0 MiB/s) with 23 file(s) remaining
-upload: ../../static/images_tc/2025/04/rosasj1-250.webp to s3://tcrouzet.com/images_tc/2025/04/rosasj1-250.webp
-Completed 21.5 MiB/23.6 MiB (2.0 MiB/s) with 22 file(s) remaining
-upload: ../../static/images_tc/2025/04/rosasj1-1024.webp to s3://tcrouzet.com/images_tc/2025/04/rosasj1-1024.webp
-Completed 21.5 MiB/23.6 MiB (2.0 MiB/s) with 21 file(s) remaining
-Completed 21.7 MiB/23.6 MiB (2.1 MiB/s) with 21 file(s) remaining
-upload: ../../static/images_tc/2025/04/didier02-1024.webp to s3://tcrouzet.com/images_tc/2025/04/didier02-1024.webp
-Completed 21.7 MiB/23.6 MiB (2.1 MiB/s) with 20 file(s) remaining
-Completed 21.9 MiB/23.6 MiB (2.1 MiB/s) with 20 file(s) remaining
-upload: ../../static/images_tc/2025/04/didier03-1024.webp to s3://tcrouzet.com/images_tc/2025/04/didier03-1024.webp
-Completed 21.9 MiB/23.6 MiB (2.1 MiB/s) with 19 file(s) remaining
-Completed 22.1 MiB/23.6 MiB (2.1 MiB/s) with 19 file(s) remaining
-Completed 22.2 MiB/23.6 MiB (2.1 MiB/s) with 19 file(s) remaining
-upload: ../../static/images_tc/2025/04/didier03.webp to s3://tcrouzet.com/images_tc/2025/04/didier03.webp
-Completed 22.2 MiB/23.6 MiB (2.1 MiB/s) with 18 file(s) remaining
-Completed 22.2 MiB/23.6 MiB (2.1 MiB/s) with 18 file(s) remaining
-upload: ../../static/index.html to s3://tcrouzet.com/index.html  
-Completed 22.2 MiB/23.6 MiB (2.1 MiB/s) with 17 file(s) remaining
-Completed 22.2 MiB/23.6 MiB (2.1 MiB/s) with 17 file(s) remaining
+Completed 319.1 KiB/~319.1 KiB (506.6 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 322.8 KiB/~415.8 KiB (41.1 KiB/s) with ~6 file(s) remaining (calculating...) 
+upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
+Completed 322.8 KiB/~415.8 KiB (41.1 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 323.9 KiB/~448.2 KiB (40.2 KiB/s) with ~8 file(s) remaining (calculating...)
 upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 22.2 MiB/23.6 MiB (2.1 MiB/s) with 16 file(s) remaining
-Completed 22.2 MiB/23.6 MiB (2.1 MiB/s) with 16 file(s) remaining
-upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
-Completed 22.2 MiB/23.6 MiB (2.1 MiB/s) with 15 file(s) remaining
-Completed 22.5 MiB/23.6 MiB (2.1 MiB/s) with 15 file(s) remaining
-Completed 22.5 MiB/23.6 MiB (2.1 MiB/s) with 15 file(s) remaining
-upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 22.5 MiB/23.6 MiB (2.1 MiB/s) with 14 file(s) remaining
-Completed 22.5 MiB/23.6 MiB (2.1 MiB/s) with 14 file(s) remaining
-upload: ../../static/sitemap/sitemap-years.xml to s3://tcrouzet.com/sitemap/sitemap-years.xml
-Completed 22.5 MiB/23.6 MiB (2.1 MiB/s) with 13 file(s) remaining
-Completed 22.5 MiB/23.6 MiB (2.1 MiB/s) with 13 file(s) remaining
-Completed 22.7 MiB/23.6 MiB (2.1 MiB/s) with 13 file(s) remaining
-upload: ../../static/sitemap/sitemap.xml to s3://tcrouzet.com/sitemap/sitemap.xml
-Completed 22.7 MiB/23.6 MiB (2.1 MiB/s) with 12 file(s) remaining
-upload: ../../static/images_tc/2025/04/rosasj1.webp to s3://tcrouzet.com/images_tc/2025/04/rosasj1.webp
-Completed 22.7 MiB/23.6 MiB (2.1 MiB/s) with 11 file(s) remaining
-Completed 22.7 MiB/23.6 MiB (2.1 MiB/s) with 11 file(s) remaining
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json    
-Completed 22.7 MiB/23.6 MiB (2.1 MiB/s) with 10 file(s) remaining
-Completed 22.7 MiB/23.6 MiB (2.1 MiB/s) with 10 file(s) remaining
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt      
-Completed 22.7 MiB/23.6 MiB (2.1 MiB/s) with 9 file(s) remaining
-Completed 22.9 MiB/23.6 MiB (2.1 MiB/s) with 9 file(s) remaining
-Completed 22.9 MiB/23.6 MiB (2.1 MiB/s) with 9 file(s) remaining
-upload: ../../static/tag/borntobike/contener3.html to s3://tcrouzet.com/tag/borntobike/contener3.html
-Completed 22.9 MiB/23.6 MiB (2.1 MiB/s) with 8 file(s) remaining
-Completed 23.0 MiB/23.6 MiB (2.1 MiB/s) with 8 file(s) remaining
-upload: ../../static/tag/borntobike/contener2.html to s3://tcrouzet.com/tag/borntobike/contener2.html
-Completed 23.0 MiB/23.6 MiB (2.1 MiB/s) with 7 file(s) remaining
-Completed 23.0 MiB/23.6 MiB (2.1 MiB/s) with 7 file(s) remaining
-upload: ../../static/tag/borntobike/contener4.html to s3://tcrouzet.com/tag/borntobike/contener4.html
-Completed 23.0 MiB/23.6 MiB (2.1 MiB/s) with 6 file(s) remaining
-Completed 23.0 MiB/23.6 MiB (2.1 MiB/s) with 6 file(s) remaining
-upload: ../../static/tag/borntobike/contener5.html to s3://tcrouzet.com/tag/borntobike/contener5.html
-Completed 23.0 MiB/23.6 MiB (2.1 MiB/s) with 5 file(s) remaining
-Completed 23.2 MiB/23.6 MiB (2.2 MiB/s) with 5 file(s) remaining
-Completed 23.3 MiB/23.6 MiB (2.2 MiB/s) with 5 file(s) remaining
-Completed 23.3 MiB/23.6 MiB (2.2 MiB/s) with 5 file(s) remaining
-Completed 23.3 MiB/23.6 MiB (2.2 MiB/s) with 5 file(s) remaining
+Completed 323.9 KiB/~448.2 KiB (40.2 KiB/s) with ~7 file(s) remaining (calculating...)
+Completed 329.5 KiB/~448.2 KiB (40.9 KiB/s) with ~7 file(s) remaining (calculating...)
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                         
+Completed 329.5 KiB/~448.2 KiB (40.9 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 357.2 KiB/448.5 KiB (44.2 KiB/s) with 7 file(s) remaining                   
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                           
+Completed 357.2 KiB/448.5 KiB (44.2 KiB/s) with 6 file(s) remaining
+Completed 365.4 KiB/448.5 KiB (45.1 KiB/s) with 6 file(s) remaining
+upload: ../../static/tag/ecriture/index.html to s3://tcrouzet.com/tag/ecriture/index.html
+Completed 365.4 KiB/448.5 KiB (45.1 KiB/s) with 5 file(s) remaining
+Completed 371.6 KiB/448.5 KiB (45.7 KiB/s) with 5 file(s) remaining
+upload: ../../static/tag/divination/index.html to s3://tcrouzet.com/tag/divination/index.html
+Completed 371.6 KiB/448.5 KiB (45.7 KiB/s) with 4 file(s) remaining
+Completed 399.7 KiB/448.5 KiB (49.2 KiB/s) with 4 file(s) remaining
 upload: ../../static/tag/borntobike/index.html to s3://tcrouzet.com/tag/borntobike/index.html
-Completed 23.3 MiB/23.6 MiB (2.2 MiB/s) with 4 file(s) remaining
-upload: ../../static/update.json to s3://tcrouzet.com/update.json
-Completed 23.3 MiB/23.6 MiB (2.2 MiB/s) with 3 file(s) remaining
+Completed 399.7 KiB/448.5 KiB (49.2 KiB/s) with 3 file(s) remaining
+Completed 400.0 KiB/448.5 KiB (49.0 KiB/s) with 3 file(s) remaining
+upload: ../../static/update.json to s3://tcrouzet.com/update.json  
+Completed 400.0 KiB/448.5 KiB (49.0 KiB/s) with 2 file(s) remaining
+Completed 430.5 KiB/448.5 KiB (52.7 KiB/s) with 2 file(s) remaining
+upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
+Completed 430.5 KiB/448.5 KiB (52.7 KiB/s) with 1 file(s) remaining
+Completed 448.5 KiB/448.5 KiB (54.0 KiB/s) with 1 file(s) remaining
 upload: ../../static/tag/gravel/index.html to s3://tcrouzet.com/tag/gravel/index.html
-Completed 23.3 MiB/23.6 MiB (2.2 MiB/s) with 2 file(s) remaining
-Completed 23.5 MiB/23.6 MiB (2.2 MiB/s) with 2 file(s) remaining
-Completed 23.6 MiB/23.6 MiB (2.2 MiB/s) with 2 file(s) remaining
-upload: ../../static/sitemap/sitemap-posts.xml to s3://tcrouzet.com/sitemap/sitemap-posts.xml
-Completed 23.6 MiB/23.6 MiB (2.2 MiB/s) with 1 file(s) remaining
-Completed 23.6 MiB/23.6 MiB (2.2 MiB/s) with 1 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-03-30-102835-Capmany.webp to s3://tcrouzet.com/images_tc/2025/04/2025-03-30-102835-Capmany.webp
