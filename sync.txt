@@ -1,35 +1,50 @@
-Completed 7.7 KiB/~228.9 KiB (81.0 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 7.6 KiB/~261.1 KiB (53.9 KiB/s) with ~7 file(s) remaining (calculating...)
 upload: ../../static/2025/03/26/divination-004/index.html to s3://tcrouzet.com/2025/03/26/divination-004/index.html
-Completed 7.7 KiB/~228.9 KiB (81.0 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 13.0 KiB/~228.9 KiB (70.7 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 7.6 KiB/~261.1 KiB (53.9 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 12.9 KiB/~261.1 KiB (49.4 KiB/s) with ~6 file(s) remaining (calculating...)
 upload: ../../static/2025/03/26/divination-004/content.html to s3://tcrouzet.com/2025/03/26/divination-004/content.html
-Completed 13.0 KiB/~228.9 KiB (70.7 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 28.8 KiB/~228.9 KiB (104.5 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 12.9 KiB/~261.1 KiB (49.4 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 16.1 KiB/~261.1 KiB (59.9 KiB/s) with ~5 file(s) remaining (calculating...)
+upload: ../../static/404.html to s3://tcrouzet.com/404.html                          
+Completed 16.1 KiB/~261.1 KiB (59.9 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 45.2 KiB/~261.1 KiB (122.3 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html             
+Completed 45.2 KiB/~261.1 KiB (122.3 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 61.0 KiB/~261.1 KiB (148.5 KiB/s) with ~3 file(s) remaining (calculating...)
 upload: ../../static/feeds/ecriture.xml to s3://tcrouzet.com/feeds/ecriture.xml       
-Completed 28.8 KiB/~228.9 KiB (104.5 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 77.4 KiB/~228.9 KiB (176.3 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml               
-Completed 77.4 KiB/~228.9 KiB (176.3 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 228.9 KiB/~228.9 KiB (282.8 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 61.0 KiB/~261.1 KiB (148.5 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 212.5 KiB/~261.1 KiB (389.8 KiB/s) with ~2 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 228.9 KiB/~228.9 KiB (282.8 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 230.1 KiB/278.9 KiB (27.9 KiB/s) with 7 file(s) remaining                    
-upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 230.1 KiB/278.9 KiB (27.9 KiB/s) with 6 file(s) remaining
-Completed 230.6 KiB/278.9 KiB (27.6 KiB/s) with 6 file(s) remaining
+Completed 212.5 KiB/~261.1 KiB (389.8 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 261.1 KiB/~261.1 KiB (467.8 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
+Completed 261.1 KiB/~261.1 KiB (467.8 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 264.8 KiB/~357.5 KiB (32.2 KiB/s) with ~9 file(s) remaining (calculating...) 
+upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
+Completed 264.8 KiB/~357.5 KiB (32.2 KiB/s) with ~8 file(s) remaining (calculating...)
+Completed 265.1 KiB/357.7 KiB (31.8 KiB/s) with 9 file(s) remaining                   
+upload: ../../static/update.json to s3://tcrouzet.com/update.json                     
+Completed 265.1 KiB/357.7 KiB (31.8 KiB/s) with 8 file(s) remaining
+Completed 265.6 KiB/357.7 KiB (31.7 KiB/s) with 8 file(s) remaining
 upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
-Completed 230.6 KiB/278.9 KiB (27.6 KiB/s) with 5 file(s) remaining
-Completed 233.7 KiB/278.9 KiB (27.9 KiB/s) with 5 file(s) remaining
+Completed 265.6 KiB/357.7 KiB (31.7 KiB/s) with 7 file(s) remaining
+Completed 266.7 KiB/357.7 KiB (31.9 KiB/s) with 7 file(s) remaining
+upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
+Completed 266.7 KiB/357.7 KiB (31.9 KiB/s) with 6 file(s) remaining
+Completed 269.5 KiB/357.7 KiB (32.2 KiB/s) with 6 file(s) remaining
 upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
-Completed 233.7 KiB/278.9 KiB (27.9 KiB/s) with 4 file(s) remaining
-Completed 239.8 KiB/278.9 KiB (28.5 KiB/s) with 4 file(s) remaining
+Completed 269.5 KiB/357.7 KiB (32.2 KiB/s) with 5 file(s) remaining
+Completed 275.7 KiB/357.7 KiB (32.9 KiB/s) with 5 file(s) remaining
 upload: ../../static/tag/divination/index.html to s3://tcrouzet.com/tag/divination/index.html
-Completed 239.8 KiB/278.9 KiB (28.5 KiB/s) with 3 file(s) remaining
-Completed 240.1 KiB/278.9 KiB (28.4 KiB/s) with 3 file(s) remaining
-upload: ../../static/update.json to s3://tcrouzet.com/update.json  
-Completed 240.1 KiB/278.9 KiB (28.4 KiB/s) with 2 file(s) remaining
-Completed 248.3 KiB/278.9 KiB (28.5 KiB/s) with 2 file(s) remaining
+Completed 275.7 KiB/357.7 KiB (32.9 KiB/s) with 4 file(s) remaining
+Completed 298.7 KiB/357.7 KiB (35.5 KiB/s) with 4 file(s) remaining
+upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
+Completed 298.7 KiB/357.7 KiB (35.5 KiB/s) with 3 file(s) remaining
+Completed 306.9 KiB/357.7 KiB (36.4 KiB/s) with 3 file(s) remaining
 upload: ../../static/tag/ecriture/index.html to s3://tcrouzet.com/tag/ecriture/index.html
-Completed 248.3 KiB/278.9 KiB (28.5 KiB/s) with 1 file(s) remaining
-Completed 278.9 KiB/278.9 KiB (31.7 KiB/s) with 1 file(s) remaining
+Completed 306.9 KiB/357.7 KiB (36.4 KiB/s) with 2 file(s) remaining
+Completed 327.1 KiB/357.7 KiB (38.7 KiB/s) with 2 file(s) remaining
+upload: ../../static/style.css to s3://tcrouzet.com/style.css      
+Completed 327.1 KiB/357.7 KiB (38.7 KiB/s) with 1 file(s) remaining
+Completed 357.7 KiB/357.7 KiB (42.3 KiB/s) with 1 file(s) remaining
 upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
