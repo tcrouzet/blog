@@ -1,38 +1,35 @@
-Completed 25.8 KiB/~326.0 KiB (127.7 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/2025/04/13/pou100-2025/index.html to s3://tcrouzet.com/2025/04/13/pou100-2025/index.html
-Completed 25.8 KiB/~326.0 KiB (127.7 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 48.9 KiB/~326.0 KiB (117.4 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/2025/04/13/pou100-2025/content.html to s3://tcrouzet.com/2025/04/13/pou100-2025/content.html
-Completed 48.9 KiB/~326.0 KiB (117.4 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 97.5 KiB/~326.0 KiB (159.2 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 7.7 KiB/~228.9 KiB (81.0 KiB/s) with ~5 file(s) remaining (calculating...)
+upload: ../../static/2025/03/26/divination-004/index.html to s3://tcrouzet.com/2025/03/26/divination-004/index.html
+Completed 7.7 KiB/~228.9 KiB (81.0 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 13.0 KiB/~228.9 KiB (70.7 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/2025/03/26/divination-004/content.html to s3://tcrouzet.com/2025/03/26/divination-004/content.html
+Completed 13.0 KiB/~228.9 KiB (70.7 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 28.8 KiB/~228.9 KiB (104.5 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/feeds/ecriture.xml to s3://tcrouzet.com/feeds/ecriture.xml       
+Completed 28.8 KiB/~228.9 KiB (104.5 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 77.4 KiB/~228.9 KiB (176.3 KiB/s) with ~2 file(s) remaining (calculating...)
 upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml               
-Completed 97.5 KiB/~326.0 KiB (159.2 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 174.4 KiB/~326.0 KiB (244.1 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/borntobike.xml to s3://tcrouzet.com/feeds/borntobike.xml    
-Completed 174.4 KiB/~326.0 KiB (244.1 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 326.0 KiB/~326.0 KiB (332.6 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 77.4 KiB/~228.9 KiB (176.3 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 228.9 KiB/~228.9 KiB (282.8 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 326.0 KiB/~326.0 KiB (332.6 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 349.0 KiB/~490.0 KiB (39.7 KiB/s) with ~7 file(s) remaining (calculating...) 
-upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html          
-Completed 349.0 KiB/~490.0 KiB (39.7 KiB/s) with ~6 file(s) remaining (calculating...)
-Completed 349.2 KiB/490.1 KiB (39.3 KiB/s) with 7 file(s) remaining                   
-upload: ../../static/update.json to s3://tcrouzet.com/update.json                     
-Completed 349.2 KiB/490.1 KiB (39.3 KiB/s) with 6 file(s) remaining
-Completed 350.3 KiB/490.1 KiB (39.3 KiB/s) with 6 file(s) remaining
+Completed 228.9 KiB/~228.9 KiB (282.8 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 230.1 KiB/278.9 KiB (27.9 KiB/s) with 7 file(s) remaining                    
 upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 350.3 KiB/490.1 KiB (39.3 KiB/s) with 5 file(s) remaining
-Completed 368.9 KiB/490.1 KiB (41.2 KiB/s) with 5 file(s) remaining
-upload: ../../static/tag/gravel/index.html to s3://tcrouzet.com/tag/gravel/index.html
-Completed 368.9 KiB/490.1 KiB (41.2 KiB/s) with 4 file(s) remaining
-Completed 396.9 KiB/490.1 KiB (44.3 KiB/s) with 4 file(s) remaining
-upload: ../../static/tag/borntobike/index.html to s3://tcrouzet.com/tag/borntobike/index.html
-Completed 396.9 KiB/490.1 KiB (44.3 KiB/s) with 3 file(s) remaining
-Completed 406.6 KiB/490.1 KiB (45.3 KiB/s) with 3 file(s) remaining
+Completed 230.1 KiB/278.9 KiB (27.9 KiB/s) with 6 file(s) remaining
+Completed 230.6 KiB/278.9 KiB (27.6 KiB/s) with 6 file(s) remaining
 upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
-Completed 406.6 KiB/490.1 KiB (45.3 KiB/s) with 2 file(s) remaining
-Completed 437.1 KiB/490.1 KiB (48.7 KiB/s) with 2 file(s) remaining
-upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 437.1 KiB/490.1 KiB (48.7 KiB/s) with 1 file(s) remaining
-Completed 490.1 KiB/490.1 KiB (54.2 KiB/s) with 1 file(s) remaining
+Completed 230.6 KiB/278.9 KiB (27.6 KiB/s) with 5 file(s) remaining
+Completed 233.7 KiB/278.9 KiB (27.9 KiB/s) with 5 file(s) remaining
 upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
+Completed 233.7 KiB/278.9 KiB (27.9 KiB/s) with 4 file(s) remaining
+Completed 239.8 KiB/278.9 KiB (28.5 KiB/s) with 4 file(s) remaining
+upload: ../../static/tag/divination/index.html to s3://tcrouzet.com/tag/divination/index.html
+Completed 239.8 KiB/278.9 KiB (28.5 KiB/s) with 3 file(s) remaining
+Completed 240.1 KiB/278.9 KiB (28.4 KiB/s) with 3 file(s) remaining
+upload: ../../static/update.json to s3://tcrouzet.com/update.json  
+Completed 240.1 KiB/278.9 KiB (28.4 KiB/s) with 2 file(s) remaining
+Completed 248.3 KiB/278.9 KiB (28.5 KiB/s) with 2 file(s) remaining
+upload: ../../static/tag/ecriture/index.html to s3://tcrouzet.com/tag/ecriture/index.html
+Completed 248.3 KiB/278.9 KiB (28.5 KiB/s) with 1 file(s) remaining
+Completed 278.9 KiB/278.9 KiB (31.7 KiB/s) with 1 file(s) remaining
+upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
