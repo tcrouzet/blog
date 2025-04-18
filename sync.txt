@@ -1,124 +1,38 @@
-Completed 9.1 KiB/~486.4 KiB (54.4 KiB/s) with ~7 file(s) remaining (calculating...)
-upload: ../../static/2025/04/18/727-vtt-2025/index.html to s3://tcrouzet.com/2025/04/18/727-vtt-2025/index.html
-Completed 9.1 KiB/~486.4 KiB (54.4 KiB/s) with ~6 file(s) remaining (calculating...)
-Completed 15.5 KiB/~486.4 KiB (65.9 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 6.4 KiB/~226.5 KiB (56.4 KiB/s) with ~5 file(s) remaining (calculating...)
 upload: ../../static/2025/04/18/727-vtt-2025/content.html to s3://tcrouzet.com/2025/04/18/727-vtt-2025/content.html
-Completed 15.5 KiB/~486.4 KiB (65.9 KiB/s) with ~5 file(s) remaining (calculating...)
-Completed 36.7 KiB/~486.4 KiB (108.5 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/2025/index.html to s3://tcrouzet.com/2025/index.html             
-Completed 36.7 KiB/~486.4 KiB (108.5 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 85.3 KiB/~486.4 KiB (210.0 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml               
-Completed 85.3 KiB/~486.4 KiB (210.0 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 176.8 KiB/~486.4 KiB (432.9 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 6.4 KiB/~226.5 KiB (56.4 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 15.5 KiB/~226.5 KiB (71.8 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/2025/04/18/727-vtt-2025/index.html to s3://tcrouzet.com/2025/04/18/727-vtt-2025/index.html
+Completed 15.5 KiB/~226.5 KiB (71.8 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 86.4 KiB/~226.5 KiB (306.3 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/feeds/borntobike.xml to s3://tcrouzet.com/feeds/borntobike.xml   
+Completed 86.4 KiB/~226.5 KiB (306.3 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 177.9 KiB/~226.5 KiB (593.8 KiB/s) with ~2 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 176.8 KiB/~486.4 KiB (432.9 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 247.7 KiB/~486.4 KiB (414.8 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/borntobike.xml to s3://tcrouzet.com/feeds/borntobike.xml    
-Completed 247.7 KiB/~486.4 KiB (414.8 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 486.4 KiB/~486.4 KiB (564.2 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/archives/index.html to s3://tcrouzet.com/archives/index.html      
-Completed 486.4 KiB/~486.4 KiB (564.2 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 571.4 KiB/~5.4 MiB (80.7 KiB/s) with ~7 file(s) remaining (calculating...)   
-upload: ../../static/images_tc/2025/04/2025-04-08-155448-FrontignanetVilleneuve-ls-Maguelone-1024.webp to s3://tcrouzet.com/images_tc/2025/04/2025-04-08-155448-FrontignanetVilleneuve-ls-Maguelone-1024.webp
-Completed 571.4 KiB/~5.4 MiB (80.7 KiB/s) with ~6 file(s) remaining (calculating...)
-Completed 586.8 KiB/~5.4 MiB (82.2 KiB/s) with ~6 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2025/04/2025-04-10-115741-VacquiresetAspres-250.webp to s3://tcrouzet.com/images_tc/2025/04/2025-04-10-115741-VacquiresetAspres-250.webp
-Completed 586.8 KiB/~5.4 MiB (82.2 KiB/s) with ~5 file(s) remaining (calculating...)
-Completed 842.8 KiB/~5.6 MiB (117.7 KiB/s) with ~8 file(s) remaining (calculating...)
-Completed 1.1 MiB/~8.1 MiB (152.5 KiB/s) with ~18 file(s) remaining (calculating...) 
-Completed 1.3 MiB/8.2 MiB (186.8 KiB/s) with 24 file(s) remaining                    
-Completed 1.6 MiB/8.2 MiB (220.9 KiB/s) with 24 file(s) remaining                    
-Completed 1.6 MiB/8.2 MiB (221.7 KiB/s) with 24 file(s) remaining                    
-upload: ../../static/images_tc/2025/04/mapo727-250.webp to s3://tcrouzet.com/images_tc/2025/04/mapo727-250.webp
-Completed 1.6 MiB/8.2 MiB (221.7 KiB/s) with 23 file(s) remaining
-Completed 1.8 MiB/8.2 MiB (256.7 KiB/s) with 23 file(s) remaining
-Completed 2.1 MiB/8.2 MiB (291.7 KiB/s) with 23 file(s) remaining
-Completed 2.3 MiB/8.2 MiB (325.0 KiB/s) with 23 file(s) remaining
-Completed 2.6 MiB/8.2 MiB (357.2 KiB/s) with 23 file(s) remaining
-Completed 2.8 MiB/8.2 MiB (379.5 KiB/s) with 23 file(s) remaining
-Completed 2.8 MiB/8.2 MiB (373.3 KiB/s) with 23 file(s) remaining
+Completed 177.9 KiB/~226.5 KiB (593.8 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 226.5 KiB/~226.5 KiB (531.0 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
+Completed 226.5 KiB/~226.5 KiB (531.0 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 249.6 KiB/351.7 KiB (35.2 KiB/s) with 8 file(s) remaining                    
+upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html          
+Completed 249.6 KiB/351.7 KiB (35.2 KiB/s) with 7 file(s) remaining
+Completed 250.8 KiB/351.7 KiB (34.8 KiB/s) with 7 file(s) remaining
 upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 2.8 MiB/8.2 MiB (373.3 KiB/s) with 22 file(s) remaining
-Completed 3.1 MiB/8.2 MiB (399.6 KiB/s) with 22 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-04-10-115741-VacquiresetAspres.jpeg to s3://tcrouzet.com/images_tc/2025/04/2025-04-10-115741-VacquiresetAspres.jpeg
-Completed 3.1 MiB/8.2 MiB (399.6 KiB/s) with 21 file(s) remaining
-Completed 3.1 MiB/8.2 MiB (399.9 KiB/s) with 21 file(s) remaining
-upload: ../../static/index.html to s3://tcrouzet.com/index.html  
-Completed 3.1 MiB/8.2 MiB (399.9 KiB/s) with 20 file(s) remaining
-Completed 3.3 MiB/8.2 MiB (432.4 KiB/s) with 20 file(s) remaining
-Completed 3.5 MiB/8.2 MiB (454.1 KiB/s) with 20 file(s) remaining
-upload: ../../static/images_tc/2025/04/mapo727.webp to s3://tcrouzet.com/images_tc/2025/04/mapo727.webp
-Completed 3.5 MiB/8.2 MiB (454.1 KiB/s) with 19 file(s) remaining
-Completed 3.5 MiB/8.2 MiB (449.0 KiB/s) with 19 file(s) remaining
-upload: ../../static/sitemap/sitemap.xml to s3://tcrouzet.com/sitemap/sitemap.xml
-Completed 3.5 MiB/8.2 MiB (449.0 KiB/s) with 18 file(s) remaining
-Completed 3.5 MiB/8.2 MiB (446.8 KiB/s) with 18 file(s) remaining
-upload: ../../static/sitemap/sitemap-years.xml to s3://tcrouzet.com/sitemap/sitemap-years.xml
-Completed 3.5 MiB/8.2 MiB (446.8 KiB/s) with 17 file(s) remaining
-Completed 3.5 MiB/8.2 MiB (449.6 KiB/s) with 17 file(s) remaining
-upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
-Completed 3.5 MiB/8.2 MiB (449.6 KiB/s) with 16 file(s) remaining
-Completed 3.5 MiB/8.2 MiB (453.3 KiB/s) with 16 file(s) remaining
+Completed 250.8 KiB/351.7 KiB (34.8 KiB/s) with 6 file(s) remaining
+Completed 252.6 KiB/351.7 KiB (35.0 KiB/s) with 6 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
+Completed 252.6 KiB/351.7 KiB (35.0 KiB/s) with 5 file(s) remaining
+Completed 252.8 KiB/351.7 KiB (34.9 KiB/s) with 5 file(s) remaining
+upload: ../../static/update.json to s3://tcrouzet.com/update.json  
+Completed 252.8 KiB/351.7 KiB (34.9 KiB/s) with 4 file(s) remaining
+Completed 262.7 KiB/351.7 KiB (36.2 KiB/s) with 4 file(s) remaining
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
+Completed 262.7 KiB/351.7 KiB (36.2 KiB/s) with 3 file(s) remaining
+Completed 293.3 KiB/351.7 KiB (40.3 KiB/s) with 3 file(s) remaining
 upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 3.5 MiB/8.2 MiB (453.3 KiB/s) with 15 file(s) remaining
-Completed 3.8 MiB/8.2 MiB (483.4 KiB/s) with 15 file(s) remaining
-Completed 4.0 MiB/8.2 MiB (510.8 KiB/s) with 15 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-04-10-115741-VacquiresetAspres-1024.webp to s3://tcrouzet.com/images_tc/2025/04/2025-04-10-115741-VacquiresetAspres-1024.webp
-Completed 4.0 MiB/8.2 MiB (510.8 KiB/s) with 14 file(s) remaining
-Completed 4.0 MiB/8.2 MiB (509.3 KiB/s) with 14 file(s) remaining
-Completed 4.1 MiB/8.2 MiB (520.5 KiB/s) with 14 file(s) remaining
-upload: ../../static/images_tc/2025/04/mapo727-1024.webp to s3://tcrouzet.com/images_tc/2025/04/mapo727-1024.webp
-Completed 4.1 MiB/8.2 MiB (520.5 KiB/s) with 13 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-04-08-155448-FrontignanetVilleneuve-ls-Maguelone-250.webp to s3://tcrouzet.com/images_tc/2025/04/2025-04-08-155448-FrontignanetVilleneuve-ls-Maguelone-250.webp
-Completed 4.1 MiB/8.2 MiB (520.5 KiB/s) with 12 file(s) remaining
-Completed 4.2 MiB/8.2 MiB (521.7 KiB/s) with 12 file(s) remaining
+Completed 293.3 KiB/351.7 KiB (40.3 KiB/s) with 2 file(s) remaining
+Completed 323.6 KiB/351.7 KiB (44.4 KiB/s) with 2 file(s) remaining
 upload: ../../static/tag/bikepacking/index.html to s3://tcrouzet.com/tag/bikepacking/index.html
-Completed 4.2 MiB/8.2 MiB (521.7 KiB/s) with 11 file(s) remaining
-Completed 4.2 MiB/8.2 MiB (519.5 KiB/s) with 11 file(s) remaining
-upload: ../../static/tag/borntobike/contener3.html to s3://tcrouzet.com/tag/borntobike/contener3.html
-Completed 4.2 MiB/8.2 MiB (519.5 KiB/s) with 10 file(s) remaining
-Completed 4.3 MiB/8.2 MiB (530.9 KiB/s) with 10 file(s) remaining
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json    
-Completed 4.3 MiB/8.2 MiB (530.9 KiB/s) with 9 file(s) remaining
-Completed 4.3 MiB/8.2 MiB (533.9 KiB/s) with 9 file(s) remaining
-upload: ../../static/tag/borntobike/contener2.html to s3://tcrouzet.com/tag/borntobike/contener2.html
-Completed 4.3 MiB/8.2 MiB (533.9 KiB/s) with 8 file(s) remaining
-Completed 4.5 MiB/8.2 MiB (564.9 KiB/s) with 8 file(s) remaining
-Completed 4.8 MiB/8.2 MiB (594.6 KiB/s) with 8 file(s) remaining
-Completed 4.8 MiB/8.2 MiB (595.3 KiB/s) with 8 file(s) remaining
-upload: ../../static/tag/borntobike/contener5.html to s3://tcrouzet.com/tag/borntobike/contener5.html
-Completed 4.8 MiB/8.2 MiB (595.3 KiB/s) with 7 file(s) remaining
-Completed 4.8 MiB/8.2 MiB (595.8 KiB/s) with 7 file(s) remaining
-upload: ../../static/tag/borntobike/contener4.html to s3://tcrouzet.com/tag/borntobike/contener4.html
-Completed 4.8 MiB/8.2 MiB (595.8 KiB/s) with 6 file(s) remaining
-Completed 4.8 MiB/8.2 MiB (594.1 KiB/s) with 6 file(s) remaining
-upload: ../../static/update.json to s3://tcrouzet.com/update.json
-Completed 4.8 MiB/8.2 MiB (594.1 KiB/s) with 5 file(s) remaining
-Completed 4.9 MiB/8.2 MiB (596.1 KiB/s) with 5 file(s) remaining
+Completed 323.6 KiB/351.7 KiB (44.4 KiB/s) with 1 file(s) remaining
+Completed 351.7 KiB/351.7 KiB (48.2 KiB/s) with 1 file(s) remaining
 upload: ../../static/tag/borntobike/index.html to s3://tcrouzet.com/tag/borntobike/index.html
-Completed 4.9 MiB/8.2 MiB (596.1 KiB/s) with 4 file(s) remaining
-Completed 5.1 MiB/8.2 MiB (625.7 KiB/s) with 4 file(s) remaining
-Completed 5.1 MiB/8.2 MiB (619.4 KiB/s) with 4 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-04-08-155448-FrontignanetVilleneuve-ls-Maguelone.webp to s3://tcrouzet.com/images_tc/2025/04/2025-04-08-155448-FrontignanetVilleneuve-ls-Maguelone.webp
-Completed 5.1 MiB/8.2 MiB (619.4 KiB/s) with 3 file(s) remaining
-Completed 5.4 MiB/8.2 MiB (648.4 KiB/s) with 3 file(s) remaining
-Completed 5.6 MiB/8.2 MiB (677.2 KiB/s) with 3 file(s) remaining
-Completed 5.9 MiB/8.2 MiB (692.9 KiB/s) with 3 file(s) remaining
-Completed 6.1 MiB/8.2 MiB (718.1 KiB/s) with 3 file(s) remaining
-Completed 6.4 MiB/8.2 MiB (738.9 KiB/s) with 3 file(s) remaining
-Completed 6.6 MiB/8.2 MiB (764.0 KiB/s) with 3 file(s) remaining
-Completed 6.6 MiB/8.2 MiB (756.7 KiB/s) with 3 file(s) remaining
-upload: ../../static/sitemap/sitemap-posts.xml to s3://tcrouzet.com/sitemap/sitemap-posts.xml
-Completed 6.6 MiB/8.2 MiB (756.7 KiB/s) with 2 file(s) remaining
-Completed 6.9 MiB/8.2 MiB (784.1 KiB/s) with 2 file(s) remaining
-Completed 7.1 MiB/8.2 MiB (802.9 KiB/s) with 2 file(s) remaining
-Completed 7.4 MiB/8.2 MiB (826.0 KiB/s) with 2 file(s) remaining
-Completed 7.6 MiB/8.2 MiB (841.9 KiB/s) with 2 file(s) remaining
-Completed 7.7 MiB/8.2 MiB (847.4 KiB/s) with 2 file(s) remaining
-upload: ../../static/images_tc/2025/04/2025-04-10-115741-VacquiresetAspres.webp to s3://tcrouzet.com/images_tc/2025/04/2025-04-10-115741-VacquiresetAspres.webp
-Completed 7.7 MiB/8.2 MiB (847.4 KiB/s) with 1 file(s) remaining
-Completed 8.0 MiB/8.2 MiB (861.5 KiB/s) with 1 file(s) remaining
-Completed 8.2 MiB/8.2 MiB (875.2 KiB/s) with 1 file(s) remaining
-Completed 8.2 MiB/8.2 MiB (865.7 KiB/s) with 1 file(s) remaining
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt     
