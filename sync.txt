@@ -1,26 +1,38 @@
-Completed 40.7 KiB/~449.9 KiB (154.2 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/2025/05/02/avril-2025/content.html to s3://tcrouzet.com/2025/05/02/avril-2025/content.html
-Completed 40.7 KiB/~449.9 KiB (154.2 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 83.7 KiB/~449.9 KiB (264.6 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/2025/05/02/avril-2025/index.html to s3://tcrouzet.com/2025/05/02/avril-2025/index.html
-Completed 83.7 KiB/~449.9 KiB (264.6 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 140.7 KiB/~449.9 KiB (378.8 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
-Completed 140.7 KiB/~449.9 KiB (378.8 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 209.3 KiB/~449.9 KiB (390.6 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 8.7 KiB/~37.0 KiB (105.4 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/2023/03/24/comment-je-prepare-mon-gps-pour-un-bikepacking/index.html to s3://tcrouzet.com/2023/03/24/comment-je-prepare-mon-gps-pour-un-bikepacking/index.html
+Completed 8.7 KiB/~37.0 KiB (105.4 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 14.9 KiB/~230.4 KiB (88.1 KiB/s) with ~6 file(s) remaining (calculating...)
+upload: ../../static/2023/03/24/comment-je-prepare-mon-gps-pour-un-bikepacking/content.html to s3://tcrouzet.com/2023/03/24/comment-je-prepare-mon-gps-pour-un-bikepacking/content.html
+Completed 14.9 KiB/~230.4 KiB (88.1 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 27.3 KiB/~230.4 KiB (104.2 KiB/s) with ~5 file(s) remaining (calculating...)
+upload: ../../static/2024/09/10/visugpx-horsligne/index.html to s3://tcrouzet.com/2024/09/10/visugpx-horsligne/index.html
+Completed 27.3 KiB/~230.4 KiB (104.2 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 37.0 KiB/~230.4 KiB (139.6 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/2024/09/10/visugpx-horsligne/content.html to s3://tcrouzet.com/2024/09/10/visugpx-horsligne/content.html
+Completed 37.0 KiB/~230.4 KiB (139.6 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 94.0 KiB/~230.4 KiB (350.9 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml               
+Completed 94.0 KiB/~230.4 KiB (350.9 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 162.6 KiB/~230.4 KiB (350.5 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 230.4 KiB/~230.4 KiB (483.4 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/feeds/borntobike.xml to s3://tcrouzet.com/feeds/borntobike.xml    
+Completed 230.4 KiB/~230.4 KiB (483.4 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 209.3 KiB/~449.9 KiB (390.6 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 449.9 KiB/~449.9 KiB (514.4 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/feeds/carnet-de-route.xml to s3://tcrouzet.com/feeds/carnet-de-route.xml
-Completed 449.9 KiB/~449.9 KiB (514.4 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 473.0 KiB/530.8 KiB (56.4 KiB/s) with 4 file(s) remaining                    
-upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html          
-Completed 473.0 KiB/530.8 KiB (56.4 KiB/s) with 3 file(s) remaining
-Completed 474.2 KiB/530.8 KiB (55.9 KiB/s) with 3 file(s) remaining
+Completed 230.4 KiB/~230.4 KiB (483.4 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 231.6 KiB/268.9 KiB (31.7 KiB/s) with 6 file(s) remaining                    
 upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 474.2 KiB/530.8 KiB (55.9 KiB/s) with 2 file(s) remaining
-Completed 504.8 KiB/530.8 KiB (59.0 KiB/s) with 2 file(s) remaining
+Completed 231.6 KiB/268.9 KiB (31.7 KiB/s) with 5 file(s) remaining
+Completed 232.0 KiB/268.9 KiB (31.5 KiB/s) with 5 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
+Completed 232.0 KiB/268.9 KiB (31.5 KiB/s) with 4 file(s) remaining
+Completed 234.2 KiB/268.9 KiB (31.8 KiB/s) with 4 file(s) remaining
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
+Completed 234.2 KiB/268.9 KiB (31.8 KiB/s) with 3 file(s) remaining
+Completed 264.8 KiB/268.9 KiB (35.7 KiB/s) with 3 file(s) remaining
 upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 504.8 KiB/530.8 KiB (59.0 KiB/s) with 1 file(s) remaining
-Completed 530.8 KiB/530.8 KiB (61.9 KiB/s) with 1 file(s) remaining
-upload: ../../static/tag/carnet-de-route/index.html to s3://tcrouzet.com/tag/carnet-de-route/index.html
+Completed 264.8 KiB/268.9 KiB (35.7 KiB/s) with 2 file(s) remaining
+Completed 268.7 KiB/268.9 KiB (36.2 KiB/s) with 2 file(s) remaining
+upload: ../../static/tag/gpx/index.html to s3://tcrouzet.com/tag/gpx/index.html
+Completed 268.7 KiB/268.9 KiB (36.2 KiB/s) with 1 file(s) remaining
+Completed 268.9 KiB/268.9 KiB (36.2 KiB/s) with 1 file(s) remaining
+upload: ../../static/update.json to s3://tcrouzet.com/update.json  
