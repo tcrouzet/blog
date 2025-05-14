@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2025/05/14/o727-2025-bilan/index.html</loc>
+    <lastmod>2025-05-14T14:05:13+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2025/05/2025-05-10-151051.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2025/05/02/avril-2025/index.html</loc>
-    <lastmod>2025-05-02T09:01:15+02:00</lastmod>
+    <lastmod>2025-05-02T11:20:59+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2025/05/2025-04-11-101927-lamaison.webp</image:loc>
     </image:image>
@@ -352,7 +359,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2024/09/10/visugpx-horsligne/index.html</loc>
-    <lastmod>2024-09-13T17:59:26+02:00</lastmod>
+    <lastmod>2025-05-03T21:22:46+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/09/2024-08-19-155959-Castanet-le-Haut.webp</image:loc>
     </image:image>
@@ -940,7 +947,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2023/03/24/comment-je-prepare-mon-gps-pour-un-bikepacking/index.html</loc>
-    <lastmod>2024-12-30T07:18:30+01:00</lastmod>
+    <lastmod>2025-05-03T21:20:17+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2023/03/IMG_1401.webp</image:loc>
     </image:image>
