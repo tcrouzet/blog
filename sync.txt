@@ -1,29 +1,41 @@
-Completed 18.0 KiB/~91.9 KiB (141.3 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/bibliographie/index.html to s3://tcrouzet.com/bibliographie/index.html
-Completed 18.0 KiB/~91.9 KiB (141.3 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 25.3 KiB/~91.9 KiB (135.3 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/books/epicenes/index.html to s3://tcrouzet.com/books/epicenes/index.html
-Completed 25.3 KiB/~91.9 KiB (135.3 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 30.0 KiB/~91.9 KiB (158.0 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/books/epicenes/content.html to s3://tcrouzet.com/books/epicenes/content.html
-Completed 30.0 KiB/~91.9 KiB (158.0 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 91.9 KiB/~91.9 KiB (400.9 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml              
-Completed 91.9 KiB/~91.9 KiB (400.9 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 185.0 KiB/~185.0 KiB (292.0 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 13.1 KiB/~114.7 KiB (134.4 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/2025/05/14/besoin-de-vous-tous/index.html to s3://tcrouzet.com/2025/05/14/besoin-de-vous-tous/index.html
+Completed 13.1 KiB/~114.7 KiB (134.4 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 23.4 KiB/~114.7 KiB (134.3 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/2025/05/14/besoin-de-vous-tous/content.html to s3://tcrouzet.com/2025/05/14/besoin-de-vous-tous/content.html
+Completed 23.4 KiB/~114.7 KiB (134.3 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 52.5 KiB/~114.7 KiB (230.6 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html             
+Completed 52.5 KiB/~114.7 KiB (230.6 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 114.7 KiB/~114.7 KiB (357.1 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
+Completed 114.7 KiB/~114.7 KiB (357.1 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 207.9 KiB/~207.9 KiB (402.7 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 185.0 KiB/~185.0 KiB (292.0 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 196.0 KiB/401.4 KiB (27.6 KiB/s) with 5 file(s) remaining                    
-upload: ../../static/images_tc/2025/05/epicenes-4eme-250.webp to s3://tcrouzet.com/images_tc/2025/05/epicenes-4eme-250.webp
-Completed 196.0 KiB/401.4 KiB (27.6 KiB/s) with 4 file(s) remaining
-Completed 197.2 KiB/401.4 KiB (27.5 KiB/s) with 4 file(s) remaining
+Completed 207.9 KiB/~207.9 KiB (402.7 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 211.5 KiB/~302.3 KiB (32.6 KiB/s) with ~8 file(s) remaining (calculating...) 
+upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
+Completed 211.5 KiB/~302.3 KiB (32.6 KiB/s) with ~7 file(s) remaining (calculating...)
+Completed 212.7 KiB/302.5 KiB (32.4 KiB/s) with 8 file(s) remaining                   
 upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 197.2 KiB/401.4 KiB (27.5 KiB/s) with 3 file(s) remaining
-Completed 274.5 KiB/401.4 KiB (38.2 KiB/s) with 3 file(s) remaining
-upload: ../../static/images_tc/2025/05/epicenes-4eme.webp to s3://tcrouzet.com/images_tc/2025/05/epicenes-4eme.webp
-Completed 274.5 KiB/401.4 KiB (38.2 KiB/s) with 2 file(s) remaining
-Completed 305.3 KiB/401.4 KiB (42.4 KiB/s) with 2 file(s) remaining
+Completed 212.7 KiB/302.5 KiB (32.4 KiB/s) with 7 file(s) remaining
+Completed 212.9 KiB/302.5 KiB (32.4 KiB/s) with 7 file(s) remaining
+upload: ../../static/update.json to s3://tcrouzet.com/update.json  
+Completed 212.9 KiB/302.5 KiB (32.4 KiB/s) with 6 file(s) remaining
+Completed 213.4 KiB/302.5 KiB (32.4 KiB/s) with 6 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
+Completed 213.4 KiB/302.5 KiB (32.4 KiB/s) with 5 file(s) remaining
+Completed 215.9 KiB/302.5 KiB (32.8 KiB/s) with 5 file(s) remaining
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
+Completed 215.9 KiB/302.5 KiB (32.8 KiB/s) with 4 file(s) remaining
+Completed 239.0 KiB/302.5 KiB (36.1 KiB/s) with 4 file(s) remaining
+upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
+Completed 239.0 KiB/302.5 KiB (36.1 KiB/s) with 3 file(s) remaining
+Completed 242.9 KiB/302.5 KiB (36.6 KiB/s) with 3 file(s) remaining
+upload: ../../static/tag/epicenes/index.html to s3://tcrouzet.com/tag/epicenes/index.html
+Completed 242.9 KiB/302.5 KiB (36.6 KiB/s) with 2 file(s) remaining
+Completed 271.7 KiB/302.5 KiB (41.0 KiB/s) with 2 file(s) remaining
+upload: ../../static/tag/buzz/index.html to s3://tcrouzet.com/tag/buzz/index.html
+Completed 271.7 KiB/302.5 KiB (41.0 KiB/s) with 1 file(s) remaining
+Completed 302.5 KiB/302.5 KiB (45.6 KiB/s) with 1 file(s) remaining
 upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 305.3 KiB/401.4 KiB (42.4 KiB/s) with 1 file(s) remaining
-Completed 401.4 KiB/401.4 KiB (54.8 KiB/s) with 1 file(s) remaining
-upload: ../../static/images_tc/2025/05/epicenes-4eme-1024.webp to s3://tcrouzet.com/images_tc/2025/05/epicenes-4eme-1024.webp
