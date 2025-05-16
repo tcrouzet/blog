@@ -92,6 +92,8 @@ document.addEventListener("DOMContentLoaded", function() {
         //alert("scroll");
     }
 
+    setupScrollTrigger();
+
 });
 
 function scrollFire(){
@@ -295,4 +297,96 @@ function loadCommentScript(commentId) {
     
     // Ajouter le script au document
     document.body.appendChild(script);
+}
+
+
+// Fonction pour afficher le popup
+function showBookPopup() {
+  const popup = document.getElementById('popup');
+  
+  // Créer le contenu de la popup avec un bouton de fermeture explicite
+  popup.innerHTML = `
+    <div class="popup-content">
+      <span class="close-btn" onclick="closePopup()">&times;</span>
+      <img src="/images_tc/2025/05/Epicenes-cover.webp" alt="Épicènes">
+      <p><span class="poptitle">Épicènes</span> Un roman d’amour fusionnel à la frontière du noir et du fantastique</p>
+      <button class="newsletter-button" onclick="window.location.href='/books/epicenes/'">
+        <span class="newsletter-button-label">Découvrir</span>
+      </button>
+    </div>
+  `;
+  
+  // Afficher la popup
+  popup.style.display = 'flex';
+  
+  // Enregistrer la date d'affichage
+  localStorage.setItem('popupLastShown', new Date().getTime().toString());
+  
+  // Fermeture en cliquant en dehors
+  popup.addEventListener('click', function(e) {
+    if (e.target === popup) {
+      closePopup();
+    }
+  });
+}
+
+// Fonction pour fermer le popup
+function closePopup() {
+  const popup = document.getElementById('popup');
+  popup.style.display = 'none';
+  
+  // Optionnel : supprimer les écouteurs d'événements pour éviter les doublons
+  popup.replaceWith(popup.cloneNode(true));
+}
+
+function canShowPopup() {
+
+    // Vérifier si l'utilisateur est déjà sur la page du livre
+    const currentPath = window.location.pathname;
+    if (currentPath === '/books/epicenes/' || currentPath.startsWith('/books/epicenes')) {
+        return false;
+    }
+
+    // Pour le test
+    // return true; 
+
+    const now = new Date().getTime();
+    const lastShown = localStorage.getItem('popupLastShown');
+    const fifteenDays = 15 * 24 * 60 * 60 * 1000; // en millisecondes
+    
+    // Peut afficher si jamais affiché ou affiché il y a plus de 15 jours
+    return !lastShown || (now - parseInt(lastShown) > fifteenDays);
+}
+
+// Fonction pour configurer le déclenchement du popup au défilement
+function setupScrollTrigger() {
+  // Vérifier si on peut afficher le popup (pas vu depuis 15 jours)
+  if (!canShowPopup()) {
+    return; // Ne pas configurer le déclencheur si on ne peut pas afficher
+  }
+  
+  let popupTriggered = false;
+  
+  // Fonction pour vérifier le défilement et afficher le popup
+  function checkScrollForPopup() {
+    // Ne déclencher qu'une seule fois
+    if (popupTriggered) return;
+    
+    // Calculer le pourcentage de défilement
+    const totalPageHeight = document.body.scrollHeight;
+    const currentScrollPosition = window.scrollY || document.documentElement.scrollTop;
+    const windowHeight = window.innerHeight;
+    const scrollPercent = (currentScrollPosition / (totalPageHeight - windowHeight)) * 100;
+    
+    // Déclencher à 30% de défilement
+    if (scrollPercent > 30) {
+      popupTriggered = true;
+      showBookPopup();
+      // Retirer l'écouteur après déclenchement
+      window.removeEventListener('scroll', checkScrollForPopup);
+    }
+  }
+  
+  // Ajouter un écouteur d'événements séparé pour le popup
+  window.addEventListener('scroll', checkScrollForPopup);
 }
