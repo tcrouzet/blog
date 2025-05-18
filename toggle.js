@@ -188,11 +188,37 @@ function doAPIcall(type, url, flag, callback) {
     xmlhttp.send();
 }
 
-function copyText() {
+// function copyText() {
+//     if (navigator.share) {
+//         navigator.share({
+//             title: document.title,
+//             url: window.location.href
+//         }).then(() => {
+//             console.log('Partage réussi');
+//         }).catch((error) => {
+//             console.error('Erreur lors du partage :', error);
+//         });
+//     } else {
+//         // Fallback : copier le lien dans le presse-papier
+//         navigator.clipboard.writeText(window.location.href)
+//             .then(() => {
+//                 copyMessage('Adresse de l\'article copiée !<br/>À coller dans votre réseau social préféré.');
+//             })
+//             .catch((error) => {
+//                 console.error('Erreur lors de la copie du lien :', error);
+//             });
+//     }
+// }
+
+function copyText(customTitle, customUrl) {
+    // Utiliser les paramètres s'ils sont fournis, sinon utiliser les valeurs par défaut
+    const title = customTitle || document.title;
+    const url = customUrl || window.location.href;
+    
     if (navigator.share) {
         navigator.share({
-            title: document.title,
-            url: window.location.href
+            title: title,
+            url: url
         }).then(() => {
             console.log('Partage réussi');
         }).catch((error) => {
@@ -200,9 +226,9 @@ function copyText() {
         });
     } else {
         // Fallback : copier le lien dans le presse-papier
-        navigator.clipboard.writeText(window.location.href)
+        navigator.clipboard.writeText(url)
             .then(() => {
-                copyMessage('Adresse de l\'article copiée !<br/>À coller dans votre réseau social préféré.');
+                copyMessage('Adresse copiée !<br/>À coller dans votre réseau social préféré.');
             })
             .catch((error) => {
                 console.error('Erreur lors de la copie du lien :', error);
@@ -308,13 +334,22 @@ function showBookPopup() {
   popup.innerHTML = `
     <div class="popup-content">
       <span class="close-btn" onclick="closePopup()">&times;</span>
-      <img src="/images_tc/2025/05/Epicenes-cover.webp" alt="Épicènes">
-      <p><span class="poptitle">Épicènes</span> Un roman d’amour fusionnel à la frontière du noir et du fantastique</p>
-      <button class="newsletter-button" onclick="window.location.href='/books/epicenes/'">
-        <span class="newsletter-button-label">Découvrir</span>
+      <a href="/books/epicenes/"><img src="/images_tc/2025/05/Epicenes-cover.webp" alt="Épicènes"></a>
+      <p><span class="poptitle">Épicènes</span></p>
+      <p>Mon nouveau roman : amours fusionnels à la frontière du noir et du fantastique</p>
+      <button class="newsletter-button less" onclick="window.location.href='https://alaflamme.fr/wp-content/uploads/2025/02/Epicenes-premieres-pages.pdf'">
+        <span class="newsletter-button-label">Lire</span>
+      </button>
+      <button class="newsletter-button" onclick="window.location.href='https://alaflamme.fr/livre/epicenes/'">
+        <span class="newsletter-button-label">Acheter 16€</span>
+      </button>
+      <button class="newsletter-button less" onclick="copyText('Lisez Épicènes de Thierry Crouzet', 'https://tcrouzet.com/books/epicenes/')">
+        <span class="newsletter-button-label">Partager</span>
       </button>
     </div>
   `;
+
+
   
   // Afficher la popup
   popup.style.display = 'flex';
@@ -352,7 +387,7 @@ function canShowPopup() {
 
     const now = new Date().getTime();
     const lastShown = localStorage.getItem('popupLastShown');
-    const fifteenDays = 15 * 24 * 60 * 60 * 1000; // en millisecondes
+    const fifteenDays = 7 * 24 * 60 * 60 * 1000; // en millisecondes
     
     // Peut afficher si jamais affiché ou affiché il y a plus de 15 jours
     return !lastShown || (now - parseInt(lastShown) > fifteenDays);
@@ -362,7 +397,7 @@ function canShowPopup() {
 function setupScrollTrigger() {
   // Vérifier si on peut afficher le popup (pas vu depuis 15 jours)
   if (!canShowPopup()) {
-    return; // Ne pas configurer le déclencheur si on ne peut pas afficher
+    return;
   }
   
   let popupTriggered = false;
@@ -379,7 +414,7 @@ function setupScrollTrigger() {
     const scrollPercent = (currentScrollPosition / (totalPageHeight - windowHeight)) * 100;
     
     // Déclencher à 30% de défilement
-    if (scrollPercent > 30) {
+    if (scrollPercent > 10) {
       popupTriggered = true;
       showBookPopup();
       // Retirer l'écouteur après déclenchement
