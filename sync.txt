@@ -1,41 +1,41 @@
-Completed 8.5 KiB/~48.9 KiB (69.6 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 8.5 KiB/~48.9 KiB (62.9 KiB/s) with ~3 file(s) remaining (calculating...)
 upload: ../../static/2025/05/28/la-merdification-de-substack/content.html to s3://tcrouzet.com/2025/05/28/la-merdification-de-substack/content.html
-Completed 8.5 KiB/~48.9 KiB (69.6 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 19.6 KiB/~48.9 KiB (96.1 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/2025/05/28/la-merdification-de-substack/index.html to s3://tcrouzet.com/2025/05/28/la-merdification-de-substack/index.html
-Completed 19.6 KiB/~48.9 KiB (96.1 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 48.9 KiB/~48.9 KiB (203.8 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 8.5 KiB/~48.9 KiB (62.9 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 37.8 KiB/~48.9 KiB (100.1 KiB/s) with ~2 file(s) remaining (calculating...)
 upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html            
-Completed 48.9 KiB/~48.9 KiB (203.8 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 89.4 KiB/~123.7 KiB (128.3 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml               
-Completed 89.4 KiB/~123.7 KiB (128.3 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 123.7 KiB/~123.7 KiB (166.7 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 123.7 KiB/~123.7 KiB (166.7 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 127.4 KiB/~236.8 KiB (18.2 KiB/s) with ~7 file(s) remaining (calculating...) 
+Completed 37.8 KiB/~48.9 KiB (100.1 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 48.9 KiB/~48.9 KiB (128.9 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/2025/05/28/la-merdification-de-substack/index.html to s3://tcrouzet.com/2025/05/28/la-merdification-de-substack/index.html
+Completed 48.9 KiB/~48.9 KiB (128.9 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 83.1 KiB/~123.7 KiB (117.2 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml               
+Completed 83.1 KiB/~123.7 KiB (117.2 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 123.7 KiB/~123.7 KiB (166.8 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
+Completed 123.7 KiB/~123.7 KiB (166.8 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 127.5 KiB/~215.7 KiB (15.7 KiB/s) with ~7 file(s) remaining (calculating...) 
 upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
-Completed 127.4 KiB/~236.8 KiB (18.2 KiB/s) with ~6 file(s) remaining (calculating...)
-Completed 131.5 KiB/241.1 KiB (18.5 KiB/s) with 8 file(s) remaining                   
+Completed 127.5 KiB/~215.7 KiB (15.7 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 131.5 KiB/220.1 KiB (15.9 KiB/s) with 8 file(s) remaining                   
 upload: ../../static/tag/substack/index.html to s3://tcrouzet.com/tag/substack/index.html
-Completed 131.5 KiB/241.1 KiB (18.5 KiB/s) with 7 file(s) remaining
-Completed 132.7 KiB/241.1 KiB (18.6 KiB/s) with 7 file(s) remaining
+Completed 131.5 KiB/220.1 KiB (15.9 KiB/s) with 7 file(s) remaining
+Completed 132.7 KiB/220.1 KiB (15.8 KiB/s) with 7 file(s) remaining
 upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 132.7 KiB/241.1 KiB (18.6 KiB/s) with 6 file(s) remaining
-Completed 156.3 KiB/241.1 KiB (21.8 KiB/s) with 6 file(s) remaining
-upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
-Completed 156.3 KiB/241.1 KiB (21.8 KiB/s) with 5 file(s) remaining
-Completed 160.0 KiB/241.1 KiB (22.3 KiB/s) with 5 file(s) remaining
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
-Completed 160.0 KiB/241.1 KiB (22.3 KiB/s) with 4 file(s) remaining
-Completed 160.3 KiB/241.1 KiB (22.2 KiB/s) with 4 file(s) remaining
-upload: ../../static/update.json to s3://tcrouzet.com/update.json  
-Completed 160.3 KiB/241.1 KiB (22.2 KiB/s) with 3 file(s) remaining
-Completed 181.6 KiB/241.1 KiB (25.1 KiB/s) with 3 file(s) remaining
+Completed 132.7 KiB/220.1 KiB (15.8 KiB/s) with 6 file(s) remaining
+Completed 136.0 KiB/220.1 KiB (16.1 KiB/s) with 6 file(s) remaining
 upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
-Completed 181.6 KiB/241.1 KiB (25.1 KiB/s) with 2 file(s) remaining
-Completed 212.7 KiB/241.1 KiB (29.3 KiB/s) with 2 file(s) remaining
+Completed 136.0 KiB/220.1 KiB (16.1 KiB/s) with 5 file(s) remaining
+Completed 136.6 KiB/220.1 KiB (16.2 KiB/s) with 5 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
+Completed 136.6 KiB/220.1 KiB (16.2 KiB/s) with 4 file(s) remaining
+Completed 160.2 KiB/220.1 KiB (19.0 KiB/s) with 4 file(s) remaining
+upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
+Completed 160.2 KiB/220.1 KiB (19.0 KiB/s) with 3 file(s) remaining
+Completed 191.3 KiB/220.1 KiB (22.7 KiB/s) with 3 file(s) remaining
+Completed 191.6 KiB/220.1 KiB (22.7 KiB/s) with 3 file(s) remaining
 upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 212.7 KiB/241.1 KiB (29.3 KiB/s) with 1 file(s) remaining
-Completed 241.1 KiB/241.1 KiB (33.0 KiB/s) with 1 file(s) remaining
+Completed 191.6 KiB/220.1 KiB (22.7 KiB/s) with 2 file(s) remaining
+upload: ../../static/update.json to s3://tcrouzet.com/update.json  
+Completed 191.6 KiB/220.1 KiB (22.7 KiB/s) with 1 file(s) remaining
+Completed 220.1 KiB/220.1 KiB (25.9 KiB/s) with 1 file(s) remaining
 upload: ../../static/tag/netculture/index.html to s3://tcrouzet.com/tag/netculture/index.html
