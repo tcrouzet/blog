@@ -1,62 +1,39 @@
-Completed 6.8 KiB/~16.4 KiB (82.3 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/2016/04/01/un-feuilleton-sur-instagram-cest-maintenant/content.html to s3://tcrouzet.com/2016/04/01/un-feuilleton-sur-instagram-cest-maintenant/content.html
-Completed 6.8 KiB/~16.4 KiB (82.3 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 16.4 KiB/~16.4 KiB (99.6 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/2016/04/01/un-feuilleton-sur-instagram-cest-maintenant/index.html to s3://tcrouzet.com/2016/04/01/un-feuilleton-sur-instagram-cest-maintenant/index.html
-Completed 16.4 KiB/~16.4 KiB (99.6 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 36.5 KiB/~53.8 KiB (81.4 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/2019/10/29/bookstragram-arnaque-ou-pas/index.html to s3://tcrouzet.com/2019/10/29/bookstragram-arnaque-ou-pas/index.html
-Completed 36.5 KiB/~53.8 KiB (81.4 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 53.8 KiB/~53.8 KiB (116.3 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/2019/10/29/bookstragram-arnaque-ou-pas/content.html to s3://tcrouzet.com/2019/10/29/bookstragram-arnaque-ou-pas/content.html
-Completed 53.8 KiB/~53.8 KiB (116.3 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 72.3 KiB/~87.0 KiB (103.0 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 18.5 KiB/~34.3 KiB (155.8 KiB/s) with ~3 file(s) remaining (calculating...)
 upload: ../../static/bibliographie/index.html to s3://tcrouzet.com/bibliographie/index.html
-Completed 72.3 KiB/~87.0 KiB (103.0 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 78.3 KiB/~87.0 KiB (107.7 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 18.5 KiB/~34.3 KiB (155.8 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 25.1 KiB/~34.3 KiB (150.4 KiB/s) with ~2 file(s) remaining (calculating...)
 upload: ../../static/books/epicenes/content.html to s3://tcrouzet.com/books/epicenes/content.html
-Completed 78.3 KiB/~87.0 KiB (107.7 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 87.0 KiB/~87.0 KiB (107.2 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 25.1 KiB/~34.3 KiB (150.4 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 34.3 KiB/~34.3 KiB (185.6 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/books/epicenes/index.html to s3://tcrouzet.com/books/epicenes/index.html
-Completed 87.0 KiB/~87.0 KiB (107.2 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 181.3 KiB/~240.8 KiB (158.4 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 34.3 KiB/~34.3 KiB (185.6 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 93.8 KiB/~188.1 KiB (151.8 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml               
+Completed 93.8 KiB/~188.1 KiB (151.8 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 188.1 KiB/~188.1 KiB (297.4 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 181.3 KiB/~240.8 KiB (158.4 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 240.8 KiB/~240.8 KiB (206.4 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
-Completed 240.8 KiB/~240.8 KiB (206.4 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 251.5 KiB/~677.2 KiB (32.4 KiB/s) with ~10 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2025/05/epic02-250.webp to s3://tcrouzet.com/images_tc/2025/05/epic02-250.webp
-Completed 251.5 KiB/~677.2 KiB (32.4 KiB/s) with ~9 file(s) remaining (calculating...)
-Completed 281.5 KiB/687.7 KiB (35.8 KiB/s) with 11 file(s) remaining                  
-upload: ../../static/tag/edition/index.html to s3://tcrouzet.com/tag/edition/index.html
-Completed 281.5 KiB/687.7 KiB (35.8 KiB/s) with 10 file(s) remaining
-Completed 282.6 KiB/687.7 KiB (35.9 KiB/s) with 10 file(s) remaining
-upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 282.6 KiB/687.7 KiB (35.9 KiB/s) with 9 file(s) remaining
-Completed 283.6 KiB/687.7 KiB (36.0 KiB/s) with 9 file(s) remaining
+Completed 188.1 KiB/~188.1 KiB (297.4 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 200.3 KiB/~812.1 KiB (28.6 KiB/s) with ~7 file(s) remaining (calculating...) 
+upload: ../../static/images_tc/2025/05/epicrc03-250.webp to s3://tcrouzet.com/images_tc/2025/05/epicrc03-250.webp
+Completed 200.3 KiB/~812.1 KiB (28.6 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 456.3 KiB/812.4 KiB (64.2 KiB/s) with 7 file(s) remaining                   
+Completed 456.5 KiB/812.4 KiB (64.0 KiB/s) with 7 file(s) remaining                   
+Completed 461.8 KiB/812.4 KiB (64.7 KiB/s) with 7 file(s) remaining                   
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                           
+Completed 461.8 KiB/812.4 KiB (64.7 KiB/s) with 6 file(s) remaining
+Completed 462.8 KiB/812.4 KiB (64.8 KiB/s) with 6 file(s) remaining
 upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
-Completed 283.6 KiB/687.7 KiB (36.0 KiB/s) with 8 file(s) remaining
-Completed 288.7 KiB/687.7 KiB (36.6 KiB/s) with 8 file(s) remaining
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
-Completed 288.7 KiB/687.7 KiB (36.6 KiB/s) with 7 file(s) remaining
-Completed 319.9 KiB/687.7 KiB (40.4 KiB/s) with 7 file(s) remaining
-upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 319.9 KiB/687.7 KiB (40.4 KiB/s) with 6 file(s) remaining
-Completed 351.4 KiB/687.7 KiB (44.3 KiB/s) with 6 file(s) remaining
-upload: ../../static/tag/coup_de_gueule/index.html to s3://tcrouzet.com/tag/coup_de_gueule/index.html
-Completed 351.4 KiB/687.7 KiB (44.3 KiB/s) with 5 file(s) remaining
-Completed 454.3 KiB/687.7 KiB (57.2 KiB/s) with 5 file(s) remaining
-upload: ../../static/images_tc/2025/05/epic02-1024.webp to s3://tcrouzet.com/images_tc/2025/05/epic02-1024.webp
-Completed 454.3 KiB/687.7 KiB (57.2 KiB/s) with 4 file(s) remaining
-Completed 485.5 KiB/687.7 KiB (61.1 KiB/s) with 4 file(s) remaining
-upload: ../../static/tag/dialogue/index.html to s3://tcrouzet.com/tag/dialogue/index.html
-Completed 485.5 KiB/687.7 KiB (61.1 KiB/s) with 3 file(s) remaining
-Completed 485.8 KiB/687.7 KiB (61.1 KiB/s) with 3 file(s) remaining
+Completed 462.8 KiB/812.4 KiB (64.8 KiB/s) with 5 file(s) remaining
 upload: ../../static/update.json to s3://tcrouzet.com/update.json  
-Completed 485.8 KiB/687.7 KiB (61.1 KiB/s) with 2 file(s) remaining
-Completed 496.1 KiB/687.7 KiB (62.2 KiB/s) with 2 file(s) remaining
-upload: ../../static/tag/resistants/index.html to s3://tcrouzet.com/tag/resistants/index.html
-Completed 496.1 KiB/687.7 KiB (62.2 KiB/s) with 1 file(s) remaining
-Completed 687.7 KiB/687.7 KiB (85.7 KiB/s) with 1 file(s) remaining
-upload: ../../static/images_tc/2025/05/epic02.webp to s3://tcrouzet.com/images_tc/2025/05/epic02.webp
+Completed 462.8 KiB/812.4 KiB (64.8 KiB/s) with 4 file(s) remaining
+Completed 464.0 KiB/812.4 KiB (64.7 KiB/s) with 4 file(s) remaining
+upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
+Completed 464.0 KiB/812.4 KiB (64.7 KiB/s) with 3 file(s) remaining
+Completed 495.1 KiB/812.4 KiB (69.0 KiB/s) with 3 file(s) remaining
+upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
+Completed 495.1 KiB/812.4 KiB (69.0 KiB/s) with 2 file(s) remaining
+Completed 650.0 KiB/812.4 KiB (89.4 KiB/s) with 2 file(s) remaining
+upload: ../../static/images_tc/2025/05/epicrc03.webp to s3://tcrouzet.com/images_tc/2025/05/epicrc03.webp
+Completed 650.0 KiB/812.4 KiB (89.4 KiB/s) with 1 file(s) remaining
+Completed 812.4 KiB/812.4 KiB (111.4 KiB/s) with 1 file(s) remaining
+upload: ../../static/images_tc/2025/05/epicrc03-1024.webp to s3://tcrouzet.com/images_tc/2025/05/epicrc03-1024.webp
