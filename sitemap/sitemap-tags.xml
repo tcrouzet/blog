@@ -44,9 +44,9 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/tag/netlitterature/index.html</loc>
-    <lastmod>2025-06-13T13:41:04+02:00</lastmod>
+    <lastmod>2025-06-14T16:28:17+02:00</lastmod>
     <image:image>
-      <image:loc>https://tcrouzet.com/images_tc/2025/06/intercover.webp</image:loc>
+      <image:loc>https://tcrouzet.com/images_tc/2025/06/epicuniv.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -756,6 +756,13 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tcrouzet.com/tag/epicenes/index.html</loc>
+    <lastmod>2025-06-14T16:28:17+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2025/06/epicuniv.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/tag/geolecture/index.html</loc>
     <lastmod>2024-04-30T10:10:32+02:00</lastmod>
     <image:image>
@@ -806,13 +813,6 @@
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2022/08/IMG_8993.webp</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tcrouzet.com/tag/epicenes/index.html</loc>
-    <lastmod>2025-06-13T13:41:04+02:00</lastmod>
-    <image:image>
-      <image:loc>https://tcrouzet.com/images_tc/2025/06/intercover.webp</image:loc>
     </image:image>
   </url>
   <url>
