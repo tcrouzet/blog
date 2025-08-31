@@ -330,6 +330,13 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tcrouzet.com/2025/03/02/digest002/index.html</loc>
+    <lastmod>2025-08-31T16:37:43+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2025/03/digest002.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2025/02/27/edition-francophone-mastodon/index.html</loc>
     <lastmod>2025-03-24T20:19:40+01:00</lastmod>
     <image:image>
@@ -338,7 +345,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2025/02/23/digest001/index.html</loc>
-    <lastmod>2025-08-31T16:09:03+02:00</lastmod>
+    <lastmod>2025-08-31T16:27:46+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2025/02/digest01.webp</image:loc>
     </image:image>
