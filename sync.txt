@@ -1,44 +1,307 @@
-Completed 20.2 KiB/~37.7 KiB (204.0 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/2025/08/20/gps/index.html to s3://tcrouzet.com/2025/08/20/gps/index.html
-Completed 20.2 KiB/~37.7 KiB (204.0 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 37.7 KiB/~37.7 KiB (195.8 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/2025/08/20/gps/content.html to s3://tcrouzet.com/2025/08/20/gps/content.html
-Completed 37.7 KiB/~37.7 KiB (195.8 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 112.0 KiB/~235.1 KiB (113.5 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
-Completed 112.0 KiB/~235.1 KiB (113.5 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 167.6 KiB/~235.1 KiB (164.1 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/borntobike.xml to s3://tcrouzet.com/feeds/borntobike.xml    
-Completed 167.6 KiB/~235.1 KiB (164.1 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 235.1 KiB/~235.1 KiB (185.5 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 13.8 KiB/~313.5 KiB (52.0 KiB/s) with ~5 file(s) remaining (calculating...)
+upload: ../../static/2025/08/28/g727-2025-final/content.html to s3://tcrouzet.com/2025/08/28/g727-2025-final/content.html
+Completed 13.8 KiB/~313.5 KiB (52.0 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 25.4 KiB/~313.5 KiB (92.1 KiB/s) with ~4 file(s) remaining (calculating...)
+upload: ../../static/2025/contener2.html to s3://tcrouzet.com/2025/contener2.html    
+Completed 25.4 KiB/~313.5 KiB (92.1 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 41.7 KiB/~313.5 KiB (148.6 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/2025/08/28/g727-2025-final/index.html to s3://tcrouzet.com/2025/08/28/g727-2025-final/index.html
+Completed 41.7 KiB/~313.5 KiB (148.6 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 283.5 KiB/~313.5 KiB (682.1 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/archives/index.html to s3://tcrouzet.com/archives/index.html      
+Completed 283.5 KiB/~313.5 KiB (682.1 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 313.5 KiB/~313.5 KiB (679.5 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/2025/index.html to s3://tcrouzet.com/2025/index.html              
+Completed 313.5 KiB/~313.5 KiB (679.5 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 384.2 KiB/~509.3 KiB (396.4 KiB/s) with ~3 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 235.1 KiB/~235.1 KiB (185.5 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 238.8 KiB/~238.8 KiB (12.4 KiB/s) with ~1 file(s) remaining (calculating...) 
-upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
-Completed 238.8 KiB/~238.8 KiB (12.4 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 262.3 KiB/~299.9 KiB (13.5 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html         
-Completed 262.3 KiB/~299.9 KiB (13.5 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 293.0 KiB/~358.6 KiB (15.0 KiB/s) with ~6 file(s) remaining (calculating...)
-upload: ../../static/tag/bikepacking/index.html to s3://tcrouzet.com/tag/bikepacking/index.html
-Completed 293.0 KiB/~358.6 KiB (15.0 KiB/s) with ~5 file(s) remaining (calculating...)
-Completed 294.1 KiB/~358.6 KiB (15.0 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 384.2 KiB/~509.3 KiB (396.4 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 458.5 KiB/~509.3 KiB (461.7 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
+Completed 458.5 KiB/~509.3 KiB (461.7 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 509.3 KiB/~509.3 KiB (448.2 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/feeds/borntobike.xml to s3://tcrouzet.com/feeds/borntobike.xml    
+Completed 509.3 KiB/~509.3 KiB (448.2 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 518.5 KiB/~17.9 MiB (21.2 KiB/s) with ~57 file(s) remaining (calculating...) 
+upload: ../../static/images_tc/2025/08/2025-08-26-111759-250.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-111759-250.webp
+Completed 518.5 KiB/~17.9 MiB (21.2 KiB/s) with ~56 file(s) remaining (calculating...)
+Completed 529.4 KiB/~18.5 MiB (21.6 KiB/s) with ~61 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2025/08/2025-08-26-114023-250.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-114023-250.webp
+Completed 529.4 KiB/~18.5 MiB (21.6 KiB/s) with ~60 file(s) remaining (calculating...)
+Completed 533.3 KiB/~18.5 MiB (21.7 KiB/s) with ~61 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2025/08/2025-08-26-112940-250.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-112940-250.webp
+Completed 533.3 KiB/~18.5 MiB (21.7 KiB/s) with ~60 file(s) remaining (calculating...)
+Completed 789.3 KiB/~18.6 MiB (32.0 KiB/s) with ~66 file(s) remaining (calculating...)
+Completed 844.7 KiB/~18.7 MiB (34.1 KiB/s) with ~71 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2025/08/2025-08-26-112940-1024.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-112940-1024.webp
+Completed 844.7 KiB/~18.7 MiB (34.1 KiB/s) with ~70 file(s) remaining (calculating...)
+Completed 919.9 KiB/~18.7 MiB (37.1 KiB/s) with ~70 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2025/08/2025-08-26-122219-1024.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-122219-1024.webp
+Completed 919.9 KiB/~18.7 MiB (37.1 KiB/s) with ~69 file(s) remaining (calculating...)
+Completed 1.1 MiB/~18.7 MiB (47.4 KiB/s) with ~69 file(s) remaining (calculating...)  
+Completed 1.4 MiB/~18.7 MiB (57.7 KiB/s) with ~69 file(s) remaining (calculating...)  
+Completed 1.4 MiB/~18.7 MiB (57.9 KiB/s) with ~69 file(s) remaining (calculating...)  
+upload: ../../static/images_tc/2025/08/2025-08-26-122219-250.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-122219-250.webp
+Completed 1.4 MiB/~18.7 MiB (57.9 KiB/s) with ~68 file(s) remaining (calculating...)
+Completed 1.6 MiB/~18.7 MiB (65.0 KiB/s) with ~68 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2025/08/2025-08-26-114023-1024.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-114023-1024.webp
+Completed 1.6 MiB/~18.7 MiB (65.0 KiB/s) with ~67 file(s) remaining (calculating...)
+Completed 1.7 MiB/~18.7 MiB (71.0 KiB/s) with ~67 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2025/08/2025-08-26-111759-1024.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-111759-1024.webp
+Completed 1.7 MiB/~18.7 MiB (71.0 KiB/s) with ~66 file(s) remaining (calculating...)
+Completed 1.7 MiB/~18.7 MiB (71.4 KiB/s) with ~66 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2025/08/2025-08-26-112940.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-112940.webp
+Completed 1.7 MiB/~18.7 MiB (71.4 KiB/s) with ~65 file(s) remaining (calculating...)
+Completed 2.0 MiB/~18.7 MiB (81.5 KiB/s) with ~65 file(s) remaining (calculating...)
+Completed 2.2 MiB/~18.7 MiB (91.7 KiB/s) with ~65 file(s) remaining (calculating...)
+Completed 2.5 MiB/~18.7 MiB (102.0 KiB/s) with ~65 file(s) remaining (calculating...)
+Completed 2.5 MiB/~18.7 MiB (102.2 KiB/s) with ~65 file(s) remaining (calculating...)
+Completed 2.6 MiB/~18.7 MiB (106.4 KiB/s) with ~65 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2025/08/2025-08-26-122648-1024.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-122648-1024.webp
+Completed 2.6 MiB/~18.7 MiB (106.4 KiB/s) with ~64 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2025/08/2025-08-26-122648-250.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-122648-250.webp
+Completed 2.6 MiB/~18.7 MiB (106.4 KiB/s) with ~63 file(s) remaining (calculating...)
+Completed 2.6 MiB/~18.7 MiB (106.1 KiB/s) with ~63 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2025/08/2025-08-26-132710-250.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-132710-250.webp
+Completed 2.6 MiB/~18.7 MiB (106.1 KiB/s) with ~62 file(s) remaining (calculating...)
+Completed 2.9 MiB/~18.7 MiB (116.3 KiB/s) with ~62 file(s) remaining (calculating...)
+Completed 3.1 MiB/~18.7 MiB (126.5 KiB/s) with ~62 file(s) remaining (calculating...)
+Completed 3.2 MiB/~18.7 MiB (128.4 KiB/s) with ~63 file(s) remaining (calculating...)
+upload: ../../static/images_tc/2025/08/2025-08-26-132710-1024.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-132710-1024.webp
+Completed 3.2 MiB/~18.7 MiB (128.4 KiB/s) with ~62 file(s) remaining (calculating...)
+Completed 3.4 MiB/~18.7 MiB (138.5 KiB/s) with ~62 file(s) remaining (calculating...)
+Completed 3.7 MiB/~18.7 MiB (148.4 KiB/s) with ~62 file(s) remaining (calculating...)
+Completed 3.9 MiB/~18.7 MiB (157.8 KiB/s) with ~62 file(s) remaining (calculating...)
+Completed 4.0 MiB/18.7 MiB (160.4 KiB/s) with 63 file(s) remaining                   
+upload: ../../static/images_tc/2025/08/2025-08-26-111759.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-111759.webp
+Completed 4.0 MiB/18.7 MiB (160.4 KiB/s) with 62 file(s) remaining
+Completed 4.0 MiB/18.7 MiB (160.6 KiB/s) with 62 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-132824-250.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-132824-250.webp
+Completed 4.0 MiB/18.7 MiB (160.6 KiB/s) with 61 file(s) remaining
+Completed 4.1 MiB/18.7 MiB (163.0 KiB/s) with 61 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-132824-1024.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-132824-1024.webp
+Completed 4.1 MiB/18.7 MiB (163.0 KiB/s) with 60 file(s) remaining
+Completed 4.2 MiB/18.7 MiB (165.6 KiB/s) with 60 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-114023.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-114023.webp
+Completed 4.2 MiB/18.7 MiB (165.6 KiB/s) with 59 file(s) remaining
+Completed 4.2 MiB/18.7 MiB (165.6 KiB/s) with 59 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-133951-250.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-133951-250.webp
+Completed 4.2 MiB/18.7 MiB (165.6 KiB/s) with 58 file(s) remaining
+Completed 4.2 MiB/18.7 MiB (166.5 KiB/s) with 58 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-122648.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-122648.webp
+Completed 4.2 MiB/18.7 MiB (166.5 KiB/s) with 57 file(s) remaining
+Completed 4.4 MiB/18.7 MiB (176.4 KiB/s) with 57 file(s) remaining
+Completed 4.7 MiB/18.7 MiB (186.3 KiB/s) with 57 file(s) remaining
+Completed 4.8 MiB/18.7 MiB (188.9 KiB/s) with 57 file(s) remaining
+Completed 5.0 MiB/18.7 MiB (198.8 KiB/s) with 57 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-133951-1024.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-133951-1024.webp
+Completed 5.0 MiB/18.7 MiB (198.8 KiB/s) with 56 file(s) remaining
+Completed 5.3 MiB/18.7 MiB (208.7 KiB/s) with 56 file(s) remaining
+Completed 5.5 MiB/18.7 MiB (218.5 KiB/s) with 56 file(s) remaining
+Completed 5.8 MiB/18.7 MiB (228.4 KiB/s) with 56 file(s) remaining
+Completed 6.0 MiB/18.7 MiB (238.3 KiB/s) with 56 file(s) remaining
+Completed 6.3 MiB/18.7 MiB (248.2 KiB/s) with 56 file(s) remaining
+Completed 6.4 MiB/18.7 MiB (253.5 KiB/s) with 56 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-122219.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-122219.webp
+Completed 6.4 MiB/18.7 MiB (253.5 KiB/s) with 55 file(s) remaining
+Completed 6.4 MiB/18.7 MiB (251.9 KiB/s) with 55 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-134418-250.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-134418-250.webp
+Completed 6.4 MiB/18.7 MiB (251.9 KiB/s) with 54 file(s) remaining
+Completed 6.5 MiB/18.7 MiB (252.9 KiB/s) with 54 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-132710.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-132710.webp
+Completed 6.5 MiB/18.7 MiB (252.9 KiB/s) with 53 file(s) remaining
+Completed 6.7 MiB/18.7 MiB (262.7 KiB/s) with 53 file(s) remaining
+Completed 6.7 MiB/18.7 MiB (261.0 KiB/s) with 53 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-140713-250.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-140713-250.webp
+Completed 6.7 MiB/18.7 MiB (261.0 KiB/s) with 52 file(s) remaining
+Completed 7.0 MiB/18.7 MiB (270.7 KiB/s) with 52 file(s) remaining
+Completed 7.2 MiB/18.7 MiB (278.5 KiB/s) with 52 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-133951.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-133951.webp
+Completed 7.2 MiB/18.7 MiB (278.5 KiB/s) with 51 file(s) remaining
+Completed 7.4 MiB/18.7 MiB (284.7 KiB/s) with 51 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-132824.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-132824.webp
+Completed 7.4 MiB/18.7 MiB (284.7 KiB/s) with 50 file(s) remaining
+Completed 7.5 MiB/18.7 MiB (287.5 KiB/s) with 50 file(s) remaining
+Completed 7.6 MiB/18.7 MiB (290.3 KiB/s) with 50 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-140713-1024.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-140713-1024.webp
+Completed 7.6 MiB/18.7 MiB (290.3 KiB/s) with 49 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-134418-1024.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-134418-1024.webp
+Completed 7.6 MiB/18.7 MiB (290.3 KiB/s) with 48 file(s) remaining
+Completed 7.6 MiB/18.7 MiB (291.1 KiB/s) with 48 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-134418.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-134418.webp
+Completed 7.6 MiB/18.7 MiB (291.1 KiB/s) with 47 file(s) remaining
+Completed 7.9 MiB/18.7 MiB (300.5 KiB/s) with 47 file(s) remaining
+Completed 8.1 MiB/18.7 MiB (310.1 KiB/s) with 47 file(s) remaining
+Completed 8.1 MiB/18.7 MiB (310.2 KiB/s) with 47 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-162210-250.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-162210-250.webp
+Completed 8.1 MiB/18.7 MiB (310.2 KiB/s) with 46 file(s) remaining
+Completed 8.3 MiB/18.7 MiB (314.7 KiB/s) with 46 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-140713.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-140713.webp
+Completed 8.3 MiB/18.7 MiB (314.7 KiB/s) with 45 file(s) remaining
+Completed 8.5 MiB/18.7 MiB (323.5 KiB/s) with 45 file(s) remaining
+Completed 8.5 MiB/18.7 MiB (323.8 KiB/s) with 45 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-164432-250.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-164432-250.webp
+Completed 8.5 MiB/18.7 MiB (323.8 KiB/s) with 44 file(s) remaining
+Completed 8.8 MiB/18.7 MiB (333.2 KiB/s) with 44 file(s) remaining
+Completed 9.0 MiB/18.7 MiB (342.4 KiB/s) with 44 file(s) remaining
+Completed 9.1 MiB/18.7 MiB (344.4 KiB/s) with 44 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-162210-1024.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-162210-1024.webp
+Completed 9.1 MiB/18.7 MiB (344.4 KiB/s) with 43 file(s) remaining
+Completed 9.3 MiB/18.7 MiB (353.7 KiB/s) with 43 file(s) remaining
+Completed 9.6 MiB/18.7 MiB (363.1 KiB/s) with 43 file(s) remaining
+Completed 9.8 MiB/18.7 MiB (371.7 KiB/s) with 43 file(s) remaining
+Completed 9.8 MiB/18.7 MiB (371.8 KiB/s) with 43 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-27-093530-250.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-27-093530-250.webp
+Completed 9.8 MiB/18.7 MiB (371.8 KiB/s) with 42 file(s) remaining
+Completed 10.1 MiB/18.7 MiB (380.7 KiB/s) with 42 file(s) remaining
+Completed 10.3 MiB/18.7 MiB (389.1 KiB/s) with 42 file(s) remaining
+Completed 10.6 MiB/18.7 MiB (397.0 KiB/s) with 42 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-164432-1024.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-164432-1024.webp
+Completed 10.6 MiB/18.7 MiB (397.0 KiB/s) with 41 file(s) remaining
+Completed 10.8 MiB/18.7 MiB (405.7 KiB/s) with 41 file(s) remaining
+Completed 11.1 MiB/18.7 MiB (415.1 KiB/s) with 41 file(s) remaining
+Completed 11.3 MiB/18.7 MiB (423.3 KiB/s) with 41 file(s) remaining
+Completed 11.6 MiB/18.7 MiB (431.9 KiB/s) with 41 file(s) remaining
+Completed 11.8 MiB/18.7 MiB (441.1 KiB/s) with 41 file(s) remaining
+Completed 12.1 MiB/18.7 MiB (450.2 KiB/s) with 41 file(s) remaining
+Completed 12.3 MiB/18.7 MiB (458.0 KiB/s) with 41 file(s) remaining
+Completed 12.4 MiB/18.7 MiB (461.0 KiB/s) with 41 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-27-100902-1024.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-27-100902-1024.webp
+Completed 12.4 MiB/18.7 MiB (461.0 KiB/s) with 40 file(s) remaining
+Completed 12.7 MiB/18.7 MiB (470.2 KiB/s) with 40 file(s) remaining
+Completed 12.7 MiB/18.7 MiB (469.6 KiB/s) with 40 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-27-100902-250.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-27-100902-250.webp
+Completed 12.7 MiB/18.7 MiB (469.6 KiB/s) with 39 file(s) remaining
+Completed 12.9 MiB/18.7 MiB (473.4 KiB/s) with 39 file(s) remaining
+Completed 13.2 MiB/18.7 MiB (482.5 KiB/s) with 39 file(s) remaining
+Completed 13.4 MiB/18.7 MiB (491.5 KiB/s) with 39 file(s) remaining
+Completed 13.7 MiB/18.7 MiB (499.8 KiB/s) with 39 file(s) remaining
+Completed 13.9 MiB/18.7 MiB (508.4 KiB/s) with 39 file(s) remaining
+Completed 14.2 MiB/18.7 MiB (516.8 KiB/s) with 39 file(s) remaining
+Completed 14.4 MiB/18.7 MiB (523.0 KiB/s) with 39 file(s) remaining
+Completed 14.7 MiB/18.7 MiB (531.9 KiB/s) with 39 file(s) remaining
+Completed 14.9 MiB/18.7 MiB (540.8 KiB/s) with 39 file(s) remaining
+Completed 15.0 MiB/18.7 MiB (537.9 KiB/s) with 39 file(s) remaining
+Completed 15.1 MiB/18.7 MiB (544.6 KiB/s) with 39 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-27-110237-250.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-27-110237-250.webp
+Completed 15.1 MiB/18.7 MiB (544.6 KiB/s) with 38 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-164432.jpeg to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-164432.jpeg
+Completed 15.1 MiB/18.7 MiB (544.6 KiB/s) with 37 file(s) remaining
+Completed 15.2 MiB/18.7 MiB (545.7 KiB/s) with 37 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-27-100902.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-27-100902.webp
+Completed 15.2 MiB/18.7 MiB (545.7 KiB/s) with 36 file(s) remaining
+Completed 15.4 MiB/18.7 MiB (550.6 KiB/s) with 36 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-27-110237-1024.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-27-110237-1024.webp
+Completed 15.4 MiB/18.7 MiB (550.6 KiB/s) with 35 file(s) remaining
+Completed 15.6 MiB/18.7 MiB (547.3 KiB/s) with 35 file(s) remaining
+Completed 15.7 MiB/18.7 MiB (544.2 KiB/s) with 35 file(s) remaining
+Completed 15.8 MiB/18.7 MiB (545.4 KiB/s) with 35 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-164432.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-164432.webp
+Completed 15.8 MiB/18.7 MiB (545.4 KiB/s) with 34 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-27-093530-1024.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-27-093530-1024.webp
+Completed 15.8 MiB/18.7 MiB (545.4 KiB/s) with 33 file(s) remaining
+Completed 16.0 MiB/18.7 MiB (553.7 KiB/s) with 33 file(s) remaining
+Completed 16.0 MiB/18.7 MiB (553.7 KiB/s) with 33 file(s) remaining
+upload: ../../static/images_tc/2025/08/canon-250.webp to s3://tcrouzet.com/images_tc/2025/08/canon-250.webp
+Completed 16.0 MiB/18.7 MiB (553.7 KiB/s) with 32 file(s) remaining
+Completed 16.1 MiB/18.7 MiB (555.2 KiB/s) with 32 file(s) remaining
+Completed 16.3 MiB/18.7 MiB (562.0 KiB/s) with 32 file(s) remaining
+upload: ../../static/images_tc/2025/08/canon.webp to s3://tcrouzet.com/images_tc/2025/08/canon.webp
+Completed 16.3 MiB/18.7 MiB (562.0 KiB/s) with 31 file(s) remaining
+upload: ../../static/images_tc/2025/08/canon-1024.webp to s3://tcrouzet.com/images_tc/2025/08/canon-1024.webp
+Completed 16.3 MiB/18.7 MiB (562.0 KiB/s) with 30 file(s) remaining
+Completed 16.3 MiB/18.7 MiB (562.6 KiB/s) with 30 file(s) remaining
+upload: ../../static/page/informations/index.html to s3://tcrouzet.com/page/informations/index.html
+Completed 16.3 MiB/18.7 MiB (562.6 KiB/s) with 29 file(s) remaining
+Completed 16.6 MiB/18.7 MiB (571.2 KiB/s) with 29 file(s) remaining
+Completed 16.7 MiB/18.7 MiB (574.1 KiB/s) with 29 file(s) remaining
+Completed 16.7 MiB/18.7 MiB (574.2 KiB/s) with 29 file(s) remaining
+upload: ../../static/index.html to s3://tcrouzet.com/index.html    
+Completed 16.7 MiB/18.7 MiB (574.2 KiB/s) with 28 file(s) remaining
+upload: ../../static/images_tc/2025/08/g727-2025-variantes.png to s3://tcrouzet.com/images_tc/2025/08/g727-2025-variantes.png
+Completed 16.7 MiB/18.7 MiB (574.2 KiB/s) with 27 file(s) remaining
+Completed 16.7 MiB/18.7 MiB (574.8 KiB/s) with 27 file(s) remaining
+upload: ../../static/page/informations/content.html to s3://tcrouzet.com/page/informations/content.html
+Completed 16.7 MiB/18.7 MiB (574.8 KiB/s) with 26 file(s) remaining
+Completed 17.0 MiB/18.7 MiB (583.3 KiB/s) with 26 file(s) remaining
+Completed 17.1 MiB/18.7 MiB (587.8 KiB/s) with 26 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-26-162210.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-26-162210.webp
+Completed 17.1 MiB/18.7 MiB (587.8 KiB/s) with 25 file(s) remaining
+Completed 17.1 MiB/18.7 MiB (586.7 KiB/s) with 25 file(s) remaining
+Completed 17.2 MiB/18.7 MiB (587.0 KiB/s) with 25 file(s) remaining
+upload: ../../static/page/presentations-presse/index.html to s3://tcrouzet.com/page/presentations-presse/index.html
+Completed 17.2 MiB/18.7 MiB (587.0 KiB/s) with 24 file(s) remaining
+Completed 17.2 MiB/18.7 MiB (587.1 KiB/s) with 24 file(s) remaining
+upload: ../../static/page/mail/content.html to s3://tcrouzet.com/page/mail/content.html
+Completed 17.2 MiB/18.7 MiB (587.1 KiB/s) with 23 file(s) remaining
+upload: ../../static/page/one-sunset-a-day/index.html to s3://tcrouzet.com/page/one-sunset-a-day/index.html
+Completed 17.2 MiB/18.7 MiB (587.1 KiB/s) with 22 file(s) remaining
+Completed 17.2 MiB/18.7 MiB (586.9 KiB/s) with 22 file(s) remaining
+upload: ../../static/page/one-sunset-a-day/content.html to s3://tcrouzet.com/page/one-sunset-a-day/content.html
+Completed 17.2 MiB/18.7 MiB (586.9 KiB/s) with 21 file(s) remaining
+Completed 17.2 MiB/18.7 MiB (586.2 KiB/s) with 21 file(s) remaining
+upload: ../../static/page/mail/index.html to s3://tcrouzet.com/page/mail/index.html
+Completed 17.2 MiB/18.7 MiB (586.2 KiB/s) with 20 file(s) remaining
+Completed 17.2 MiB/18.7 MiB (586.4 KiB/s) with 20 file(s) remaining
+upload: ../../static/page/presentations-presse/content.html to s3://tcrouzet.com/page/presentations-presse/content.html
+Completed 17.2 MiB/18.7 MiB (586.4 KiB/s) with 19 file(s) remaining
+Completed 17.2 MiB/18.7 MiB (585.2 KiB/s) with 19 file(s) remaining
 upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 294.1 KiB/~358.6 KiB (15.0 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 294.9 KiB/~358.6 KiB (15.1 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                         
-Completed 294.9 KiB/~358.6 KiB (15.1 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 299.4 KiB/~358.6 KiB (15.3 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                           
-Completed 299.4 KiB/~358.6 KiB (15.3 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 330.5 KiB/~358.6 KiB (16.9 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 17.2 MiB/18.7 MiB (585.2 KiB/s) with 18 file(s) remaining
+Completed 17.4 MiB/18.7 MiB (593.7 KiB/s) with 18 file(s) remaining
+Completed 17.7 MiB/18.7 MiB (602.1 KiB/s) with 18 file(s) remaining
+Completed 17.9 MiB/18.7 MiB (610.7 KiB/s) with 18 file(s) remaining
+Completed 17.9 MiB/18.7 MiB (610.2 KiB/s) with 18 file(s) remaining
+Completed 17.9 MiB/18.7 MiB (610.2 KiB/s) with 18 file(s) remaining
+upload: ../../static/sitemap/sitemap.xml to s3://tcrouzet.com/sitemap/sitemap.xml
+Completed 17.9 MiB/18.7 MiB (610.2 KiB/s) with 17 file(s) remaining
+Completed 18.0 MiB/18.7 MiB (610.2 KiB/s) with 17 file(s) remaining
+upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html
+Completed 18.0 MiB/18.7 MiB (610.2 KiB/s) with 16 file(s) remaining
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json      
+Completed 18.0 MiB/18.7 MiB (610.2 KiB/s) with 15 file(s) remaining
+Completed 18.0 MiB/18.7 MiB (610.9 KiB/s) with 15 file(s) remaining
+Completed 18.2 MiB/18.7 MiB (616.6 KiB/s) with 15 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-27-093530.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-27-093530.webp
+Completed 18.2 MiB/18.7 MiB (616.6 KiB/s) with 14 file(s) remaining
 upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 330.5 KiB/~358.6 KiB (16.9 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 358.6 KiB/~358.6 KiB (18.3 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 18.2 MiB/18.7 MiB (616.6 KiB/s) with 13 file(s) remaining
+Completed 18.2 MiB/18.7 MiB (615.3 KiB/s) with 13 file(s) remaining
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt        
+Completed 18.2 MiB/18.7 MiB (615.3 KiB/s) with 12 file(s) remaining
+Completed 18.2 MiB/18.7 MiB (615.2 KiB/s) with 12 file(s) remaining
+upload: ../../static/sitemap/sitemap-years.xml to s3://tcrouzet.com/sitemap/sitemap-years.xml
+Completed 18.2 MiB/18.7 MiB (615.2 KiB/s) with 11 file(s) remaining
+Completed 18.2 MiB/18.7 MiB (615.0 KiB/s) with 11 file(s) remaining
+upload: ../../static/tag/bikepacking/contener2.html to s3://tcrouzet.com/tag/bikepacking/contener2.html
+Completed 18.2 MiB/18.7 MiB (615.0 KiB/s) with 10 file(s) remaining
+Completed 18.4 MiB/18.7 MiB (623.4 KiB/s) with 10 file(s) remaining
+Completed 18.5 MiB/18.7 MiB (625.5 KiB/s) with 10 file(s) remaining
+Completed 18.5 MiB/18.7 MiB (626.4 KiB/s) with 10 file(s) remaining
+upload: ../../static/images_tc/2025/08/2025-08-27-110237.webp to s3://tcrouzet.com/images_tc/2025/08/2025-08-27-110237.webp
+Completed 18.5 MiB/18.7 MiB (626.4 KiB/s) with 9 file(s) remaining
+upload: ../../static/tag/bikepacking/index.html to s3://tcrouzet.com/tag/bikepacking/index.html
+Completed 18.5 MiB/18.7 MiB (626.4 KiB/s) with 8 file(s) remaining
+Completed 18.6 MiB/18.7 MiB (626.9 KiB/s) with 8 file(s) remaining
+upload: ../../static/tag/borntobike/contener2.html to s3://tcrouzet.com/tag/borntobike/contener2.html
+Completed 18.6 MiB/18.7 MiB (626.9 KiB/s) with 7 file(s) remaining
+Completed 18.6 MiB/18.7 MiB (627.7 KiB/s) with 7 file(s) remaining
+upload: ../../static/tag/borntobike/contener3.html to s3://tcrouzet.com/tag/borntobike/contener3.html
+Completed 18.6 MiB/18.7 MiB (627.7 KiB/s) with 6 file(s) remaining
+Completed 18.6 MiB/18.7 MiB (627.1 KiB/s) with 6 file(s) remaining
+upload: ../../static/tag/page/index.html to s3://tcrouzet.com/tag/page/index.html
+Completed 18.6 MiB/18.7 MiB (627.1 KiB/s) with 5 file(s) remaining
+Completed 18.6 MiB/18.7 MiB (627.1 KiB/s) with 5 file(s) remaining
+Completed 18.6 MiB/18.7 MiB (627.9 KiB/s) with 5 file(s) remaining
+Completed 18.7 MiB/18.7 MiB (628.8 KiB/s) with 5 file(s) remaining
+upload: ../../static/update.json to s3://tcrouzet.com/update.json 
+Completed 18.7 MiB/18.7 MiB (628.8 KiB/s) with 4 file(s) remaining
+upload: ../../static/tag/borntobike/contener4.html to s3://tcrouzet.com/tag/borntobike/contener4.html
+Completed 18.7 MiB/18.7 MiB (628.8 KiB/s) with 3 file(s) remaining
+Completed 18.7 MiB/18.7 MiB (629.2 KiB/s) with 3 file(s) remaining
 upload: ../../static/tag/borntobike/index.html to s3://tcrouzet.com/tag/borntobike/index.html
-Completed 358.6 KiB/~358.6 KiB (18.3 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 379.0 KiB/~379.0 KiB (19.1 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/tag/gps/index.html to s3://tcrouzet.com/tag/gps/index.html       
-Completed 379.0 KiB/~379.0 KiB (19.1 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 379.2 KiB/379.2 KiB (18.7 KiB/s) with 1 file(s) remaining                   
-upload: ../../static/update.json to s3://tcrouzet.com/update.json                     
+Completed 18.7 MiB/18.7 MiB (629.2 KiB/s) with 2 file(s) remaining
+upload: ../../static/tag/borntobike/contener5.html to s3://tcrouzet.com/tag/borntobike/contener5.html
+Completed 18.7 MiB/18.7 MiB (629.2 KiB/s) with 1 file(s) remaining
+Completed 18.7 MiB/18.7 MiB (629.9 KiB/s) with 1 file(s) remaining
+upload: ../../static/sitemap/sitemap-posts.xml to s3://tcrouzet.com/sitemap/sitemap-posts.xml
