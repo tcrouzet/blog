@@ -391,6 +391,13 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tcrouzet.com/tag/digest/index.html</loc>
+    <lastmod>2025-08-31T16:59:41+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2025/08/2025-08-28-172053.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/tag/libre/index.html</loc>
     <lastmod>2024-05-01T09:31:38+02:00</lastmod>
     <image:image>
@@ -509,13 +516,6 @@
   <url>
     <loc>https://tcrouzet.com/tag/debat_2007/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
-  </url>
-  <url>
-    <loc>https://tcrouzet.com/tag/digest/index.html</loc>
-    <lastmod>2025-08-31T16:59:41+02:00</lastmod>
-    <image:image>
-      <image:loc>https://tcrouzet.com/images_tc/2025/08/2025-08-28-172053.webp</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/tag/google/index.html</loc>
