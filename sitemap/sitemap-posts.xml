@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2025/09/03/hurleurs-en-chef/index.html</loc>
+    <lastmod>2025-09-03T11:19:56+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2025/09/2025-09-03-101021.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2025/08/31/digest025/index.html</loc>
     <lastmod>2025-08-31T16:59:41+02:00</lastmod>
     <image:image>
@@ -9,7 +16,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2025/08/28/g727-2025-final/index.html</loc>
-    <lastmod>2025-08-31T15:20:31+02:00</lastmod>
+    <lastmod>2025-09-01T14:07:16+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2025/08/2025-08-26-164432.webp</image:loc>
     </image:image>
@@ -450,9 +457,9 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2025/03/16/digest004/index.html</loc>
-    <lastmod>2025-08-31T17:17:24+02:00</lastmod>
+    <lastmod>2025-09-01T14:34:21+02:00</lastmod>
     <image:image>
-      <image:loc>https://tcrouzet.com/images_tc/2025/03/0digest004.png</image:loc>
+      <image:loc>https://tcrouzet.com/images_tc/2025/03/2025-03-12-184414-lamaison.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -478,9 +485,9 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2025/03/09/digest003/index.html</loc>
-    <lastmod>2025-08-31T17:15:16+02:00</lastmod>
+    <lastmod>2025-09-01T14:32:52+02:00</lastmod>
     <image:image>
-      <image:loc>https://tcrouzet.com/images_tc/2025/03/0digest03.png</image:loc>
+      <image:loc>https://tcrouzet.com/images_tc/2025/03/2025-03-03-092329-lamaison.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -492,9 +499,9 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2025/03/02/digest002/index.html</loc>
-    <lastmod>2025-08-31T16:37:43+02:00</lastmod>
+    <lastmod>2025-09-01T14:30:11+02:00</lastmod>
     <image:image>
-      <image:loc>https://tcrouzet.com/images_tc/2025/03/digest002.webp</image:loc>
+      <image:loc>https://tcrouzet.com/images_tc/2025/03/2025-03-01-183118-lamaison.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -506,9 +513,9 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2025/02/23/digest001/index.html</loc>
-    <lastmod>2025-08-31T16:27:46+02:00</lastmod>
+    <lastmod>2025-09-01T14:27:40+02:00</lastmod>
     <image:image>
-      <image:loc>https://tcrouzet.com/images_tc/2025/02/digest01.webp</image:loc>
+      <image:loc>https://tcrouzet.com/images_tc/2025/02/2025-02-23-182201-lamaison.webp</image:loc>
     </image:image>
   </url>
   <url>
