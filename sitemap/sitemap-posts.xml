@@ -1,8 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcrouzet.com/2025/09/08/g727-trace-finale/index.html</loc>
+    <lastmod>2025-09-08T19:07:50+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2025/09/2025-09-04-100533.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/2025/09/07/digest026/index.html</loc>
-    <lastmod>2025-09-07T09:55:22+02:00</lastmod>
+    <lastmod>2025-09-07T09:59:13+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2025/09/2025-09-01-202029-lamaison.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/2025/09/05/aout-2025/index.html</loc>
@@ -62,7 +72,7 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/2025/08/11/mort-des-réseaux-sociaux/index.html</loc>
-    <lastmod>2025-08-20T08:08:55+02:00</lastmod>
+    <lastmod>2025-09-08T16:15:57+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2025/08/2025-08-07-103902-lamaison.webp</image:loc>
     </image:image>
