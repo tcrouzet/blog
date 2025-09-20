@@ -43,7 +43,7 @@ class MicroCodes:
             frontmatter = p.get("frontmatter", None)
             if frontmatter:
                 genre = frontmatter.get("genre","autre").lower()
-                book = f'<em>{html.escape(p.get("title"))}</em>, {frontmatter.get("date").year} ({genre})<br/>'
+                book = f'<a href="{p.get("url")}"><em>{html.escape(p.get("title"))}</em></a>, {frontmatter.get("date").year}<br/>'
                 if genre == "roman":
                     romman += book
                 elif genre == "imaginaire":
