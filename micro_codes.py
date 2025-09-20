@@ -28,6 +28,8 @@ class MicroCodes:
         for row in rows:
             post = web.supercharge_post(row, maximal=False)
             if post and post.get("type") == 1:
+                print(post.frontmatter)
+                exit()
                 pages.append(post)
 
         if not pages:
