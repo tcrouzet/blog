@@ -1,38 +1,10 @@
-Completed 13.8 KiB/~30.4 KiB (113.7 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/2025/09/19/human-networks/content.html to s3://tcrouzet.com/2025/09/19/human-networks/content.html
-Completed 13.8 KiB/~30.4 KiB (113.7 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 30.4 KiB/~30.4 KiB (122.0 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/2025/09/19/human-networks/index.html to s3://tcrouzet.com/2025/09/19/human-networks/index.html
-Completed 30.4 KiB/~30.4 KiB (122.0 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 60.0 KiB/~60.0 KiB (104.6 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html            
-Completed 60.0 KiB/~60.0 KiB (104.6 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 121.4 KiB/~169.8 KiB (92.0 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml               
-Completed 121.4 KiB/~169.8 KiB (92.0 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 169.8 KiB/~169.8 KiB (97.8 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml               
-Completed 169.8 KiB/~169.8 KiB (97.8 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 173.7 KiB/~173.7 KiB (6.5 KiB/s) with ~1 file(s) remaining (calculating...) 
-upload: ../../static/index.html to s3://tcrouzet.com/index.html                       
-Completed 173.7 KiB/~173.7 KiB (6.5 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 197.2 KiB/~233.5 KiB (7.3 KiB/s) with ~5 file(s) remaining (calculating...)
-upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html        
-Completed 197.2 KiB/~233.5 KiB (7.3 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 198.4 KiB/~233.5 KiB (7.3 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 198.4 KiB/~233.5 KiB (7.3 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 201.6 KiB/~233.5 KiB (7.4 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                          
-Completed 201.6 KiB/~233.5 KiB (7.4 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 202.2 KiB/~233.5 KiB (7.4 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 251 Bytes/~251 Bytes (2.2 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/micro_codes.py to s3://tcrouzet.com/micro_codes.py              
+Completed 251 Bytes/~251 Bytes (2.2 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 809 Bytes/~4.1 KiB (2.3 KiB/s) with ~2 file(s) remaining (calculating...)  
 upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                        
-Completed 202.2 KiB/~233.5 KiB (7.4 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 233.5 KiB/~233.5 KiB (8.6 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 233.5 KiB/~233.5 KiB (8.6 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 261.9 KiB/~261.9 KiB (9.5 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/tag/netculture/index.html to s3://tcrouzet.com/tag/netculture/index.html
-Completed 261.9 KiB/~261.9 KiB (9.5 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 262.2 KiB/262.2 KiB (9.4 KiB/s) with 1 file(s) remaining                   
-upload: ../../static/update.json to s3://tcrouzet.com/update.json                    
+Completed 809 Bytes/~4.1 KiB (2.3 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 4.1 KiB/~4.1 KiB (8.1 KiB/s) with ~1 file(s) remaining (calculating...)  
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                        
+Completed 4.1 KiB/~4.1 KiB (8.1 KiB/s) with ~0 file(s) remaining (calculating...)
+                                                                                 
