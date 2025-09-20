@@ -61,7 +61,7 @@ class MicroCodes:
         if romman:
             msg += f"<h3>Romans</h3><p>{romman}</p>"
         if essais:
-            essais = f"<h3>Essais</h3><p>{essais}</p>"
+            msg += f"<h3>Essais</h3><p>{essais}</p>"
         if recit:
             msg += f"<h3>Récit</h3><p>{recit}</p>"
         if autre:
