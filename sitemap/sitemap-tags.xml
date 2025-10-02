@@ -152,6 +152,10 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tcrouzet.com/bibliographie/index.html</loc>
+    <lastmod>2025-10-02T18:32:55+02:00</lastmod>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/tag/autobiographie/index.html</loc>
     <lastmod>2024-05-19T14:57:39+02:00</lastmod>
     <image:image>
@@ -602,13 +606,6 @@
     </image:image>
   </url>
   <url>
-    <loc>https://tcrouzet.com/tag/romanduroman/index.html</loc>
-    <lastmod>2024-10-21T10:37:39+02:00</lastmod>
-    <image:image>
-      <image:loc>https://tcrouzet.com/images_tc/2024/10/abyme.webp</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>https://tcrouzet.com/tag/slow_connexion/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
@@ -718,6 +715,13 @@
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/01/noia2.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tcrouzet.com/tag/rush/index.html</loc>
+    <lastmod>2025-01-03T21:12:02+01:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/12/couv-rush.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -851,6 +855,13 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tcrouzet.com/tag/romanduroman/index.html</loc>
+    <lastmod>2024-10-21T10:37:39+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/10/abyme.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/tag/endroits/index.html</loc>
     <lastmod>2024-06-13T14:07:42+02:00</lastmod>
     <image:image>
@@ -876,13 +887,6 @@
     <lastmod>2024-11-30T20:28:49+01:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2024/12/2023-10-01-192547-Balaruc-les-Bains.webp</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tcrouzet.com/tag/rush/index.html</loc>
-    <lastmod>2025-01-03T21:12:02+01:00</lastmod>
-    <image:image>
-      <image:loc>https://tcrouzet.com/images_tc/2024/12/couv-rush.webp</image:loc>
     </image:image>
   </url>
   <url>
