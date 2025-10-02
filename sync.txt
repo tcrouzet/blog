@@ -1,38 +1,38 @@
-Completed 14.8 KiB/~32.4 KiB (119.2 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 14.8 KiB/~32.4 KiB (78.3 KiB/s) with ~2 file(s) remaining (calculating...)
 upload: ../../static/2025/09/23/charognards-du-net/content.html to s3://tcrouzet.com/2025/09/23/charognards-du-net/content.html
-Completed 14.8 KiB/~32.4 KiB (119.2 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 32.4 KiB/~32.4 KiB (140.2 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 14.8 KiB/~32.4 KiB (78.3 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 32.4 KiB/~32.4 KiB (142.1 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/2025/09/23/charognards-du-net/index.html to s3://tcrouzet.com/2025/09/23/charognards-du-net/index.html
-Completed 32.4 KiB/~32.4 KiB (140.2 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 62.0 KiB/~62.0 KiB (113.8 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 32.4 KiB/~32.4 KiB (142.1 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 62.0 KiB/~62.0 KiB (96.7 KiB/s) with ~1 file(s) remaining (calculating...) 
 upload: ../../static/blog/index.html to s3://tcrouzet.com/blog/index.html            
-Completed 62.0 KiB/~62.0 KiB (113.8 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 115.7 KiB/~180.7 KiB (86.9 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 180.7 KiB/~180.7 KiB (135.7 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
-Completed 180.7 KiB/~180.7 KiB (135.7 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 62.0 KiB/~62.0 KiB (96.7 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 127.0 KiB/~180.8 KiB (98.6 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml               
+Completed 127.0 KiB/~180.8 KiB (98.6 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 180.8 KiB/~180.8 KiB (139.3 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 180.7 KiB/~180.7 KiB (135.7 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 184.6 KiB/~184.6 KiB (8.8 KiB/s) with ~1 file(s) remaining (calculating...)  
+Completed 180.8 KiB/~180.8 KiB (139.3 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 184.6 KiB/~184.6 KiB (7.5 KiB/s) with ~1 file(s) remaining (calculating...)  
 upload: ../../static/index.html to s3://tcrouzet.com/index.html                        
-Completed 184.6 KiB/~184.6 KiB (8.8 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 208.1 KiB/~273.8 KiB (9.9 KiB/s) with ~5 file(s) remaining (calculating...)
+Completed 184.6 KiB/~184.6 KiB (7.5 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 208.1 KiB/~244.5 KiB (8.4 KiB/s) with ~5 file(s) remaining (calculating...)
 upload: ../../static/series/index.html to s3://tcrouzet.com/series/index.html        
-Completed 208.1 KiB/~273.8 KiB (9.9 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 209.2 KiB/~273.8 KiB (9.8 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 208.1 KiB/~244.5 KiB (8.4 KiB/s) with ~4 file(s) remaining (calculating...)
+Completed 209.2 KiB/~244.5 KiB (8.4 KiB/s) with ~4 file(s) remaining (calculating...)
 upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 209.2 KiB/~273.8 KiB (9.8 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 214.5 KiB/~273.8 KiB (10.1 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                         
-Completed 214.5 KiB/~273.8 KiB (10.1 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 245.8 KiB/~273.8 KiB (11.5 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 209.2 KiB/~244.5 KiB (8.4 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 209.8 KiB/~244.5 KiB (8.4 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                        
+Completed 209.8 KiB/~244.5 KiB (8.4 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 213.1 KiB/~244.5 KiB (8.5 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                          
+Completed 213.1 KiB/~244.5 KiB (8.5 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 244.5 KiB/~244.5 KiB (9.8 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 245.8 KiB/~273.8 KiB (11.5 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 273.8 KiB/~273.8 KiB (12.8 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                           
-Completed 273.8 KiB/~273.8 KiB (12.8 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 302.1 KiB/~302.1 KiB (13.8 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 244.5 KiB/~244.5 KiB (9.8 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 272.7 KiB/~272.7 KiB (10.7 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/tag/netculture/index.html to s3://tcrouzet.com/tag/netculture/index.html
-Completed 302.1 KiB/~302.1 KiB (13.8 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 302.4 KiB/302.4 KiB (13.6 KiB/s) with 1 file(s) remaining                   
+Completed 272.7 KiB/~272.7 KiB (10.7 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 273.0 KiB/273.0 KiB (10.6 KiB/s) with 1 file(s) remaining                   
 upload: ../../static/update.json to s3://tcrouzet.com/update.json                     
