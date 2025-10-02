@@ -153,7 +153,10 @@
   </url>
   <url>
     <loc>https://tcrouzet.com/bibliographie/index.html</loc>
-    <lastmod>2025-10-02T18:32:55+02:00</lastmod>
+    <lastmod>2025-10-02T18:45:57+02:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/books/couv_rush.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://tcrouzet.com/tag/autobiographie/index.html</loc>
@@ -550,6 +553,13 @@
     </image:image>
   </url>
   <url>
+    <loc>https://tcrouzet.com/tag/rush/index.html</loc>
+    <lastmod>2025-01-03T21:12:02+01:00</lastmod>
+    <image:image>
+      <image:loc>https://tcrouzet.com/images_tc/2024/12/couv-rush.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://tcrouzet.com/tag/sf/index.html</loc>
     <lastmod>2024-04-30T09:09:37+02:00</lastmod>
     <image:image>
@@ -718,13 +728,6 @@
     </image:image>
   </url>
   <url>
-    <loc>https://tcrouzet.com/tag/rush/index.html</loc>
-    <lastmod>2025-01-03T21:12:02+01:00</lastmod>
-    <image:image>
-      <image:loc>https://tcrouzet.com/images_tc/2024/12/couv-rush.webp</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>https://tcrouzet.com/tag/send/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
@@ -852,13 +855,6 @@
     <lastmod>2024-05-01T09:01:06+02:00</lastmod>
     <image:image>
       <image:loc>https://tcrouzet.com/images_tc/2022/07/IMG_8185.webp</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://tcrouzet.com/tag/romanduroman/index.html</loc>
-    <lastmod>2024-10-21T10:37:39+02:00</lastmod>
-    <image:image>
-      <image:loc>https://tcrouzet.com/images_tc/2024/10/abyme.webp</image:loc>
     </image:image>
   </url>
   <url>
