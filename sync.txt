@@ -1,45 +1,29 @@
-Completed 19.3 KiB/~19.3 KiB (136.0 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 19.3 KiB/~19.3 KiB (146.3 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/bibliographie/index.html to s3://tcrouzet.com/bibliographie/index.html
-Completed 19.3 KiB/~19.3 KiB (136.0 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 25.7 KiB/~29.7 KiB (33.7 KiB/s) with ~2 file(s) remaining (calculating...) 
+Completed 19.3 KiB/~19.3 KiB (146.3 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 25.7 KiB/~29.7 KiB (32.1 KiB/s) with ~2 file(s) remaining (calculating...) 
 upload: ../../static/books/rush/index.html to s3://tcrouzet.com/books/rush/index.html
-Completed 25.7 KiB/~29.7 KiB (33.7 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 29.7 KiB/~29.7 KiB (38.1 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 25.7 KiB/~29.7 KiB (32.1 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 29.7 KiB/~29.7 KiB (37.0 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/books/rush/content.html to s3://tcrouzet.com/books/rush/content.html
-Completed 29.7 KiB/~29.7 KiB (38.1 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 94.7 KiB/~171.2 KiB (95.6 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml              
-Completed 94.7 KiB/~171.2 KiB (95.6 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 171.2 KiB/~171.2 KiB (155.8 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 29.7 KiB/~29.7 KiB (37.0 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 106.2 KiB/~171.2 KiB (109.8 KiB/s) with ~2 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 171.2 KiB/~171.2 KiB (155.8 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 200.3 KiB/~2.1 MiB (10.6 KiB/s) with ~3 file(s) remaining (calculating...)   
-upload: ../../static/images_tc/2025/10/couv_rush-250.jpg to s3://tcrouzet.com/images_tc/2025/10/couv_rush-250.jpg
-Completed 200.3 KiB/~2.1 MiB (10.6 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 201.4 KiB/~2.2 MiB (10.6 KiB/s) with ~6 file(s) remaining (calculating...)
+Completed 106.2 KiB/~171.2 KiB (109.8 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 171.2 KiB/~171.2 KiB (174.1 KiB/s) with ~1 file(s) remaining (calculating...)
+upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml                
+Completed 171.2 KiB/~171.2 KiB (174.1 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 172.4 KiB/~207.9 KiB (9.1 KiB/s) with ~4 file(s) remaining (calculating...)  
 upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 201.4 KiB/~2.2 MiB (10.6 KiB/s) with ~5 file(s) remaining (calculating...)
-Completed 457.4 KiB/~2.2 MiB (23.9 KiB/s) with ~5 file(s) remaining (calculating...)
-Completed 713.4 KiB/~2.2 MiB (37.3 KiB/s) with ~5 file(s) remaining (calculating...)
-Completed 969.4 KiB/~2.2 MiB (50.5 KiB/s) with ~5 file(s) remaining (calculating...)
-Completed 1.2 MiB/~2.2 MiB (63.8 KiB/s) with ~5 file(s) remaining (calculating...)  
-Completed 1.2 MiB/~2.2 MiB (63.9 KiB/s) with ~5 file(s) remaining (calculating...)  
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                         
-Completed 1.2 MiB/~2.2 MiB (63.9 KiB/s) with ~4 file(s) remaining (calculating...)
-Completed 1.2 MiB/~2.2 MiB (64.0 KiB/s) with ~4 file(s) remaining (calculating...)
-upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                     
-Completed 1.2 MiB/~2.2 MiB (64.0 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 1.5 MiB/~2.2 MiB (77.2 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 1.7 MiB/~2.2 MiB (90.4 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 1.8 MiB/~2.2 MiB (97.7 KiB/s) with ~3 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2025/10/couv_rush-1024.jpg to s3://tcrouzet.com/images_tc/2025/10/couv_rush-1024.jpg
-Completed 1.8 MiB/~2.2 MiB (97.7 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 2.1 MiB/~2.2 MiB (111.0 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 2.1 MiB/~2.2 MiB (112.3 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 172.4 KiB/~207.9 KiB (9.1 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 172.9 KiB/~207.9 KiB (9.0 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                        
+Completed 172.9 KiB/~207.9 KiB (9.0 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 176.8 KiB/~207.9 KiB (9.2 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                          
+Completed 176.8 KiB/~207.9 KiB (9.2 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 207.9 KiB/~207.9 KiB (10.8 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 2.1 MiB/~2.2 MiB (112.3 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 2.2 MiB/~2.2 MiB (114.2 KiB/s) with ~1 file(s) remaining (calculating...)
-upload: ../../static/images_tc/2025/10/couv_rush.jpg to s3://tcrouzet.com/images_tc/2025/10/couv_rush.jpg
-Completed 2.2 MiB/~2.2 MiB (114.2 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 2.2 MiB/2.2 MiB (112.9 KiB/s) with 1 file(s) remaining                   
-upload: ../../static/update.json to s3://tcrouzet.com/update.json                  
+Completed 207.9 KiB/~207.9 KiB (10.8 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 208.1 KiB/208.1 KiB (10.6 KiB/s) with 1 file(s) remaining                   
+upload: ../../static/update.json to s3://tcrouzet.com/update.json                     
