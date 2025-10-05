@@ -1,26 +1,26 @@
-Completed 12.9 KiB/~23.3 KiB (137.7 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/books/une-minute/index.html to s3://tcrouzet.com/books/une-minute/index.html
-Completed 12.9 KiB/~23.3 KiB (137.7 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 23.3 KiB/~164.9 KiB (131.0 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 10.4 KiB/~23.2 KiB (102.6 KiB/s) with ~2 file(s) remaining (calculating...)
 upload: ../../static/books/une-minute/content.html to s3://tcrouzet.com/books/une-minute/content.html
-Completed 23.3 KiB/~164.9 KiB (131.0 KiB/s) with ~2 file(s) remaining (calculating...)
-Completed 88.4 KiB/~164.9 KiB (362.9 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 10.4 KiB/~23.2 KiB (102.6 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 23.2 KiB/~164.8 KiB (120.7 KiB/s) with ~3 file(s) remaining (calculating...)
+upload: ../../static/books/une-minute/index.html to s3://tcrouzet.com/books/une-minute/index.html
+Completed 23.2 KiB/~164.8 KiB (120.7 KiB/s) with ~2 file(s) remaining (calculating...)
+Completed 88.3 KiB/~164.8 KiB (365.2 KiB/s) with ~2 file(s) remaining (calculating...)
 upload: ../../static/feeds/blog.xml to s3://tcrouzet.com/feeds/blog.xml               
-Completed 88.4 KiB/~164.9 KiB (362.9 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 164.9 KiB/~164.9 KiB (358.5 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 88.3 KiB/~164.8 KiB (365.2 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 164.8 KiB/~164.8 KiB (453.9 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/feeds/feed.xml to s3://tcrouzet.com/feeds/feed.xml                
-Completed 164.9 KiB/~164.9 KiB (358.5 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 166.0 KiB/~203.2 KiB (7.0 KiB/s) with ~4 file(s) remaining (calculating...)  
-upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
-Completed 166.0 KiB/~203.2 KiB (7.0 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 171.2 KiB/~203.2 KiB (7.2 KiB/s) with ~3 file(s) remaining (calculating...)
-Completed 172.1 KiB/~203.2 KiB (7.2 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 164.8 KiB/~164.8 KiB (453.9 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 167.0 KiB/~199.7 KiB (4.9 KiB/s) with ~4 file(s) remaining (calculating...)  
+upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                            
+Completed 167.0 KiB/~199.7 KiB (4.9 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 167.4 KiB/~199.7 KiB (5.0 KiB/s) with ~3 file(s) remaining (calculating...)
+Completed 168.5 KiB/~199.7 KiB (5.0 KiB/s) with ~3 file(s) remaining (calculating...)
 upload: ../../static/sync.json to s3://tcrouzet.com/sync.json                        
-Completed 172.1 KiB/~203.2 KiB (7.2 KiB/s) with ~2 file(s) remaining (calculating...)
-upload: ../../static/sync.txt to s3://tcrouzet.com/sync.txt                          
-Completed 172.1 KiB/~203.2 KiB (7.2 KiB/s) with ~1 file(s) remaining (calculating...)
-Completed 203.2 KiB/~203.2 KiB (8.5 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 168.5 KiB/~199.7 KiB (5.0 KiB/s) with ~2 file(s) remaining (calculating...)
+upload: ../../static/sitemap/sitemap-main.xml to s3://tcrouzet.com/sitemap/sitemap-main.xml
+Completed 168.5 KiB/~199.7 KiB (5.0 KiB/s) with ~1 file(s) remaining (calculating...)
+Completed 199.7 KiB/~199.7 KiB (5.9 KiB/s) with ~1 file(s) remaining (calculating...)
 upload: ../../static/sitemap/sitemap-tags.xml to s3://tcrouzet.com/sitemap/sitemap-tags.xml
-Completed 203.2 KiB/~203.2 KiB (8.5 KiB/s) with ~0 file(s) remaining (calculating...)
-Completed 203.5 KiB/203.5 KiB (8.2 KiB/s) with 1 file(s) remaining                   
+Completed 199.7 KiB/~199.7 KiB (5.9 KiB/s) with ~0 file(s) remaining (calculating...)
+Completed 199.8 KiB/199.8 KiB (5.8 KiB/s) with 1 file(s) remaining                   
 upload: ../../static/update.json to s3://tcrouzet.com/update.json                    
