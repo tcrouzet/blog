@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 09 Nov 2025 14:59:36 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 15:02:25 +0100</lastBuildDate>
     <item>
       <title>De ma terrasse #33</title>
       <link>https://static.tcrouzet.com//2025/11/09/digest033/</link>
-      <description><![CDATA[<img alt="De ma terrasse #33" src="https://static.tcrouzet.com/images_tc/2025/11/2025-11-09-075526.webp"/><p><em>Ma sélection du dimanche : <strong>8</strong> liens et une photo prise depuis ma terrasse. (Peu de lecture cette semaine, j’ai écrit un très long article qui a nécessité beaucoup de programmation.)</em></p>
+      <description><![CDATA[<img alt="De ma terrasse #33" src="https://static.tcrouzet.com/images_tc/2025/11/2025-11-09-075526.webp"/><p><em>Ma sélection du dimanche : <strong>8</strong> liens et une photo prise depuis ma terrasse. (Peu de lecture cette semaine, j’ai écrit un très long article qui a nécessité beaucoup de programmation. <a href="https://tcrouzet.com/books/rush/">Au fait, Rush est sorti.</a>)</em></p>
 <h2>Sciences et cognition</h2>
 <p><a href="https://www.sciencealert.com/massive-new-map-reveals-300000-km-of-ancient-roman-roads" rel="noopener noreferrer">Une nouvelle carte révèle 300 000 km de routes romaines antiques</a> • EN • 7 min<br/>
 Le projet Itiner-e double la longueur connue du réseau routier romain, mais ne représente que 3 % du réseau total. Les principaux carrefours se situaient dans la vallée du Pô et le corridor alpin, Rome étant finalement un cul-de-sac terrestre.</p>
@@ -31,7 +31,7 @@ Notre cerveau projette des intentions humaines sur les machines et réagit plus 
 <p><a href="https://www.sciencefocus.com/news/wikipedia-ai" rel="noopener noreferrer">Comment l’IA pourrait bientôt être utilisée par Wikipédia, selon son fondateur</a> • EN • 4 min<br/>
 Jimmy Wales envisage l’IA comme outil de maintenance pour détecter informations manquantes et biais, mais reste sceptique sur sa capacité à rédiger des articles complets. L’encyclopédie sert déjà de base d’entraînement majeure pour les modèles de langage.</p>
 <p><a href="https://www.nature.com/articles/d41586-025-03570-y" rel="noopener noreferrer">L’IA peut-elle être véritablement créative ?</a> • EN • 12 min<br/>
-Les modèles génératifs rivalisent avec les humains dans les tests de créativité, mais peinent à produire hypothèses scientifiques novatrices et manquent de curiosité pour réviser leurs idées. L’authenticité et l’intentionnalité restent des qualités distinctement humaines selon les chercheurs.</p>]]></description>
+Les modèles génératifs rivalisent avec les humains dans les tests de créativité, mais peinent à produire des hypothèses scientifiques novatrices et manquent de curiosité pour réviser leurs idées. L’authenticité et l’intentionnalité restent des qualités distinctement humaines selon les chercheurs.</p>]]></description>
       <guid isPermaLink="false">https://static.tcrouzet.com//2025/11/09/digest033/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2025/11/2025-11-09-075526.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 09 Nov 2025 17:00:00 +0100</pubDate>
