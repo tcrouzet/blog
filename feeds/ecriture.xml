@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sat, 08 Nov 2025 20:25:52 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 15:19:30 +0100</lastBuildDate>
     <item>
       <title>Divination 4</title>
       <link>https://static.tcrouzet.com//2025/03/26/divination-004/</link>
@@ -67,7 +67,7 @@
 <p>Après ma décision de quitter les principaux réseaux sociaux, et de leur préférer la médiation de textes plus longs, j’ai effacé de mon téléphone des applications familières depuis des années et j’ai ressenti une absence, un manque, douloureux au début. Quelque chose se passait en moi, un réajustement cognitif, et quand je regardais mon téléphone il n’était plus le même, plus tout à fait de la même couleur, plus tout à fait dans le même ordre. Il reflétait mes changements intérieurs, ce qui signifiait qu’il était à mon image, un miroir, comme nos vêtements, dans une certaine mesure.</p>
 <p>Encore troublé, sentant poindre l’envie d’écrire, j’ai publié <a href="https://mamot.fr/@tcrouzet/114187736974949456" rel="noopener noreferrer">la page d’accueil de mon téléphone sur Mastodon</a> avec un petit message : « Je projette un article sur les écrans d’accueil des mobiles… Si vous pouviez m’envoyer la vôtre, ça serait cool. » J’avais l’intention d’établir des catégories entre les rigoristes minimalistes et les baroques exubérants.</p>
 <p>J’ai reçu des centaines d’images toutes différentes, des sobres, des poétiques, des scientifiques, des joyeuses, des tendres, des amoureuses… Une avalanche visuelle, une submersion émotionnelle. Des inconnus se présentaient à moi dans leur intimité. J’étais troublé comme s’ils se dénudaient devant moi. À partir de tous ces écrans, je me suis dit que je pouvais écrire des portraits imaginaires, me livrer à des divinations — parce qu’il s’agit presque d’un exercice oraculaire. J’ai tout de suite pensé aux <em>Vies imaginaires</em> de Marcel Schwob et aux <em>Mythologies</em> de Roland Barthes, avec l’ambition de me glisser entre les deux.</p>
-<h3>Comment je fais</h3>
+<h2>Comment je fais</h2>
 <ol>
 <li>J’ai écrit un petit bot qui récupère les images sur Mastodon et stocke les infos de l’expéditeur dans un fichier json (ce qui m’évite de savoir qui est l’expéditeur).</li>
 <li>Je parcours les images, en choisis une (elles ont chacune un id unique).</li>

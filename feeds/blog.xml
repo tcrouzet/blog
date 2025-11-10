@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 10 Nov 2025 10:55:52 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 15:19:23 +0100</lastBuildDate>
     <item>
       <title>Le slow web est plus rapide : minimalisme numérique et impact carbone</title>
       <link>https://static.tcrouzet.com//2025/11/10/the-slow-web-is-faster/</link>
@@ -20,23 +20,23 @@
 <p>Cet exercice d’effacement est une métaphore de beaucoup d’écritures, même s’il n’y a pas de règle — Proust passait son temps à rajouter. Mais le caviardage me parle. Je travaille comme ça. Je passe plus de temps à détruire qu’à construire. Des auteurs de genre écrivent des livres au kilo : ils annoncent que les tomes de leurs futures sagas comporteront un million de signes. J’ai ouvert l’un de ces livres : je l’aurais compressé en une nouvelle à la Raymond Carver (un autre sublime minimaliste). Faire long n’est jamais compliqué. La preuve : les IA sont inarrêtables.</p>
 <p>Lors de mes expériences d’écriture avec elles, je peux tronçonner leurs textes jusqu’à ce qu’il ne reste rien, pas la moindre phrase significative, originale, frappante. Au début, en 2022 et 2023, leurs maladresses m’inspiraient. Désormais je perds souvent mon temps. Les IA s’opposent au minimalisme. Elles sont baroques par mécanique. Au lieu de précision et de concision, d’économie et de sobriété, elles débordent, s’emportent, nous noient sous les bavardages, mimant la superficialité des réseaux sociaux. Je ne nie pas leur utilité, mais espère qu’une nouvelle génération d’ingénieurs inventera des IA minimalistes et sobres. En attendant, elles reflètent les débordements de notre monde.</p>
 <p>Vidéos et films clinquants, mobiliers extravagants, musiques bruyantes, milliardaires dépravés, surenchère d’hémoglobine et d’effets spéciaux. Nous versons dans l’excessif. Plus le monde nécessite de la mesure, plus nous abondons dans la démesure, peut-être par réaction conjuratoire. Alors je gratte les mots, les ponce et les rabote. Je resserre, limite, rejette. En parallèle, je traque les bits inutiles avec la même maniaquerie. Chaque balise HTML économisée est une petite victoire. Je vise le minimalisme de la forme comme du fond. L’un ne va pas sans l’autre. Le but : une présence en ligne économique.</p>
-<h3>WordPress au commencement</h3>
+<h2>WordPress au commencement</h2>
 <p>J’avais un site dynamique. Il calculait les pages à chaque visite. Qui dit calcul dit consommation d’énergie. Qui dit calcul, dit puissance de calcul, donc machine performante, avec des logiciels nécessitant des mises à jour perpétuelles, notamment pour contrer les attaques. <a href="https://tcrouzet.com/2023/01/30/mon-blog-nest-plus-un-blog/">Cette solution technique était absurde pour un site éditorial</a> (elle est absurde pour 99 % des sites), mais on nous a vendu la promesse d’être mieux vu, notamment en multipliant les plugins et les widgets, qui ralentissent, compliquent la maintenance, compromettent la confidentialité des lecteurs.</p>
-<h3>Retour au HTML</h3>
+<h2>Retour au HTML</h2>
 <p>Conscient d’être entraîné par WordPress dans une mauvaise direction coûteuse en temps et en ressources, j’ai basculé sur <a href="https://github.com/tcrouzet/NoMoreWordPress" rel="noopener noreferrer">un site statique généré en Python</a>, aux pages imprimées une fois pour toutes sur mon ordi. Un site statique peut être emporté sur une liseuse ou une clé USB, transféré de machine en machine, de la main à la main. C’est ni plus ni moins qu’un ebook. Au cours de cette transition, en supprimant la nécessité des calculs, j’ai réduit ma consommation d’énergie tout en augmentant la vitesse de mon site. J’ai découvert que ce qui devait être lent et archaïque était beaucoup plus performant.</p>
-<h3>Le statique pour tous ?</h3>
+<h2>Le statique pour tous ?</h2>
 <p>Mais pourquoi tous les auteurs numériques ne font pas comme moi ? Deux causes à mon avis.</p>
 <ol>
 <li>La plupart s’en fichent de faire chauffer la planète. Ils préfèrent croire que leurs solutions dispendieuses sont plus pratiques et intuitives. Mais quand on ouvre le moteur de leur site, on découvre des lignes de HTML et de codes en excès. Elles débordent de partout, se branchent sur des serveurs auxquels elles ne devraient jamais accéder et auxquels elles transfèrent de précieuses informations. On a dépassé le baroque pour verser dans le rococo. Des tonnes de JavaScript, de librairies chargées et de polices de caractères s’empilent.</li>
 <li>Si des dizaines de solutions permettent de gérer les sites statiques, aucune n’a bénéficié d’autant d’investissement que les solutions dynamiques à la WordPress. Elles sont toutes moins intuitives, parce qu’il n’y a pas de business, non parce qu’un site statique serait en soi plus compliqué.</li>
 </ol>
 <p>Tout ça me déplaît, me chagrine. J’y vois le symptôme d’un mal généralisé, d’une maladie de la société qui se traduit partout, notamment dans les méandres administratifs. Si nous étions plus nombreux adeptes du minimalisme, notre quotidien serait plus léger et la lutte contre les dérèglements climatiques enfin envisageable. Alors c’est presque pour me donner bonne conscience que je me suis attaqué à une énième révision de mon site, presque plus philosophique que technique. Je m’y suis engagé comme dans une ascèse, et j’y ai englouti deux semaines, mais j’en ressors satisfait, comme un artisan à la fin d’un chantier mené avec diligence.</p>
-<h3>Gratter le HTML</h3>
+<h2>Gratter le HTML</h2>
 <p>J’ai commencé par simplifier la structure de mes pages, minimisant les ajustements stylistiques. L’idéal : rendre les balises HTML discrètes pour ne pas empêcher la lecture du texte qu’elles mettent en forme (s’il était ouvert avec un éditeur de texte).</p>
 <figure><img alt="HTML simple" decoding="async" height="627" loading="lazy" sizes="(min-width: 90ch) 90ch, 100vw" src="https://static.tcrouzet.com/images_tc/2025/11/comp04.webp" srcset="/images_tc/2025/11/comp04.webp 1024w, /images_tc/2025/11/comp04-small.webp 300w" width="1024"/><figcaption>HTML simple</figcaption></figure>
 <p>J’ai poussé le vice jusqu’à réduire les classes CSS, leur préférant les balises sémantiques. Mon CSS est passé de plus de 20 ko à 8 Ko pour un rendu identique.</p>
 <p>J’ai ensuite éliminé les JavaScript non indispensables, ne gardant que la fonction associée au bouton de partage et celle qui charge automatiquement <a href="https://tcrouzet.com/2014/10/26/ce-qui-manque-au-blog-ou-la-revolution-litteraire/">les articles les uns à la suite des autres selon le monde rouleau</a>. Le texte à lire occupe désormais l’essentiel de mes pages.</p>
-<h3>Le minimalisme numérique</h3>
+<h2>Le minimalisme numérique</h2>
 <p><a href="https://www.are.na/morgan-sutherland/slow-web" rel="noopener noreferrer">Le slow web</a> est un mouvement de promotion des usages éthiques, respectueux, réfléchis et durables d’Internet : respect de la vie privée (pas de collecte d’informations), design simple et non manipulateur, pas d’incitation à la surenchère, mise en avant des qualités plutôt que des performances. Je me suis depuis longtemps engagé sur cette voie, tout en découvrant que le slow web n’avait rien de slow. Plus je simplifie mon infrastructure, plus je minimalise mon design, plus mon site est rapide.</p>
 <p>Dans un dernier effort pour aller plus loin, j’ai tenté de produire <a href="https://static.tcrouzet.com/" rel="noopener noreferrer">une version encore plus respectueuse de la philosophie slow web</a> (j’ai dû reprendre une bonne partie du code python de mon générateur). J’ai renoncé à utiliser des polices externes, j’ai supprimé le JavaScript, j’ai gratté encore quelques lignes dans mon CSS et mon HTML et j’ai minimisé la taille des images pour réduire la bande passante consommée.</p>
 <figure><img alt="Version Slow Web" class="portrait" decoding="async" height="1147" loading="lazy" sizes="(min-width: 90ch) 90ch, 100vw" src="https://static.tcrouzet.com/images_tc/2025/11/comp05.webp" srcset="/images_tc/2025/11/comp05.webp 1024w, /images_tc/2025/11/comp05-small.webp 300w" width="1024"/><figcaption class="legend legend-center">Version Slow Web</figcaption></figure>
@@ -65,7 +65,7 @@
 <p>Publier un article sur Substack a beaucoup plus d’impact que le publier sur un site statique. La preuve : ce graphique en échelle logarithmique montre une explosion des données transmises par Substack (tout ça pour analyser le comportement des lecteurs).</p>
 <figure><img alt="Attention : échelle log" decoding="async" height="657" loading="lazy" sizes="(min-width: 90ch) 90ch, 100vw" src="https://static.tcrouzet.com/images_tc/2025/11/comp14.webp" srcset="/images_tc/2025/11/comp14.webp 1024w, /images_tc/2025/11/comp14-small.webp 300w" width="1024"/><figcaption>Attention : échelle log</figcaption></figure>
 <figure><img alt="Données brutes PageSpeed" decoding="async" height="245" loading="lazy" sizes="(min-width: 90ch) 90ch, 100vw" src="https://static.tcrouzet.com/images_tc/2025/11/comp15.webp" srcset="/images_tc/2025/11/comp15.webp 1024w, /images_tc/2025/11/comp15-small.webp 300w" width="1024"/><figcaption>Données brutes PageSpeed</figcaption></figure>
-<h3>L’impact carbone</h3>
+<h2>L’impact carbone</h2>
 <p>Des services comme <a href="https://www.websitecarbon.com/" rel="noopener noreferrer">Website Carbon Calculator</a> ou <a href="https://websiteemissions.com/" rel="noopener noreferrer">Website Emissions</a> évaluent l’impact carbone des pages web.</p>
 <figure><img alt="Score de tcrouzet.com" decoding="async" height="463" loading="lazy" sizes="(min-width: 90ch) 90ch, 100vw" src="https://static.tcrouzet.com/images_tc/2025/11/comp06.webp" srcset="/images_tc/2025/11/comp06.webp 1024w, /images_tc/2025/11/comp06-small.webp 300w" width="1024"/><figcaption>Score de tcrouzet.com</figcaption></figure>
 <figure><img alt="Score de tcrouzet.com" decoding="async" height="577" loading="lazy" sizes="(min-width: 90ch) 90ch, 100vw" src="https://static.tcrouzet.com/images_tc/2025/11/comp07.webp" srcset="/images_tc/2025/11/comp07.webp 1024w, /images_tc/2025/11/comp07-small.webp 300w" width="1024"/><figcaption>Score de tcrouzet.com</figcaption></figure>
@@ -76,15 +76,155 @@
 <p>Dans une démarche radicale, je pourrais ne conserver qu’un site slow web sur GitHub, qui en prime ne me coûte rien, mais l’écart entre mes deux sites reste modéré. Mais pourquoi encore rester sur Substack ?</p>
 <figure><img alt="CO2 annuel" decoding="async" height="787" loading="lazy" sizes="(min-width: 90ch) 90ch, 100vw" src="https://static.tcrouzet.com/images_tc/2025/11/comp16.webp" srcset="/images_tc/2025/11/comp16.webp 1024w, /images_tc/2025/11/comp16-small.webp 300w" width="1024"/><figcaption>CO2 annuel</figcaption></figure>
 <p>En octobre, sur mon site principal d’après Cloudflare, j’ai reçu 15K visiteurs uniques, disons qu’ils ont généré 30K pages/vues, ce qui représente environ 18 kg de CO<sub>2</sub>/an (contre 3,6 kg si je dirigeais le trafic sur le statique). Sur Substack, j’ai environ 15K vues/mois (mais seulement 20 % sur le web de Substack, le reste s’effectuant par mail), ce qui donne une consommation totale de 11,5 kg/an. On reste dans des valeurs raisonnables, surtout quand on estime en tasses de café (que je ne bois pas), en bouteilles plastiques (que je n’achète pas) et en vol Paris-Londres (je n’ai pas pris l’avion depuis 2019). Je vais conserver cette triple architecture pour le moment, d’autant que la vraie différence, c’est à vous de la faire.</p>
-<h3>Avantage des newsletters</h3>
+<h2>Avantage des newsletters</h2>
 <p>On lit souvent que le coût d’un simple email est de l’ordre de 3,3 g de CO<sub>2</sub>, coût pouvant être bien supérieur pour une newsletter qui comporte des images. Dans la pratique, <a href="https://www.sami.eco/blog/empreinte-carbone-email" rel="noopener noreferrer">ce coût inclut la fabrication du mail, son envoi, sa réception, sa lecture, son stockage, l’amortissement du matériel</a>. Dans le cas d’une newsletter, et pour comparer par rapport à un accès au même contenu sur le web, le coût cumule l’énergie dépensée pour l’envoi, dans mon cas l’énergie dépensée par Substack, et le coût de la transmission elle-même, le stockage d’une newsletter n’étant pas nécessaire. <a href="https://www.badsender.com/2023/04/07/bilan-carbone-emailing-mediapart/" rel="noopener noreferrer">Selon une étude</a>, ce coût serait d’environ 0,7 g de CO/mail, soit équivalent à l’accès à une de mes pages web sur mon site principal. C’est en soi logique.</p>
 <p>Mais il y a une différence de taille entre être abonné et visiter un site, puisqu’il faut se rendre sur la page d’accueil, rechercher les nouveaux articles, les ouvrir… ce qui implique souvent au minimum deux pages ouvertes. L’abonnement permet d’aller droit au but, donc de réduire l’impact carbone. Il en va de même avec le suivi des fils <a href="https://tcrouzet.com/page/rss/">RSS</a>. En tant que lecteur, pour aller plus loin dans la démarche écoresponsable, <a href="https://tcrouzet.com/page/abonnement-par-mail/">l’abonnement est la solution.</a> En résumé, mes sites ont pour fonction de recruter des abonnés mail ou RSS, c’est la façon la plus économique d’entretenir une communauté.</p>
-<h3>Le voyage continue</h3>
+<h2>Le voyage continue</h2>
 <p>Le minimalisme numérique n’est donc pas vain en matière d’empreinte carbone. Au-delà de lubies esthétiques, j’ai touché à des conséquences tangibles pour le monde. Je pense aux premiers mots de Deleuze dans <a href="https://www.radiofrance.fr/franceculture/podcasts/deleuze-retrouve-16-lecons-de-philosophie" rel="noopener noreferrer">la série de ses seize leçons de philosophie</a>. Il explique qu’un concept n’a aucun intérêt sans affect et percept, c’est-à-dire qu’il doit nous affecter, et j’ai commencé par dire que le minimalisme, un concept, me rendait la vie plus légère, et qu’il doit changer notre perception du monde, nous faisant voir ce qui nous échappait auparavant. Dans mon cas, la quête du minimalisme numérique m’a fait prendre conscience d’une gabegie colossale dont je connaissais l’existence sans l’avoir intériorisée, et sans encore avoir agi en conséquence.</p>
 <p><em>PS : Pour les geeks, je maintiens <a href="gemini://gemini.tcrouzet.com/">une version Gemini</a>. Il s’agit de servir le texte sans aucune fioriture <a href="https://fr.wikipedia.org/wiki/Gemini_(protocole)" rel="noopener noreferrer">selon le protocole Gemini</a>, ce qui est parfait pour des articles essentiellement textuels comme celui-ci. Les pages sont plus légères que sur mon slow web, mais je les héberge sur le NAS de la maison, ce qui est loin d’être optimal.</em></p>]]></description>
       <guid isPermaLink="false">https://static.tcrouzet.com//2025/11/10/the-slow-web-is-faster/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2025/11/minimal.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 10 Nov 2025 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>De ma terrasse #33</title>
+      <link>https://static.tcrouzet.com//2025/11/09/digest033/</link>
+      <description><![CDATA[<img alt="De ma terrasse #33" src="https://static.tcrouzet.com/images_tc/2025/11/2025-11-09-075526.webp"/><p><em>Ma sélection du dimanche : <strong>8</strong> liens et une photo prise depuis ma terrasse. (Peu de lecture cette semaine, j’ai écrit un très long article qui a nécessité beaucoup de programmation. <a href="https://tcrouzet.com/books/rush/">Au fait, Rush est sorti.</a>)</em></p>
+<h2>Sciences et cognition</h2>
+<p><a href="https://www.sciencealert.com/massive-new-map-reveals-300000-km-of-ancient-roman-roads" rel="noopener noreferrer">Une nouvelle carte révèle 300 000 km de routes romaines antiques</a> • EN • 7 min<br/>
+Le projet Itiner-e double la longueur connue du réseau routier romain, mais ne représente que 3 % du réseau total. Les principaux carrefours se situaient dans la vallée du Pô et le corridor alpin, Rome étant finalement un cul-de-sac terrestre.</p>
+<p><a href="https://www.sciencealert.com/scientists-reveal-a-clever-trick-to-help-win-rock-paper-scissors" rel="noopener noreferrer">Des scientifiques révèlent une astuce pour gagner à pierre-papier-ciseaux</a> • EN • 6 min<br/>
+L’hyperscanning révèle que les joueurs qui perdent sont ceux dont le cerveau garde trace des coups précédents. Les gagnants parviennent à ignorer l’historique et restent imprévisibles, une capacité difficile pour notre cerveau câblé pour détecter des patterns.</p>
+<p><a href="https://www.sciencealert.com/we-were-wrong-about-fasting-massive-review-finds" rel="noopener noreferrer">Nous nous sommes trompés sur le jeûne, révèle une vaste méta-analyse</a> • EN • 5 min<br/>
+Aucune différence significative de performance cognitive n’a été observée chez les adultes à jeun versus nourris, selon 71 études portant sur 3 484 participants. Seuls les enfants et adolescents montrent des baisses de performance sans petit-déjeuner.</p>
+<h2>Technologies et business</h2>
+<p><a href="https://newatlas.com/materials/roof-paint-blocks-sunlight-collects-water/" rel="noopener noreferrer">Cette peinture de toit bloque 97 % de la lumière solaire et capte l’eau de l’air</a> • EN • 6 min<br/>
+Un revêtement polymère nano-ingénié réfléchit les rayons solaires et collecte la rosée par condensation, produisant jusqu’à 390 ml d’eau par mètre carré quotidiennement. La structure poreuse assure durabilité sans pigments dégradables aux UV.</p>
+<p><a href="https://www.presse-citron.net/scandale-hallucinant-meta-arnaques-publicites-profits/" rel="noopener noreferrer">Nouveau scandale : Meta se fiche royalement de ses utilisateurs</a> • FR • 5 min<br/>
+Meta aurait tiré 10 % de son chiffre d’affaires 2024 de publicités frauduleuses, soit 16 milliards de dollars, en facturant plus cher les annonceurs suspects plutôt que de les bloquer. L’entreprise anticipe un milliard d’amendes, moins coûteux que les profits générés.</p>
+<h2>Intelligence artificielle</h2>
+<p><a href="https://www.livescience.com/technology/artificial-intelligence/some-people-love-ai-others-hate-it-heres-why" rel="noopener noreferrer">Pourquoi certaines personnes aiment l’IA et d’autres la détestent</a> • EN • 8 min<br/>
+Notre cerveau projette des intentions humaines sur les machines et réagit plus sévèrement à leurs erreurs qu’à celles des humains. Cette aversion algorithmique s’explique par notre besoin de comprendre les décisions et notre difficulté à faire confiance aux boîtes noires.</p>
+<p><a href="https://www.sciencefocus.com/news/wikipedia-ai" rel="noopener noreferrer">Comment l’IA pourrait bientôt être utilisée par Wikipédia, selon son fondateur</a> • EN • 4 min<br/>
+Jimmy Wales envisage l’IA comme outil de maintenance pour détecter informations manquantes et biais, mais reste sceptique sur sa capacité à rédiger des articles complets. L’encyclopédie sert déjà de base d’entraînement majeure pour les modèles de langage.</p>
+<p><a href="https://www.nature.com/articles/d41586-025-03570-y" rel="noopener noreferrer">L’IA peut-elle être véritablement créative ?</a> • EN • 12 min<br/>
+Les modèles génératifs rivalisent avec les humains dans les tests de créativité, mais peinent à produire des hypothèses scientifiques novatrices et manquent de curiosité pour réviser leurs idées. L’authenticité et l’intentionnalité restent des qualités distinctement humaines selon les chercheurs.</p>]]></description>
+      <guid isPermaLink="false">https://static.tcrouzet.com//2025/11/09/digest033/</guid>
+      <enclosure url="https://static.tcrouzet.com/images_tc/2025/11/2025-11-09-075526.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 09 Nov 2025 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>De ma terrasse #32</title>
+      <link>https://static.tcrouzet.com//2025/11/02/digest032/</link>
+      <description><![CDATA[<img alt="De ma terrasse #32" src="https://static.tcrouzet.com/images_tc/2025/11/2025-10-26-180603-lamaison.webp"/><p><em>Ma sélection du dimanche : <strong>14</strong> liens et une photo prise depuis ma terrasse.</em></p>
+<hr/>
+<h2>Culture et société</h2>
+<p><a href="https://movieweb.com/best-new-sci-fi-movies-no-one-is-talking-about/" rel="noopener noreferrer">10 meilleurs nouveaux films de science-fiction dont personne ne parle</a> • EN • 8 min<br/>
+De <em>The A-Frame</em> à <em>Ash</em>, ces pépites indépendantes méritent bien plus d’attention que les blockbusters qui monopolisent les conversations. Philosophie, horreur corporelle et tension psychologique au rendez-vous.</p>
+<p><a href="https://www.creativebloq.com/design/design-software/free-affinity-app-sparks-huge-debate-among-artists-and-designers" rel="noopener noreferrer">L’application gratuite Affinity déclenche un débat parmi les artistes et designers</a> • EN • 6 min<br/>
+Canva rend gratuite l’alternative à Adobe, combinant Photo, Designer et Publisher. Certains célèbrent, d’autres s’inquiètent : publicités cachées, exploitation des données pour l’IA, ou simple stratégie pour imposer des abonnements futurs ?</p>
+<p><a href="https://eu.usatoday.com/story/life/health-wellness/2025/10/27/the-feels-dating-singles-mixer-touching/86923315007/" rel="noopener noreferrer">Des célibataires paient 200 $ pour se faire des hugs dans des pièces sombres. « The Feels » peut-il réparer les rencontres ?</a> • EN • 7 min<br/>
+Contact visuel prolongé, toucher non érotique et conversations spirituelles : cette expérience vise à reconnecter les célibataires avec l’authenticité, loin des applications et de la superficialité ambiante.</p>
+<p><a href="https://www.leparisien.fr/international/etats-unis/ca-na-pas-lair-reel-aux-etats-unis-un-retraite-de-61-ans-a-passe-1-mois-en-prison-pour-un-post-facebook-sur-trump-et-kirk-31-10-2025-CNOKUHO6AZFCBN7NRAK4TAYM3Q.php" rel="noopener noreferrer">« Ça n’a pas l’air réel » : aux États-Unis, un retraité de 61 ans a passé un mois en prison pour un post Facebook sur Trump et Kirk</a> • FR • 4 min<br/>
+Larry Bushart a partagé un mème citant Trump après l’assassinat de Charlie Kirk. Accusé d’incitation à la violence, il a été emprisonné avant que les charges ne soient abandonnées.</p>
+<p><a href="https://bylinetimes.com/2024/10/25/elon-musk-vladimir-putin-x/" rel="noopener noreferrer">X – le second front de la Russie</a> • EN • 8 min<br/>
+Elon Musk en contact régulier avec Poutine depuis deux ans, selon le Wall Street Journal. La plateforme X sert de vecteur à la guerre informationnelle russe, supprimant les contenus pro-ukrainiens et amplifiant la propagande du Kremlin.</p>
+<p><a href="https://futurism.com/robots-and-machines/robot-vacuum-broadcasting" rel="noopener noreferrer">Un homme alarmé de découvrir que son aspirateur intelligent diffusait une carte secrète de sa maison</a> • EN • 5 min<br/>
+L’ingénieur Harishankar Narayanan a découvert que son aspirateur iLife A11 transmettait une cartographie 3D de son domicile. Quand il a bloqué cette télémétrie, l’appareil a été désactivé à distance par le fabricant.</p>
+<h2>Science et environnement</h2>
+<p><a href="https://interestingengineering.com/energy/singlet-fission-solar-efficiency-breakthrough" rel="noopener noreferrer">Partager en deux les rayons du soleil pourrait aider les panneaux solaires à atteindre un rendement record de 45 %</a> • EN • 3 min<br/>
+Des scientifiques de l’UNSW Sydney ont montré comment extraire deux fois plus d’énergie d’une particule de lumière, dépassant ainsi la limite naturelle du silicium fixée à 27 %.</p>
+<p><a href="https://atmos.earth/climate-solutions/its-such-a-blessing-the-farmers-embracing-solar-arrays/" rel="noopener noreferrer">« C’est une telle bénédiction » : les agriculteurs qui adoptent les panneaux solaires</a> • EN • 6 min<br/>
+L’agrivoltaïsme combine agriculture et énergie solaire. Les panneaux protègent le bétail des intempéries tandis que les moutons entretiennent naturellement les installations, créant une symbiose inattendue entre technologie et élevage.</p>
+<p><a href="https://www.sciencealert.com/physicists-just-ruled-out-the-universe-being-a-simulation" rel="noopener noreferrer">Des physiciens viennent d’exclure que l’Univers soit une simulation</a> • EN • 5 min<br/>
+Une équipe dirigée par Mir Faizal démontre qu’aucune théorie algorithmique ne peut réconcilier relativité générale et mécanique quantique. Conséquence : l’Univers ne peut être une simulation, car toute simulation opère algorithmiquement.</p>
+<p><a href="https://www.sciencealert.com/powerful-new-antibiotic-was-hiding-in-plain-sight-for-decades" rel="noopener noreferrer">Un nouvel antibiotique puissant se cachait « à la vue de tous » depuis des décennies</a> • EN • 4 min<br/>
+Le pré-méthylénomycine C lactone, découvert dans une bactérie étudiée depuis les années 1950, s’avère cent fois plus efficace contre les bactéries résistantes. Les pathogènes exposés pendant 28 jours n’ont développé aucune résistance.</p>
+<p><a href="https://www.bgr.com/2003609/nasa-perseverance-rover-mars-daytime-pictures/" rel="noopener noreferrer">Le rover Perseverance de la NASA vient de prendre la photo panoramique la plus nette de Mars à ce jour</a> • EN • 3 min<br/>
+Composée de 96 images capturées le 26 mai 2025 depuis Falbreen, cette mosaïque révèle des formations géologiques situées à 65 kilomètres, des ondulations de sable et un rocher flottant transporté par le vent ou l’eau.</p>
+<h2>Intelligence artificielle</h2>
+<p><a href="https://www.forbes.com/sites/lanceeliot/2025/11/01/prompt-engineering-newest-technique-is-verbalized-sampling-that-stirs-ai-to-be-free-thinking-and-improve-your-responses/" rel="noopener noreferrer">La plus récente technique d’ingénierie de prompt est l’échantillonnage verbalisé qui incite l’IA à penser librement et améliorer vos réponses</a> • EN • 15 min<br/>
+L’échantillonnage verbalisé demande à l’IA de générer plusieurs réponses avec leurs probabilités, contournant l’effondrement modal qui ne montre que la réponse la mieux classée. Une rébellion contre la pensée unique algorithmique.</p>
+<p><a href="https://www.geeky-gadgets.com/chatgpt-5-mathematical-claims-controversy/" rel="noopener noreferrer">La bévue de ChatGPT 5 d’OpenAI : pourquoi Google l’a qualifiée d’embarrassante</a> • EN • 6 min<br/>
+OpenAI a prétendu que GPT-5 avait résolu des problèmes d’Erdős. En réalité, le modèle a simplement identifié des solutions existantes dans la littérature académique. Le PDG de Google DeepMind a dénoncé cette communication trompeuse.</p>
+<p><a href="https://www.digitaltrends.com/computing/ai-browsers-are-here-and-you-need-to-learn-how-to-use-the-web-properly/" rel="noopener noreferrer">Les navigateurs IA sont là, et vous devez apprendre à les utiliser</a> • EN • 9 min<br/>
+ChatGPT Atlas, Dia et Perplexity Comet transforment la navigation avec des assistants latéraux, des compétences personnalisées et le mode agent autonome. Mais ils ouvrent aussi de nouvelles surfaces d’attaque pour les données sensibles.</p>]]></description>
+      <guid isPermaLink="false">https://static.tcrouzet.com//2025/11/02/digest032/</guid>
+      <enclosure url="https://static.tcrouzet.com/images_tc/2025/11/2025-10-26-180603-lamaison.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 02 Nov 2025 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>De ma terrasse #31</title>
+      <link>https://static.tcrouzet.com//2025/10/26/digest031/</link>
+      <description><![CDATA[<img alt="De ma terrasse #31" src="https://static.tcrouzet.com/images_tc/2025/10/2025-10-24-193339.webp"/><p><em>Ma sélection du dimanche : <strong>21</strong> liens et une photo prise depuis ma terrasse.</em> (J’ai remis de l’ordre dans <a href="https://tcrouzet.com/page/lectures/">la liste des sites de mon feed reader</a>…)</p>
+<h2>Culture et littérature</h2>
+<p><a href="https://news.harvard.edu/gazette/story/2025/10/is-there-a-right-way-to-write/" rel="noopener noreferrer">Existe-t-il une bonne façon d’écrire ?</a> • EN • 15 min<br/>
+Quatre écrivains de Harvard explorent les mystères de la création littéraire, de l’inspiration initiale aux révisions finales. Ils révèlent comment l’écriture authentique naît de l’émotion et du risque personnel, transformant l’échec en outil créatif essentiel. (article repéré par Sébastien Bailly)</p>
+<p><a href="https://www.courrierinternational.com/article/niger-hommage-au-dernier-arbre-du-tenere_235414" rel="noopener noreferrer">Hommage au dernier arbre du Ténéré</a> • FR • 8 min<br/>
+L’acacia solitaire qui survécut trois siècles dans le Sahara nigérien avant d’être tué par un camionneur ivre en 1973. Symbole de résistance face à l’aridité, ses racines plongeaient à 30 mètres pour atteindre la nappe phréatique.</p>
+<p><a href="https://ledibbouk.net/23-octobre-2025.html" rel="noopener noreferrer">Adorno et la ponctuation</a> • FR • 4 min<br/>
+Le philosophe allemand transforme les signes de ponctuation en personnages vivants : le point d’exclamation qui lève le doigt, le point-virgule moustachu. Pour lui, ces marques orchestrent la respiration du texte comme des indications musicales.</p>
+<p><a href="https://www.upworthy.com/gen-z-teacher-trolls-students" rel="noopener noreferrer">Un professeur demande à ses étudiants de la génération Z d’écrire 5 phrases. Leur réponse déclenche un grand débat</a> • EN • 6 min<br/>
+L’exercice révèle les transformations profondes de l’écriture chez les jeunes générations, soulevant des questions sur l’évolution des compétences linguistiques à l’ère numérique.</p>
+<p><a href="https://nofilmschool.com/how-writers-can-focus" rel="noopener noreferrer">Comment les écrivains peuvent-ils se concentrer dans un monde de distractions</a> • EN • 8 min<br/>
+Notre capacité d’attention a chuté de 2,5 minutes en 2004 à 47 secondes aujourd’hui. L’article propose des stratégies concrètes pour retrouver la concentration nécessaire à l’écriture créative.</p>
+<p><a href="https://philippe-castelneau.com/2025/10/21/le-chien-noir-de-winston-churchill/" rel="noopener noreferrer">Le chien noir de Winston Churchill</a> • FR • 6 min<br/>
+Derrière la routine alcoolisée de Churchill se cachait une dépression profonde qu’il nommait son « chien noir ». Cette mélancolie nourrissait peut-être sa créativité mais menaçait aussi de le détruire.</p>
+<p><a href="https://frankchimero.com/blog/2025/beyond-the-machine/" rel="noopener noreferrer">Au-delà de la machine</a> • EN • 20 min<br/>
+Un designer explore comment utiliser l’IA générative sans perdre son âme créative. Il propose de traiter l’IA comme un instrument plutôt qu’un outil, s’inspirant de Brian Eno et Holly Herndon pour redéfinir la collaboration homme-machine.</p>
+<h2>Sciences et santé</h2>
+<p><a href="https://theconversation.com/covid-19-mrna-vaccines-could-unlock-the-next-revolution-in-cancer-treatment-new-research-258992" rel="noopener noreferrer">Les vaccins ARNm contre la COVID-19 peuvent pousser le système immunitaire à reconnaître et tuer le cancer</a> • EN • 10 min<br/>
+Les patients ayant reçu un vaccin ARNm dans les 100 jours suivant leur immunothérapie anticancéreuse avaient deux fois plus de chances d’être vivants après trois ans. L’ARNm agirait comme une alarme activant le système immunitaire contre les tumeurs.</p>
+<p><a href="https://www.sciencealert.com/new-breakthrough-treatment-safely-kills-cancer-cells-with-light" rel="noopener noreferrer">Un nouveau traitement révolutionnaire tue en toute sécurité les cellules cancéreuses avec la lumière</a> • EN • 12 min<br/>
+Des chercheurs américains combinent des LED infrarouges avec des nanoparticules d’oxyde d’étain pour détruire jusqu’à 92 % des cellules cancéreuses cutanées en 30 minutes, sans endommager les tissus sains.</p>
+<p><a href="https://www.thebrighterside.news/post/gray-hair-may-be-a-natural-defense-against-cancer-study-finds/" rel="noopener noreferrer">Les cheveux gris pourraient être une défense naturelle contre le cancer</a> • EN • 9 min<br/>
+Les cellules souches qui donnent leur couleur aux cheveux peuvent soit disparaître (causant le grisonnement) soit persister et muter (risquant le mélanome).</p>
+<p><a href="https://www.sciencealert.com/hivs-cunning-strategy-for-hiding-in-our-body-finally-revealed" rel="noopener noreferrer">La stratégie astucieuse du VIH pour se cacher dans notre corps enfin révélée</a> • EN • 7 min<br/>
+Le VIH adopte une approche spécifique à chaque tissu pour s’intégrer dans l’ADN des cellules hôtes. Dans le cerveau, il évite les gènes actifs et se cache dans les régions moins actives de l’ADN.</p>
+<p><a href="https://aeon.co/videos/a-radical-reimagining-of-physics-puts-information-at-its-centre" rel="noopener noreferrer">Une réimagination radicale de la physique place l’information en son centre</a> • EN • 5 min<br/>
+Deux scientifiques proposent une « loi d’augmentation de l’information fonctionnelle » pour expliquer pourquoi tout semble devenir plus complexe et ordonné avec le temps, de l’atome aux civilisations.</p>
+<p><a href="https://www.livescience.com/archaeology/easter-island-statues-may-have-walked-thanks-to-pendulum-dynamics-and-with-as-few-as-15-people-study-finds" rel="noopener noreferrer">Les statues de l’île de Pâques ont peut-être « marché » grâce à la « dynamique du pendule » et avec seulement 15 personnes</a> • EN • 8 min<br/>
+Les moaï possédaient un centre de masse bas et une inclinaison vers l’avant qui facilitaient leur transport. Avec trois cordes et 15 à 60 personnes, ils pouvaient « marcher » sur 310 mètres par heure.</p>
+<p><a href="https://futurism.com/space/mysterious-interstellar-object-tendril-reaching-sun" rel="noopener noreferrer">Un objet interstellaire mystérieux a développé un appendice qui s’étend vers le Soleil</a> • EN • 6 min<br/>
+L’objet 3I/ATLAS présente une « anti-queue » dirigée vers le Soleil, phénomène inhabituel qui pourrait résulter de gros grains de poussière résistant au vent solaire ou d’une rotation rapide du noyau cométaire. (Conclure que c’est un vaisseau spatial en train de fraîner tentent quelques scientifiques délirants… je n’y crois pas une seconde mais j’aime leur délire)</p>
+<h2>Architecture et innovation</h2>
+<p><a href="https://www.designboom.com/architecture/foster-partners-completes-new-york-largest-all-electric-tower-jpmorganchase-10-21-2025/" rel="noopener noreferrer">Foster + Partners achève la plus grande tour entièrement « énergie renouvelable » de New York pour JPMorganChase</a> • EN • 7 min<br/>
+La tour de 60 étages au 270 Park Avenue fonctionne entièrement aux énergies renouvelables et vise zéro émission opérationnelle. Sa base surélevée de 24 mètres crée un espace public reliant Park Avenue à Madison Avenue.</p>
+<p><a href="https://bigthink.com/series/the-big-think-interview/great-inflection-2025/" rel="noopener noreferrer">Pourquoi 2025 est l’année la plus cruciale de notre vie</a> • EN • 12 min<br/>
+Le futurologue Peter Leyden analyse comment l’IA, l’énergie propre et la bio-ingénierie convergent pour créer un moment historique où tout se réinvente simultanément, comparable aux grandes transitions de l’histoire américaine. (C’est totalement fumeux, un grand délire, j’en parlerai en détail dans le carnet d’octobre)</p>
+<h2>Intelligence artificielle</h2>
+<p><a href="https://decrypt.co/345472/quantum-threat-bitcoin-grows-google-latest-breakthrough" rel="noopener noreferrer">La menace quantique sur Bitcoin grandit alors que Google révèle sa dernière percée</a> • EN • 8 min<br/>
+La puce Willow de Google a démontré un avantage quantique vérifié, complétant en deux heures une tâche qui prendrait 3,2 ans au supercalculateur Frontier. Cette avancée rapproche la menace contre le chiffrement de Bitcoin. (J’attends ce crack avec impatience)</p>
+<p><a href="https://www.greenit.fr/2025/10/21/quels-sont-les-impacts-environnementaux-et-sanitaires-de-lia/" rel="noopener noreferrer">Quels sont les impacts environnementaux et sanitaires de l’IA ?</a> • FR • 12 min<br/>
+En 2030, l’IA représentera 62 % du budget carbone annuel de l’Union européenne. L’étude révèle que 69 % des impacts ne sont pas liés au climat mais à l’épuisement des ressources et aux particules fines.</p>
+<p><em>Source : <a href="https://mamot.fr/@ThierryJoffredo" rel="noopener noreferrer">ThierryJ :mastodon:</a></em></p>
+<p><a href="https://theconversation.com/ai-heavyweights-call-for-end-to-superintelligence-research-267961" rel="noopener noreferrer">Des poids lourds de l’IA appellent à la fin de la recherche sur la « superintelligence »</a> • EN • 9 min<br/>
+Une coalition de scientifiques, dirigeants et personnalités publiques demande l’interdiction du développement de la superintelligence. Ils craignent qu’un système dépassant toutes les capacités cognitives humaines échappe à notre contrôle.</p>
+<p><a href="https://theconversation.com/what-is-ai-poisoning-a-computer-scientist-explains-267728" rel="noopener noreferrer">Qu’est-ce que l’empoisonnement de l’IA ?</a> • EN • 7 min<br/>
+L’insertion de seulement 250 fichiers malveillants dans les millions de données d’entraînement peut secrètement « empoisonner » un modèle d’IA. Cette manipulation peut créer des portes dérobées ou dégrader les performances globales.</p>
+<p><a href="https://www.sciencealert.com/alien-ai-might-turn-advanced-civilizations-invisible-in-a-cosmic-blink" rel="noopener noreferrer">Une IA extraterrestre pourrait rendre les civilisations avancées « invisibles »</a> • EN • 5 min<br/>
+Si les civilisations extraterrestres développent une superintelligence artificielle, elles pourraient progresser au-delà de nos capacités d’observation en quelques décennies seulement, expliquant pourquoi nous ne détectons aucun signal alien.</p>]]></description>
+      <guid isPermaLink="false">https://static.tcrouzet.com//2025/10/26/digest031/</guid>
+      <enclosure url="https://static.tcrouzet.com/images_tc/2025/10/2025-10-24-193339.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 26 Oct 2025 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Comment me soutenir</title>
+      <link>https://static.tcrouzet.com//page/me-soutenir/</link>
+      <description><![CDATA[<p>Différentes possibilités…</p>
+<ul>
+<li><a href="https://static.tcrouzet.com/bibliographie/">Achète mes livres en librairie</a></li>
+<li><a href="https://liberapay.com/tcrouzet/donate" rel="noopener noreferrer">Effectue un don, récurrent ou ponctuel, via Liberapay</a></li>
+<li><a href="https://static.tcrouzet.com/page/abonnement-par-mail/">Abonne-toi à mes newsletters</a></li>
+<li>Parle de mes textes à d’autres lecteurs</li>
+<li>Commente ici ou ailleurs</li>
+<li><a href="https://static.tcrouzet.com/page/mail/">Invite-moi à des rencontres ou des débats</a></li>
+<li>Provoque des projets</li>
+<li>Partage des idées</li>
+</ul>
+<p>Les interactions me stimulent. Quand tu te manifestes par l’une ou l’autre de ces méthodes tu m’encourages à poursuivre mon travail et à continuer de le partager librement.</p>]]></description>
+      <guid isPermaLink="false">https://static.tcrouzet.com//page/me-soutenir/</guid>
+      <pubDate>Wed, 22 Oct 2025 17:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
