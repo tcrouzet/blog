@@ -2,28 +2,28 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://static.tcrouzet.com/series/index.html</loc>
-    <lastmod>2025-11-09T15:02:12+01:00</lastmod>
+    <lastmod>2025-11-10T10:40:56+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2025/11/2025-11-09-075526.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2025/11/minimal.jpeg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//blog/index.html</loc>
-    <lastmod>2025-11-10T07:49:55+01:00</lastmod>
+    <lastmod>2025-11-10T10:40:56+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2025/10/2025-10-20-105955.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2025/11/minimal.jpeg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com/index.html</loc>
-    <lastmod>2025-11-10T07:50:05+01:00</lastmod>
+    <lastmod>2025-11-10T10:44:45+01:00</lastmod>
   </url>
   <url>
     <loc>https://static.tcrouzet.com/archives/index.html</loc>
-    <lastmod>2025-11-10T07:50:05+01:00</lastmod>
+    <lastmod>2025-11-10T10:44:45+01:00</lastmod>
   </url>
   <url>
     <loc>https://static.tcrouzet.com/archives/index.html</loc>
-    <lastmod>2025-11-10T07:50:05+01:00</lastmod>
+    <lastmod>2025-11-10T10:44:45+01:00</lastmod>
   </url>
 </urlset>
