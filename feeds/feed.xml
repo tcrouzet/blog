@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 11 Nov 2025 11:22:31 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 11:32:46 +0100</lastBuildDate>
     <item>
       <title>Le pacte faustien de Macron avec les réseaux sociaux</title>
       <link>https://static.tcrouzet.com/2025/11/11/social-et-toxique/</link>
@@ -23,7 +23,7 @@
 <p>Nous ne sommes pas aussi courageux. Pour la plupart, nous avons la trouille de casser le pacte qui nous lie aux réseaux sociaux, chacun avec de bonnes excuses, et nous continuons à nous soumettre à la volonté du diable. Macron parle mais n’agit pas. Les politiciens s’indignent mais n’agissent pas. Les journalistes accusent mais n’agissent pas. Tout le monde a la trouille de se retrouver nu sans sa petite dose d’ocytocine. Pourtant si nous ne sacrifions pas nos réseaux sociaux, nous ne parviendrons pas à nous reconnecter les uns aux autres, et les fausses rumeurs continueront de prospérer comme les points de vue extrêmes. Des idées déraisonnables se glisseront en nous tels des virus.</p>
 <p>Quand j’ai sacrifié mes comptes sociaux, j’ai perdu de l’influence et des lecteurs, tout en me libérant d’un poids immense et en retrouvant beaucoup de temps pour la rêverie et la lecture. Il serait temps que les fameux influenceurs renoncent, parce qu’ils ont signé des pactes avec leur sang (et leur gagne-pain, et leur position sociale). Pourquoi Macron ne ferait-il pas le premier pas ? En a-t-il seulement le courage ? Ou se croit-il plus fort qu’Anakin, capable de jouer avec le côté obscur sans se brûler ? <a href="https://www.radiofrance.fr/franceinter/podcasts/dov-alfon-en-toute-subjectivite/dov-alfon-en-toute-subjectivite-du-mardi-14-janvier-2025-3472041" rel="noopener noreferrer">Tout le monde se demande pourquoi il ne quitte pas.</a> Mais vous, pourquoi ne quittez-vous pas ? <a href="https://www.presse-citron.net/scandale-hallucinant-meta-arnaques-publicites-profits/" rel="noopener noreferrer">Vous ne pourrez pas dire que vous ne saviez pas.</a></p>
 <p><em>PS : Comme je ne publie pas ce texte sur les réseaux sociaux truffés d’algorithmes et où les destins se jouent, il ne touchera pas ceux qui auraient profit à le lire. Je ne peux même pas utiliser de hashtag pour alerter l’Élysée.</em></p>]]></description>
-      <guid isPermaLink="false">https://static.tcrouzet.com//2025/11/11/social-et-toxique/</guid>
+      <guid isPermaLink="false">https://static.tcrouzet.com/2025/11/11/social-et-toxique/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2025/11/macron.png" length="0" type="image/webp"/>
       <pubDate>Tue, 11 Nov 2025 10:00:00 +0100</pubDate>
     </item>
@@ -102,7 +102,7 @@
 <p><em>PS1 : Pour les geeks, je maintiens <a href="gemini://gemini.tcrouzet.com/">une version Gemini</a>. Il s’agit de servir le texte sans aucune fioriture <a href="https://fr.wikipedia.org/wiki/Gemini_(protocole)" rel="noopener noreferrer">selon le protocole Gemini</a>, ce qui est parfait pour des articles essentiellement textuels comme celui-ci. Les pages sont plus légères que sur mon slow web, mais je les héberge sur le NAS de la maison, ce qui est loin d’être optimal.</em></p>
 <p><em>PS2 : On me parle de <a href="https://smolweb.org/index.html" rel="noopener noreferrer">small web</a>, je connaissais pas. Je vien de tester leur validateur et il déclare fautives toutes les balises destinées à optimiser la vitesse de chargement et réduire la bande passante consommée. C’est un peu paradoxal. Pour restecter ce standard, je devrais accroîte l’impact carbone de mes pages.</em>
 <em>PS3</em> : À tester, <a href="https://addons.mozilla.org/fr/firefox/addon/carbonalyser/" rel="noopener noreferrer">Carbonalyser</a>.</p>]]></description>
-      <guid isPermaLink="false">https://static.tcrouzet.com//2025/11/10/the-slow-web-is-faster/</guid>
+      <guid isPermaLink="false">https://static.tcrouzet.com/2025/11/10/the-slow-web-is-faster/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2025/11/minimal.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 10 Nov 2025 17:00:00 +0100</pubDate>
     </item>
@@ -129,7 +129,7 @@ Notre cerveau projette des intentions humaines sur les machines et réagit plus 
 Jimmy Wales envisage l’IA comme outil de maintenance pour détecter informations manquantes et biais, mais reste sceptique sur sa capacité à rédiger des articles complets. L’encyclopédie sert déjà de base d’entraînement majeure pour les modèles de langage.</p>
 <p><a href="https://www.nature.com/articles/d41586-025-03570-y" rel="noopener noreferrer">L’IA peut-elle être véritablement créative ?</a> • EN • 12 min<br/>
 Les modèles génératifs rivalisent avec les humains dans les tests de créativité, mais peinent à produire des hypothèses scientifiques novatrices et manquent de curiosité pour réviser leurs idées. L’authenticité et l’intentionnalité restent des qualités distinctement humaines selon les chercheurs.</p>]]></description>
-      <guid isPermaLink="false">https://static.tcrouzet.com//2025/11/09/digest033/</guid>
+      <guid isPermaLink="false">https://static.tcrouzet.com/2025/11/09/digest033/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2025/11/2025-11-09-075526.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 09 Nov 2025 17:00:00 +0100</pubDate>
     </item>
@@ -169,7 +169,7 @@ L’échantillonnage verbalisé demande à l’IA de générer plusieurs répons
 OpenAI a prétendu que GPT-5 avait résolu des problèmes d’Erdős. En réalité, le modèle a simplement identifié des solutions existantes dans la littérature académique. Le PDG de Google DeepMind a dénoncé cette communication trompeuse.</p>
 <p><a href="https://www.digitaltrends.com/computing/ai-browsers-are-here-and-you-need-to-learn-how-to-use-the-web-properly/" rel="noopener noreferrer">Les navigateurs IA sont là, et vous devez apprendre à les utiliser</a> • EN • 9 min<br/>
 ChatGPT Atlas, Dia et Perplexity Comet transforment la navigation avec des assistants latéraux, des compétences personnalisées et le mode agent autonome. Mais ils ouvrent aussi de nouvelles surfaces d’attaque pour les données sensibles.</p>]]></description>
-      <guid isPermaLink="false">https://static.tcrouzet.com//2025/11/02/digest032/</guid>
+      <guid isPermaLink="false">https://static.tcrouzet.com/2025/11/02/digest032/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2025/11/2025-10-26-180603-lamaison.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 02 Nov 2025 17:00:00 +0100</pubDate>
     </item>
@@ -224,7 +224,7 @@ Une coalition de scientifiques, dirigeants et personnalités publiques demande l
 L’insertion de seulement 250 fichiers malveillants dans les millions de données d’entraînement peut secrètement « empoisonner » un modèle d’IA. Cette manipulation peut créer des portes dérobées ou dégrader les performances globales.</p>
 <p><a href="https://www.sciencealert.com/alien-ai-might-turn-advanced-civilizations-invisible-in-a-cosmic-blink" rel="noopener noreferrer">Une IA extraterrestre pourrait rendre les civilisations avancées « invisibles »</a> • EN • 5 min<br/>
 Si les civilisations extraterrestres développent une superintelligence artificielle, elles pourraient progresser au-delà de nos capacités d’observation en quelques décennies seulement, expliquant pourquoi nous ne détectons aucun signal alien.</p>]]></description>
-      <guid isPermaLink="false">https://static.tcrouzet.com//2025/10/26/digest031/</guid>
+      <guid isPermaLink="false">https://static.tcrouzet.com/2025/10/26/digest031/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2025/10/2025-10-24-193339.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 26 Oct 2025 17:00:00 +0100</pubDate>
     </item>
