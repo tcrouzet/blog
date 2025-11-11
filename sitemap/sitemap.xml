@@ -1,7 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
+    <loc>https://static.tcrouzet.com/sitemap-posts.xml</loc>
+    <lastmod>2025-11-11T10:55:27+01:00</lastmod>
+  </sitemap>
+  <sitemap>
     <loc>https://static.tcrouzet.com/sitemap-main.xml</loc>
-    <lastmod>2025-11-11T10:14:00+01:00</lastmod>
+    <lastmod>2025-11-11T10:55:27+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://static.tcrouzet.com/sitemap-tags.xml</loc>
+    <lastmod>2025-11-11T10:55:27+01:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://static.tcrouzet.com/sitemap-years.xml</loc>
+    <lastmod>2025-11-11T10:55:27+01:00</lastmod>
   </sitemap>
 </sitemapindex>

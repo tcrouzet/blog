@@ -2,9 +2,9 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://static.tcrouzet.com//2025/index.html</loc>
-    <lastmod>2025-11-11T10:05:03+01:00</lastmod>
+    <lastmod>2025-11-11T10:13:48+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2025/11/macron.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2025/11/macron.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -18,7 +18,7 @@
     <loc>https://static.tcrouzet.com//2023/index.html</loc>
     <lastmod>2024-05-01T07:26:52+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2023/12/obsidian.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2023/12/obsidian.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -109,7 +109,7 @@
     <loc>https://static.tcrouzet.com//2010/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/12/photo.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/12/photo.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -139,14 +139,14 @@
     <loc>https://static.tcrouzet.com//2000/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2000/04/carnet-avril-2000.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2000/04/carnet-avril-2000.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//1999/index.html</loc>
     <lastmod>2024-04-30T10:11:32+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/1999/12/cover-1999-dec.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/1999/12/cover-1999-dec.png</image:loc>
     </image:image>
   </url>
   <url>

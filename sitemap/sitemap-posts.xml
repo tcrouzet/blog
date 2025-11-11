@@ -2,9 +2,9 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://static.tcrouzet.com//2025/11/11/social-et-toxique/index.html</loc>
-    <lastmod>2025-11-11T10:05:03+01:00</lastmod>
+    <lastmod>2025-11-11T10:13:48+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2025/11/macron.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2025/11/macron.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1143,7 +1143,7 @@
     <loc>https://static.tcrouzet.com//2024/02/25/le-code-houellebecq-dans-le-monde-des-livres/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2024/02/zola-vent.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2024/02/zola-vent.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1199,35 +1199,35 @@
     <loc>https://static.tcrouzet.com//2024/01/28/premieres-terreurs-devant-une-ia/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2024/01/ragcover-.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2024/01/ragcover-.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2024/01/26/apres-les-livres-les-datasets/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2024/01/dataset2.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2024/01/dataset2.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2024/01/21/romania-jamais-les-ia-necriront-a-ma-place/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2024/01/noia2.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2024/01/noia2.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2024/01/19/ecrire-un-roman-avec-chatgpt-chapitre-4/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2024/01/idia3.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2024/01/idia3.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2024/01/17/vendre-un-manuscrit-match-chatgpt-vs-claude/index.html</loc>
     <lastmod>2025-03-24T20:21:56+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2024/01/vs.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2024/01/vs.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1248,7 +1248,7 @@
     <loc>https://static.tcrouzet.com//2024/01/13/conversations-1/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2024/01/conv1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2024/01/conv1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1262,7 +1262,7 @@
     <loc>https://static.tcrouzet.com//2024/01/11/ecrire-un-roman-avec-chatgpt-chapitre-3/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2024/01/lune.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2024/01/lune.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1283,7 +1283,7 @@
     <loc>https://static.tcrouzet.com//2023/12/31/ecrire-a-la-recherche-de-lediteur-de-texte-ideal/index.html</loc>
     <lastmod>2024-05-01T07:26:52+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2023/12/obsidian.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2023/12/obsidian.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1297,14 +1297,14 @@
     <loc>https://static.tcrouzet.com//2023/12/21/ecrire-un-roman-avec-chatgpt-chapitre-2/index.html</loc>
     <lastmod>2025-03-24T20:17:54+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2023/12/chap02.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2023/12/chap02.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2023/12/19/ecrire-un-roman-avec-chatgpt-chapitre-1/index.html</loc>
     <lastmod>2025-03-24T20:17:50+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2023/12/porte01.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2023/12/porte01.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1339,7 +1339,7 @@
     <loc>https://static.tcrouzet.com//2023/11/15/conversation-avec-mon-double-numerique/index.html</loc>
     <lastmod>2025-03-24T20:17:16+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2023/11/DALLE-2023-11-15.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2023/11/DALLE-2023-11-15.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1367,7 +1367,7 @@
     <loc>https://static.tcrouzet.com//2023/10/29/asphalte-gravier-ou-terre/index.html</loc>
     <lastmod>2024-06-09T06:42:41+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2023/10/stat_i3.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2023/10/stat_i3.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1577,7 +1577,7 @@
     <loc>https://static.tcrouzet.com//2023/02/02/archivage-litteraire-sur-github/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2023/02/git04.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2023/02/git04.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1591,7 +1591,7 @@
     <loc>https://static.tcrouzet.com//2023/01/30/mon-blog-nest-plus-un-blog/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2023/01/codeaws.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2023/01/codeaws.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -2032,7 +2032,7 @@
     <loc>https://static.tcrouzet.com//books/les-silencieux/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2021/12/silencieux-cover-400.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2021/12/silencieux-cover-400.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -3877,7 +3877,7 @@
     <loc>https://static.tcrouzet.com//2017/12/13/archiver-le-blog-pour-passer-a-autre-chose/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2017/12/cover-anim.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2017/12/cover-anim.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -3951,7 +3951,7 @@
     <loc>https://static.tcrouzet.com//2017/10/24/geolecture-testez-la-beta/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2017/10/qrcode.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2017/10/qrcode.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4070,7 +4070,7 @@
     <loc>https://static.tcrouzet.com//2017/05/08/la-presidentielle-est-terminee-vous-pouvez-enfin-lire-resistants/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2017/05/anim.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2017/05/anim.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -4126,14 +4126,14 @@
     <loc>https://static.tcrouzet.com//2017/04/19/que-fait-lauteur-le-jour-de-la-sortie-de-son-nouveau-livre/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2017/04/resistants_anim1_4.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2017/04/resistants_anim1_4.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2017/04/10/comment-tweeter-depuis-mastodon/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2017/04/mastodon6.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2017/04/mastodon6.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4147,7 +4147,7 @@
     <loc>https://static.tcrouzet.com//2017/03/27/comment-faire-payer-google/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2017/03/libre.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2017/03/libre.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4168,14 +4168,14 @@
     <loc>https://static.tcrouzet.com//2017/03/17/pourquoi-signer-avec-un-editeur-sil-faut-faire-tout-le-boulot/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2017/03/cory.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2017/03/cory.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2017/03/02/16-trucs-pour-devenir-un-bon-auteur/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2017/03/buzzlitt.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2017/03/buzzlitt.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4189,7 +4189,7 @@
     <loc>https://static.tcrouzet.com//2017/02/28/petite-lecon-de-pao-pour-editeurs-et-auteurs/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2017/02/pao4.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2017/02/pao4.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4210,21 +4210,21 @@
     <loc>https://static.tcrouzet.com//2017/02/21/12-raisons-pour-lesquelles-je-ne-suis-pas-un-auteur-independant/index.html</loc>
     <lastmod>2024-05-01T09:40:20+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2017/02/buzzlitt.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2017/02/buzzlitt.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2017/02/16/comment-devenir-ecrivain-en-10-etapes/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2017/02/buzzlitt.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2017/02/buzzlitt.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2017/02/15/ils-font-tous-ca-pourquoi-lui-en-vouloir-a-lui/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2017/02/illus10.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2017/02/illus10.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4238,14 +4238,14 @@
     <loc>https://static.tcrouzet.com//2017/02/04/les-faux-editeurs-siphonnent-les-petits-auteurs/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2017/02/illus9.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2017/02/illus9.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2017/02/02/est-il-necessaire-de-redefinir-le-livre-numerique/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2017/02/illus02.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2017/02/illus02.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4273,7 +4273,7 @@
     <loc>https://static.tcrouzet.com//2017/01/25/la-liberte-2-0-mene-t-elle-droit-a-lesclavage-1-0/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2017/01/illus.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2017/01/illus.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4294,7 +4294,7 @@
     <loc>https://static.tcrouzet.com//2017/01/15/le-bug-avec-les-ideologies-du-net/index.html</loc>
     <lastmod>2024-05-01T09:34:35+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2017/01/jcfrog.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2017/01/jcfrog.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4329,7 +4329,7 @@
     <loc>https://static.tcrouzet.com//2016/12/13/les-logiciels-libres-sont-ils-de-confiance/index.html</loc>
     <lastmod>2017-12-14T13:20:57+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2016/12/confiance.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2016/12/confiance.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4343,7 +4343,7 @@
     <loc>https://static.tcrouzet.com//2016/12/05/cest-libre-mais-cest-mauvais/index.html</loc>
     <lastmod>2017-12-14T13:21:40+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2016/12/libreornot.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2016/12/libreornot.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4357,21 +4357,21 @@
     <loc>https://static.tcrouzet.com//2016/12/01/comment-sauver-notre-web/index.html</loc>
     <lastmod>2016-12-06T07:34:49+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2016/12/massif.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2016/12/massif.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2016/11/30/le-web-est-derriere-nous/index.html</loc>
     <lastmod>2017-08-22T20:38:42+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2016/11/resister.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2016/11/resister.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2016/11/28/10-raisons-daimer-les-livres-et-moins-le-web/index.html</loc>
     <lastmod>2016-11-29T12:26:37+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2016/11/buzzlit.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2016/11/buzzlit.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4571,7 +4571,7 @@
     <loc>https://static.tcrouzet.com//2016/04/20/pourquoi-jarrete-avec-publie-net-fin-dexperimentation/index.html</loc>
     <lastmod>2024-05-01T09:43:16+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2016/04/logopublie.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2016/04/logopublie.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4715,14 +4715,14 @@
     <loc>https://static.tcrouzet.com//2016/03/26/tu-ecris-comme-qui/index.html</loc>
     <lastmod>2024-04-25T15:50:46+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2016/03/antidote.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2016/03/antidote.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2016/03/25/si-tes-auteur-tu-antidotes/index.html</loc>
     <lastmod>2018-02-27T15:44:38+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2016/03/antidote1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2016/03/antidote1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4785,7 +4785,7 @@
     <loc>https://static.tcrouzet.com//2016/03/03/lettre-ouverte-aux-gens-de-gauche/index.html</loc>
     <lastmod>2017-12-07T13:14:15+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2016/03/assemble2.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2016/03/assemble2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4869,7 +4869,7 @@
     <loc>https://static.tcrouzet.com//2016/01/25/comment-jai-atomise-ma-vie-en-ligne/index.html</loc>
     <lastmod>2021-09-02T10:40:16+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2016/01/flux.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2016/01/flux.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4883,7 +4883,7 @@
     <loc>https://static.tcrouzet.com//2016/01/21/1-minute-une-narration-sans-temps/index.html</loc>
     <lastmod>2016-01-21T11:47:21+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2016/01/1min-2.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2016/01/1min-2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4911,21 +4911,21 @@
     <loc>https://static.tcrouzet.com//2016/01/04/les-maux-du-web-sont-dans-sa-topologie/index.html</loc>
     <lastmod>2016-01-05T12:45:29+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2016/01/trois.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2016/01/trois.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2016/01/03/et-si-blockchain-revolutionnait-la-democratie/index.html</loc>
     <lastmod>2016-01-04T08:46:16+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2016/01/bchain.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2016/01/bchain.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2016/01/02/lobsolescence-programmee-des-textes/index.html</loc>
     <lastmod>2016-01-02T14:35:10+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2016/01/cumul.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2016/01/cumul.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -4981,14 +4981,14 @@
     <loc>https://static.tcrouzet.com//2015/11/27/one-minute-une-lecture-theorique-doriane-deseilligny/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/11/rira.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/11/rira.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2015/11/27/la-poesie-est-dans-le-code/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/11/interlaced2.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/11/interlaced2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5030,7 +5030,7 @@
     <loc>https://static.tcrouzet.com//2015/11/11/pourquoi-one-minute-ou-les-trois-mamelles-de-la-litterature/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/11/1min-2.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/11/1min-2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5044,7 +5044,7 @@
     <loc>https://static.tcrouzet.com//2015/11/02/wattpad-un-ecosysteme-limite/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/11/eco.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/11/eco.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5065,7 +5065,7 @@
     <loc>https://static.tcrouzet.com//2015/10/15/en-librairie-les-livres-meurent-pas-sur-wattpad/index.html</loc>
     <lastmod>2024-07-12T20:12:37+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/10/wattapd9.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/10/wattapd9.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5104,7 +5104,7 @@
     <loc>https://static.tcrouzet.com//2015/08/20/wordpress-4-3-petite-arnaque-au-passage/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/08/wp1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/08/wp1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5132,21 +5132,21 @@
     <loc>https://static.tcrouzet.com//2015/08/02/pour-une-dissemination-totale-des-textes/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/08/ifttt.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/08/ifttt.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2015/08/01/faire-son-nid-sur-wattpad/index.html</loc>
     <lastmod>2024-05-01T09:44:38+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/08/watt7_1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/08/watt7_1.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2015/07/27/la-flemme-du-journaliste-vis-a-vis-de-lauteur/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/07/photo13.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/07/photo13.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5181,21 +5181,21 @@
     <loc>https://static.tcrouzet.com//2015/07/01/leffet-levier-de-wattpad/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/07/watt6-2.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/07/watt6-2.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2015/06/30/tu-ecris-alors-questionne-tes-outils/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/06/metaphores.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/06/metaphores.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2015/06/24/fyctia-pour-concurrencer-wattpad/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/06/watstat1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/06/watstat1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5237,7 +5237,7 @@
     <loc>https://static.tcrouzet.com//2015/06/15/le-veritable-jon-snow-ou-comment-google-altere-lhistoire/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/06/snow1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/06/snow1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5251,7 +5251,7 @@
     <loc>https://static.tcrouzet.com//2015/06/01/cinq-mois-sur-wattpad/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/06/wat5_1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/06/wat5_1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5314,7 +5314,7 @@
     <loc>https://static.tcrouzet.com//2015/05/01/wattpad-le-contraire-dun-blog/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/05/wat5.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/05/wat5.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5328,7 +5328,7 @@
     <loc>https://static.tcrouzet.com//2015/04/26/lirresistible-vertivalisation-du-monde/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/04/peuple.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/04/peuple.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5342,14 +5342,14 @@
     <loc>https://static.tcrouzet.com//2015/04/24/lediteur-qui-ne-fait-pas-confiance-aux-lecteurs/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/04/pf3.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/04/pf3.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2015/04/22/comment-pirater-un-livre-papier/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/04/ocr.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/04/ocr.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5398,14 +5398,14 @@
     <loc>https://static.tcrouzet.com//2015/03/22/je-ne-comprends-pas-les-developpeurs-dulysses/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/03/dfree2.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/03/dfree2.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2015/03/17/les-auteurs-sont-ils-ringards/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/03/cpe.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/03/cpe.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5524,7 +5524,7 @@
     <loc>https://static.tcrouzet.com//2015/02/02/retour-dexperience-un-mois-sur-wattpad/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/02/wattpad-01-5.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/02/wattpad-01-5.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5545,7 +5545,7 @@
     <loc>https://static.tcrouzet.com//2015/01/15/wattpad-deplacement-de-lespace-litteraire/index.html</loc>
     <lastmod>2024-05-01T09:49:49+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2015/01/wattpad1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2015/01/wattpad1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5601,7 +5601,7 @@
     <loc>https://static.tcrouzet.com//2014/12/30/concurrence/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/12/aphorisme.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/12/aphorisme.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5636,21 +5636,21 @@
     <loc>https://static.tcrouzet.com//2014/12/03/finance/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/12/aphorisme.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/12/aphorisme.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2014/12/02/futur/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/12/aphorisme.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/12/aphorisme.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2014/12/01/les-reseaux-sociaux-ont-confisque-la-metaphore-du-blog/index.html</loc>
     <lastmod>2024-05-01T09:54:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/12/screenshot.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/12/screenshot.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5671,7 +5671,7 @@
     <loc>https://static.tcrouzet.com//2014/11/15/la-pauperisation-des-auteurs-et-ses-consequences/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/11/motif.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/11/motif.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5699,7 +5699,7 @@
     <loc>https://static.tcrouzet.com//2014/11/07/comment-pirater-legalement-tous-les-livres/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/11/pirat6.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/11/pirat6.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5713,14 +5713,14 @@
     <loc>https://static.tcrouzet.com//2014/11/03/le-poids-dun-blog-en-livres/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/11/stat3.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/11/stat3.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2014/11/01/sans-gouvernance-internet-devient-une-dictature/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/11/graph3.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/11/graph3.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5748,7 +5748,7 @@
     <loc>https://static.tcrouzet.com//2014/10/29/20-raisons-de-sautopublier/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/10/buzzlitt.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/10/buzzlitt.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5860,14 +5860,14 @@
     <loc>https://static.tcrouzet.com//2014/09/23/pourquoi-continuer-avec-un-editeur/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/09/tr1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/09/tr1.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2014/09/18/10-apologies-suivies-de-10-condamnations-du-terrorisme/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/09/buzzlitt.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/09/buzzlitt.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5923,14 +5923,14 @@
     <loc>https://static.tcrouzet.com//2014/09/07/20-raisons-decrire-des-listes/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/09/buzzlitt.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/09/buzzlitt.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2014/09/07/10-livres-marquants/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/09/buzzlitt.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/09/buzzlitt.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5944,7 +5944,7 @@
     <loc>https://static.tcrouzet.com//2014/09/07/nous-entrons-en-decadence/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/09/buzzlitt.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/09/buzzlitt.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5965,7 +5965,7 @@
     <loc>https://static.tcrouzet.com//2014/09/04/derriere-amazon-se-cache-un-geant-tout-puissant/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/09/j7stat.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/09/j7stat.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5979,7 +5979,7 @@
     <loc>https://static.tcrouzet.com//2014/09/03/20-choses-vues-au-bord-de-letang/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/09/buzzlitt.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/09/buzzlitt.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -5993,14 +5993,14 @@
     <loc>https://static.tcrouzet.com//2014/09/01/invitez-tous-vos-amis-facebook-dans-un-groupe/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/09/fb.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/09/fb.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2014/09/01/quel-est-le-prix-de-votre-connerie/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/09/statamazon.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/09/statamazon.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6014,7 +6014,7 @@
     <loc>https://static.tcrouzet.com//2014/08/28/12-slogans-pour-eratosthene/index.html</loc>
     <lastmod>2025-10-31T14:24:20+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/08/feedbooks.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/08/feedbooks.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6063,7 +6063,7 @@
     <loc>https://static.tcrouzet.com//2014/08/20/choses-vues-ou-entendues-au-bord-de-la-piscine/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/08/buzzlitt.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/08/buzzlitt.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6084,42 +6084,42 @@
     <loc>https://static.tcrouzet.com//2014/08/17/defauts-communs-politiciens/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/08/buzzlitt.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/08/buzzlitt.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2014/08/16/defauts-jeunes-ecrivains/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/08/buzzlitt.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/08/buzzlitt.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2014/08/15/choses-vues-depuis-ma-petite-fenetre-dans-le-lot-et-garonne/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/08/buzzlitt.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/08/buzzlitt.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2014/08/14/aidez-vos-enfants-a-se-maitriser-sur-ipadiphone/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/08/appstats.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/08/appstats.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2014/08/13/garder-ses-droits-numeriques-cest-rester-auteur/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/08/betaplus.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/08/betaplus.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2014/08/13/20-raisons-detre-auteur/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/08/buzzlitt.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/08/buzzlitt.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6147,7 +6147,7 @@
     <loc>https://static.tcrouzet.com//2014/07/28/dherodote-a-eratosthene/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/07/herodote.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/07/herodote.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6259,7 +6259,7 @@
     <loc>https://static.tcrouzet.com//2014/06/22/un-blog-est-un-livre-ouvert/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/06/druide.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/06/druide.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6287,14 +6287,14 @@
     <loc>https://static.tcrouzet.com//2014/06/18/mini-etude-sur-le-marche-des-ebooks-et-le-partage-non-marchand/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/06/part.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/06/part.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2014/06/17/les-bits-doivent-remplacer-le-pib/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/06/bigband.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/06/bigband.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6336,7 +6336,7 @@
     <loc>https://static.tcrouzet.com//2014/06/13/non-les-intermittents-ne-parlent-par-du-revenu-de-base/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/06/trends1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/06/trends1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6357,7 +6357,7 @@
     <loc>https://static.tcrouzet.com//2014/06/11/piketty-excite-les-liberaux/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/06/piketty.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/06/piketty.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6392,7 +6392,7 @@
     <loc>https://static.tcrouzet.com//2014/05/28/la-metaphore-du-net-et-du-chateau/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/05/dick1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/05/dick1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6455,14 +6455,14 @@
     <loc>https://static.tcrouzet.com//2014/05/18/lecriture-et-ses-outils/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/05/wordstar.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/05/wordstar.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2014/05/17/un-livre-na-pas-dadresse-lapres-web-non-plus/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/05/livingdata.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/05/livingdata.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6490,7 +6490,7 @@
     <loc>https://static.tcrouzet.com//2014/05/06/un-box-pour-propager-la-culture-libre/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/05/supermarket.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/05/supermarket.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -6511,7 +6511,7 @@
     <loc>https://static.tcrouzet.com//2014/05/02/la-neutralite-du-net-mauvais-combat/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/05/netneutrality.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/05/netneutrality.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6532,7 +6532,7 @@
     <loc>https://static.tcrouzet.com//2014/04/29/cest-beau-le-crowdfunding-mais-cest-une-arnaque-de-plus/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/04/crowdf.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/04/crowdf.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6567,7 +6567,7 @@
     <loc>https://static.tcrouzet.com//2014/04/14/le-commonisme-implique-un-double-flux/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/04/PeerProduction2.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/04/PeerProduction2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6581,7 +6581,7 @@
     <loc>https://static.tcrouzet.com//2014/04/13/partages-marchands-un-business-plan-nest-pas-une-theorie/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/04/fournier.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/04/fournier.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6595,7 +6595,7 @@
     <loc>https://static.tcrouzet.com//2014/04/10/comment-financer-un-livre-en-creative-commons/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/04/sponsors3.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/04/sponsors3.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6634,14 +6634,14 @@
     <loc>https://static.tcrouzet.com//2014/03/30/aphorisme-4/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/03/defeat.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/03/defeat.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2014/03/29/quand-le-lecteur-se-revolte/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/03/ranciere.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/03/ranciere.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6802,7 +6802,7 @@
     <loc>https://static.tcrouzet.com//2014/02/27/mediapart-nest-pas-mort/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/02/2012_1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/02/2012_1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6830,7 +6830,7 @@
     <loc>https://static.tcrouzet.com//2014/02/22/la-desintegration-du-marche-du-livre-par-les-chiffres/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/02/longtaillivre.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/02/longtaillivre.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6851,7 +6851,7 @@
     <loc>https://static.tcrouzet.com//2014/02/21/le-lecteur-de-best-sellers-est-un-faineant/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/02/Hit-Lit.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/02/Hit-Lit.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6872,7 +6872,7 @@
     <loc>https://static.tcrouzet.com//2014/02/20/la-desintegration-du-marche-du-livre/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/02/2000px-Longtail.svg_.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/02/2000px-Longtail.svg_.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6900,7 +6900,7 @@
     <loc>https://static.tcrouzet.com//2014/02/13/comment-lire-un-epub/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/02/ibooks.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/02/ibooks.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6935,7 +6935,7 @@
     <loc>https://static.tcrouzet.com//2014/01/30/rappel-aux-nationalistes-de-tout-front/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/01/spqr.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/01/spqr.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -6970,7 +6970,7 @@
     <loc>https://static.tcrouzet.com//2014/01/24/le-numerique-raconte-a-mes-fils/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/01/cover1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/01/cover1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7005,7 +7005,7 @@
     <loc>https://static.tcrouzet.com//2014/01/21/astuce-blog-evaluer-la-popularite-geek/index.html</loc>
     <lastmod>2025-03-24T21:19:16+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/01/Capture--2014-01-21-09.50.38.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/01/Capture--2014-01-21-09.50.38.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7016,21 +7016,21 @@
     <loc>https://static.tcrouzet.com//2014/01/16/vendez-vous-vos-livres/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/01/amazon.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/01/amazon.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2014/01/16/le-retour-des-crapauds-fous/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/01/cover.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/01/cover.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2014/01/09/le-code-de-lart/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2014/01/fp.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2014/01/fp.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7058,7 +7058,7 @@
     <loc>https://static.tcrouzet.com//2013/12/19/lenovo-yoga-2-pro-de-leau-dans-le-gaz/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/12/lenovo-laptop-yoga-2-pro-modes.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/12/lenovo-laptop-yoga-2-pro-modes.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7135,7 +7135,7 @@
     <loc>https://static.tcrouzet.com//2013/12/05/voyage-avec-un-yoga/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/12/croquisAnne.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/12/croquisAnne.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7149,14 +7149,14 @@
     <loc>https://static.tcrouzet.com//2013/11/30/lecriture-est-premiere/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/11/arton19471.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/11/arton19471.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2013/11/30/optimiser-le-lenovo-yoga-2-pro/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/11/lenovo1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/11/lenovo1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7170,28 +7170,28 @@
     <loc>https://static.tcrouzet.com//2013/11/26/amis-commonistes/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/11/buckmorss_title1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/11/buckmorss_title1.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2013/11/25/suis-je-commoniste/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/11/220px-Commonist.svg1_.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/11/220px-Commonist.svg1_.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2013/11/24/la-send-generation-pecha-kucha-remix/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/11/IMG_0877.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/11/IMG_0877.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2013/11/21/faut-il-encore-se-faire-editer/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/11/IMG_0865.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/11/IMG_0865.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7247,7 +7247,7 @@
     <loc>https://static.tcrouzet.com//2013/10/31/optimiser-word-pour-les-auteurs/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/10/writing1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/10/writing1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7261,7 +7261,7 @@
     <loc>https://static.tcrouzet.com//2013/10/25/letat-assure-les-ivrognes-qui-roulent-a-80/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/10/route2.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/10/route2.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -7275,14 +7275,14 @@
     <loc>https://static.tcrouzet.com//2013/10/21/de-quoi-allez-vous-mourir/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/10/omsr3.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/10/omsr3.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2013/10/20/asus-zenbook-ux301la-lenovo-yoga-pro-2-ou-mac/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/10/lenovo-laptop-yoga-2-pro-modes.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/10/lenovo-laptop-yoga-2-pro-modes.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7310,21 +7310,21 @@
     <loc>https://static.tcrouzet.com//2013/10/11/ce-que-le-net-na-pas-change/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/10/400metro-boulot-dodo.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/10/400metro-boulot-dodo.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2013/10/03/le-jour-ou-la-derniere-librairie-francaise-a-ferme/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/10/amazon-app-logo11.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/10/amazon-app-logo11.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2013/09/30/revenu-de-base-jai-signe/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/09/rdb1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/09/rdb1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7359,14 +7359,14 @@
     <loc>https://static.tcrouzet.com//2013/09/23/hacker-un-livre-cest-naturel/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/09/auteurs_drm_black.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/09/auteurs_drm_black.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2013/09/21/un-fumeur-de-cannabis-a-plus-de-droits-quun-lecteur/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/09/auteurs_drm_black.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/09/auteurs_drm_black.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7394,7 +7394,7 @@
     <loc>https://static.tcrouzet.com//2013/09/16/bitcoin-et-le-2-0-en-general-lasymetrie-finance-la-croissance/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/09/bitcoin.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/09/bitcoin.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7457,7 +7457,7 @@
     <loc>https://static.tcrouzet.com//2013/09/04/le-bon-sens-moralisateur-nous-tue/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/09/04234374-photo-amazon-sq-logo-gb1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/09/04234374-photo-amazon-sq-logo-gb1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7485,14 +7485,14 @@
     <loc>https://static.tcrouzet.com//2013/08/02/un-simple-geste-et-vous/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/08/48107642_africa_green_wall_4661.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/08/48107642_africa_green_wall_4661.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2013/07/26/hacker-les-traductions-de-dostoievski/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/07/dos1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/07/dos1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7506,7 +7506,7 @@
     <loc>https://static.tcrouzet.com//2013/07/21/partager-ses-notes-de-lecture-sur-ipadiphone/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/07/exp3.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/07/exp3.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7520,7 +7520,7 @@
     <loc>https://static.tcrouzet.com//2013/07/12/facebook-twitter-le-syndrome-de-la-barre-dimmeubles/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/07/1RTS.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/07/1RTS.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7534,21 +7534,21 @@
     <loc>https://static.tcrouzet.com//2013/07/02/et-amazon-crea-le-livre-electronique/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/07/amazon-app-logo11.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/07/amazon-app-logo11.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2013/06/27/invalider-la-theorie-dun-net-epicurien/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/06/5503_Epicure1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/06/5503_Epicure1.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2013/06/26/la-masturbation-des-neotechos/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/06/metaview.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/06/metaview.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7569,7 +7569,7 @@
     <loc>https://static.tcrouzet.com//2013/06/15/le-fake-la-verite-en-ses-variations/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/06/blog_callcei6_fr1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/06/blog_callcei6_fr1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7590,7 +7590,7 @@
     <loc>https://static.tcrouzet.com//2013/06/11/comment-creer-des-epub-avec-word/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/06/wc2.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/06/wc2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7629,7 +7629,7 @@
     <loc>https://static.tcrouzet.com//2013/06/01/manifeste-pour-la-mobilite-numerique/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/06/neutra.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/06/neutra.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7671,7 +7671,7 @@
     <loc>https://static.tcrouzet.com//2013/05/22/creative-commons-by-sa/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/05/fbon.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/05/fbon.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7713,14 +7713,14 @@
     <loc>https://static.tcrouzet.com//2013/05/10/relire-repondre-par-loffensive-2/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/05/picto-AUTEUR1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/05/picto-AUTEUR1.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2013/05/08/relire-repondre-par-loffensive/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/05/picto-AUTEUR1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/05/picto-AUTEUR1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7734,7 +7734,7 @@
     <loc>https://static.tcrouzet.com//2013/05/07/nous-nous-interdisons-de-lire/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/05/couv1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/05/couv1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7755,14 +7755,14 @@
     <loc>https://static.tcrouzet.com//2013/05/01/cloudflare-vs-google-analytics/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/05/cloudflare.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/05/cloudflare.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2013/04/30/mini-trip-dans-lantiquite/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/04/couv.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/04/couv.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7797,7 +7797,7 @@
     <loc>https://static.tcrouzet.com//2013/04/23/dialogue-entre-deux-anarchistes/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/04/IMG_0352.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/04/IMG_0352.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7832,7 +7832,7 @@
     <loc>https://static.tcrouzet.com//2013/04/15/la-discontinuite-du-web-et-leclatement-de-nos-vies/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/04/arton19471.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/04/arton19471.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7846,14 +7846,14 @@
     <loc>https://static.tcrouzet.com//2013/04/12/les-traitres-a-la-cause/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/04/grease3.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/04/grease3.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2013/04/08/lecture-sociale-de-la-quatrieme-theorie/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/04/philippi4.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/04/philippi4.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7874,7 +7874,7 @@
     <loc>https://static.tcrouzet.com//2013/03/29/twitter-ecriture-sous-steroide/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/03/compil2.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/03/compil2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7923,14 +7923,14 @@
     <loc>https://static.tcrouzet.com//2013/03/21/un-gros-cerveau-nempeche-pas-de-dire-de-grosses-conneries/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/03/alexandre.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/03/alexandre.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2013/03/21/la-quatrieme-theorie-extraits-gratuits/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/03/IMG_0351.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/03/IMG_0351.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7958,7 +7958,7 @@
     <loc>https://static.tcrouzet.com//2013/03/13/soiree-freemen-epub-gratuit/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/03/compil2.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/03/compil2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -7993,7 +7993,7 @@
     <loc>https://static.tcrouzet.com//2013/03/03/cloudflare-change-ma-vie-et-mes-stats/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/03/stat1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/03/stat1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8007,7 +8007,7 @@
     <loc>https://static.tcrouzet.com//2013/03/02/les-blogueurs-ne-sont-plus-que-des-auteurs/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/03/200x200-ct1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/03/200x200-ct1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8042,7 +8042,7 @@
     <loc>https://static.tcrouzet.com//2013/02/18/le-revenu-de-base-comme-jardin-deden/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/02/Garden_of_Eden_pattern1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/02/Garden_of_Eden_pattern1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8063,7 +8063,7 @@
     <loc>https://static.tcrouzet.com//2013/02/08/reve-de-techno-ecriture/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/02/box.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/02/box.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8088,7 +8088,7 @@
     <loc>https://static.tcrouzet.com//2013/02/06/taxinomie-litteraire-a-lage-de-twitter/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/02/devoir.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/02/devoir.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8102,7 +8102,7 @@
     <loc>https://static.tcrouzet.com//2013/02/04/causes-communes/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/02/cc.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/02/cc.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -8116,14 +8116,14 @@
     <loc>https://static.tcrouzet.com//2013/01/30/comment-securiser-et-optimiser-son-blog/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/01/opt_p3.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/01/opt_p3.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2013/01/28/notre-modernite-est-interactive/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/01/inter2.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/01/inter2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8155,14 +8155,14 @@
     <loc>https://static.tcrouzet.com//2013/01/21/mon-record-150-000-ebooks-telecharges/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/01/giono.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/01/giono.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2013/01/21/le-blog-une-pratique-depassee/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2013/01/cover.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2013/01/cover.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8190,21 +8190,21 @@
     <loc>https://static.tcrouzet.com//2012/12/08/sermonner-jerome-ferrari/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/12/proust_s.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/12/proust_s.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2012/12/07/comment-obtenir-un-prix-goncourt/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/12/eljames.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/12/eljames.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2012/12/06/interdire-cest-liberateur-meme-en-ecriture/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/12/proust.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/12/proust.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8218,7 +8218,7 @@
     <loc>https://static.tcrouzet.com//2012/11/26/le-manifeste-we-demain-se-mord-la-queue/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/11/manifestewedemain.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/11/manifestewedemain.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8232,7 +8232,7 @@
     <loc>https://static.tcrouzet.com//2012/11/17/comment-un-auteur-peut-il-exister-en-ligne/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/11/ex1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/11/ex1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8260,7 +8260,7 @@
     <loc>https://static.tcrouzet.com//2012/11/09/lettre-a-un-jeune-twitterateur/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/11/Twitter+Fiction+Festival1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/11/Twitter+Fiction+Festival1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8345,7 +8345,7 @@
     <loc>https://static.tcrouzet.com//2012/10/10/liberez-votre-presence-en-ligne-mode-demploi/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/10/tent1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/10/tent1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8359,14 +8359,14 @@
     <loc>https://static.tcrouzet.com//2012/10/06/quitter-twitter-et-facebook-pour-survivre/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/10/tent.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/10/tent.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2012/09/24/twitter-en-huit-tweets/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/09/ifttt.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/09/ifttt.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8380,7 +8380,7 @@
     <loc>https://static.tcrouzet.com//2012/09/15/pour-vivre-heureux-vivons-debranche/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/09/La-CantineLogo-small1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/09/La-CantineLogo-small1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8443,14 +8443,14 @@
     <loc>https://static.tcrouzet.com//2012/07/19/la-twitterature-est-la-mode/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/07/croisade.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/07/croisade.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2012/07/13/du-bon-usage-de-lautoedition/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/07/cover1024_40k.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/07/cover1024_40k.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8492,35 +8492,35 @@
     <loc>https://static.tcrouzet.com//2012/04/30/comment-ecrire-un-best-seller/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/04/Hit-Lit.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/04/Hit-Lit.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2012/04/26/la-strategie-du-cyborg-free/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/04/cover1024_40k.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/04/cover1024_40k.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2012/04/23/quarrive-t-il-a-nos-cerveaux-dinternautes/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/04/internet-ruin-brain.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/04/internet-ruin-brain.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2012/04/22/analyse-presidentielle-2012/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/04/2012-19813.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/04/2012-19813.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2012/04/20/presidentielle-resultats-18h30/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/04/2012_4_19.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/04/2012_4_19.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8569,14 +8569,14 @@
     <loc>https://static.tcrouzet.com//2012/03/24/lalternative-nomade-3-0/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/03/couv1024.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/03/couv1024.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2012/03/19/la-democratie-de-la-rarete/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/03/2012_1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/03/2012_1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8597,7 +8597,7 @@
     <loc>https://static.tcrouzet.com//2012/03/05/nationalisons-google-et-facebook/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/03/googlechromebrowserlogo1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/03/googlechromebrowserlogo1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8618,7 +8618,7 @@
     <loc>https://static.tcrouzet.com//2012/02/28/art-du-baby-foot-et-de-la-conversation/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/02/cover-image.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/02/cover-image.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8632,7 +8632,7 @@
     <loc>https://static.tcrouzet.com//2012/02/19/toros/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2012/02/couv.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2012/02/couv.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8730,14 +8730,14 @@
     <loc>https://static.tcrouzet.com//2011/12/29/les-pirates-de-la-twittosphere/index.html</loc>
     <lastmod>2014-12-08T19:59:41+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/12/kloot.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/12/kloot.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2011/12/26/jai-debranche-extraits/index.html</loc>
     <lastmod>2024-04-30T10:10:50+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/12/photo.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/12/photo.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8751,14 +8751,14 @@
     <loc>https://static.tcrouzet.com//2011/12/20/consequences-politiques-edition-electronique/index.html</loc>
     <lastmod>2014-12-04T08:03:34+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/12/auteurs_drm_black.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/12/auteurs_drm_black.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2011/12/17/bloguer-ou-mourir/index.html</loc>
     <lastmod>2024-04-30T10:10:50+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/12/ebuzz.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/12/ebuzz.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8819,7 +8819,7 @@
     <loc>https://static.tcrouzet.com//2011/03/31/deconnexion-totale-100/index.html</loc>
     <lastmod>2024-04-30T10:10:50+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/pipe.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/pipe.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8840,7 +8840,7 @@
     <loc>https://static.tcrouzet.com//2011/03/30/le-citoyen-augmente-par-les-reseaux-sociaux/index.html</loc>
     <lastmod>2024-04-30T10:10:50+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/logo1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/logo1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8861,7 +8861,7 @@
     <loc>https://static.tcrouzet.com//2011/03/28/naissance-nouvel-etat-esprit/index.html</loc>
     <lastmod>2018-11-26T20:58:06+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/model1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/model1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8875,14 +8875,14 @@
     <loc>https://static.tcrouzet.com//2011/03/27/quand-le-blog-devient-ebook/index.html</loc>
     <lastmod>2024-04-30T10:10:50+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/ablog.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/ablog.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//books/les-annees-blog/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/ablog.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/ablog.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8903,7 +8903,7 @@
     <loc>https://static.tcrouzet.com//2011/03/26/bienvenue-a-nomads-land/index.html</loc>
     <lastmod>2011-03-27T09:55:18+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/600x2001.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/600x2001.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8924,7 +8924,7 @@
     <loc>https://static.tcrouzet.com//2011/03/23/la-revolution-2-0-va-aussi-balayer-nos-democraties/index.html</loc>
     <lastmod>2011-03-24T10:54:38+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/logo1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/logo1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8977,14 +8977,14 @@
     <loc>https://static.tcrouzet.com//2011/03/14/edition-interdite-en-image/index.html</loc>
     <lastmod>2024-04-30T10:10:50+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/interdit.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/interdit.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2011/03/13/tes-pas-codeur-tes-pas-editeur/index.html</loc>
     <lastmod>2024-04-30T10:10:50+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/code.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/code.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -8998,14 +8998,14 @@
     <loc>https://static.tcrouzet.com//2011/03/07/le-libre-et-la-liberte/index.html</loc>
     <lastmod>2013-11-10T12:15:20+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/puit-1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/puit-1.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2011/03/04/pas-codeur-pas-auteur/index.html</loc>
     <lastmod>2013-02-09T10:30:15+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/novo.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/03/novo.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -9096,7 +9096,7 @@
     <loc>https://static.tcrouzet.com//2011/02/07/nicolas-ancion-auteur-a-succes/index.html</loc>
     <lastmod>2024-04-30T10:10:51+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/02/nicolas1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/02/nicolas1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -9124,14 +9124,14 @@
     <loc>https://static.tcrouzet.com//books/vulgarisation/vulgarisation-1997-2003/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/02/9782844274137FS1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/02/9782844274137FS1.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//books/lalternative-nomade-historique/index.html</loc>
     <lastmod>2025-10-31T15:59:09+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/02/couv-alternative_org.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/02/couv-alternative_org.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -9163,7 +9163,7 @@
     <loc>https://static.tcrouzet.com//2011/01/27/atomisation-programmee/index.html</loc>
     <lastmod>2024-04-25T15:50:54+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/01/bitvs.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/01/bitvs.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -9191,7 +9191,7 @@
     <loc>https://static.tcrouzet.com//2011/01/22/publication-en-temps-reel/index.html</loc>
     <lastmod>2024-04-25T15:50:54+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/01/hiv2.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/01/hiv2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -9240,21 +9240,21 @@
     <loc>https://static.tcrouzet.com//2011/01/05/zone-dautonomie-litteraire/index.html</loc>
     <lastmod>2024-04-30T10:10:50+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/01/Flyer-ZAL-web.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/01/Flyer-ZAL-web.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2011/01/02/quelques-idees-pour-les-blogueurs/index.html</loc>
     <lastmod>2018-11-26T22:02:28+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2011/01/couv_pacco.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2011/01/couv_pacco.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2010/12/31/ebooks-gratuit-ca-marche/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/12/photo.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/12/photo.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -9289,21 +9289,21 @@
     <loc>https://static.tcrouzet.com//2010/12/06/livres-papier-vs-ebooks/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/12/tune2.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/12/tune2.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2010/12/05/les-reseaux-sociaux-ne-servent-a-rien/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/12/wikio.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/12/wikio.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2010/12/04/blogosphere-liberte/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/12/blogosphere-map-core-min21.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/12/blogosphere-map-core-min21.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -9317,7 +9317,7 @@
     <loc>https://static.tcrouzet.com//2010/12/02/le-classement-wikio-a-t-il-encore-un-sens/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/12/Wikio-640d21.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/12/Wikio-640d21.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -9335,14 +9335,14 @@
     <loc>https://static.tcrouzet.com//2010/11/24/la-carte-et-le-reseau-social/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/11/Internet-map1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/11/Internet-map1.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2010/11/23/vous-avez-des-enfants-ou-encore-une-ame-denfant/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/11/mondei.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/11/mondei.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -9473,7 +9473,7 @@
     <loc>https://static.tcrouzet.com//2010/10/31/2-0-hyper-capitalisme/index.html</loc>
     <lastmod>2025-10-31T14:22:23+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/10/databaseconenctivity1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/10/databaseconenctivity1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -9593,35 +9593,35 @@
     <loc>https://static.tcrouzet.com//2010/10/04/texte-vers-epub/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/10/epub-valid1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/10/epub-valid1.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2010/10/04/jai-eu-lidee-quil-etait-temps-de-passer-a-la-caisse/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/10/couv_pacco.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/10/couv_pacco.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2010/09/27/choisissez-une-couverture-iii/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/09/idcv1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/09/idcv1.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2010/09/26/choisissez-une-couverture-ii/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/09/idc5.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/09/idc5.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2010/09/23/initiation-aux-reseaux/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/09/active-network-size11.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/09/active-network-size11.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -9649,21 +9649,21 @@
     <loc>https://static.tcrouzet.com//2010/09/20/choisissez-votre-couverture-preferee/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/09/couv2.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/09/couv2.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2010/09/19/les-techno-proxenetes/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/09/ted.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/09/ted.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2010/09/17/comment-provoquer-un-buzz-pour-pas-cher/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/09/stat1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/09/stat1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -9758,7 +9758,7 @@
     <loc>https://static.tcrouzet.com//2010/08/29/surpopulation-implique-democratie/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/08/demopop.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/08/demopop.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -9772,7 +9772,7 @@
     <loc>https://static.tcrouzet.com//2010/08/27/croisade-en-filigrane/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/08/croisade.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/08/croisade.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -9826,14 +9826,14 @@
     <loc>https://static.tcrouzet.com//2010/08/12/promo-foireuse-sur-lulu-com/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/08/carte.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/08/carte.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2010/08/09/cocorico-en-italie/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/08/hit6.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/08/hit6.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -9847,7 +9847,7 @@
     <loc>https://static.tcrouzet.com//2010/08/03/recit-dun-voyage-touristique/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/08/turista1024.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/08/turista1024.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -9865,14 +9865,14 @@
     <loc>https://static.tcrouzet.com//2010/07/29/vers-une-complexite-volontaire/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/07/couv1024.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/07/couv1024.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2010/07/28/le-petit-livre-de-la-revolution/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/07/couv1600.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/07/couv1600.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -9915,7 +9915,7 @@
     <loc>https://static.tcrouzet.com//books/la-strategie-du-cyborg/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/07/cyborg-cover.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/07/cyborg-cover.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -9998,7 +9998,7 @@
     <loc>https://static.tcrouzet.com//2010/07/03/edition-numerique-multilingue/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/07/40k.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/07/40k.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -10016,7 +10016,7 @@
     <loc>https://static.tcrouzet.com//2010/06/30/presse-une-bonne-mauvaise-idee/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/06/berlin.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/06/berlin.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -10027,7 +10027,7 @@
     <loc>https://static.tcrouzet.com//2010/06/24/seul-sur-ibook-store/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/06/ip41.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/06/ip41.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -10088,14 +10088,14 @@
     <loc>https://static.tcrouzet.com//2010/05/28/crouzet-dans-le-top-vente-ipad/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/05/ibstore1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/05/ibstore1.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2010/05/27/autoplublication-sur-ipad/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/05/itune.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/05/itune.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -10145,7 +10145,7 @@
     <loc>https://static.tcrouzet.com//2010/05/18/relation-ambigue-avec-le-pc/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/05/pc.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/05/pc.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -10173,7 +10173,7 @@
     <loc>https://static.tcrouzet.com//2010/05/16/autopublication-arnaque/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/05/croisade.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/05/croisade.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -10244,7 +10244,7 @@
     <loc>https://static.tcrouzet.com//2010/05/01/295-idees-payantes/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/05/cover.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/05/cover.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -10259,7 +10259,7 @@
     <loc>https://static.tcrouzet.com//books/id/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/04/id-couv.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/04/id-couv.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -10309,7 +10309,7 @@
     <loc>https://static.tcrouzet.com//2010/04/02/twiller-croisade-story/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/04/croisadestat.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/04/croisadestat.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -10356,7 +10356,7 @@
     <loc>https://static.tcrouzet.com//2010/03/08/25-000-lecteurs-fideles/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/03/stats.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/03/stats.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -10384,7 +10384,7 @@
     <loc>https://static.tcrouzet.com//2010/03/04/croisade-ca-sent-la-fin/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/03/twiller.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/03/twiller.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -10541,7 +10541,7 @@
     <loc>https://static.tcrouzet.com//2010/01/25/densite-du-flux/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/01/3states.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/01/3states.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -10584,7 +10584,7 @@
     <loc>https://static.tcrouzet.com//2010/01/11/experience-optimale/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/01/rienfaire.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/01/rienfaire.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -10605,7 +10605,7 @@
     <loc>https://static.tcrouzet.com//2010/01/09/comment-avoir-un-blog-a-succes/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2010/01/wikio.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2010/01/wikio.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -10844,7 +10844,7 @@
     <loc>https://static.tcrouzet.com//2009/11/10/plus-cest-con-plus-ca-marche/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/11/stat.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/11/stat.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -10865,7 +10865,7 @@
     <loc>https://static.tcrouzet.com//2009/11/05/ils-resistent-a-la-fluidification-du-livre/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/11/lessing.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/11/lessing.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -10897,14 +10897,14 @@
     <loc>https://static.tcrouzet.com//2009/10/28/de-la-civilisation-de-lecriture-a-celle-de-la-propulsion/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/10/verbes.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/10/verbes.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2009/10/25/de-la-civilisation-de-lecrit-a-la-civilisation-du-flux/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/10/mythos1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/10/mythos1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -10979,7 +10979,7 @@
     <loc>https://static.tcrouzet.com//2009/09/29/statistiques-dun-buzz/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/09/jlstat1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/09/jlstat1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -10993,7 +10993,7 @@
     <loc>https://static.tcrouzet.com//2009/09/25/les-mensurations-de-la-quequette-twitter/index.html</loc>
     <lastmod>2025-09-21T16:06:07+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/09/kikistats.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/09/kikistats.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -11050,14 +11050,14 @@
     <loc>https://static.tcrouzet.com//2009/09/11/la-grande-liquidation/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/09/adhasif-liquidation-total1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/09/adhasif-liquidation-total1.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2009/09/10/le-flux-troisieme-etat-de-linformation/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/09/phase.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/09/phase.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -11099,28 +11099,28 @@
     <loc>https://static.tcrouzet.com//2009/09/03/impression-de-deja-vu-anderson-plagiaire/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/09/abondance.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/09/abondance.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2009/09/02/google-tue-la-presse-les-blogueurs-sen-sortent/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/09/stats.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/09/stats.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2009/09/01/into-the-flux/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/09/jupiterredspot1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/09/jupiterredspot1.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2009/08/31/leconomie-des-flux/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/08/ben.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/08/ben.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -11134,7 +11134,7 @@
     <loc>https://static.tcrouzet.com//2009/08/28/free-pas-free-arnaque-marketing/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/08/Anderson1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/08/Anderson1.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -11188,7 +11188,7 @@
     <loc>https://static.tcrouzet.com//2009/08/19/on-va-pouvoir-dire-merde-a-google/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/08/tr1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/08/tr1.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -11234,7 +11234,7 @@
     <loc>https://static.tcrouzet.com//2009/08/03/the-dumb-writers-on-twitter/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/08/twillerstat.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/08/twillerstat.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -11248,7 +11248,7 @@
     <loc>https://static.tcrouzet.com//2009/07/31/anti-hadopi-ou-lincoherence-morale/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/07/hadopi.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/07/hadopi.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -11266,7 +11266,7 @@
     <loc>https://static.tcrouzet.com//2009/07/27/facebook-et-friendfeed-tueurs-de-reves/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/07/ff.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/07/ff.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -11310,7 +11310,7 @@
     <loc>https://static.tcrouzet.com//2009/07/07/modem-comique/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/07/modem.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/07/modem.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -11347,7 +11347,7 @@
     <loc>https://static.tcrouzet.com//2009/06/13/du-premier-ordinateur-a-starglider/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/06/starglider_start_screen.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/06/starglider_start_screen.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -11468,7 +11468,7 @@
     <loc>https://static.tcrouzet.com//2009/04/30/pour-une-gouvernance-mondiale/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/04/englob.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/04/englob.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -11522,7 +11522,7 @@
     <loc>https://static.tcrouzet.com//2009/04/19/comment-sengager-politiquement/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/04/pyvsnet1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/04/pyvsnet1.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -11587,7 +11587,7 @@
     <loc>https://static.tcrouzet.com//2009/03/23/une-image-pour-resumer-mon-prochain-livre/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/03/boom.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/03/boom.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -11598,7 +11598,7 @@
     <loc>https://static.tcrouzet.com//2009/03/20/tout-commence-avec-la-carte/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/03/maladienet.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/03/maladienet.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -11679,14 +11679,14 @@
     <loc>https://static.tcrouzet.com//2009/01/25/trois-nouvelles-couvertures/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/01/couv1g.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/01/couv1g.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2009/01/24/lhomme-qui-inventa-la-terre/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/01/betac1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/01/betac1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -11697,7 +11697,7 @@
     <loc>https://static.tcrouzet.com//2009/01/09/fin-de-civilisation/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2009/01/deathconflict.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2009/01/deathconflict.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -11752,7 +11752,7 @@
     <loc>https://static.tcrouzet.com//2008/12/11/la-pyramide-ne-decolle-pas/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2008/12/pauvres.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2008/12/pauvres.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -11799,7 +11799,7 @@
     <loc>https://static.tcrouzet.com//2008/11/28/la-nature-de-la-transition/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2008/11/vs.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2008/11/vs.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -11861,7 +11861,7 @@
     <loc>https://static.tcrouzet.com//2008/10/29/moeurs-equivoques/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2008/10/junior1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2008/10/junior1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -11898,7 +11898,7 @@
     <loc>https://static.tcrouzet.com//2008/10/05/contre-la-pensee-dominante/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2008/10/wilber5.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2008/10/wilber5.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -11913,7 +11913,7 @@
     <loc>https://static.tcrouzet.com//2008/10/02/de-lidealisme-a-la-complexite/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2008/10/wilber1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2008/10/wilber1.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12054,7 +12054,7 @@
     <loc>https://static.tcrouzet.com//2008/07/23/version-papier-2007/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2008/07/vp2007.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2008/07/vp2007.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -12077,7 +12077,7 @@
     <loc>https://static.tcrouzet.com//2008/07/07/de-levolution-sociale/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2008/07/leader1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2008/07/leader1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -12155,7 +12155,7 @@
     <loc>https://static.tcrouzet.com//2008/05/11/non-je-nai-pas-arrete-de-bloguer/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2008/05/thierry.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2008/05/thierry.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12166,7 +12166,7 @@
     <loc>https://static.tcrouzet.com//2008/04/17/epoque-de-transition-ou-pas/index.html</loc>
     <lastmod>2024-04-30T10:02:06+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2008/04/anaxa.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2008/04/anaxa.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12330,7 +12330,7 @@
     <loc>https://static.tcrouzet.com//2008/01/23/lavenir-non-dechiffrable/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2008/01/croissance.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2008/01/croissance.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12448,7 +12448,7 @@
     <loc>https://static.tcrouzet.com//2007/12/13/kurzweil-levolution-exponentielle/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/12/kurzweil.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/12/kurzweil.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12467,7 +12467,7 @@
     <loc>https://static.tcrouzet.com//2007/12/08/de-la-resistance/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/12/de-la-resistance.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/12/de-la-resistance.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12478,7 +12478,7 @@
     <loc>https://static.tcrouzet.com//2007/12/05/ohe-blogueurs-cozop-ouvre/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/12/cozop-ouvre.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/12/cozop-ouvre.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12489,7 +12489,7 @@
     <loc>https://static.tcrouzet.com//2007/12/04/un-croisement-ideal/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/12/bristol1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/12/bristol1.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12521,14 +12521,14 @@
     <loc>https://static.tcrouzet.com//2007/11/22/google-et-moi-une-histoire-personnelle/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/11/google-et-moi.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/11/google-et-moi.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2007/11/21/les-pirates-de-la-reunion/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/11/les-pirates-de-la-reunion.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/11/les-pirates-de-la-reunion.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12543,7 +12543,7 @@
     <loc>https://static.tcrouzet.com//2007/11/19/google-hegemonique/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/11/google.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/11/google.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12554,14 +12554,14 @@
     <loc>https://static.tcrouzet.com//2007/11/16/la-ligne-droite-nest-pas-le-plus-court-chemin/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/11/la-ligne-droite.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/11/la-ligne-droite.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2007/11/14/liberer-la-force-travail/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/11/greve.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/11/greve.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12587,7 +12587,7 @@
     <loc>https://static.tcrouzet.com//2007/11/05/facebook-et-la-politique/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/11/facebook-et-la-politique.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/11/facebook-et-la-politique.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12602,7 +12602,7 @@
     <loc>https://static.tcrouzet.com//2007/11/02/cyberwar/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/11/cyberwar.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/11/cyberwar.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12613,7 +12613,7 @@
     <loc>https://static.tcrouzet.com//2007/10/31/le-reseau-ne-fait-pas-le-beurre/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/10/le-reseau-ne-fait-pas-le-be.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/10/le-reseau-ne-fait-pas-le-be.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12624,7 +12624,7 @@
     <loc>https://static.tcrouzet.com//2007/10/29/hacker-culture-le-remake/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/10/hacker-culture-le-remake.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/10/hacker-culture-le-remake.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12639,7 +12639,7 @@
     <loc>https://static.tcrouzet.com//2007/10/24/hacker-culture/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/10/hacker-culture.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/10/hacker-culture.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12658,14 +12658,14 @@
     <loc>https://static.tcrouzet.com//2007/10/22/la-voie-du-silence/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/10/la-voie-du-silence.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/10/la-voie-du-silence.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2007/10/20/transparence/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/10/transparence2.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/10/transparence2.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12796,7 +12796,7 @@
     <loc>https://static.tcrouzet.com//2007/09/24/la-techno-cest-sale/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/09/20070924pacco.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/09/20070924pacco.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12807,7 +12807,7 @@
     <loc>https://static.tcrouzet.com//2007/09/20/modem-centric/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/09/20070920pacco.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/09/20070920pacco.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12822,7 +12822,7 @@
     <loc>https://static.tcrouzet.com//2007/09/17/militantisme-ecole-de-mediocrite/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/09/20070917pacco.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/09/20070917pacco.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12833,7 +12833,7 @@
     <loc>https://static.tcrouzet.com//2007/09/14/trois-jours-au-vert/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/09/20070914pacco.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/09/20070914pacco.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12917,7 +12917,7 @@
     <loc>https://static.tcrouzet.com//2007/08/31/information-egale-desinformation/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/08/20070831pacco.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/08/20070831pacco.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12940,7 +12940,7 @@
     <loc>https://static.tcrouzet.com//2007/08/27/homme-20/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/08/20070827pacco.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/08/20070827pacco.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -12969,7 +12969,7 @@
     <loc>https://static.tcrouzet.com//2007/08/20/devoir-de-difference/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/08/20070821pacco.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/08/20070821pacco.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -13268,7 +13268,7 @@
     <loc>https://static.tcrouzet.com//2007/06/14/le-solaire-chez-moi/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/06/200706solaire.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/06/200706solaire.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -13429,7 +13429,7 @@
     <loc>https://static.tcrouzet.com//2007/04/23/panurgisme-democratique/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/04/200705_p2002.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/04/200705_p2002.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -13515,7 +13515,7 @@
     <loc>https://static.tcrouzet.com//2007/04/01/bayrou-monte-et-descend/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/04/20070401hom30.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/04/20070401hom30.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -13577,7 +13577,7 @@
     <loc>https://static.tcrouzet.com//2007/03/19/hold-up-democratique/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/03/200703ncandidats.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/03/200703ncandidats.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -13592,7 +13592,7 @@
     <loc>https://static.tcrouzet.com//2007/03/15/versac-accuse-carignano-de-tricher/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/03/200703versac1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/03/200703versac1.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -13667,14 +13667,14 @@
     <loc>https://static.tcrouzet.com//2007/02/25/etrange-bond-du-ps/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/02/200702ps.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/02/200702ps.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2007/02/23/bayrou-president/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/02/200702blogpulse.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/02/200702blogpulse.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -13705,7 +13705,7 @@
     <loc>https://static.tcrouzet.com//2007/02/16/appel-citoyen-pour-le-pluralisme-democratique/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/02/pluralisme.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/02/pluralisme.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -13724,7 +13724,7 @@
     <loc>https://static.tcrouzet.com//2007/02/13/cartographie-de-la-blogosphere-politique/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/02/200702map.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/02/200702map.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -13868,7 +13868,7 @@
     <loc>https://static.tcrouzet.com//2007/01/16/partenariat-bonvotecomrmc/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2007/01/20060116rmc.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2007/01/20060116rmc.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -13935,7 +13935,7 @@
     <loc>https://static.tcrouzet.com//page/portraits/index.html</loc>
     <lastmod>2024-05-21T12:13:59+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/12/cosmic_5.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/12/cosmic_5.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -13974,7 +13974,7 @@
     <loc>https://static.tcrouzet.com//2006/12/21/jeu-set-et-match/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/12/5thjacquette.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/12/5thjacquette.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -13985,7 +13985,7 @@
     <loc>https://static.tcrouzet.com//books/cinquieme-pouvoir/le-cinquieme-pouvoir/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/12/5thcouv.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/12/5thcouv.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -13999,14 +13999,14 @@
     <loc>https://static.tcrouzet.com//2006/12/20/la-longue-traine-politique-2/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/12/200612homlongtail.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/12/200612homlongtail.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2006/12/19/le-cinquieme-pouvoir-en-image/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/12/20061219pie.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/12/20061219pie.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -14055,7 +14055,7 @@
     <loc>https://static.tcrouzet.com//2006/12/08/et-moi-et-moi-et-moi%e2%80%a6/index.html</loc>
     <lastmod>2024-05-01T09:33:24+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/12/5thcouv.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/12/5thcouv.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -14070,14 +14070,14 @@
     <loc>https://static.tcrouzet.com//2006/12/04/la-france-serait-coupee-en-deux/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/12/20061204pien.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/12/20061204pien.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2006/12/01/blogs-et-politique-en-decembre-06/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/12/200612hom.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/12/200612hom.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -14133,7 +14133,7 @@
     <loc>https://static.tcrouzet.com//2006/11/14/la-video-qui-tue/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/11/200611topbis.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/11/200611topbis.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -14164,7 +14164,7 @@
     <loc>https://static.tcrouzet.com//2006/11/06/troisieme-voie-en-image/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/11/200611politiques.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/11/200611politiques.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -14175,7 +14175,7 @@
     <loc>https://static.tcrouzet.com//2006/11/01/blogs-et-politiques-en-octobre-06/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/11/200611pie.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/11/200611pie.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -14206,7 +14206,7 @@
     <loc>https://static.tcrouzet.com//2006/10/20/droit-de-vote-en-question-2/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/10/200610vote.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/10/200610vote.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -14252,7 +14252,7 @@
     <loc>https://static.tcrouzet.com//2006/10/07/tv-egale-abstention/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/10/200610coev.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/10/200610coev.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -14267,7 +14267,7 @@
     <loc>https://static.tcrouzet.com//2006/10/01/blogs-et-politiques-en-septembre-06/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/10/10tophom.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/10/10tophom.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -14366,7 +14366,7 @@
     <loc>https://static.tcrouzet.com//2006/09/07/petard-ou-alcool/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/09/09drug.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/09/09drug.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -14381,14 +14381,14 @@
     <loc>https://static.tcrouzet.com//2006/09/05/politicien-egale-cure/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/09/09darwin.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/09/09darwin.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2006/09/04/blogs-et-politique-en-aout-06/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/09/09tophom.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/09/09tophom.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -14418,7 +14418,7 @@
     <loc>https://static.tcrouzet.com//2006/08/30/des-politiques/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/08/despolitiques.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/08/despolitiques.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -14585,7 +14585,7 @@
     <loc>https://static.tcrouzet.com//2006/07/18/chaordic-age/index.html</loc>
     <lastmod>2024-05-01T09:35:42+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/07/feedback.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/07/feedback.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -14669,7 +14669,7 @@
     <loc>https://static.tcrouzet.com//2006/06/27/declaration-dinterdependance/index.html</loc>
     <lastmod>2024-04-30T08:24:30+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2006/06/interdep2.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2006/06/interdep2.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -15228,42 +15228,42 @@
     <loc>https://static.tcrouzet.com//books/interdit-aimer/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2003/12/interdit-aimer.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2003/12/interdit-aimer.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2000/04/30/avril-2000/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2000/04/carnet-avril-2000.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2000/04/carnet-avril-2000.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2000/03/31/mars-2000/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2000/03/cover-2000-mars.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2000/03/cover-2000-mars.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2000/02/28/fevrier-2000/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2000/02/cover-2000-fev.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2000/02/cover-2000-fev.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2000/01/31/janvier-2000/index.html</loc>
     <lastmod>2024-04-30T08:24:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2000/01/cover-2000-janv.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2000/01/cover-2000-janv.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//1999/12/31/decembre-1999/index.html</loc>
     <lastmod>2024-04-30T10:11:32+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/1999/12/cover-1999-dec.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/1999/12/cover-1999-dec.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -15295,14 +15295,14 @@
     <loc>https://static.tcrouzet.com//1996/05/25/samedi-25-mai-mondello-sicile/index.html</loc>
     <lastmod>2025-01-26T21:09:41+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/1996/05/mondelo.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/1996/05/mondelo.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//1996/05/24/avion-pour-la-sicile/index.html</loc>
     <lastmod>2024-12-28T09:12:03+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/1996/05/monreale.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/1996/05/monreale.png</image:loc>
     </image:image>
   </url>
   <url>
