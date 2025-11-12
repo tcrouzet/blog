@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 12 Nov 2025 15:53:50 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 16:10:52 +0100</lastBuildDate>
     <item>
       <title>Le pacte faustien de Macron avec les réseaux sociaux</title>
       <link>https://static.tcrouzet.com/2025/11/11/social-et-toxique/</link>
@@ -101,7 +101,7 @@
 <p>Le minimalisme numérique n’est donc pas vain en matière d’empreinte carbone. Au-delà de lubies esthétiques, j’ai touché à des conséquences tangibles pour le monde. Je pense aux premiers mots de Deleuze dans <a href="https://www.radiofrance.fr/franceculture/podcasts/deleuze-retrouve-16-lecons-de-philosophie" rel="noopener noreferrer">la série de ses seize leçons de philosophie</a>. Il explique qu’un concept n’a aucun intérêt sans affect et percept, c’est-à-dire qu’il doit nous affecter, et j’ai commencé par dire que le minimalisme, un concept, me rendait la vie plus légère, et qu’il doit changer notre perception du monde, nous faisant voir ce qui nous échappait auparavant. Dans mon cas, la quête du minimalisme numérique m’a fait prendre conscience d’une gabegie colossale dont je connaissais l’existence sans l’avoir intériorisée, et sans encore avoir agi en conséquence.</p>
 <p><em>PS1 : Pour les geeks, je maintiens <a href="gemini://gemini.tcrouzet.com/">une version Gemini</a>. Il s’agit de servir le texte sans aucune fioriture <a href="https://fr.wikipedia.org/wiki/Gemini_(protocole)" rel="noopener noreferrer">selon le protocole Gemini</a>, ce qui est parfait pour des articles essentiellement textuels comme celui-ci. Les pages sont plus légères que sur mon slow web, mais je les héberge sur le NAS de la maison, ce qui est loin d’être optimal.</em></p>
 <p><em>PS2 : On me parle de <a href="https://smolweb.org/index.html" rel="noopener noreferrer">small web</a>, je ne connaissais pas (et j’apprends que ce serait la nouvelle dénomination de slow web — pour bien insister sur le fait que ce n’est pas nécessairement lent). Je viens de tester leur validateur et il déclare fautives toutes les balises destinées à optimiser la vitesse de chargement et réduire la bande passante consommée. C’est un peu paradoxal. Pour respecter ce standard, destiné à rendre les pages lisibles même sur des machines minimalistes, je devrais accroître l’impact carbone de mes pages.</em></p>
-<p><em>PS3</em> : On m’a arlé de <a href="https://addons.mozilla.org/fr/firefox/addon/carbonalyser/" rel="noopener noreferrer">Carbonalyser</a> mais pas de mise à jour depuis longtemps.</p>]]></description>
+<p><em>PS3 : On m’a arlé de <a href="https://addons.mozilla.org/fr/firefox/addon/carbonalyser/" rel="noopener noreferrer">Carbonalyser</a> mais pas de mise à jour depuis longtemps.</em></p>]]></description>
       <guid isPermaLink="false">https://static.tcrouzet.com/2025/11/10/the-slow-web-is-faster/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2025/11/minimal.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 10 Nov 2025 17:00:00 +0100</pubDate>
