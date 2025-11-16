@@ -8,7 +8,54 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 16 Nov 2025 20:17:25 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 21:08:12 +0100</lastBuildDate>
+    <item>
+      <title>SmolWeb, SmolNet, numérique à taille humaine</title>
+      <link>https://static.tcrouzet.com/2025/11/16/smolweb-smolnet/</link>
+      <description><![CDATA[<img alt="SmolWeb, SmolNet, numérique à taille humaine" src="https://static.tcrouzet.com/images_tc/2025/11/layout05.webp"/><p>Je croyais en avoir terminé de mon chemin vers le minimalisme numérique mais <a href="https://tcrouzet.com/2025/11/10/the-slow-web-is-faster/">les échanges suite à mon article sur le SlowWeb</a> m’ont incité à prolonger la réflexion. Qu’est-ce qui est nécessaire ? Je ne cesse de me poser cette question en tant qu’artiste, citoyen, organisateur de randonnées vélo, mais j’ai parfois oublié de me la poser en tant que citoyen du net.</p>
+<p>Selon plusieurs lecteurs, l’appellation SlowWeb est de moins en moins utilisée parce que le web minimaliste n’est pas nécessairement lent. On parle désormais de <a href="https://smolweb.org/" rel="noopener noreferrer">SmolWeb</a>, voire de <a href="https://wiki.archiveteam.org/index.php/SmolNet" rel="noopener noreferrer">SmolNet</a>, un web qui nécessite des ressources limitées, tant côté serveur que client.</p>
+<p>Pour que mon site se rapproche de ces standards, je dois encore réduire la bande passante nécessaire à sa consultation, voire me limiter à <a href="https://smolweb.org/specs/index.html" rel="noopener noreferrer">un jeu d’instructions volontairement restrictif</a>.</p>
+<h2>Polices de caractères</h2>
+<p>Est-il nécessaire d’utiliser des polices de caractères embarquées ?</p>
+<ul>
+<li>Des polices originales identifient une mise en page.</li>
+<li>Elles permettent de mieux contrôler le rendu sur différentes plateformes.</li>
+<li>En contrepartie, les navigateurs chargent près de 150 Ko de données lors d’une première visite et recommencent à l’expiration de leur.</li>
+<li>La plupart de mes lecteurs fidèles me lisent par <a href="https://tcrouzet.com/page/abonnement-par-mail/">mail</a> ou <a href="https://tcrouzet.com/page/rss/">RSS</a>, les autres sont de passage et consultent rarement plus d’une page, ce qui annule les bénéfices de la mise en cache.</li>
+</ul>
+<p>En résumé, au nom du design, on sacrifie la bande passante. Mais pourquoi ne pas se limiter aux polices par défaut et en faire une contrainte esthétique ?</p>
+<p>Comme j’aime les contraintes, j’ai commencé à jouer. Pour les titres, j’utilisais <a href="https://fonts.google.com/specimen/Inter" rel="noopener noreferrer">Inter</a> qui s’avère très proche de la police system-ui, San Francisco sur macOS/iOS. Pour le corps de texte, j’utilisais la très lisible <a href="https://fonts.google.com/specimen/Bitter" rel="noopener noreferrer">Bitter</a>, optimisée pour écran. J’ai tenté de lui substituer des polices système, mais toutes étaient à mes yeux moins lisibles (meilleur résultat obtenu avec Georgia).</p>
+<figure><img alt="Inter/Bitter vs system-ui/Georgia" height="905" src="https://static.tcrouzet.com/images_tc/2025/11/layout01.webp" width="1024"/><figcaption>Inter/Bitter vs system-ui/Georgia</figcaption></figure>
+<p>Autant les OS embarquent des polices sans-sérif optimisées, notamment pour leur interface, autant les polices sérif me semblent moins lisibles. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4612630/" rel="noopener noreferrer">Après quelques recherches</a>, j’ai découvert que la présence d’empattements sur une police ne joue qu’un rôle marginal dans la lisibilité à taille standard (le sérif n’est plus lisible que pour de petites tailles proches de la limite de l’acuité visuelle).</p>
+<blockquote>
+<p>Nous continuons à utiliser le sérif pour les corps de texte, notamment dans les livres, plus par habitude que par souci d’efficacité.</p>
+</blockquote>
+<p>J’ai basculé mon texte en sans-sérif et les titres en sérif. Et franchement, ça me change. Je valide.</p>
+<figure><img alt="Inter/Bitter vs serif/system-ui" height="904" src="https://static.tcrouzet.com/images_tc/2025/11/layout02.webp" width="1024"/><figcaption>Inter/Bitter vs serif/system-ui</figcaption></figure>
+<h2>Images</h2>
+<p>Au moment de publier mon article sur <a href="https://tcrouzet.com/2025/11/11/social-et-toxique/">le pacte faustien avec les réseaux sociaux</a>, j’ai dû bricoler une image pour l’illustrer, alors qu’elle n’avait aucune nécessité narrative. Je me suis demandé pourquoi je perdais mon temps ?</p>
+<p>Si j’aime publier mes photos, souvent, j’illustre mes billets avec des images sans intérêt, pour la simple raison que c’est une exigence des réseaux sociaux lors du partage. Il est temps de remettre en cause ce dictat. Je peux maintenir des images de une dans les métadonnées, mais je n’ai aucune raison de les imposer aux yeux des lecteurs.</p>
+<figure><img alt="Avant/après" height="905" src="https://static.tcrouzet.com/images_tc/2025/11/layout03.webp" width="1024"/><figcaption>Avant/après</figcaption></figure>
+<p>Cet article qui nécessitait de changer 215 Ko n’en nécessite plus 44 ko. Je ne vais pas me mettre à supprimer toutes les images de mes pages, au nom d’une logique jusqu’au-boutiste, mais je ne garderai que les indispensables.</p>
+<h1>CSS et JS</h1>
+<p>Une fois compressés, mon CSS et mon JS occupent au total 10 Ko. J’avais deux possibilités.</p>
+<ol>
+<li>Les placer dans des fichiers externes, ce qui exige une latence de quelques millisecondes avant le premier chargement et la mise en cache.</li>
+<li>Les ingérer directement aux HTML, ce qui évite la latence, mais impose de les recharger avec chaque page (cas assez rare je l’ai expliqué plus haut).</li>
+</ol>
+<p>Les performances sont quasi identiques, un poil favorables à l’intégration, ce que j’ai choisi. Avantage : on peut télécharger mes pages, puis les ouvrir en local. Désavantage : les robots et autres aspirateurs, qui consomment une grande partie de ma bande passante, n’ont plus d’autre choix que de changer chaque fois les 10 Ko supplémentaires. L’écart entre les deux versions est de l’ordre du négligeable. Je privilégie donc la portabilité et la vitesse d’affichage.</p>
+<figure><img alt="Performances comparées" class="portrait" height="399" src="https://static.tcrouzet.com/images_tc/2025/11/layout07.webp" width="1024"/><figcaption>Performances comparées</figcaption></figure>
+<h1>Standard SmolWeb</h1>
+<p>L’idée : autoriser seulement les balises qui ne ralentissent pas le navigateur tout en restant compatibles avec des navigateurs anciens. Je me suis pris au jeu, réussissant à me limiter aux balises de niveau A et B sur <a href="https://static.tcrouzet.com/" rel="noopener noreferrer">mon miroir GitHub</a>. Le validateur a fantasmé des erreurs, ce qui l’a empêché de me certifier, mais ce n’est pas le plus important. Si PageSpeed n’a pas détecté d’amélioration avec le passage au SmolWeb, les ressources consommées sont bel et bien inférieures (voir tableau), du moins pour une page avec du texte pur.</p>
+<p>La situation est moins favorable avec les images illustrées : le standard SmolWeb impose de toutes les charger, même si le lecteur ne les visualise pas toutes. Lors de mes test avec <a href="https://tcrouzet.com/2025/11/13/octobre-2025/">mon carnet d’octobre</a>, la version SmolWeb est plus dispendieuse en bande passante, alors que les images sont de taille moindre. Bien sûr, la situation s’inverse si le lecteur lit l’intégralité du journal.</p>
+<figure><img alt="SmolWeb" class="portrait" height="578" src="https://static.tcrouzet.com/images_tc/2025/11/layout05.webp" width="1024"/><figcaption>SmolWeb</figcaption></figure>
+<p>Je pourrais pousser le jeu plus loin, mais au prix d’une ergonomie dégradée (impossible de maintenir la lisibilité sur des écrans de taille très variable sans adapter dynamiquement la mise en page). J’ai la satisfaction de me dire que ma version SmolWeb conviendra à quelques amoureux du minimalisme.</p>
+<p>Il est temps que j’arrête ces bricolages, aussi amusants qu’édifiants, mais j’en arrive à ne plus gratter que des octets et des grammes de CO<sub>2</sub>. Ce travail m’a poussé à repenser mon site et à remettre en cause quelques-unes de mes idées reçues. Ça fait toujours du bien au cerveau.</p>
+<figure><img alt="Les deux versions" class="portrait" height="897" src="https://static.tcrouzet.com/images_tc/2025/11/layout08.webp" width="1024"/><figcaption>Les deux versions</figcaption></figure>]]></description>
+      <guid isPermaLink="false">https://static.tcrouzet.com/2025/11/16/smolweb-smolnet/</guid>
+      <enclosure url="https://static.tcrouzet.com/images_tc/2025/11/layout05.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 16 Nov 2025 22:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Le pacte faustien de Macron avec les réseaux sociaux</title>
       <link>https://static.tcrouzet.com/2025/11/11/social-et-toxique/</link>
@@ -185,63 +232,6 @@
       <guid isPermaLink="false">https://static.tcrouzet.com/2025/10/09/faire-payer/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2025/10/2025-10-09-170134.webp" length="0" type="image/webp"/>
       <pubDate>Thu, 09 Oct 2025 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Les charognards du net</title>
-      <link>https://static.tcrouzet.com/2025/09/23/charognards-du-net/</link>
-      <description><![CDATA[<img alt="Les charognards du net" src="https://static.tcrouzet.com/images_tc/2025/09/2025-09-22-092341.webp"/><p>Nous les croisons tous les jours sans le savoir, les lisons, les écoutons, les regardons, croyant qu’ils nous apprécient alors qu’ils ne s’intéressent qu’à nous compter parmi leurs adorateurs. Ils ramassent tout ce qui traîne, s’en nourrissent, prospèrent grâce à nos faiblesses. Mais qui sont-ils ? Pourquoi saccagent-ils l’internet social pour nous le rendre invivable ?</p>
-<p><a href="https://tcrouzet.com/2009/09/24/qui-a-la-plus-grosse-quequette-sur-twitter/">En 2009, j’ai entrepris de débusquer les charognards sur Twitter</a>. Leur technique était primaire (mais en rien démodé aujourd’hui) :</p>
-<ol>
-<li>Suivre un compte dans l’espoir qu’il suive en retour (puisque généralement les utilisateurs reçoivent une alerte lors d’un nouvel abonnement).</li>
-<li>Si pas de retour au bout de quelques heures ou jours, ne plus le suivre.</li>
-<li>Finir par supprimer même ceux qui suivent en retour de façon que le ratio entre comptes suivis et followers ne tende pas vers 1 (ce qui est louche quand on est très suivi — suivre des milliers de comptes étant humainement impossible).</li>
-</ol>
-<p>À l’époque, Twitter disposait d’une API publique. Il était facile d’automatiser la procédure avec quelques lignes de code. Depuis, c’est plus compliqué, mais de petits malins ont créé des services payants pour acheter des followers sur les réseaux sociaux. Pas difficile de les trouver sur Google avec des requêtes du type « Win social followers ». La plupart des influenceurs en carton utilisent ces outils et font croire aux marques qu’ils ont de l’influence. Quand cesseront-elles de leur envoyer des produits gratuits ? À quand l’atterrissage ?</p>
-<figure><img alt="Une annonce sur un site" class="portrait" height="438" src="https://static.tcrouzet.com/images_tc/2025/09/charognard-04.webp" width="1024"/><figcaption>Une annonce sur un site</figcaption></figure>
-<figure><img alt="Le vrai monde" class="portrait" height="582" src="https://static.tcrouzet.com/images_tc/2025/09/charognard-05.webp" width="1024"/><figcaption>Le vrai monde</figcaption></figure>
-<figure><img alt="Sans la moindre honte" class="portrait" height="559" src="https://static.tcrouzet.com/images_tc/2025/09/charognard-06.webp" width="1024"/><figcaption>Sans la moindre honte</figcaption></figure>
-<p>Les algorithmes de recrutement de followers sont de plus en plus sophistiqués, dopés à l’IA. Nous sommes ciblés dès que nous avons des comptes sociaux, aucun service n’étant immunisé contre le maraudage.</p>
-<p>Si <a href="https://mamot.fr/@tcrouzet" rel="noopener noreferrer">mon compte Mastodon</a> semble échapper à cet hameçonnage social, parce que Mastodon n’est pas populaire, il n’en va pas de même de mon compte Substack.</p>
-<figure><img alt="Stats à 7 jours" class="portrait" height="713" src="https://static.tcrouzet.com/images_tc/2025/09/charognard-01.webp" width="1024"/><figcaption>Stats à 7 jours</figcaption></figure>
-<p>Quand je regarde mes statistiques à sept jours de ma newsletter principale, j’observe une lente croissance de mon nombre d’abonnés.</p>
-<figure><img alt="Stats à 14 jours" class="portrait" height="709" src="https://static.tcrouzet.com/images_tc/2025/09/charognard-02.webp" width="1024"/><figcaption>Stats à 14 jours</figcaption></figure>
-<figure><img alt="Stats à 30 jours" class="portrait" height="709" src="https://static.tcrouzet.com/images_tc/2025/09/charognard-03.webp" width="1024"/><figcaption>Stats à 30 jours</figcaption></figure>
-<p>Mais dès que je dézoome, je constate que mon nombre d’abonnés fait des vagues. C’est un phénomène classique avec les newsletters : lors de l’envoi d’un numéro, une perte d’abonnés s’ensuit, parce que des lecteurs finissent par se fatiguer.</p>
-<p>Longtemps je me suis arrêté à cette explication, puis j’ai constaté trois choses :</p>
-<ol>
-<li>Quand j’hébergeais ma newsletter sur Mailchimp, un service d’envoi non social, il n’y avait quasiment pas de vague, mais une lente croissance.</li>
-<li>Cet été durant mon bikepacking en Bretagne, le nombre d’abonnés a continué de moutonner alors que je ne publiais pas d’article.</li>
-<li>De nouveaux abonnés n’ouvrent aucune de mes newsletters et se désabonnent très vite.</li>
-</ol>
-<p>Trois symptômes qui m’ont fait penser que des charognards hantaient Substacks, ce qui est logique puisque disposer d’une newsletter avec des milliers d’abonnés est devenu le must du moment. On s’abonne dans l’espoir de recevoir un abonnement en retour. Cela dit je n’ai trouvé aucun service public pour doper le nombre d’abonnés Substack, mais rien n’empêche les charognards de travailler à la main ou avec des scripts Python générés par des IA.</p>
-<p>Comme je l’ai constaté dans <a href="https://tcrouzet.com/2025/09/19/human-networks/">mon article sur la nécessité de réinventer les réseaux humains</a>, deux phénomènes cohabitent :</p>
-<ol>
-<li>Les charognards ratissent des followers (nous sommes leur cible).</li>
-<li>Les plateformes ne font pas grand-chose pour les combattre.</li>
-</ol>
-<p>Mais pourquoi ce genre de comportement de part et d’autre ? J’ai ma petite idée. Nous construisons une société qui repose en grande partie sur des mesures quantitatives et une induction foireuse :</p>
-<blockquote>
-<p>Plus tu scores haut =&gt; plus tu produis des contenus de qualité.</p>
-</blockquote>
-<p>C’est comme s’il y avait un lien entre la grandeur des oreilles et la capacité d’écoute, entre la pointure des chaussures et le talent culinaire, entre la taille du sexe et le QI. Il n’y a probablement aucun lien mais nous restons attachés à des valeurs quantitatives grossières.</p>
-<ol>
-<li>Les charognards dévorent tout ce qui traîne pour améliorer leurs scores.</li>
-<li>Les plateformes entretiennent la compétition entre eux, mettant en évidence les scores.</li>
-<li>Les observateurs se satisfont des scores pour décider qui fait la pluie et le beau temps dans notre monde.</li>
-<li>Nous-mêmes, souvent, ne faisons pas davantage d’effort.</li>
-</ol>
-<p>Ce biais quantitatif et compétitif est destructeur de valeur (et d’environnement). Sans virage vers le qualitatif, les charognards continueront leurs maraudes et achèveront de transformer le net en un espace de fausses réputations, un grand mensonge planétaire, nous précipitant dans un factice généralisé. Je connais ces mécanismes depuis longtemps, mais désormais ils m’encolèrent : chaque fois que je me sens visé, comme sur Substack, j’ai l’impression d’être agressé par des escrocs.</p>
-<p>Quand nous trouvons une information sur le net, le plus souvent ce n’est pas par hasard mais parce que nous avons été manipulés par les charognards ou les algorithmes. Même quand nos amis nous conseillent, il y a un risque non négligeable qu’eux-mêmes aient été manipulés. Conséquence : nous risquons de ne plus faire confiance à personne si nous ne remettons pas de l’humain dans les rouages sociaux, ainsi qu’une overdose d’esprit critique chaque fois qu’une information nouvelle nous arrive.</p>
-<p>Mais pourquoi les plateformes sociales n’agissent-elles pas ? Dans <a href="https://fr.wikipedia.org/wiki/Swipe" rel="noopener noreferrer"><em>Swipe</em></a>, qui raconte la vie de Whitney Wolfe et le lancement de Tinder, on découvre le manque chronique d’éthique des promoteurs de la tech. Obsédés par les scores, ils en oublient les dommages collatéraux, prisonniers de visions à court terme.</p>
-<p>Mais existe-t-il des moyens techniques d’empêcher le maraudage ? Par exemple, Substack pourrait repérer les utilisateurs qui s’abonnent sans jamais lire puis se désabonnent. Mais si cette mesure était adoptée, les charognards utiliseraient des robots pour faussement lire des articles. Le problème : toute socialisation numérique peut être simulée. Il suffit de prendre le contrôle d’un navigateur web et d’imiter les comportements humains, ce qui est de plus en plus facile avec les IA. Voilà pourquoi je ne crois plus guère à la socialisation numérique ouverte, publique, aux yeux de tous.</p>
-<figure><img alt="Quantité en avant : 3K+ abonnés" class="portrait" height="688" src="https://static.tcrouzet.com/images_tc/2025/09/charognard-07.webp" width="1024"/><figcaption>Quantité en avant : 3K+ abonnés</figcaption></figure>
-<p>Espérer de l’éthique de la part des charognards est peine perdue dans un monde où priment les quantités. Une solution possible : que les plateformes mettent en avant des qualités plutôt que des quantités. Par exemple, plutôt que le nombre d’abonnés des utilisateurs Substack pourrait afficher leur temps de lecture (je dis bien temps de lecture et pas taux d’ouverture des mails ou articles). C’est toujours une approche quantitative, mais plus instructive. Il reste à inventer une façon d’évaluer les qualités, sans laquelle le règne des charognards n’est pas près de cesser.</p>
-<p>Est-ce possible ? Aujourd’hui, très souvent, les IA apprécient mieux les textes produits par d’autres IA que les textes humains, démontrant s’il le fallait que les qualités sont davantage subjectives qu’objectives. Mais cette difficulté de manipuler les qualités n’est pas une raison pour en rester aux quantités sujettes à toute sorte de manipulation.</p>
-<p>Que faire à notre échelle ? Être averti est déjà pas si mal, ce qui entraîne la vigilance. <a href="https://tcrouzet.com/tag/digest/">Quand je partage mes lectures de la semaine</a>, j’espère ne pas être un propagateur d’intoxication. La mesure la plus radicale : se tenir à distance des lieux qui mettent en avant les quantités, à commencer par les réseaux sociaux. Le drame : même Mastodon joue le jeu des quantités. Un réseau qui ne le ferait pas n’aurait aucun succès dans un monde piloté par les quantités. Nous avons besoin d’un changement de paradigme. Si nous continuons à privilégier les quantités, des malades mentaux continueront de prendre le pouvoir, au prétexte qu’ils ont le plus de partisans.</p>
-<p>Ça pose la question de nos modèles démocratiques qui reposent sur la majorité (celui qui a la plus grosse) plutôt que sur les compromis (ceux qui réussissent à discuter). Les scrutins majoritaires sont coupables en premier lieu. Ils instaurent la règle que toute la société suit, dès les élections locales, une élection étant un système de sélection quantitatif. Quel chantier ! Qui me pousse à m’interroger sur mes pratiques, à mon modèle de diffusion et d’interaction avec vous…</p>]]></description>
-      <guid isPermaLink="false">https://static.tcrouzet.com/2025/09/23/charognards-du-net/</guid>
-      <enclosure url="https://static.tcrouzet.com/images_tc/2025/09/2025-09-22-092341.webp" length="0" type="image/webp"/>
-      <pubDate>Tue, 23 Sep 2025 10:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
