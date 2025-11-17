@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 16 Nov 2025 21:22:59 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 06:58:44 +0100</lastBuildDate>
     <item>
       <title>SmolWeb, SmolNet, numérique à taille humaine</title>
       <link>https://static.tcrouzet.com/2025/11/16/smolweb-smolnet/</link>
@@ -50,7 +50,7 @@
 <p>La situation est moins favorable avec les pages illustrées : le standard SmolWeb impose de  charger toutes les images, même si le lecteur ne les visualise pas toutes. Lors de mes test avec <a href="https://tcrouzet.com/2025/11/13/octobre-2025/">mon carnet d’octobre</a>, la version SmolWeb est plus dispendieuse en bande passante, alors que les images sont de taille moindre. Bien sûr, la situation s’inverse si le lecteur lit l’intégralité du journal.</p>
 <figure><img alt="SmolWeb" class="portrait" height="578" src="https://static.tcrouzet.com/images_tc/2025/11/layout05.webp" width="1024"/><figcaption>SmolWeb</figcaption></figure>
 <p>Je pourrais pousser le jeu plus loin, mais au prix d’une ergonomie dégradée (impossible de maintenir la lisibilité sur des écrans de taille très variable sans adapter dynamiquement la mise en page). J’ai la satisfaction de me dire que ma version SmolWeb conviendra à quelques amoureux du minimalisme.</p>
-<p>Il est temps que j’arrête ces bricolages, aussi amusants qu’édifiants, mais j’en arrive à ne plus gratter que des octets et des grammes de CO<sub>2</sub>. Ce travail m’a poussé à repenser mon site et à remettre en cause quelques-unes de mes idées reçues. Ça fait toujours du bien au cerveau.</p>
+<p>Il est temps que j’arrête ces bricolages, aussi amusants qu’édifiants, mais j’en arrive à ne plus gratter que des octets et des grammes de CO<sub>2</sub>. Ce travail m’a poussé à repenser mon site et à remettre en cause quelques-unes de mes idées reçues. Ça fait toujours du bien au cerveau. </p>
 <figure><img alt="Les deux versions" class="portrait" height="897" src="https://static.tcrouzet.com/images_tc/2025/11/layout08.webp" width="1024"/><figcaption>Les deux versions</figcaption></figure>]]></description>
       <guid isPermaLink="false">https://static.tcrouzet.com/2025/11/16/smolweb-smolnet/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2025/11/layout05.webp" length="0" type="image/webp"/>
