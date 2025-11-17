@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 17 Nov 2025 09:08:05 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 09:22:55 +0100</lastBuildDate>
     <item>
       <title>SmolWeb, SmolNet, numérique à taille humaine</title>
       <link>https://static.tcrouzet.com/2025/11/16/smolweb-smolnet/</link>
@@ -44,9 +44,12 @@
 <li>Les intégrer aux HTML, ce qui évite la latence, mais impose de les recharger avec chaque page (cas assez rare comme je l’ai expliqué plus haut).</li>
 </ol>
 <p>Les performances sont quasi identiques, un poil favorables à l’intégration, ce que j’ai choisi. Avantage : on peut télécharger mes pages, puis les ouvrir en local. Désavantage : les robots et autres aspirateurs, qui consomment une grande partie de la bande passante, n’ont plus d’autre choix que de changer chaque fois les 10 Ko supplémentaires. L’écart entre les deux versions est de l’ordre du négligeable. Je privilégie donc la portabilité et la vitesse d’affichage.</p>
-<figure><img alt="Performances comparées" class="portrait" height="399" src="https://static.tcrouzet.com/images_tc/2025/11/layout07.webp" width="1024"/><figcaption>Performances comparées</figcaption></figure>
+<h2>Pour vos yeux</h2>
+<p>Comme je travaille toujours avec <a href="https://ethanschoonover.com/solarized/" rel="noopener noreferrer">une palette de couleurs solarisées</a>, je me suis résolu à publier mon blog dans les mêmes couleurs, parce qu’elles limitent la fatigues visuelles sur écran. J’ai ajouté en prime la gestion du mode clair et du mode sombre en fonction de votre réglage systèmes.</p>
+<figure><img alt="Solarisé" class="portrait" height="902" src="https://static.tcrouzet.com/images_tc/2025/11/layout09.webp" width="1024"/><figcaption>Solarisé</figcaption></figure>
 <h2>Standard SmolWeb</h2>
 <p>L’idée : autoriser seulement les balises qui ne ralentissent pas le navigateur tout en restant compatibles avec des navigateurs anciens. Je me suis pris au jeu, réussissant à me limiter aux balises de niveau A et B sur <a href="https://static.tcrouzet.com/" rel="noopener noreferrer">mon miroir GitHub</a>. Le validateur a fantasmé des erreurs, ce qui l’a empêché de me certifier, mais ce n’est pas le plus important. Si PageSpeed n’a pas détecté d’amélioration avec le passage au SmolWeb, les ressources consommées sont bel et bien inférieures (voir tableau), du moins pour les pages textelles.</p>
+<figure><img alt="Performances comparées" class="portrait" height="399" src="https://static.tcrouzet.com/images_tc/2025/11/layout07.webp" width="1024"/><figcaption>Performances comparées</figcaption></figure>
 <p>La situation est moins favorable avec les pages illustrées : le standard SmolWeb impose de charger toutes les images, même si le lecteur ne les visualise pas toutes. Lors de mes test avec <a href="https://tcrouzet.com/2025/11/13/octobre-2025/">mon carnet d’octobre</a>, la version SmolWeb est plus dispendieuse en bande passante, alors que les images sont de taille moindre. Bien sûr, la situation s’inverse si le lecteur lit l’intégralité du journal.</p>
 <figure><img alt="SmolWeb" class="portrait" height="578" src="https://static.tcrouzet.com/images_tc/2025/11/layout05.webp" width="1024"/><figcaption>SmolWeb</figcaption></figure>
 <p>Je pourrais pousser le jeu plus loin, mais au prix d’une ergonomie dégradée (impossible de maintenir la lisibilité sur des écrans de taille très variable sans adapter dynamiquement la mise en page). J’ai la satisfaction de me dire que ma version SmolWeb conviendra à quelques amoureux du minimalisme.</p>
