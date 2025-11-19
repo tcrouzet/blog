@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 19 Nov 2025 09:37:09 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 09:44:28 +0100</lastBuildDate>
     <item>
       <title>Rush en librairie : quand l’IA devient attachée de presse</title>
       <link>https://static.tcrouzet.com/2025/11/19/rush-en-librairie/</link>
@@ -23,12 +23,12 @@
 <figure><img alt="Rush 5" class="portrait" height="519" src="https://static.tcrouzet.com/images_tc/2025/11/rush05.webp" width="1024"/><figcaption>Rush 5</figcaption></figure>
 <figure><img alt="Rush 6" class="portrait" height="519" src="https://static.tcrouzet.com/images_tc/2025/11/rush06.webp" width="1024"/><figcaption>Rush 6</figcaption></figure>
 <figure><img alt="Rush 7" class="portrait" height="519" src="https://static.tcrouzet.com/images_tc/2025/11/rush07.webp" width="1024"/><figcaption>Rush 7</figcaption></figure>
-<p>À ce stade, tout est permis. Créer une vidéo de présentation est-ce encore humain ? J’ai demandé à NotebookLM de me générer deux vidéos que j’ai combinées. La présentatrice peine avec des mots comme « archéofiction » ou « chaotique », les images sont kitsch, mais le fond du message est bon et sans la moindre erreur.</p>
+<p>À ce stade, tout est permis. Créer une vidéo de présentation est-ce encore humain ? J’ai demandé à NotebookLM de me générer deux vidéos que j’ai combinées. La présentatrice peine avec des mots comme « archéofiction » ou « chaotique », les images sont kitsch, mais le fond du message est bon et sans erreur.</p>
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/1ARKn3pMwCU?si=x9KBcrJzSLLxQmBV" title="YouTube video player" width="560"></iframe>
 <p>Toujours, dans NotebookLM, j’ai essayé de me faire interviewer.</p>
-<p>— Ce qui frappe d’emblée dans Rush, c’est son architecture narrative : vous nous transportez à la fois dans votre intimité en 2024-2025 et en 2352, où des archéologues explorent votre maison engloutie. Pouvez-vous nous expliquer la nécessité de cette double narration pour questionner ce qui fait de nous des humains quand les IA commencent à écrire des romans ?</p>
+<p><em>— Ce qui frappe d’emblée dans Rush, c’est son architecture narrative : vous nous transportez à la fois dans votre intimité en 2024-2025 et en 2352, où des archéologues explorent votre maison engloutie. Pouvez-vous nous expliquer la nécessité de cette double narration pour questionner ce qui fait de nous des humains quand les IA commencent à écrire des romans ?</em></p>
 <p>— Pour répondre à cette question, il me faudrait raconter le roman, et je ne vais pas le faire, car il me faudrait un roman pour le faire. Et après vous me demanderez pourquoi j’ai écrit un roman pour expliquer un roman. Vous avez un exemple de la différence entre une machine et un humain.</p>
-<p>— Le concept central de votre œuvre est le rush, cette décharge d’énergie qui nous traverse quand on crée. Comment ce phénomène, qui naît de l’imperfection et du corps qui souffre, désire, vieillit, représente-t-il la ligne de faille infranchissable entre la création humaine et l’artificielle ?</p>
+<p><em>— Le concept central de votre œuvre est le rush, cette décharge d’énergie qui nous traverse quand on crée. Comment ce phénomène, qui naît de l’imperfection et du corps qui souffre, désire, vieillit, représente-t-il la ligne de faille infranchissable entre la création humaine et l’artificielle ?</em></p>
 <p>— Encore une fois, pour répondre, je dois raconter. Vous croyez que les journalistes demandent aux auteurs de se trahir de cette façon ?</p>
 <p>Le dialogue a tourné court, NotenookLM incapable de prendre de la hauteur, d’embrasser le roman dans son ensemble, se focalisant toujours sur des détails. Jamais il ne connecte ce texte à mes autres textes (il a pourtant le lien vers mon site) ou à des œuvres d’autres auteurs (logique puisque NotebookLM se limite aux sources fournies). C’est sans saveur, sans le moindre intérêt. Il commet même la bourde de prendre pour réels des éléments romanesques. Faut dire que le roman brouille la frontière et l’IA tombe dans le piège.</p>
 <p>Je finis par lui demander d’écrire un article punchline pour présenter Rush. Il a le plus grand mal à ne pas en rester à un simple résumé. À partir des bribes fournies, je reconstitue un texte plus ou moins potable.</p>
