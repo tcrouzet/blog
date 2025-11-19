@@ -8,7 +8,40 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 17 Nov 2025 21:02:07 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 09:37:09 +0100</lastBuildDate>
+    <item>
+      <title>Rush en librairie : quand l’IA devient attachée de presse</title>
+      <link>https://static.tcrouzet.com/2025/11/19/rush-en-librairie/</link>
+      <description><![CDATA[<img alt="Rush en librairie : quand l’IA devient attachée de presse" src="https://static.tcrouzet.com/images_tc/2025/11/rush_square.webp"/><p>Vous avez suivi l’écriture de <a href="https://tcrouzet.com/books/rush/"><em>Rush</em></a>, le roman est en vente depuis deux semaines. Maintenant que j’ai reçu mes beaux exemplaires, je peux vous en parler. Encore une fois, <a href="https://pvh-editions.com/product/rush" rel="noopener noreferrer">PVH</a> propose un fort bel objet, avec une couverture explosive.</p>
+<p>Dans ce roman se contaminent deux genres <em>a priori</em> étrangers, la science-fiction et le journal intime (le mien). Peut-être que le mix ne plaira à aucun des deux publics ou aux deux. En tout cas, j’ai pris beaucoup de plaisir à cette aventure insolite.</p>
+<figure><img alt="Rush" height="900" src="https://static.tcrouzet.com/images_tc/2025/11/rush_square.webp" width="1024"/><figcaption>Rush</figcaption></figure>
+<p><em>Rush</em> raconte ce qui fait de nous des humains dans un monde envahi par les IA. Pourquoi ne pas prolonger en demandant aux IA de devenir mon attachée de presse ? D’ailleurs, créer un diaporama de présentation pour un roman est-ce encore humain ? J’ai écrit les slides avec l’aide de <a href="https://notebooklm.google/" rel="noopener noreferrer">NotebookLM</a>, puis <a href="https://rush-nsnqlj8.gamma.site/" rel="noopener noreferrer">les ai mis en forme avec Gamma</a>.</p>
+<figure><img alt="Rush 1" class="portrait" height="519" src="https://static.tcrouzet.com/images_tc/2025/11/rush01.webp" width="1024"/><figcaption>Rush 1</figcaption></figure>
+<figure><img alt="Rush 2" class="portrait" height="519" src="https://static.tcrouzet.com/images_tc/2025/11/rush02.webp" width="1024"/><figcaption>Rush 2</figcaption></figure>
+<figure><img alt="Rush 3" class="portrait" height="519" src="https://static.tcrouzet.com/images_tc/2025/11/rush03.webp" width="1024"/><figcaption>Rush 3</figcaption></figure>
+<figure><img alt="Rush 4" class="portrait" height="519" src="https://static.tcrouzet.com/images_tc/2025/11/rush04.webp" width="1024"/><figcaption>Rush 4</figcaption></figure>
+<figure><img alt="Rush 5" class="portrait" height="519" src="https://static.tcrouzet.com/images_tc/2025/11/rush05.webp" width="1024"/><figcaption>Rush 5</figcaption></figure>
+<figure><img alt="Rush 6" class="portrait" height="519" src="https://static.tcrouzet.com/images_tc/2025/11/rush06.webp" width="1024"/><figcaption>Rush 6</figcaption></figure>
+<figure><img alt="Rush 7" class="portrait" height="519" src="https://static.tcrouzet.com/images_tc/2025/11/rush07.webp" width="1024"/><figcaption>Rush 7</figcaption></figure>
+<p>À ce stade, tout est permis. Créer une vidéo de présentation est-ce encore humain ? J’ai demandé à NotebookLM de me générer deux vidéos que j’ai combinées. La présentatrice peine avec des mots comme « archéofiction » ou « chaotique », les images sont kitsch, mais le fond du message est bon et sans la moindre erreur.</p>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/1ARKn3pMwCU?si=x9KBcrJzSLLxQmBV" title="YouTube video player" width="560"></iframe>
+<p>Toujours, dans NotebookLM, j’ai essayé de me faire interviewer.</p>
+<p>— Ce qui frappe d’emblée dans Rush, c’est son architecture narrative : vous nous transportez à la fois dans votre intimité en 2024-2025 et en 2352, où des archéologues explorent votre maison engloutie. Pouvez-vous nous expliquer la nécessité de cette double narration pour questionner ce qui fait de nous des humains quand les IA commencent à écrire des romans ?</p>
+<p>— Pour répondre à cette question, il me faudrait raconter le roman, et je ne vais pas le faire, car il me faudrait un roman pour le faire. Et après vous me demanderez pourquoi j’ai écrit un roman pour expliquer un roman. Vous avez un exemple de la différence entre une machine et un humain.</p>
+<p>— Le concept central de votre œuvre est le rush, cette décharge d’énergie qui nous traverse quand on crée. Comment ce phénomène, qui naît de l’imperfection et du corps qui souffre, désire, vieillit, représente-t-il la ligne de faille infranchissable entre la création humaine et l’artificielle ?</p>
+<p>— Encore une fois, pour répondre, je dois raconter. Vous croyez que les journalistes demandent aux auteurs de se trahir de cette façon ?</p>
+<p>Le dialogue a tourné court, NotenookLM incapable de prendre de la hauteur, d’embrasser le roman dans son ensemble, se focalisant toujours sur des détails. Jamais il ne connecte ce texte à mes autres textes (il a pourtant le lien vers mon site) ou à des œuvres d’autres auteurs (logique puisque NotebookLM se limite aux sources fournies). C’est sans saveur, sans le moindre intérêt. Il commet même la bourde de prendre pour réels des éléments romanesques. Faut dire que le roman brouille la frontière et l’IA tombe dans le piège.</p>
+<p>Je finis par lui demander d’écrire un article punchline pour présenter Rush. Il a le plus grand mal à ne pas en rester à un simple résumé. À partir des bribes fournies, je reconstitue un texte plus ou moins potable.</p>
+<h2>Rush : l’expérience littéraire qui fait sauter les lois de la réalité</h2>
+<p>Oubliez tout ce que vous savez sur la création : face aux IA, Thierry Crouzet a transformé l’écriture en un acte de résistance.</p>
+<p>En 2024, dans le Midi caniculaire, il se bat sur deux fronts : la maladie de sa femme et l’omniprésence glaciale des IA, qui menacent de transformer la littérature en « normalité mièvre ». Il se lance alors dans un projet désespéré : écrire <em>Le Roman du roman</em>, le roman qui raconte l’aventure de l’écriture d’un roman, le roman de tous les romans, une œuvre crue, « cassée, imparfaite, défoncée, chaotique », destinée à capturer le rush, cette décharge d’énergie inconnue des machines.</p>
+<p>Trois siècles plus tard, la Terre se réinvente sous l’égide des IA après l’effondrement climatique. Les archéologues Roc Cardinal et Sally Mann explorent les ruines de la villa Crouzet, désormais engloutie par la Méditerranée. Ils traquent les chapitres du <em>Roman du roman</em> dispersés comme des « miettes de pain », présentés par Crouzet comme trop « disruptifs » et inacceptables par les algorithmes de son époque.</p>
+<p>Commence alors une enquête archéologique où chaque découverte force Roc et Sally à remettre en question leur existence. Au fil des pages, les deux récits — le carnet intime de Crouzet en 2024 et l’aventure de Roc et Sally en 2352 — se contaminent. Le roman ne se contente pas de raconter une histoire, il la performe, mettant en scène la confrontation entre l’art humain et les productions artificielles, notamment à travers les dialogues entre Crouzet et Charlie, son IA. Charlie, du reste, qui lui reproche le manque de mordant de son texte, suggère ironiquement les pistes narratives menant à l’apocalypse fictionnelle.</p>
+<p>La véritable énigme ici n’est pas de savoir qui a tué qui, mais de comprendre ce qui advient quand le texte se met à détruire le réel qu’il a créé.</p>]]></description>
+      <guid isPermaLink="false">https://static.tcrouzet.com/2025/11/19/rush-en-librairie/</guid>
+      <enclosure url="https://static.tcrouzet.com/images_tc/2025/11/rush_square.webp" length="0" type="image/webp"/>
+      <pubDate>Wed, 19 Nov 2025 12:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>SmolWeb, SmolNet, numérique à taille humaine</title>
       <link>https://static.tcrouzet.com/2025/11/16/smolweb-smolnet/</link>
@@ -195,46 +228,6 @@
       <guid isPermaLink="false">https://static.tcrouzet.com/2025/10/20/se-soustraire/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2025/10/2025-10-20-105955.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 20 Oct 2025 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Faire payer est-ce la solution pour une vraie relation auteurs-lecteurs ?</title>
-      <link>https://static.tcrouzet.com/2025/10/09/faire-payer/</link>
-      <description><![CDATA[<img alt="Faire payer est-ce la solution pour une vraie relation auteurs-lecteurs ?" src="https://static.tcrouzet.com/images_tc/2025/10/2025-10-09-170134.webp"/><p>Je me suis posé cette question en écrivant <a href="https://tcrouzet.com/tag/netculture/">mes derniers articles de NetCulture</a>. Elle ne cesse de revenir et je me dois l’affronter avec franchise, pour être clair avec moi-même, avec vous mes lecteurs, aussi avec les autres auteurs.</p>
-<p><strong>Premier constat</strong> : la paupérisation des auteurs s’accroît. Nous vendons en moyenne moins de livres (parce que les éditeurs en publient de plus en plus mais aussi parce qu’il y a moins de lecteurs) et nos contenus web sont pillés par les moteurs de recherche, les IA et <a href="https://tcrouzet.com/2025/09/23/charognards-du-net/">les charognards</a>.</p>
-<p><strong>Deuxième constat</strong> : notre popularité web est souvent faiblement corrélée à nos ventes de livres.</p>
-<p>J’ai longtemps cru qu’il suffisait de demander à mes lecteurs numériques d’acheter mes livres pour me soutenir, ce transfert n’a jamais été efficace.</p>
-<ol>
-<li>Peut-être parce que les lecteurs d’articles ne sont pas des lecteurs de livres ou, tout au moins, parce que ces deux lectorats se recouvrent peu.</li>
-<li>Peut-être parce que mes lecteurs ne sont pas assez attachés à ce que j’écris.</li>
-<li>Peut-être parce que je n’ai pas assez de lecteurs (sinon je ne poserai pas cette question de l’éventualité de faire payer mes trop rares lecteurs).</li>
-</ol>
-<p>Je ressens la nécessité sur le web d’un engagement plus fort avec mes lecteurs, du type celui qui me lie aux lecteurs de mes livres. Lors d’un achat, ils font plus que cliquer sur un lien, ils me donnent le temps qui leur a été nécessaire pour gagner le prix du livre. C’est un échange, je donne à lire et on me donne à manger. C’est une forme de réciprocité (et peu importe si je réussis à manger même sans lecteur — je n’écris pas cet article que pour moi mais tous les auteurs en recherche d’un modèle existentiel).</p>
-<p>Je ressens en même temps la nécessité de me soustraire aux maraudes des charognards. Placer mes textes derrière un paywall est la solution la plus évidente. Me réfugier dans un monde clos, dans une petite communauté de « fans ».</p>
-<p><strong>Troisième constat</strong> : Des contenus payants n’ont plus à chercher à séduire, ni sur les réseaux sociaux ni aux yeux des moteurs de recherche. Cette relative indifférence à l’environnement me pousserait peut-être à écrire autrement, plus intimement. Nous pourrions échanger plus en profondeur. Depuis longtemps, j’imagine des lettres adressées à mes lecteurs, des lettres presque à l’ancienne.</p>
-<p><strong>Quatrième constat</strong> : je reste attaché à la nécessité d’une culture ouverte, ce qui est une injonction contradictoire. Mais quand je constate que les promoteurs de l’ouverture se font piller sans vergogne, ça me désespère. J’ai souvent la sensation d’être le couillon de l’affaire.</p>
-<p>Un paywall impliquerait de ne libérer les textes qu’après un délai de six mois ou un an. Les abonnés payants auraient le privilège de lire sur le vif, de participer à une communauté.</p>
-<p>Envisager cette possibilité me fiche la trouille. Personne peut-être ne paiera, je n’aurai plus le moindre lecteur, je devrai admettre que je n’en ai jamais eu, que tout ça n’était qu’une illusion. J’ai envie de l’affronter. J’en sens la nécessité. Est-ce que ce que je fais a du sens pour vous ? À quel point ? Parce que si vous vous en moquez je n’ai plus aucune raison de publier en ligne. Je sais bien que payer ne prouve pas grand-chose sinon d’en avoir la possibilité, mais tout de même, ce serait comme vous demander de choisir entre mes textes et d’autres choses.</p>
-<p>J’entends des voix me dire : « Quitte Substack et tu seras plus emmerdé par les charognards. » Mais ils sont partout, sur le Web, sur Mastodon, ils se glissent partout. Une autre voix : « Faire payer, c’est rester dans le monde du quantitatif. » Je n’en suis pas si sûr. Dans le cas d’une relation auteur/lecteur, c’est surtout établir une réciprocité, la même que nous mettons en œuvre avec nos livres vendus en librairie — je travaille pour toi et tu me rémunères.</p>
-<p>Le modèle du tout gratuit a conduit à la mise en avant des quantités au profit des qualités. La popularité est devenue le seul critère de réussite, alors qu’un auteur cherche avant tout à échanger avec ses lecteurs, et subsidiairement à vivre de son travail.</p>
-<p><strong>Cinquième constat</strong> : j’écris souvent pour diffuser des idées, alerter, ces textes pourraient rester gratuits, et mes gestes esthétiques pourraient devenir payants.</p>
-<p>Je pense tout haut, je ne sais pas ce qu’il est bon de faire. Ma sensation : plus je donne, moins je reçois. Un certain modèle du web, celui que j’ai défendu depuis trente ans, nécessite de profonds changements.</p>
-<p><strong>Sixième constat</strong> : les contenus que nous diffusons gratuitement cohabitent avec une montagne de contenus générés plus ou moins automatiquement, à visée de ratissage sur le mode charognard. Il ne faut plus guère espérer de grands bénéfices à l’ouverture dans un monde saturé de contenus. Je ne crois plus au capital symbolique de mes textes. Je vois des gens répéter des idées émises il y a dix ou vingt ans sans même s’en rendre compte (et des gens faire leur promotion). Plus nous disposons d’outils de recherche, plus nous nous complaisons dans un présentéisme mièvre.</p>
-<p><strong>Septième constat</strong> : les influenceurs poursuivent le quantitatif. Je ne veux influencer personne, mais partager, faire réfléchir, réfléchir avec, éprouver avec… Je n’ai rien à vendre. Pas de méthode miracle. Juste un regard tordu sur le monde. Un désir de passer du web comme espace de partage universel à un web comme outil de création d’intimité. L’universel numérique est devenu une arène pour les Trump. Je n’y suis plus à ma place. Le gratuit qui repose sur la viralité, c’est terminé, ça n’a conduit qu’à une catastrophe populiste.</p>
-<p>Se cacher derrière un paywall reviendrait à revendiquer de ne plus être dans la même cour. Se soustraire à la bataille pour le quantitatif et ne plus œuvrer que pour le qualitatif. Peut-être est-ce élitiste ? Mais quand tout devient si bas de gamme, si banalisé, peut-être qu’un peu d’exigence est nécessaire.</p>
-<p>J’en arrive à me demander si la gratuité n’est pas le ver qui ronge le web. J’en arrive à ne plus avoir envie d’écrire pour des lecteurs simplement de passage.</p>
-<p>Je pourrais tenter une expérience. Tout au long de 2026, rendre payant l’accès à mes carnets mensuels avec en cadeau début 2027 la version papier/ebook des carnets 2026 (via Substack impossible de faire payer moins de 50€/an).</p>
-<p>Je dis bien « je pourrais ». La fabrication du livre ne serait pas rentable avec moins de cent abonnés. Aurais-je le courage de cette rupture ? Par fatigue, faiblesse, facilité, privilèges, je ne changerai probablement rien à mes vieilles habitudes, même si je les sais dommageables pour les autres créateurs. J’écris ce texte pour m’aider à penser avec vous. Je n’ai pas de solution. Juste la certitude que continuer comme avant ne me mènera nulle part.</p>
-<p>Peut-être il est temps pour moi de choisir :</p>
-<ul>
-<li>l’intimité contre la visibilité,</li>
-<li>la qualité contre la quantité,</li>
-<li>l’engagement contre la viralité,</li>
-<li>le rare contre l’abondant.</li>
-</ul>
-<p>J’ai déjà effectué ce pas de côté en quittant la plupart des réseaux sociaux, en cessant de publiciser mes textes, en laissant les clés de mon fonds de commerce à mes lecteurs… Je suis en route… et si la solution n’était plus que de publier des livres. De retenir la parole. De la retarder. Encore un truc qui m’effraie. Je ne vois pas pourquoi je me censurerais. Envie de continuer de jouer du secret et du public. Pour résumer : grande période de doute.</p>]]></description>
-      <guid isPermaLink="false">https://static.tcrouzet.com/2025/10/09/faire-payer/</guid>
-      <enclosure url="https://static.tcrouzet.com/images_tc/2025/10/2025-10-09-170134.webp" length="0" type="image/webp"/>
-      <pubDate>Thu, 09 Oct 2025 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
