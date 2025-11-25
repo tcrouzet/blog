@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://static.tcrouzet.com//2025/11/25/substack-moral-choice/index.html</loc>
+    <lastmod>2025-11-25T09:26:04+01:00</lastmod>
+    <image:image>
+      <image:loc>https://static.tcrouzet.com/images_tc/2025/11/patreon.jpeg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://static.tcrouzet.com//2025/11/23/digest035/index.html</loc>
-    <lastmod>2025-11-23T15:48:20+01:00</lastmod>
+    <lastmod>2025-11-23T18:39:57+01:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2025/11/2025-11-17-170855-lamaison.jpeg</image:loc>
     </image:image>
@@ -16,7 +23,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2025/11/22/substack-dsa-censure-palestinien/index.html</loc>
-    <lastmod>2025-11-22T16:19:48+01:00</lastmod>
+    <lastmod>2025-11-24T08:27:21+01:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2025/11/rafa-kite-boy.jpeg</image:loc>
     </image:image>
