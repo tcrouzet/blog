@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://static.tcrouzet.com//2025/12/13/yesterday-beatles-genius/index.html</loc>
-    <lastmod>2025-12-13T11:12:52+01:00</lastmod>
+    <loc>https://static.tcrouzet.com//2025/12/14/digest038/index.html</loc>
+    <lastmod>2025-12-14T15:35:11+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2025/12/yesterday.png</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2025/12/2025-12-13-172023.jpeg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://static.tcrouzet.com//2025/12/13/yesterday-beatles-genius/index.html</loc>
+    <lastmod>2025-12-13T18:40:23+01:00</lastmod>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2025/12/11/reco-gravel-foireuse/index.html</loc>
