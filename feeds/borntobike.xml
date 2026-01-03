@@ -8,7 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 11 Dec 2025 20:22:23 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 17:48:12 +0100</lastBuildDate>
+    <item>
+      <title>Bikepacking : comment une IA privative aide à promouvoir un évènement associatif</title>
+      <link>https://static.tcrouzet.com/2026/01/03/727-IA-presentation/</link>
+      <description><![CDATA[<img alt="Bikepacking : comment une IA privative aide à promouvoir un évènement associatif" src="https://static.tcrouzet.com/images_tc/2026/01/les72701.webp"/><p>Je suis fan de <a href="https://notebooklm.google.com/" rel="noopener noreferrer">NotebookLM</a>. Je l’utilise pour tout. Par exemple, si je dois approfondir un sujet, je charge des dizaines de PDF dans un Notebook et commence à discuter avec eux. Même avec les sujets que je maîtrise, ça m’aide à prendre du recul. Je viens de m’en servir pour présenter les 727, d’autant que <a href="https://bikepacking.com/event/727-sete-to-sete/" rel="noopener noreferrer">Bikepacking.com</a> nous a intégrés à son calendrier et que j’ai besoin de documents en anglais. Comme source de données, j’ai donné à NotebookLM les liens <a href="https://727bikepacking.fr/" rel="noopener noreferrer">du site 727</a> et <a href="https://www.youtube.com/watch?v=HOPULxl3c_8" rel="noopener noreferrer">d’une de mes vidéos</a>, puis j’ai fait générer quelques documents.</p>
+<p>Paradoxe : les outils d’IA, souvent privatifs, aux effets écologiques indéniables, m’aident à parler d’un évènement associatif, non compétitif, accessible. J’assume cette dichotomie. Les opposants à l’IA oublient toujours dans leur calcul leur propre impact écologique. Combien d’énergie, d’heures, de ressources auraient exigé la création des documents générés en quelques secondes par Notebook ? Beaucoup trop, si bien que je n’aurais rien fait, laissant le terrain libre à ceux qui investissent dans le marketing pour promouvoir des évènements beaucoup moins éthiques que les nôtres (et qui souvent pillent notre travail et celui des bénévoles comme nous).</p>
+<h2>Infographies</h2>
+<p>En plus de générer des diaporamas en <a href="https://drive.google.com/file/d/1nRLHqu7e38h60d7Vqt3c6rWD4auqwB-j/view?usp=sharing" rel="noopener noreferrer">français</a> et en <a href="https://drive.google.com/file/d/1SY8bwz2XUvveYmMHKdaE6Z6K8Gv5BNhX/view?usp=sharing" rel="noopener noreferrer">anglais</a>, il a créé deux infographies de synthèse.</p>
+<figure><img alt="Infographie FR" height="571" src="https://static.tcrouzet.com/images_tc/2026/01/les72701.webp" width="1024"/><figcaption>Infographie FR</figcaption></figure>
+<figure><img alt="US Infographic" height="571" src="https://static.tcrouzet.com/images_tc/2026/01/727us.webp" width="1024"/><figcaption>US Infographic</figcaption></figure>
+<h2>Vidéos</h2>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/KmJb7oeRY7w?si=PB_jhvug3uT_hTZF" title="YouTube video player" width="560"></iframe>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/FWHA1WeIx5A?si=mV6QDN141JeZ1Nq6" title="YouTube video player" width="560"></iframe>
+<h2>États des inscriptions</h2>
+<p>Plus de 50 pour <a href="https://727bikepacking.fr/pou100/" rel="noopener noreferrer">POU100 d’avril</a>, déjà plus de 20 pour le <a href="https://727bikepacking.fr/g727-Grand-Depart/" rel="noopener noreferrer">g727 de septembre</a>, les places seront sans doute toutes réservées bien l’échéance. En revanche, peu de partants pour le <a href="https://727bikepacking.fr/727-Grand-Depart/" rel="noopener noreferrer">VTT de mai</a>. Aucune importance tant que les copains sont au rendez-vous. Nous organisons les 727 non pour la gloire mais pour vous retrouver et partager des moments avec vous. C’est ça le bikepacking, c’est ça avant tout, on ne le dit pas assez.</p>]]></description>
+      <guid isPermaLink="false">https://static.tcrouzet.com/2026/01/03/727-IA-presentation/</guid>
+      <enclosure url="https://static.tcrouzet.com/images_tc/2026/01/les72701.webp" length="0" type="image/webp"/>
+      <pubDate>Sat, 03 Jan 2026 18:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Une reco gravel, ça se rate</title>
       <link>https://static.tcrouzet.com/2025/12/11/reco-gravel-foireuse/</link>
@@ -137,64 +155,6 @@
       <guid isPermaLink="false">https://static.tcrouzet.com/2025/09/08/g727-trace-finale/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2025/09/2025-09-04-100533.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 08 Sep 2025 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>La trace g727 2025 en détail</title>
-      <link>https://static.tcrouzet.com/2025/08/28/g727-2025-final/</link>
-      <description><![CDATA[<img alt="La trace g727 2025 en détail" src="https://static.tcrouzet.com/images_tc/2025/08/2025-08-26-164432.webp"/><p>Dans un mois, nous roulerons <a href="https://727bikepacking.fr/g727/" rel="noopener noreferrer">le g727 2025</a> avec nos gravels, VTT et autres monsters. Nous avons finalisé le parcours et les variantes de 400 à 727 km, de 2 200 m à 7 200 m de D+. La trace sera disponible une dizaine de jours avant le départ, après d’ultimes vérifications.</p>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/b_joc4BJRXA?si=K6qfWKqceL99ySPA" title="YouTube video player" width="560"></iframe>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/9hr8tz1mCFw?si=pHi4OTSkCeBVanCp" title="YouTube video player" width="560"></iframe>
-<p>Dès à présent, vous pouvez choisir votre menu. Cinq distances sont possibles en fonction des shortcuts choisis. La version mini conviendra aux bikepackeurs débutants, mais elle évite les Alpilles et le petit Lubéron, deux massifs magnifiques (le shortcut suit la via Rhôna).</p>
-<figure><img alt="Variantes" height="626" src="https://static.tcrouzet.com/images_tc/2025/08/g727-2025-variantes.png" width="1284"/><figcaption>Variantes</figcaption></figure>
-<p>Bref récit de la dernière grosse reco. Partis de la gare de Cavaillon, nous retrouvons la trace plus au nord. Majoritairement par des petites routes nous traversons la plaine Comtadine avec ses vergers et vignobles. Nous grimpons à Chateau-Neuf-de-Gadagne, mais le Ventoux est malheureusement dans la brume, avant de glisser vers Avignon.</p>
-<figure><img alt="Chateau-Neuf-de-Gadagne" height="768" src="https://static.tcrouzet.com/images_tc/2025/08/2025-08-26-111759.webp" width="1024"/><figcaption>Chateau-Neuf-de-Gadagne</figcaption></figure>
-<figure><img alt="Ventoux" height="768" src="https://static.tcrouzet.com/images_tc/2025/08/2025-08-26-112940.webp" width="1024"/><figcaption>Ventoux</figcaption></figure>
-<figure><img alt="Vignobles" height="768" src="https://static.tcrouzet.com/images_tc/2025/08/2025-08-26-114023.webp" width="1024"/><figcaption>Vignobles</figcaption></figure>
-<figure><img alt="Avignon" height="768" src="https://static.tcrouzet.com/images_tc/2025/08/2025-08-26-122219.webp" width="1024"/><figcaption>Avignon</figcaption></figure>
-<figure><img alt="Avignon" height="768" src="https://static.tcrouzet.com/images_tc/2025/08/2025-08-26-122648.webp" width="1024"/><figcaption>Avignon</figcaption></figure>
-<figure><img alt="Avignon" height="768" src="https://static.tcrouzet.com/images_tc/2025/08/2025-08-26-132710.webp" width="1024"/><figcaption>Avignon</figcaption></figure>
-<figure><img alt="Pont" height="768" src="https://static.tcrouzet.com/images_tc/2025/08/2025-08-26-132824.webp" width="1024"/><figcaption>Pont</figcaption></figure>
-<figure><img alt="Barrage" height="768" src="https://static.tcrouzet.com/images_tc/2025/08/2025-08-26-133951.webp" width="1024"/><figcaption>Barrage</figcaption></figure>
-<figure><img alt="Digque" height="768" src="https://static.tcrouzet.com/images_tc/2025/08/2025-08-26-134418.webp" width="1024"/><figcaption>Digque</figcaption></figure>
-<figure><img alt="Château de l’Hers" height="768" src="https://static.tcrouzet.com/images_tc/2025/08/2025-08-26-140713.webp" width="1024"/><figcaption>Château de l’Hers</figcaption></figure>
-<p>Une petite boucle touristique dans la ville, puis nous sautons sur l’île de Piot pour avoir une vue panoramique sur le palais des Papes et le pont où « on y danse ». Par le barrage de la centrale hydroélectrique, nous passons sur l’île des Pages, puis gagnons la rive droite du Rhône pour le remonter sur une vingtaine de kilomètres. Soleil lourd, 36°C, humidité poisseuse dans les vignobles gardois. On saute de fontaine en fontaine, mais tous les bars, épiceries et boulangeries fermés en ce début d’après-midi et même jusqu’à 17h (mieux vaut faire des courses à Avignon).</p>
-<p>Après les vignobles, c’est les garrigues avec des pistes parfois interminables comme sur le chemin d’Uzès, une longue tôle ondulée rectiligne (et une en descente bien trop dangereuse à gravel où je me ramasse — nous l’éviterons au prix d’un bout de route). Nous ne trouvons à manger qu’à Moussac, sous la passerelle du Gardon.</p>
-<p>La nuit tombe quand nous arrivons à Mauressargues. Comme de la pluie est annoncée pour la nuit, nous nous réfugions sous une grande tonnelle, avec une longue table pour les banquets. Nuit de merde. La première fois, je crois que quelqu’un a tiré un coup de fusil ou lancé une fusée de détresse, puis ça se répète de temps à autre. C’était probablement <a href="https://www.agri53.fr/effarouchement-des-oiseaux-quels-droits-pour-les-agriculteurs" rel="noopener noreferrer">canon effaroucheur</a>.</p>
-<figure><img alt="Canon effaroucheur" class="portrait" height="560" src="https://static.tcrouzet.com/images_tc/2025/08/canon.webp" width="747"/><figcaption>Canon effaroucheur</figcaption></figure>
-<p>Réveil à l’aube. Il ne pleut plus. Très vite nous arrivons à Quissac. Plutôt que continuer sur la trace déjà reconnue, en partie identique à celle de 2023 à ce niveau, nous rentrons vers Poussan en suivant un magnifique shortcut sur les contreforts du pic Saint Loup.</p>
-<figure><img alt="Garrigues" height="768" src="https://static.tcrouzet.com/images_tc/2025/08/2025-08-26-162210.webp" width="1024"/><figcaption>Garrigues</figcaption></figure>
-<figure><img alt="Garrigues" height="768" src="https://static.tcrouzet.com/images_tc/2025/08/2025-08-27-093530.webp" width="1024"/><figcaption>Garrigues</figcaption></figure>
-<figure><img alt="Pic Saint Loup" height="768" src="https://static.tcrouzet.com/images_tc/2025/08/2025-08-27-100902.webp" width="1024"/><figcaption>Pic Saint Loup</figcaption></figure>
-<figure><img alt="Saint-Jean-de-Cuculles" height="768" src="https://static.tcrouzet.com/images_tc/2025/08/2025-08-27-110237.webp" width="1024"/><figcaption>Saint-Jean-de-Cuculles</figcaption></figure>
-<p>Il reste une trentaine de places…</p>
-<h2>Note sur la vidéo</h2>
-<p>J’ai demandé à ChatGPT d’écrire une chanson (que j’ai un poil ajustée).</p>
-<p>[Intro]</p>
-<p>[Verse]</p>
-<p>Aube sur le port salé,<br/>
-Mont Saint‑Clair allumé,<br/>
-Deux bidons, sacoches serrées,<br/>
-Je pars sans me retourner.</p>
-<p>[Chorus] </p>
-<p>Sète to Sète, poussière et vent,<br/>
-Bike qui chante, je vais devant.<br/>
-Étangs, vignes, rubans mouvants,<br/>
-Les copains murmurent: “tiens bon.”</p>
-<p>[Verse] </p>
-<p>Canal à gauche, flamants pour témoins,</p>
-<p>La Tram gifle mes mains.<br/>
-J’avale les bosses, le grain,<br/>
-Ma boussole dit: “plus loin.”</p>
-<p>[Chorus]<br/>
-Sète to Sète, boucle des étangs,<br/>
-Je reviens au sel battant.<br/>
-Dans les yeux, un trait d’argent,<br/>
-La route me prend — je suis vivant.</p>
-<p>[Outro]</p>
-<p>J’ai collé le tout dans <a href="https://suno.com/" rel="noopener noreferrer">Suno</a> pour qu’il compose la musique (une minute en mode gratuit). J’ai récupéré les deux séquences de drones tournées par <a href="https://www.youtube.com/@PaTVenture34" rel="noopener noreferrer">Patrick Lamare</a> <a href="https://youtu.be/b_joc4BJRXA" rel="noopener noreferrer">et voilà</a>.</p>]]></description>
-      <guid isPermaLink="false">https://static.tcrouzet.com/2025/08/28/g727-2025-final/</guid>
-      <enclosure url="https://static.tcrouzet.com/images_tc/2025/08/2025-08-26-164432.webp" length="0" type="image/webp"/>
-      <pubDate>Thu, 28 Aug 2025 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,28 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://static.tcrouzet.com//borntobike/index.html</loc>
+  </url>
+  <url>
+    <loc>https://static.tcrouzet.com//tag/727bikepacking/index.html</loc>
+  </url>
+  <url>
+    <loc>https://static.tcrouzet.com//carnet-de-route/index.html</loc>
+  </url>
+  <url>
     <loc>https://static.tcrouzet.com//bibliographie/index.html</loc>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//tag/digest/index.html</loc>
   </url>
   <url>
-    <loc>https://static.tcrouzet.com//carnet-de-route/index.html</loc>
-  </url>
-  <url>
-    <loc>https://static.tcrouzet.com//tag/buzz/index.html</loc>
+    <loc>https://static.tcrouzet.com//tag/netlitterature/index.html</loc>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//tag/netculture/index.html</loc>
+  </url>
+  <url>
+    <loc>https://static.tcrouzet.com//tag/gravel/index.html</loc>
+  </url>
+  <url>
+    <loc>https://static.tcrouzet.com//tag/buzz/index.html</loc>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//tag/digression/index.html</loc>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//tag/us/index.html</loc>
-  </url>
-  <url>
-    <loc>https://static.tcrouzet.com//tag/netlitterature/index.html</loc>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//tag/ia/index.html</loc>
@@ -50,9 +59,6 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//tag/epicenes/index.html</loc>
-  </url>
-  <url>
-    <loc>https://static.tcrouzet.com//borntobike/index.html</loc>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//tag/bikepacking/index.html</loc>
@@ -89,9 +95,6 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//tag/divination/index.html</loc>
-  </url>
-  <url>
-    <loc>https://static.tcrouzet.com//tag/gravel/index.html</loc>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//tag/iacontent/index.html</loc>
