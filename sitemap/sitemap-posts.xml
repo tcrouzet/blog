@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://static.tcrouzet.com//2026/01/11/digest042/index.html</loc>
+    <lastmod>2026-01-11T18:03:48+01:00</lastmod>
+    <image:image>
+      <image:loc>https://static.tcrouzet.com/images_tc/2026/01/2026-01-11-172618.jpeg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://static.tcrouzet.com//2026/01/04/digest041/index.html</loc>
     <lastmod>2026-01-04T16:15:19+01:00</lastmod>
     <image:image>
@@ -230,7 +237,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2025/10/08/g727-2025-bilan/index.html</loc>
-    <lastmod>2025-10-08T12:25:51+02:00</lastmod>
+    <lastmod>2026-01-05T17:18:55+01:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2025/10/g727gd.jpeg</image:loc>
     </image:image>
