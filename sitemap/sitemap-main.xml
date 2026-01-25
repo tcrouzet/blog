@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://static.tcrouzet.com/series/index.html</loc>
-    <lastmod>2026-01-25T15:35:42+01:00</lastmod>
+    <lastmod>2026-01-25T15:51:09+01:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2026/01/2026-01-20-150555-lamaison.jpeg</image:loc>
     </image:image>
@@ -16,18 +16,18 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com/index.html</loc>
-    <lastmod>2026-01-25T15:45:23+01:00</lastmod>
+    <lastmod>2026-01-25T15:52:52+01:00</lastmod>
   </url>
   <url>
     <loc>https://static.tcrouzet.com/archives/index.html</loc>
-    <lastmod>2026-01-25T15:45:23+01:00</lastmod>
+    <lastmod>2026-01-25T15:52:52+01:00</lastmod>
   </url>
   <url>
     <loc>https://static.tcrouzet.com/menu.html</loc>
-    <lastmod>2026-01-25T15:45:23+01:00</lastmod>
+    <lastmod>2026-01-25T15:52:52+01:00</lastmod>
   </url>
   <url>
     <loc>https://static.tcrouzet.com/search.html</loc>
-    <lastmod>2026-01-25T15:45:23+01:00</lastmod>
+    <lastmod>2026-01-25T15:52:52+01:00</lastmod>
   </url>
 </urlset>
