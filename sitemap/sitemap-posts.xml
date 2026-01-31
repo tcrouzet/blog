@@ -1,6 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://static.tcrouzet.com//2026/01/31/727-2026/index.html</loc>
+    <lastmod>2026-01-31T20:24:37+01:00</lastmod>
+    <image:image>
+      <image:loc>https://static.tcrouzet.com/images_tc/2026/01/727-2026-map.jpeg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://static.tcrouzet.com//2026/01/25/digest043/index.html</loc>
+    <lastmod>2026-01-25T15:51:09+01:00</lastmod>
+    <image:image>
+      <image:loc>https://static.tcrouzet.com/images_tc/2026/01/2026-01-20-150555-lamaison.jpeg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://static.tcrouzet.com//2026/01/11/digest042/index.html</loc>
     <lastmod>2026-01-11T18:03:48+01:00</lastmod>
     <image:image>
@@ -3290,14 +3304,14 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2019/12/22/une-initiation-au-bikepacking/index.html</loc>
-    <lastmod>2024-04-30T08:24:31+02:00</lastmod>
+    <lastmod>2026-01-12T17:56:38+01:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2019/12/bikepacking1.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2019/12/bikepacking-cover.jpeg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//books/une-initiation-au-bikepacking/index.html</loc>
-    <lastmod>2024-04-30T08:24:31+02:00</lastmod>
+    <lastmod>2026-01-12T17:58:37+01:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2019/12/bikepacking-cover.jpeg</image:loc>
     </image:image>
