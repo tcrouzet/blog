@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://static.tcrouzet.com//2026/02/08/digest044/index.html</loc>
+    <lastmod>2026-02-08T15:50:20+01:00</lastmod>
+    <image:image>
+      <image:loc>https://static.tcrouzet.com/images_tc/2026/02/2026-02-07-152612.jpeg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://static.tcrouzet.com//2026/02/04/g727-2026/index.html</loc>
-    <lastmod>2026-02-04T11:12:39+01:00</lastmod>
+    <lastmod>2026-02-04T11:24:20+01:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2026/02/g727-2026-map.jpeg</image:loc>
     </image:image>
