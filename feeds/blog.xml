@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sat, 21 Mar 2026 10:56:58 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 11:01:19 +0100</lastBuildDate>
     <item>
       <title>Notre histoire d’amour racontée par une machine</title>
       <link>https://static.tcrouzet.com/2026/03/21/deuil-numerique/</link>
@@ -58,8 +58,8 @@
 <p>À travers les échanges entre Thierry et Isabelle entre 1999 et 2005, on devine l’émergence d’une nouvelle classe cyber-cosmopolite. Elle se forme à la jonction de deux héritages a priori incompatibles : la culture humaniste classique et l’économie numérique naissante. Richard Florida la baptise <em>creative class</em> en 2002 : formation supérieure, mobilité transnationale, salaires confortables des multinationales tech et stock-options, goût de la culture sans pédanterie.</p>
 <p>Cette classe vit de la technologie sans s’y réduire. Elle cherche à utiliser le Nouveau Monde numérique pour poursuivre des projets qui le précèdent et le dépassent : intellectuels, artistiques, critiques… Elle est de nulle part et de partout, mobile sans être déracinée, connectée sans être dupe de la connexion. Elle gagne bien sa vie dans le système sans en adopter les valeurs ultimes.</p>
 <p>Cette fenêtre d’opportunités se referme vite. Avant 2005, le numérique est encore un territoire à inventer. Après 2010, il est devenu infrastructure de consommation, et la tension créatrice qui animait cette classe se dissout dans la plateforme. Le type social qu’elle incarne n’a eu qu’une dizaine d’années d’existence pleine.</p>
-<hr/>
-<p>Après avoir demandé une chronologie de notre relation, j’ai demandé à NotebookLM de raconter chacune des grandes fenêtres temporelles. Il a commis de nombreuses erreurs et confusions comme des oublis flagrants. Il me paraît dangereux d’utiliser ces outils sur des sujets mal maîtrisés, comme le font souvent les étudiants. J’ai dû questionner, corriger, demander des sources pour qu’un texte cohérent finisse par émerger. J’ai réécrit de nombreux passages, tant la prose IA m’est devenue intolérable (j’espère l’avoir rendue supportable — j’écrirai d’une toute autre manière notre histoire quand je m’y attaquerai).</p>
+<h2>Notre histoire</h2>
+<p>Après avoir demandé une chronologie de notre relation, j’ai demandé à NotebookLM de raconter chacune des grandes fenêtres temporelles. Il a commis de nombreuses erreurs et confusions comme des oublis flagrants. Il me paraît dangereux d’utiliser ces outils sur des sujets mal maîtrisés, comme le font souvent les étudiants. J’ai dû questionner, corriger, demander des sources pour qu’un texte cohérent finisse par émerger. J’ai réécrit de nombreux passages, tant la prose IA m’est devenue intolérable (j’espère l’avoir rendue supportable — j’écrirai d’une toute autre manière notre histoire quand je m’y attaquerai, mais pas encore la force de m’y mettre).</p>
 <h2>1999</h2>
 <p>Le 20 janvier 1999, dans un Paris hivernal qui s’apprête à tourner la page du XX<sup>e</sup> siècle, Thierry envoie à Isabelle un mail dont le sujet « Comme promis… » évoque une rencontre, des mots échangés en amont, un accord tacite de poursuivre une discussion.</p>
 <p>Fort ds centaines de milliers de bouquins d’informatique vendus, Thierry lance la première charge intellectuelle à Isabelle, alors product manager chez Microsoft France, en critiquant la confusion visuelle du portail MSN. Il y voit un désordre de type <em>all-over</em>, technique picturale empruntée à Jackson Pollock où le regard s’égare faute de hiérarchie. Isabelle lui dit détester Pollock et propose une balade dans Paris. Tandis que l’Europe inaugure l’euro et que les Balkans s’embrasent sous les frappes de l’OTAN au Kosovo, Thierry et Isabelle se livrent à une joute épistolaire où Internet ne sert que de prétexte à leur rencontre.</p>
