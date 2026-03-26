@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 26 Mar 2026 20:31:56 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 20:33:41 +0100</lastBuildDate>
     <item>
       <title>Ni POSSE, ni Facebook : un blog, simplement</title>
       <link>https://static.tcrouzet.com/2026/03/26/digital-freedom/</link>
@@ -27,7 +27,7 @@
 <li>Mobilité des données (avec l’exigence d’effectuer des backups — <a href="https://tcrouzet.com/2025/11/25/substack-moral-choice/">ça reste le cas avec Substack, voilà pourquoi je l’utilise pour ma newsletter</a>).</li>
 <li>Possibilité d’offrir de multiples formats (web, markdown, Gemini, mail, RSS…).</li>
 </ul>
-<p>OK, c’est un peu plus compliqué que sur Facebook ou Instagram, mais la liberté a toujours un prix. On nous dit toujours « les réseaux sociaux, c’est simple ». On nous dit moins souvent « les réseaux sociaux sont des dictatures ».</p>
+<p>OK, c’est un peu plus compliqué que sur Facebook ou Instagram, mais la liberté a un prix. On nous dit toujours « les réseaux sociaux, c’est simple ». On nous dit moins souvent « les réseaux sociaux sont des dictatures ».</p>
 <h2>L’indieWeb ou le web prétendument indépendant</h2>
 <p>Lors de la création de son nouveau blog, mon lecteur s’est inspiré <a href="https://themimitoof.fr/pourquoi-vous-devriez-lancer-un-blog/" rel="noopener noreferrer">d’un article</a> qui fait l’éloge de l’<a href="https://indieweb.org/" rel="noopener noreferrer">indieWeb</a> (le web indépendant), lui-même construit autour du concept <a href="https://indieweb.org/POSSE-fr" rel="noopener noreferrer">POSSE</a>, acronyme de Publish (on your) Own Site, Syndicate Elsewhere. L’idée est simple : on publie chez soi, puis on diffuse partout ailleurs où c’est possible. J’ai longtemps joué ce jeu avant de faire marche arrière.</p>
 <p>Voilà les trois principes défendus par les membres de la communauté indieWeb :</p>
