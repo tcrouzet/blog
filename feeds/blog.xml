@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 26 Mar 2026 20:21:43 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 20:31:55 +0100</lastBuildDate>
     <item>
       <title>Ni POSSE, ni Facebook : un blog, simplement</title>
       <link>https://static.tcrouzet.com/2026/03/26/digital-freedom/</link>
@@ -27,7 +27,7 @@
 <li>Mobilité des données (avec l’exigence d’effectuer des backups — <a href="https://tcrouzet.com/2025/11/25/substack-moral-choice/">ça reste le cas avec Substack, voilà pourquoi je l’utilise pour ma newsletter</a>).</li>
 <li>Possibilité d’offrir de multiples formats (web, markdown, Gemini, mail, RSS…).</li>
 </ul>
-<p>OK, c’est un peu plus compliqué que sur Facebook ou Instagram, mais la liberté a toujours un prix : la simplicité se paye souvent d’une réduction des libertés. On nous dit toujours « les réseaux sociaux, c’est simple ». On nous dit moins souvent « les réseaux sociaux sont des dictatures ».</p>
+<p>OK, c’est un peu plus compliqué que sur Facebook ou Instagram, mais la liberté a toujours un prix. On nous dit toujours « les réseaux sociaux, c’est simple ». On nous dit moins souvent « les réseaux sociaux sont des dictatures ».</p>
 <h2>L’indieWeb ou le web prétendument indépendant</h2>
 <p>Lors de la création de son nouveau blog, mon lecteur s’est inspiré <a href="https://themimitoof.fr/pourquoi-vous-devriez-lancer-un-blog/" rel="noopener noreferrer">d’un article</a> qui fait l’éloge de l’<a href="https://indieweb.org/" rel="noopener noreferrer">indieWeb</a> (le web indépendant), lui-même construit autour du concept <a href="https://indieweb.org/POSSE-fr" rel="noopener noreferrer">POSSE</a>, acronyme de Publish (on your) Own Site, Syndicate Elsewhere. L’idée est simple : on publie chez soi, puis on diffuse partout ailleurs où c’est possible. J’ai longtemps joué ce jeu avant de faire marche arrière.</p>
 <p>Voilà les trois principes défendus par les membres de la communauté indieWeb :</p>
@@ -38,8 +38,8 @@
 </ol>
 <p>Selon POSSE, il serait bon de diffuser tant et plus, par tous les moyens, mais c’est très coûteux en énergie, donc irresponsable, et politiquement très douteux.</p>
 <p>Je ne publie plus sur Facebook et consorts à cause de leur politique de filtrage, de leur technofascisme affiché, de leur promotion des fakenews, de leur capacité à me faire taire du jour au lendemain, de leur appropriation de mes données, de leur propension à m’abrutir… Je refuse de collaborer à ce système. Donc, non, il n’est plus question de syndiquer mes contenus aveuglément dans l’idée de maximiser ma visibilité.</p>
-<p>Je préfère être invisible et rester en accord avec mes valeurs. Je ne poursuis pas la connexion à tout prix. Je me fiche d’être mieux connecté. Je cherche seulement des connexions de qualité. <a href="https://tcrouzet.com/tag/isa/">Voilà ce qui importe quand il nous arrive des coups durs dans la vie.</a> Je préfère dix messages écrits avec amour que des milliers de likes et de partages.</p>
-<p>Par ailleurs, même quand nous publions chez nous, nous perdons le contrôle du référencement comme de ce que lecteurs et algorithmes font de nos contenus. Si par malheur nous syndiquons, nous contrôlons encore moins. À vrai dire, je me fiche du contrôle. Ça ne m’intéresse pas. Voilà pourquoi je publie sous licence libre.</p>
+<p>Je préfère être invisible et rester en accord avec mes valeurs. Je ne poursuis pas la connexion à tout prix. Je cherche seulement des connexions de qualité. <a href="https://tcrouzet.com/tag/isa/">Voilà ce qui importe quand il nous arrive des coups durs dans la vie.</a> Je préfère dix messages écrits avec amour que des milliers de likes et de partages.</p>
+<p>Par ailleurs, même quand nous publions chez nous, nous perdons le contrôle du référencement comme de ce que lecteurs et algorithmes font de nos contenus. Si par malheur nous syndiquons, nous contrôlons encore moins. À vrai dire, le contrôle ne m’intéresse pas. Voilà pourquoi je publie sous licence libre.</p>
 <p>Je tente de rester autonome, mais indépendant, surtout pas. J’ai besoin de vous, dépends de vous, et aujourd’hui que je suis veuf, plus que jamais. Je ne publie que parce que vous êtes là. L’indépendance est une chimère libéraliste. En un temps de dérèglements climatiques, l’indépendance est une idée à combattre. Je préfère prendre conscience de mes dépendances et cultiver celles qui me grandissent tout en m’opposant à celles qui réduisent nos libertés.</p>
 <figure><img alt="Violet : miroirs Jaune : backups Orange : Social" height="566" src="https://static.tcrouzet.com/images_tc/2026/03/crouzetmap.webp" width="1024"/><figcaption>Violet : miroirs Jaune : backups Orange : Social</figcaption></figure>
 <p><em>PS : Je ne sais où j’ai trouvé la force de cet article, peut-être parce que j’y rabâche des idées éculées, qui ne semblent pourtant pas encore évidentes pour tout le monde.</em></p>]]></description>
