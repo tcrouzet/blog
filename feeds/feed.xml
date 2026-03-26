@@ -8,7 +8,45 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 25 Mar 2026 11:31:23 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 20:15:47 +0100</lastBuildDate>
+    <item>
+      <title>Ni POSSE, ni Facebook : un blog, simplement</title>
+      <link>https://static.tcrouzet.com/2026/03/26/digital-freedom/</link>
+      <description><![CDATA[<img alt="Ni POSSE, ni Facebook : un blog, simplement" src="https://static.tcrouzet.com/images_tc/2026/03/crouzetmap.webp"/><p>Il y a quelques jours, un lecteur photographe m’a écrit pour me demander de l’aide. Au prétexte qu’il a publié des images érotiques mais pas plus choquantes que celles d’Helmut Newton, Bettina Rheims ou Jeanloup Sieff, Facebook a fermé son compte : il a perdu ses publications depuis 2009, sans même parler de son réseau.</p>
+<p>Que lui dire sinon « C’est dommage » et « Débrouille-toi avec le bon vouloir de Facebook » ? Cette mésaventure est fort banale. Depuis longtemps, nous sommes nombreux à dénoncer la toute-puissance des plateformes centralisées. Nous devrions nous détourner de ces services quand ils ne nous donnent pas la main sur nos données et se permettent de filtrer nos messages.</p>
+<p>Communiquer sur les réseaux sociaux privatifs, c’est comme publier des livres dont les libraires déchireraient la plupart des pages. La règle du jeu est connue : les plateformes sont des zones de non-droit qui tiennent de la dictature plus que de la démocratie. On peut s’y exprimer librement tant que ça ne nuit pas au gouvernement, exactement comme en Chine.</p>
+<p>Si nous ne prenons pas en main notre vie numérique, si nous n’utilisons pas des services dont nous disposons des clés, la mésaventure qui frappe mon lecteur risque de nous arriver tôt ou tard, ne serait-ce que parce que nous tiendrons des propos politiques en désaccord avec le boss de la plateforme.</p>
+<h2>D’où l’intérêt du blog</h2>
+<p>Fort de ce constat, un autre lecteur a décidé de publier chez lui, c’est-à-dire de créer <a href="https://brouillonsetbuvards.sitelf.fr/" rel="noopener noreferrer">un blog</a>. Presque que des avantages :</p>
+<ul>
+<li>Ne plus offrir gratuitement des contenus aux plateformes.</li>
+<li>S’opposer à leur force de centralisation du web (ce qui revient à une prise de pouvoir).</li>
+<li>Parler sans censure.</li>
+<li><a href="https://tcrouzet.com/2025/11/16/smolweb-smolnet/">Minimiser l’impact écologique.</a></li>
+<li>Accessibilité dans le temps (les articles ne disparaissent pas dans une timeline).</li>
+<li>Mobilité des données (avec l’exigence d’effectuer des backups — <a href="https://tcrouzet.com/2025/11/25/substack-moral-choice/">ça reste le cas avec Substack, voilà pourquoi je l’utilise pour ma newsletter</a>).</li>
+<li>Possibilité d’offrir de multiples formats (web, markdown, Gemini, mail, RSS…).</li>
+</ul>
+<p>OK, c’est un peu plus compliqué que sur Facebook ou Instagram, mais la liberté a toujours un prix : la simplicité se paye souvent d’une réduction des libertés. On nous dit toujours « les réseaux sociaux, c’est simple ». On nous dit moins souvent « les réseaux sociaux sont des dictatures ».</p>
+<h2>L’indieWeb ou le web prétendument indépendant</h2>
+<p>Lors de la création de son nouveau blog, mon lecteur s’est inspiré <a href="https://themimitoof.fr/pourquoi-vous-devriez-lancer-un-blog/" rel="noopener noreferrer">d’un article</a> qui fait l’éloge de l’<a href="https://indieweb.org/" rel="noopener noreferrer">indieWeb</a> (le web indépendant), lui-même construit autour du concept <a href="https://indieweb.org/POSSE-fr" rel="noopener noreferrer">POSSE</a>, acronyme de Publish (on your) Own Site, Syndicate Elsewhere. L’idée est simple : on publie chez soi, puis on diffuse partout ailleurs où c’est possible. J’ai longtemps joué ce jeu avant de faire marche arrière.</p>
+<p>Voilà les trois principes défendus par les membres de la communauté indieWeb :</p>
+<ol>
+<li><strong>Vos contenus vous appartiennent</strong> (ce qui n’est pas le cas avec Facebook et autres : vous cédez vos droits).</li>
+<li><strong>Vous êtes mieux connecté</strong> (puisque vous diffusez partout depuis votre base de lancement personnelle — j’appelais ça la propulsion il y a presque 20 ans).</li>
+<li><strong>Vous gardez le contrôle</strong> (puisque vous publiez ce que vous voulez).</li>
+</ol>
+<p>Selon POSSE, il serait bon de diffuser tant et plus, par tous les moyens, mais c’est très coûteux en énergie, donc irresponsable, et politiquement très douteux.</p>
+<p>Je ne publie plus sur Facebook et consorts à cause de leur politique de filtrage, de leur technofascisme affiché, de leur promotion des fakenews, de leur capacité à me faire taire du jour au lendemain, de leur appropriation de mes données, de leur propension à m’abrutir… Je refuse de collaborer à ce système. Donc, non, il n’est plus question de syndiquer mes contenus aveuglément dans l’idée de maximiser ma visibilité.</p>
+<p>Je préfère être invisible et rester en accord avec mes valeurs. Je ne poursuis pas la connexion à tout prix. Je me fiche d’être mieux connecté. Je cherche seulement des connexions de qualité. <a href="https://tcrouzet.com/tag/isa/">Voilà ce qui importe quand il nous arrive des coups durs dans la vie.</a> Je préfère dix messages écrits avec amour que des milliers de likes et de partages.</p>
+<p>Par ailleurs, même quand nous publions chez nous, nous perdons le contrôle du référencement comme de ce que lecteurs et algorithmes font de nos contenus. Si par malheur nous syndiquons, nous contrôlons encore moins. À vrai dire, je me fiche du contrôle. Ça ne m’intéresse pas. Voilà pourquoi je publie sous licence libre.</p>
+<p>Je tente de rester autonome, mais indépendant, surtout pas. J’ai besoin de vous, dépends de vous, et aujourd’hui que je suis veuf, plus que jamais. Je ne publie que parce que vous êtes là. L’indépendance est une chimère libéraliste. En un temps de dérèglements climatiques, l’indépendance est une idée à combattre. Je préfère prendre conscience de mes dépendances et cultiver celles qui me grandissent tout en m’opposant à celles qui réduisent nos libertés.</p>
+<figure><img alt="Violet : miroirs Jaune : backups Orange : Social" height="566" src="https://static.tcrouzet.com/images_tc/2026/03/crouzetmap.webp" width="1024"/><figcaption>Violet : miroirs Jaune : backups Orange : Social</figcaption></figure>
+<p>*PS : Je ne sais où j’ai trouvé la force de cet article, peut-être parce que j’y rabâche des idées éculées, qui ne semblent pourtant pas encore évidentes pour tout le monde.</p>]]></description>
+      <guid isPermaLink="false">https://static.tcrouzet.com/2026/03/26/digital-freedom/</guid>
+      <enclosure url="https://static.tcrouzet.com/images_tc/2026/03/crouzetmap.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 26 Mar 2026 20:30:00 +0100</pubDate>
+    </item>
     <item>
       <title>Enfin : les traces de la POU100</title>
       <link>https://static.tcrouzet.com/2026/03/25/POU100-gpx/</link>
@@ -194,36 +232,6 @@ Narratives interactives, réalité augmentée et sonification : des approches 
       <guid isPermaLink="false">https://static.tcrouzet.com/2026/03/15/digest046/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2026/03/2026-03-14-181619.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 15 Mar 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>On fignole la POU100</title>
-      <link>https://static.tcrouzet.com/2026/03/13/pour-le plaisir/</link>
-      <description><![CDATA[<img alt="On fignole la POU100" src="https://static.tcrouzet.com/images_tc/2026/03/mapPOU100.webp"/><p><a href="https://tcrouzet.com/2026/03/05/POU100-2026/">Après avoir bouclé les recos sur les parcours 100 km et 160 miles</a>, nous avons enfin concocté une variante roulante pour boucler le 250 km (<a href="https://www.helloasso.com/associations/ec-poussan/evenements/pou100-100-miles-100-km-ou-250km-gravel-de-poussan-2026" rel="noopener noreferrer">quasi complètes, restent 5 places</a>). C’est parfois très compliqué de trouver les itinéraires hors asphalte pour les gravels. Nous adorons la pratique, mais elle est souvent restrictive. Alors nous sommes doublement heureux quand nous dénichons une solution quasi impossible à l’équation. Voici quelques photos pour le plaisir de partager. Rien de plat dans ce secteur. <a href="https://www.strava.com/activities/17698013934" rel="noopener noreferrer">Nous avons grimpé près de 2000 m pour 90 km.</a></p>
-<figure><img alt="Traces POU100 2026" height="426" src="https://static.tcrouzet.com/images_tc/2026/03/mapPOU100.webp" width="1024"/><figcaption>Traces POU100 2026</figcaption></figure>
-<figure><img alt="Sur trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-093806.webp" width="1024"/><figcaption>Sur trace</figcaption></figure>
-<figure><img alt="Hors trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-111810.webp" width="1024"/><figcaption>Hors trace</figcaption></figure>
-<figure><img alt="Hors trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-112535.webp" width="1024"/><figcaption>Hors trace</figcaption></figure>
-<figure><img alt="Hors trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-113424.webp" width="1024"/><figcaption>Hors trace</figcaption></figure>
-<figure><img alt="Hors trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-115239.webp" width="1024"/><figcaption>Hors trace</figcaption></figure>
-<figure><img alt="Hors trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-115707.webp" width="1024"/><figcaption>Hors trace</figcaption></figure>
-<figure><img alt="Hors trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-115715.webp" width="1024"/><figcaption>Hors trace</figcaption></figure>
-<figure><img alt="Hors trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-120020.webp" width="1024"/><figcaption>Hors trace</figcaption></figure>
-<figure><img alt="Hors trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-120132.webp" width="1024"/><figcaption>Hors trace</figcaption></figure>
-<figure><img alt="Hors trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-131336.webp" width="1024"/><figcaption>Hors trace</figcaption></figure>
-<figure><img alt="Sur trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-133307.webp" width="1024"/><figcaption>Sur trace</figcaption></figure>
-<figure><img alt="Sur trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-133403.webp" width="1024"/><figcaption>Sur trace</figcaption></figure>
-<figure><img alt="Sur trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-133718.webp" width="1024"/><figcaption>Sur trace</figcaption></figure>
-<figure><img alt="Sur trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-133755.webp" width="1024"/><figcaption>Sur trace</figcaption></figure>
-<figure><img alt="Sur trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-143903.webp" width="1024"/><figcaption>Sur trace</figcaption></figure>
-<figure><img alt="Sur trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-145119.webp" width="1024"/><figcaption>Sur trace</figcaption></figure>
-<figure><img alt="Sur trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-145534.webp" width="1024"/><figcaption>Sur trace</figcaption></figure>
-<figure><img alt="Sur trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-150605.webp" width="1024"/><figcaption>Sur trace</figcaption></figure>
-<figure><img alt="Sur trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-160438.webp" width="1024"/><figcaption>Sur trace</figcaption></figure>
-<figure><img alt="Sur trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-160444.webp" width="1024"/><figcaption>Sur trace</figcaption></figure>
-<figure><img alt="Sur trace" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-12-160452.webp" width="1024"/><figcaption>Sur trace</figcaption></figure>]]></description>
-      <guid isPermaLink="false">https://static.tcrouzet.com/2026/03/13/pour-le plaisir/</guid>
-      <enclosure url="https://static.tcrouzet.com/images_tc/2026/03/mapPOU100.webp" length="0" type="image/webp"/>
-      <pubDate>Fri, 13 Mar 2026 09:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
