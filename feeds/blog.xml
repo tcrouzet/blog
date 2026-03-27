@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 26 Mar 2026 20:33:41 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 07:11:33 +0100</lastBuildDate>
     <item>
       <title>Ni POSSE, ni Facebook : un blog, simplement</title>
       <link>https://static.tcrouzet.com/2026/03/26/digital-freedom/</link>
@@ -26,6 +26,7 @@
 <li>Accessibilité dans le temps (les articles ne disparaissent pas dans une timeline).</li>
 <li>Mobilité des données (avec l’exigence d’effectuer des backups — <a href="https://tcrouzet.com/2025/11/25/substack-moral-choice/">ça reste le cas avec Substack, voilà pourquoi je l’utilise pour ma newsletter</a>).</li>
 <li>Possibilité d’offrir de multiples formats (web, markdown, Gemini, mail, RSS…).</li>
+<li>Personnalisation infinie.</li>
 </ul>
 <p>OK, c’est un peu plus compliqué que sur Facebook ou Instagram, mais la liberté a un prix. On nous dit toujours « les réseaux sociaux, c’est simple ». On nous dit moins souvent « les réseaux sociaux sont des dictatures ».</p>
 <h2>L’indieWeb ou le web prétendument indépendant</h2>
