@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 24 Apr 2026 20:19:45 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 21:48:22 +0200</lastBuildDate>
     <item>
       <title>Adieu Garmin, le Dura a tout changé pour le bikepacking</title>
       <link>https://static.tcrouzet.com/2026/04/24/one-year-with-coros-dura/</link>
@@ -28,6 +28,7 @@
 <ul>
 <li>Carte personnalisable comme sur les Garmin. Coros devrait fournir aux geeks un générateur de cartes.</li>
 <li>Préréglage du zoom. Au départ d’une trace, je dois systématiquement zoomer au maximum, car le 200 m par défaut ne sert à rien.</li>
+<li>Pouvoir régler le zoom avec les boutons (seule fonction aujourd’hui qui nécessite le tactile).</li>
 <li>Le zoom à 50 m est insuffisant pour le VTT. Un zoom à 30 m comme sur les Garmin serait appréciable.</li>
 <li>Gros bug quand on prend une trace à l’envers ou fait demi-tour (la trace s’efface parfois).</li>
 <li>Réelle personnalisation des écrans, où s’affichent encore des informations non sollicitées comme la distance du prochain point d’intérêt ou le profil des montées (ce que j’apprécie plutôt, mais je ne l’ai pas choisi).</li>
