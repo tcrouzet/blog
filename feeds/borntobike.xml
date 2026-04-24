@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 24 Apr 2026 20:09:22 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 20:19:46 +0200</lastBuildDate>
     <item>
       <title>Adieu Garmin, le Dura a tout changé pour le bikepacking</title>
       <link>https://static.tcrouzet.com/2026/04/24/one-year-with-coros-dura/</link>
@@ -27,7 +27,7 @@
 <p>Est-il parfait pour autant ? Loin de là. Voici ce qui lui manque encore.</p>
 <ul>
 <li>Carte personnalisable comme sur les Garmin. Coros devrait fournir aux geeks un générateur de cartes.</li>
-<li>Préréglage du zoom. Au départ d’une trace, je dois systématiquement zoomer au maximum, car le 200 m par défaut ne se me sert strictement à rien.</li>
+<li>Préréglage du zoom. Au départ d’une trace, je dois systématiquement zoomer au maximum, car le 200 m par défaut ne sert à rien.</li>
 <li>Le zoom à 50 m est insuffisant pour le VTT. Un zoom à 30 m comme sur les Garmin serait appréciable.</li>
 <li>Gros bug quand on prend une trace à l’envers ou fait demi-tour (la trace s’efface parfois).</li>
 <li>Réelle personnalisation des écrans, où s’affichent encore des informations non sollicitées comme la distance du prochain point d’intérêt ou le profil des montées (ce que j’apprécie plutôt, mais je ne l’ai pas choisi).</li>
@@ -35,11 +35,11 @@
 <li>Impossible d’afficher la liste des prochains POI.</li>
 <li>Les profils des montées s’arrêtent souvent loin des sommets ou au moindre faux plat descendant.</li>
 <li>L’échelle des couleurs sur les profils n’est pas toujours la même. Standardiser serait bienvenue. Par exemple, rouge après 15 %, noir après 20 %. C’est un peu aléatoire pour le moment.</li>
-<li>Ne plus prendre en compte les descentes dans le pourcentage total d’une montée. Le Dura se contente de diviser le dénivelé par la distance.</li>
+<li>Calculer correctement le pourcentage d’une montée. Le Dura se contente de diviser le dénivelé entre le début et la fin par la distance (et non le dénivelé total).</li>
 <li>Possibilité d’inverser le sens d’une trace avant de la lancer.</li>
 <li>Que le no-reroute ne soit pas associé à chaque trace, mais global.</li>
 <li>Que tous les réglages soient accessibles depuis l’app sur le téléphone, ce qui n’est pas le cas. Par exemple, les bips intempestifs se coupent uniquement sur le GPS.</li>
-<li>Mieux gérer les GPX très longs (Garmin ne sait pas faire non plus). J’évite les traces de plus de 250 km. Je ne sais pas à partir de combien de points le Dura commence à perdre les pédales (8 000 pour un Garmin).</li>
+<li>Mieux gérer les GPX très longs (Garmin ne sait pas faire non plus). J’évite les traces de plus de 250 km. Je ne sais pas à partir de combien de points le Dura commence à perdre les pédales (8 000 pour un Garmin). Il suffirait d’effectuer une découpage automatique sur l’app.</li>
 <li>Gestion des GPX avec traces multiples.</li>
 <li>Calibration de l’altimètre avant le départ. J’habite au bord de la mer et il m’arrive de partir à 200 m d’altitude ou à -100 m.</li>
 <li>Je ne vous ai pas parlé du reroutage sur le Dura, ça n’a aucune utilité. Je préfère recréer des traces à la volée sur mon téléphone et les renvoyer au GPS (possible sur le Dura sans arrêter l’enregistrement en cours, contrairement au Garmin).</li>
@@ -48,11 +48,11 @@
 <p>Je n’utilise que le profil d’activité VTT (les écrans disponibles et les affichages non sollicités diffèrent selon les profils). Je n’utilise jamais le mode écran partagé. J’ai conservé trois écrans.</p>
 <figure><img alt="Profil VTT" class="portrait" height="2226" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-170255.webp" width="1024"/><figcaption>Profil VTT</figcaption></figure>
 <figure><img alt="Map plein écran" class="portrait" height="2226" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-172057.webp" width="1024"/><figcaption>Map plein écran</figcaption></figure>
-<p>Par défaut, je suis sur la cartographie, avec en bas la distance du prochain POI (ce qui s’avère très pratique en longue distance, notamment pour les points d’eau). En montée, le profil s’affiche sur le tiers inférieur de l’écran, ce qui permet de suivre la trace (bien plus sioux que le climb pro des Garmin). Mon but : que la carte occupe la surface maximale. Toute autre information est une distraction.</p>
+<p>Par défaut, en bikepacking, je suis sur la carte, avec en bas la distance du prochain POI (ce qui s’avère très pratique en longue distance, notamment pour les points d’eau). En montée, le profil s’affiche sur le tiers inférieur de l’écran, ce qui permet de suivre la trace (bien plus sioux que le climb pro des Garmin). Mon but : que la carte occupe la surface maximale. Toute autre information est une distraction.</p>
 <figure><img alt="Écran quand je suis pas de trace" class="portrait" height="2226" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-172424.webp" width="1024"/><figcaption>Écran quand je suis pas de trace</figcaption></figure>
 <p>Le deuxième écran affiche les paramètres essentiels (vitesse, distance, température, dénivelé, heure…). Je n’utilise quasiment jamais le troisième, car je ne branche rarement mon capteur cardiaque.</p>
 <figure><img alt="Paramètres accéssoires" class="portrait" height="2226" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-172612.webp" width="1024"/><figcaption>Paramètres accéssoires</figcaption></figure>
-<p>Sur le GPS, je coupe les sons et désactive le reroutage avant de lancer une trace. C’est d’une simplicité biblique comparé à un Garmin. je vous encourage à essayer.</p>]]></description>
+<p>Sur le GPS, je coupe les sons et désactive le reroutage avant de lancer une trace. C’est d’une simplicité biblique comparé à un Garmin. Je vous encourage à essayer.</p>]]></description>
       <guid isPermaLink="false">https://static.tcrouzet.com/2026/04/24/one-year-with-coros-dura/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-172057.webp" length="0" type="image/webp"/>
       <pubDate>Fri, 24 Apr 2026 20:00:00 +0200</pubDate>
