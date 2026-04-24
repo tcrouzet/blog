@@ -8,7 +8,55 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 19 Apr 2026 13:59:46 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 20:09:21 +0200</lastBuildDate>
+    <item>
+      <title>Adieu Garmin, le Dura a tout changé pour le bikepacking</title>
+      <link>https://static.tcrouzet.com/2026/04/24/one-year-with-coros-dura/</link>
+      <description><![CDATA[<img alt="Adieu Garmin, le Dura a tout changé pour le bikepacking" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-172057.webp"/><p>On ne cesse de me demander ce que je pense du <a href="https://fr.coros.com/dura" rel="noopener noreferrer">Dura</a> (sorti en avril 2024), s’il plante toujours, si je suis revenu à un Garmin, si je suis satisfait.</p>
+<p>Mon premier article d’avril 2025 était très négatif. J’y affirmais que <a href="https://tcrouzet.com/2025/04/24/coros-dura-bugs/">le Dura était quasi inutilisable</a>, à cause d’une série de bugs, d’une interface incomplète et d’une cartographie affligeante. En août, <a href="https://tcrouzet.com/2025/08/01/bikepacking-auvergne-bretagne-dura/">je relevais la correction de quelques bugs et l’ajout de la possibilité de désactiver le reroutage, tout en reconnaissant que le Dura était le GPS idéal pour le bikepacking</a>, grâce à son incroyable autonomie. Quelque mois et <a href="https://support.coros.com/hc/fr/articles/32924317141652-Notes-de-version-COROS-DURA" rel="noopener noreferrer">mises à jours plus tard</a>, je suis presque élogieux.</p>
+<p>Je peux désormais partir en bikepacking sans powerbank. Pour moi, le bikepacking, c’est suivre durant plusieurs jours une trace qui, le plus souvent, nous emmène loin de l’asphalte. Le GPS affiche la trace sur un fond de carte et nous positionne. On ne lui demande rien d’autre.</p>
+<p>Si nous voulons sortir de la trace, nous improvisons ou utilisons les cartes embarquées sur nos téléphones, bien plus précises et détaillées. Inutile de dupliquer ces fonctions sur le GPS : nous disposons déjà d’ordinateurs surpuissants dans nos poches. </p>
+<p>L’été dernier, après dix jours de bikepacking en Bretagne, mon Dura n’avait consommé que 50 % de sa batterie, quand les copains avec leurs Garmin, même trois fois plus chers, rechargeaient à minimum tous les deux jours, avec le stress de tomber en panne sèche. Rouler avec un Dura, c’est un souci de moins. Tu le montes sur ton vélo et ne t’en préoccupes plus durant des semaines. Je ne le charge plus qu’avant les départs en voyage. Il tient jusqu’au suivant, même en hiver. Garmin commet l’erreur de vouloir mettre toujours plus de puissance dans ses GPS. C’est absurde.</p>
+<figure><img alt="No re-route, indispensable en bikepacking" class="portrait" height="1024" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-155822.webp" width="1024"/><figcaption>No re-route, indispensable en bikepacking</figcaption></figure>
+<p>Quand nous suivons des traces hors asphalte, les copains avec les Garmin tournent souvent trop tôt ou me disent que je ne suis plus sur la trace alors mon Dura annonce le contraire. Les Garmin sont fébriles dès que nous quittons les secteurs dûment cartographiés. Ils ont tendance à rerouter automatiquement — faut bien qu’ils utilisent leur puissance —, et il est souvent très difficile d’arrêter ce reroutage. En gros, les Garmin ne font pas confiance à la trace, alors que les Dura ferment leur gueule et se contentent de l’afficher. Nous ne leur demandons rien de plus en bikepacking.</p>
+<p>Venant d’un Garmin avec fond de carte IGN, la cartographie du Dura m’est initialement apparue des plus spartiates. Les dernières mises à jour séparent enfin les chemins des petites routes, ce qui était plus que nécessaire et attendu. La carte reste néanmoins le point faible du Dura, tout comme la réactivité. Quand on tourne, l’écran met deux ou trois secondes à réagir, ce qui est gênant quand la trace effectue des tours et détours dans des singles ou des rues avec beaucoup d’embranchements. J’ai appris à anticiper, mais je me trompe plus souvent qu’avec un Garmin.</p>
+<p>Cette imprécision cartographique et cette lenteur sont le prix à payer pour une énorme autonomie, et c’est un prix que j’accepte avec joie. Pour aller plus vite, le Dura devrait embarquer un processeur plus puissant, donc consommer beaucoup plus (le Dura 2 résoudra peut-être ce problème).</p>
+<figure><img alt="Map sur l’app" class="portrait" height="2226" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-161215.webp" width="1024"/><figcaption>Map sur l’app</figcaption></figure>
+<p>L’app Coros sur téléphone a elle aussi fait d’énormes progrès, avec la possibilité d’afficher la trace sur fond satellite ou OSM. Nous utilisons souvent cette fonction lors de nos reconnaissances, même si elle ne fonctionne pas hors ligne (voilà pourquoi je reste fidèle à <a href="https://mapout.app/" rel="noopener noreferrer">MapOut</a>).</p>
+<p>Je recommande donc à tous les bikepackers de troquer leur Garmin pour un Dura. Quand un Garmin fait-il sens ? Je ne sais pas trop, peut-être pour suivre certains programmes d’entraînement. Je n’en suis même pas sûr : on peut connecter le Dura à des capteurs Ant+. Pour les bikepacker et les dilettantes de mon espèce — 11 000 km/an —, le Dura est désormais un no brainer.</p>
+<p>Est-il parfait pour autant ? Loin de là. Voici ce qui lui manque encore.</p>
+<ul>
+<li>Carte personnalisable comme sur les Garmin. Coros devrait fournir aux geeks un générateur de cartes.</li>
+<li>Préréglage du zoom. Au départ d’une trace, je dois systématiquement zoomer au maximum, car le 200 m par défaut ne se me sert strictement à rien.</li>
+<li>Le zoom à 50 m est insuffisant pour le VTT. Un zoom à 30 m comme sur les Garmin serait appréciable.</li>
+<li>Gros bug quand on prend une trace à l’envers ou fait demi-tour (la trace s’efface parfois).</li>
+<li>Réelle personnalisation des écrans, où s’affichent encore des informations non sollicitées comme la distance du prochain point d’intérêt ou le profil des montées (ce que j’apprécie plutôt, mais je ne l’ai pas choisi).</li>
+<li>Impossible d’afficher la distance restante jusqu’à la fin de la trace (seulement jusqu’au prochain POI, affiché automatiquement en bas d’écran).</li>
+<li>Impossible d’afficher la liste des prochains POI.</li>
+<li>Les profils des montées s’arrêtent souvent loin des sommets ou au moindre faux plat descendant.</li>
+<li>L’échelle des couleurs sur les profils n’est pas toujours la même. Standardiser serait bienvenue. Par exemple, rouge après 15 %, noir après 20 %. C’est un peu aléatoire pour le moment.</li>
+<li>Ne plus prendre en compte les descentes dans le pourcentage total d’une montée. Le Dura se contente de diviser le dénivelé par la distance.</li>
+<li>Possibilité d’inverser le sens d’une trace avant de la lancer.</li>
+<li>Que le no-reroute ne soit pas associé à chaque trace, mais global.</li>
+<li>Que tous les réglages soient accessibles depuis l’app sur le téléphone, ce qui n’est pas le cas. Par exemple, les bips intempestifs se coupent uniquement sur le GPS.</li>
+<li>Mieux gérer les GPX très longs (Garmin ne sait pas faire non plus). J’évite les traces de plus de 250 km. Je ne sais pas à partir de combien de points le Dura commence à perdre les pédales (8 000 pour un Garmin).</li>
+<li>Gestion des GPX avec traces multiples.</li>
+<li>Calibration de l’altimètre avant le départ. J’habite au bord de la mer et il m’arrive de partir à 200 m d’altitude ou à -100 m.</li>
+<li>Je ne vous ai pas parlé du reroutage sur le Dura, ça n’a aucune utilité. Je préfère recréer des traces à la volée sur mon téléphone et les renvoyer au GPS (possible sur le Dura sans arrêter l’enregistrement en cours, contrairement au Garmin).</li>
+</ul>
+<h2>Ma config</h2>
+<p>Je n’utilise que le profil d’activité VTT (les écrans disponibles et les affichages non sollicités diffèrent selon les profils). Je n’utilise jamais le mode écran partagé. J’ai conservé trois écrans.</p>
+<figure><img alt="Profil VTT" class="portrait" height="2226" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-170255.webp" width="1024"/><figcaption>Profil VTT</figcaption></figure>
+<figure><img alt="Map plein écran" class="portrait" height="2226" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-172057.webp" width="1024"/><figcaption>Map plein écran</figcaption></figure>
+<p>Par défaut, je suis sur la cartographie, avec en bas la distance du prochain POI (ce qui s’avère très pratique en longue distance, notamment pour les points d’eau). En montée, le profil s’affiche sur le tiers inférieur de l’écran, ce qui permet de suivre la trace (bien plus sioux que le climb pro des Garmin). Mon but : que la carte occupe la surface maximale. Toute autre information est une distraction.</p>
+<figure><img alt="Écran quand je suis pas de trace" class="portrait" height="2226" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-172424.webp" width="1024"/><figcaption>Écran quand je suis pas de trace</figcaption></figure>
+<p>Le deuxième écran affiche les paramètres essentiels (vitesse, distance, température, dénivelé, heure…). Je n’utilise quasiment jamais le troisième, car je ne branche rarement mon capteur cardiaque.</p>
+<figure><img alt="Paramètres accéssoires" class="portrait" height="2226" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-172612.webp" width="1024"/><figcaption>Paramètres accéssoires</figcaption></figure>
+<p>Sur le GPS, je coupe les sons et désactive le reroutage avant de lancer une trace. C’est d’une simplicité biblique comparé à un Garmin. je vous encourage à essayer.</p>]]></description>
+      <guid isPermaLink="false">https://static.tcrouzet.com/2026/04/24/one-year-with-coros-dura/</guid>
+      <enclosure url="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-172057.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 24 Apr 2026 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Contre l’industrialisation de la littérature</title>
       <link>https://static.tcrouzet.com/2026/04/18/IA-ecriture/</link>
@@ -164,44 +212,6 @@ L’algorithme compresse le cache conversationnel des modèles de langage et per
       <guid isPermaLink="false">https://static.tcrouzet.com/2026/04/12/digest048/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2026/04/2026-04-09-193653.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 12 Apr 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Le livre étouffe dans les silos sociaux</title>
-      <link>https://static.tcrouzet.com/2026/04/08/silos-sociaux-edition/</link>
-      <description><![CDATA[<img alt="Le livre étouffe dans les silos sociaux" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-07-172234.webp"/><p><a href="https://tcrouzet.com/tag/isa/">Le deuil</a> me plonge dans le vide. Je regarde les fleurs exubérantes dans le jardin, puis leur beauté douloureuse me pousse à détourner le regard, à le poser sur mon écran, et par dépit, par manque d’énergie, j’ouvre une fenêtre Mastodon pour lire quelques posts au hasard.</p>
-<figure><img alt="Le jardin" height="768" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-07-172234.webp" width="1024"/><figcaption>Le jardin</figcaption></figure>
-<p>J’avais perdu cette habitude, et ma faiblesse me rappelle combien la tentation est puissante, bien que je m’en préserve pour l’essentiel, ayant disparu des réseaux sociaux privatifs (propriétés d’entreprises) et emprisonnants (on ne peut les quitter en emportant ses contacts) — les fameux silos sociaux, qui ont vidé la notion de « réseau social » de sa substance pour ne servir que des objectifs financiers, voire politiques.</p>
-<p>Je tombe sur <a href="https://mamot.fr/@Auxforgesdevulcain@mastodon.social/116363501299854642" rel="noopener noreferrer">un message des éditions Aux forges de Vulcain</a>, dont j’aime le positionnement, littéraire sans renoncer à l’imaginaire. Il s’agit de promouvoir leur newsletter. Je clique et tombe sur un formulaire d’inscription sans accès à des contenus. J’en fais la remarque. S’ensuit un échange, où l’éditeur m’explique que la newsletter annonce les sorties et qu’ils racontent leur vie sur les silos. J’expose mes réticences à cette méthode et la réponse me paraît symptomatique d’une gangrène insidieuse.</p>
-<blockquote>
-<p>Je distingue la position de l’auteur de celle de l’éditeur. L’auteur doit créer, l’éditeur doit diffuser son œuvre. Si l’un peut se passer absolument des réseaux, c’est plus compliqué pour l’autre.</p>
-</blockquote>
-<p>Je crois nocive l’opposition entre personne morale et raison sociale : au nom de la seconde, les employés ferment souvent les yeux sur les horreurs que commettent leurs entreprises. Des employés de chez Monsanto rentrent chez eux le soir et mangent bio, sans scrupule. On ne peut pas changer de casquette en changeant de crémerie.</p>
-<p>Les silos sociaux, avec leurs algorithmes de manipulation de masse, nous transforment en lemmings mangeurs de pubs. Ils siphonnent nos données, manipulent nos opinions, s’emparent de notre attention, et de toutes leurs forces la soustraient aux autres médias, dont les livres. Cette réalité s’impose que nous soyons auteurs ou éditeurs. Nous sommes engagés dans le même combat culturel, même si nous escaladons la montagne par des faces différentes.</p>
-<p>Les silos combattent la chaîne du livre, les textes longs, le temps passé hors ligne. Une fois qu’ils nous ont ferrés, ils ne nous lâchent plus. Croire que nous avons encore quelque chose à gagner dans ces espaces est une illusion. On n’est plus dans la logique win-win des débuts. Nous avons tout à perdre à investir dans des outils dont les intérêts diffèrent des nôtres, sont contraires aux nôtres.</p>
-<figure><img alt="Ma communauté sur Substack, transférable à tout moment" class="portrait" height="1154" src="https://static.tcrouzet.com/images_tc/2026/04/subTC.webp" width="1024"/><figcaption>Ma communauté sur Substack, transférable à tout moment</figcaption></figure>
-<p>Si on accepte cette analyse, qui n’a rien de radical, pourquoi continuer à communiquer sur les silos sinon dans la croyance trompeuse qu’il est impossible de faire autrement ? J’ai gagné des lecteurs depuis que j’ai fermé mes comptes. Mon éditeur <a href="https://pvh-editions.com/" rel="noopener noreferrer">PVH</a> fait un travail remarquable loin des silos. Il n’y a pas de fatalité.</p>
-<p>Si les artistes, les auteurs, les éditeurs se veulent des fers de lance culturels, éveillés politiquement comme esthétiquement, ils ne peuvent que se démarquer des outils qui favorisent l’émergence de dangereux personnages comme Trump tout en lénifiant les foules avec des idées populistes.</p>
-<p>En premier lieu, j’ai réagi au message des Forges parce que la newsletter est aujourd’hui le meilleur outil pour contourner la toute-puissance des silos. Elle permet de créer des communautés décentralisées dont nous restons les propriétaires et les stricts animateurs (même quand on utilise des plateformes privées comme Substack, qui en prime autorise les échanges transversaux entre les membres). Pas de filtrage, pas de censure, pas d’intermédiaire. C’est une communication de proximité, une façon de réduire les distances.</p>
-<p>Comme tous les éditeurs, comme tous les auteurs, les Forges pourraient concentrer leur communication numérique sur une newsletter adossée à un site éditorial. Ils y seraient maîtres à bord, plutôt que d’affronter des armées d’IA sur les silos. Parce qu’au final, elles gagneront la bataille sur ces terrains, capables de balancer par millions textes et images générés automatiquement. Il est vital de nous extraire de cet écosystème si nous voulons survivre.</p>
-<p>La réponse des Forges est un rien idéaliste. Dans le meilleur des mondes, l’auteur écrit, l’éditeur diffuse. Dans la pratique, on nous demande de nous transformer en hommes-orchestres. On a plus de chance d’être publié si on a des millions de followers que si on a du talent. Une autrice me disait il y a quelques jours : « Si je ne suis pas présente sur Instagram et Facebook, plus aucun éditeur ne voudra de moi. » Nous nous affrontons pour capturer un peu d’attention. À ce jeu, les machines sont imbattables. La solution : déplacer l’arène, la ramener chez nous, nous soustraire au brouhaha mécanique.</p>
-<p>Nous écrivons des textes longs, nous publions des livres, nous travaillons le temps long, ne nous laissons pas distraire, sinon nous sommes morts. Je crois encore au livre, mais sa place n’est pas dans le bruit, la surenchère, le trash à tout prix, le mensonge, la désinformation.</p>
-<p>Trump a été élu avec le soutien de Facebook et de X. Il a déclenché une guerre avec leur soutien. Il professe des thèses messianiques avec leur soutien. Ce gars est en croisade avec leur soutien et implicitement celui de ceux qui jouent des plateformes, au prétexte qu’ils ne peuvent pas faire autrement. Chaque like, chaque partage, chaque engagement renforce une machinerie monstrueuse.</p>
-<p>Nous pouvons faire autrement.</p>
-<p>Croire le contraire, c’est perdre la bataille.</p>
-<p>Attendre une outrance de plus avant de changer de stratégie, c’est perdre la bataille.</p>
-<p>Je ne suis pas intégriste. Si demain un éditeur passionné désire publier un de mes livres tout en étant actif sur les silos, je ne lui claquerai pas la porte au nez, mais comme avec cet article, j’utiliserai mon énergie pour lui montrer qu’il existe d’autres façons de faire.</p>
-<p>Nous taire, c’est laisser faire l’inacceptable.</p>
-<p>Il est trop facile de se chercher des excuses : c’est plus simple sur les silos, c’est là que sont nos contacts, nos amis, nos clients… en effet, tous piégés.</p>
-<p>Nous avons une responsabilité dans ce qui se passe.</p>
-<p>Petit espoir du côté des Forges, leur dernier message :</p>
-<blockquote>
-<p>Nous essayons une approche pragmatique, inspirée par l’escalade. Il faut, avant de lâcher une prise, trouver une autre prise. Abandonner X mais voir si Bluesky peut s’y substituer. Etc.</p>
-</blockquote>
-<p>Bluesky est un concurrent privatif de Mastodon (réseau libre aux multiples instances non emprisonnantes), construit sur un réseau ouvert dont ils sont les seuls locataires. Du mal à comprendre l’intérêt, sinon le leur : créer une masse critique d’utilisateurs pour la monétiser. Leur argument — vous ne serez pas prisonniers chez nous — est acceptable, mais pour aller où ?</p>
-<p>Nous en sommes au point où la paroi est de plus en plus technique, de plus en plus difficile, voire infranchissable. Et si l’erreur était de vouloir l’escalader plutôt que de la contourner, ce que nous faisons avec nos sites et nos newsletters, créant des réseaux sociaux décentralisés, construits sur des communautés solides ? Il existe une vie numérique hors des silos exactement comme il existe une vie pour les livres hors des plateformes de vente en ligne.</p>]]></description>
-      <guid isPermaLink="false">https://static.tcrouzet.com/2026/04/08/silos-sociaux-edition/</guid>
-      <enclosure url="https://static.tcrouzet.com/images_tc/2026/04/2026-04-07-172234.webp" length="0" type="image/webp"/>
-      <pubDate>Wed, 08 Apr 2026 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

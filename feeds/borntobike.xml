@@ -8,7 +8,55 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 17 Apr 2026 10:11:42 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 20:09:22 +0200</lastBuildDate>
+    <item>
+      <title>Adieu Garmin, le Dura a tout changé pour le bikepacking</title>
+      <link>https://static.tcrouzet.com/2026/04/24/one-year-with-coros-dura/</link>
+      <description><![CDATA[<img alt="Adieu Garmin, le Dura a tout changé pour le bikepacking" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-172057.webp"/><p>On ne cesse de me demander ce que je pense du <a href="https://fr.coros.com/dura" rel="noopener noreferrer">Dura</a> (sorti en avril 2024), s’il plante toujours, si je suis revenu à un Garmin, si je suis satisfait.</p>
+<p>Mon premier article d’avril 2025 était très négatif. J’y affirmais que <a href="https://tcrouzet.com/2025/04/24/coros-dura-bugs/">le Dura était quasi inutilisable</a>, à cause d’une série de bugs, d’une interface incomplète et d’une cartographie affligeante. En août, <a href="https://tcrouzet.com/2025/08/01/bikepacking-auvergne-bretagne-dura/">je relevais la correction de quelques bugs et l’ajout de la possibilité de désactiver le reroutage, tout en reconnaissant que le Dura était le GPS idéal pour le bikepacking</a>, grâce à son incroyable autonomie. Quelque mois et <a href="https://support.coros.com/hc/fr/articles/32924317141652-Notes-de-version-COROS-DURA" rel="noopener noreferrer">mises à jours plus tard</a>, je suis presque élogieux.</p>
+<p>Je peux désormais partir en bikepacking sans powerbank. Pour moi, le bikepacking, c’est suivre durant plusieurs jours une trace qui, le plus souvent, nous emmène loin de l’asphalte. Le GPS affiche la trace sur un fond de carte et nous positionne. On ne lui demande rien d’autre.</p>
+<p>Si nous voulons sortir de la trace, nous improvisons ou utilisons les cartes embarquées sur nos téléphones, bien plus précises et détaillées. Inutile de dupliquer ces fonctions sur le GPS : nous disposons déjà d’ordinateurs surpuissants dans nos poches. </p>
+<p>L’été dernier, après dix jours de bikepacking en Bretagne, mon Dura n’avait consommé que 50 % de sa batterie, quand les copains avec leurs Garmin, même trois fois plus chers, rechargeaient à minimum tous les deux jours, avec le stress de tomber en panne sèche. Rouler avec un Dura, c’est un souci de moins. Tu le montes sur ton vélo et ne t’en préoccupes plus durant des semaines. Je ne le charge plus qu’avant les départs en voyage. Il tient jusqu’au suivant, même en hiver. Garmin commet l’erreur de vouloir mettre toujours plus de puissance dans ses GPS. C’est absurde.</p>
+<figure><img alt="No re-route, indispensable en bikepacking" class="portrait" height="1024" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-155822.webp" width="1024"/><figcaption>No re-route, indispensable en bikepacking</figcaption></figure>
+<p>Quand nous suivons des traces hors asphalte, les copains avec les Garmin tournent souvent trop tôt ou me disent que je ne suis plus sur la trace alors mon Dura annonce le contraire. Les Garmin sont fébriles dès que nous quittons les secteurs dûment cartographiés. Ils ont tendance à rerouter automatiquement — faut bien qu’ils utilisent leur puissance —, et il est souvent très difficile d’arrêter ce reroutage. En gros, les Garmin ne font pas confiance à la trace, alors que les Dura ferment leur gueule et se contentent de l’afficher. Nous ne leur demandons rien de plus en bikepacking.</p>
+<p>Venant d’un Garmin avec fond de carte IGN, la cartographie du Dura m’est initialement apparue des plus spartiates. Les dernières mises à jour séparent enfin les chemins des petites routes, ce qui était plus que nécessaire et attendu. La carte reste néanmoins le point faible du Dura, tout comme la réactivité. Quand on tourne, l’écran met deux ou trois secondes à réagir, ce qui est gênant quand la trace effectue des tours et détours dans des singles ou des rues avec beaucoup d’embranchements. J’ai appris à anticiper, mais je me trompe plus souvent qu’avec un Garmin.</p>
+<p>Cette imprécision cartographique et cette lenteur sont le prix à payer pour une énorme autonomie, et c’est un prix que j’accepte avec joie. Pour aller plus vite, le Dura devrait embarquer un processeur plus puissant, donc consommer beaucoup plus (le Dura 2 résoudra peut-être ce problème).</p>
+<figure><img alt="Map sur l’app" class="portrait" height="2226" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-161215.webp" width="1024"/><figcaption>Map sur l’app</figcaption></figure>
+<p>L’app Coros sur téléphone a elle aussi fait d’énormes progrès, avec la possibilité d’afficher la trace sur fond satellite ou OSM. Nous utilisons souvent cette fonction lors de nos reconnaissances, même si elle ne fonctionne pas hors ligne (voilà pourquoi je reste fidèle à <a href="https://mapout.app/" rel="noopener noreferrer">MapOut</a>).</p>
+<p>Je recommande donc à tous les bikepackers de troquer leur Garmin pour un Dura. Quand un Garmin fait-il sens ? Je ne sais pas trop, peut-être pour suivre certains programmes d’entraînement. Je n’en suis même pas sûr : on peut connecter le Dura à des capteurs Ant+. Pour les bikepacker et les dilettantes de mon espèce — 11 000 km/an —, le Dura est désormais un no brainer.</p>
+<p>Est-il parfait pour autant ? Loin de là. Voici ce qui lui manque encore.</p>
+<ul>
+<li>Carte personnalisable comme sur les Garmin. Coros devrait fournir aux geeks un générateur de cartes.</li>
+<li>Préréglage du zoom. Au départ d’une trace, je dois systématiquement zoomer au maximum, car le 200 m par défaut ne se me sert strictement à rien.</li>
+<li>Le zoom à 50 m est insuffisant pour le VTT. Un zoom à 30 m comme sur les Garmin serait appréciable.</li>
+<li>Gros bug quand on prend une trace à l’envers ou fait demi-tour (la trace s’efface parfois).</li>
+<li>Réelle personnalisation des écrans, où s’affichent encore des informations non sollicitées comme la distance du prochain point d’intérêt ou le profil des montées (ce que j’apprécie plutôt, mais je ne l’ai pas choisi).</li>
+<li>Impossible d’afficher la distance restante jusqu’à la fin de la trace (seulement jusqu’au prochain POI, affiché automatiquement en bas d’écran).</li>
+<li>Impossible d’afficher la liste des prochains POI.</li>
+<li>Les profils des montées s’arrêtent souvent loin des sommets ou au moindre faux plat descendant.</li>
+<li>L’échelle des couleurs sur les profils n’est pas toujours la même. Standardiser serait bienvenue. Par exemple, rouge après 15 %, noir après 20 %. C’est un peu aléatoire pour le moment.</li>
+<li>Ne plus prendre en compte les descentes dans le pourcentage total d’une montée. Le Dura se contente de diviser le dénivelé par la distance.</li>
+<li>Possibilité d’inverser le sens d’une trace avant de la lancer.</li>
+<li>Que le no-reroute ne soit pas associé à chaque trace, mais global.</li>
+<li>Que tous les réglages soient accessibles depuis l’app sur le téléphone, ce qui n’est pas le cas. Par exemple, les bips intempestifs se coupent uniquement sur le GPS.</li>
+<li>Mieux gérer les GPX très longs (Garmin ne sait pas faire non plus). J’évite les traces de plus de 250 km. Je ne sais pas à partir de combien de points le Dura commence à perdre les pédales (8 000 pour un Garmin).</li>
+<li>Gestion des GPX avec traces multiples.</li>
+<li>Calibration de l’altimètre avant le départ. J’habite au bord de la mer et il m’arrive de partir à 200 m d’altitude ou à -100 m.</li>
+<li>Je ne vous ai pas parlé du reroutage sur le Dura, ça n’a aucune utilité. Je préfère recréer des traces à la volée sur mon téléphone et les renvoyer au GPS (possible sur le Dura sans arrêter l’enregistrement en cours, contrairement au Garmin).</li>
+</ul>
+<h2>Ma config</h2>
+<p>Je n’utilise que le profil d’activité VTT (les écrans disponibles et les affichages non sollicités diffèrent selon les profils). Je n’utilise jamais le mode écran partagé. J’ai conservé trois écrans.</p>
+<figure><img alt="Profil VTT" class="portrait" height="2226" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-170255.webp" width="1024"/><figcaption>Profil VTT</figcaption></figure>
+<figure><img alt="Map plein écran" class="portrait" height="2226" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-172057.webp" width="1024"/><figcaption>Map plein écran</figcaption></figure>
+<p>Par défaut, je suis sur la cartographie, avec en bas la distance du prochain POI (ce qui s’avère très pratique en longue distance, notamment pour les points d’eau). En montée, le profil s’affiche sur le tiers inférieur de l’écran, ce qui permet de suivre la trace (bien plus sioux que le climb pro des Garmin). Mon but : que la carte occupe la surface maximale. Toute autre information est une distraction.</p>
+<figure><img alt="Écran quand je suis pas de trace" class="portrait" height="2226" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-172424.webp" width="1024"/><figcaption>Écran quand je suis pas de trace</figcaption></figure>
+<p>Le deuxième écran affiche les paramètres essentiels (vitesse, distance, température, dénivelé, heure…). Je n’utilise quasiment jamais le troisième, car je ne branche rarement mon capteur cardiaque.</p>
+<figure><img alt="Paramètres accéssoires" class="portrait" height="2226" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-172612.webp" width="1024"/><figcaption>Paramètres accéssoires</figcaption></figure>
+<p>Sur le GPS, je coupe les sons et désactive le reroutage avant de lancer une trace. C’est d’une simplicité biblique comparé à un Garmin. je vous encourage à essayer.</p>]]></description>
+      <guid isPermaLink="false">https://static.tcrouzet.com/2026/04/24/one-year-with-coros-dura/</guid>
+      <enclosure url="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-172057.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 24 Apr 2026 20:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>g727 : gravel autour du Golfe Antique</title>
       <link>https://static.tcrouzet.com/2026/04/17/g727-golfe-antique/</link>
@@ -183,46 +231,6 @@
       <guid isPermaLink="false">https://static.tcrouzet.com/2026/03/31/g727-espagna/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2026/03/2026-03-28-102547.webp" length="0" type="image/webp"/>
       <pubDate>Tue, 31 Mar 2026 20:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Specialized Diverge 4 : le meilleur gravel ?</title>
-      <link>https://static.tcrouzet.com/2026/03/27/le-meilleur-gravel/</link>
-      <description><![CDATA[<img alt="Specialized Diverge 4 : le meilleur gravel ?" src="https://static.tcrouzet.com/images_tc/2026/03/2025-12-11-143910-RoquebrunetSaint-tienne-dAlbagnan.webp"/><p>Ma relation avec le gravel a été compliquée, entre amour et rejet. Contrairement à beaucoup de graveleux, je viens du VTT. J’ai connu les modèles tout rigides des années 1980, puis j’ai pris goût aux suspensions. Quand j’ai débarqué en Floride en août 2018, alors que la vague du gravel prenait de l’importance, j’ai choisi un <a href="https://www.specialized.com/us/en/mens-diverge-expert-x1/p/154313?color=227313-154313" rel="noopener noreferrer">Diverge 2</a> parce qu’il possédait un semblant de suspension avec le <a href="https://www.specialized.com/ca/fr/future-shock" rel="noopener noreferrer">Future Shock</a> dans le top tube. Je ne voulais pas être trop dépaysé.</p>
-<figure><img alt="Mon Diverge 4 côté droit" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-19-150121-Castanet-le-HautFrasse-sur-Agout.webp" width="1024"/><figcaption>Mon Diverge 4 côté droit</figcaption></figure>
-<p>Pour rouler sur les levées de Floride, d’infinies lignes droites archiplates dans les Everglades, le Diverge était le vélo parfait, dynamique et filtrant les légères imperfections des pistes. Assez joueur pour les rares singles que je dénichais dans les parcs.</p>
-<figure><img alt="Côté gauche" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2025-12-11-143910-RoquebrunetSaint-tienne-dAlbagnan.webp" width="1024"/><figcaption>Côté gauche</figcaption></figure>
-<p>Mais quand il s’est agi de bikepacking, j’ai acheté un <a href="https://www.salsacycles.com/collections/timberjack" rel="noopener noreferrer">Salsa Timberjack</a>, convaincu que sur les longues distances les vibrations du gravel finiraient par me fatiguer plus que le moindre rendement d’un VTT. J’ai fini par découvrir ma frontière physiologique autour de 200 km. En dessous, le gravel me convient, au-dessus je lui préfère le VTT. Je parle bien sûr de hors asphalte.</p>
-<p>De retour en France, sur les terrains plus torturés des garrigues du Midi, le Diverge était soumis à rudes épreuves. J’ai vite compris que ses pneus de 42 mm max n’offraient pas assez de confort. Je l’ai vendu au printemps 2021 et, durant un an, <a href="https://tcrouzet.com/2021/12/10/le-meilleur-gravel-cest/">j’ai roulé gravel avec un Epic semi-rigide</a>. Le vélo était presque aussi dynamique, à peine plus lourd et offrait un confort incomparable.</p>
-<figure><img alt="Diverge 4 avec pneus VTT chez Allbike Sète" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-07-111509-Ste.webp" width="1024"/><figcaption>Diverge 4 avec pneus VTT chez Allbike Sète</figcaption></figure>
-<p>Je suis revenu au gravel en octobre 2022, au prétexte de pouvoir rouler sur Paris quand je monterais voir mon fils qui y commençait sa prépa (un gravel est plus transportable qu’un VTT). J’ai acheté un <a href="https://tcrouzet.com/2022/10/07/prise-en-main-du-gravel-canyon-grizl/">Canyon Grizl</a> de poids équivalent au Diverge 2, mais avec la possibilité de monter des pneus jusqu’à 60 mm. J’ai vite découvert que le combo idéal était à 50 mm, sinon autant rouler avec le semi-rigide. Le Grizl m’est apparu plus pataud que le Diverge, à cause de ses roues aluminium sans doute, mais il s’est avéré confortable avec un cintre <a href="[https://dedaelementi.com/gera-alloy-handlebar](https://dedaelementi.com/gera-carbon-handlebar)">Deda Gera Carbon</a>.</p>
-<p>J’ai alors partagé ma pratique entre gravel et VTT, gardant toujours une préférence pour le VTT, parce qu’il me permet d’accéder à des sites naturels interdits au gravel. Reste que rouler à gravel, c’est autre chose : la position change, nous ne choisissons pas les mêmes itinéraires, le plaisir diffère comme les partenaires.</p>
-<p>J’ai encore des copains « sectaires » qui refusent le gravel sans jamais l’avoir essayé. Attitude assez con, parce nous ne sommes pas de simples victimes du marketing. À gravel, nous prenons un plaisir différent qu’à VTT et que sur la route. Ce n’est ni l’un ni l’autre, c’est une autre pratique. Par exemple, quand je roule seul, je pars toujours avec mon gravel. Plus envie de me risquer en solo dans les chemins compliqués avec le VTT (souvenir de ma fracture du col du fémur dans une forêt du Lot-et-Garonne).</p>
-<p>Donc, j’aime le gravel, même si j’en connais les limites. J’ai tenté en 2024 d’effectuer un g727 <a href="https://tcrouzet.com/2024/09/04/monster-gravel/">en transformant mon semi-rigide en monster gravel</a> et j’ai terminé brisé. Le vélo était hyperconfortable, mon compagnon de bikepacking depuis des années, <a href="https://tcrouzet.com/2024/10/04/cintre-droit-moustache/">mais affublé d’un cintre moustache, il m’a défoncé les épaules et les mains</a> (et j’avais la bonne position). J’ai compris que la vraie différence avec le VTT n’était ni dans le poids ni dans le dynamisme, mais essentiellement dans le cintre qui influence tout le corps. Contrairement à de nombreux cyclistes, je me sens mieux sur le long avec un cintre plat, même sur des chemins peu techniques.</p>
-<p>Et donc, après trois ans de compagnonnage avec le Grizl, j’ai décidé de revenir au <a href="https://www.specialized.com/fr/fr/diverge-4-comp-carbon-sram-apex-axss1000/p/4223513?color=5464898-4223513" rel="noopener noreferrer">Diverge 4</a> qui offre enfin la possibilité de monter des pneus jusqu’à 2,2 pouces tout en disposant d’un Future Shock de nouvelle génération (Specialized a mis du temps avant de moderniser ses gravels).</p>
-<figure><img alt="Cintre Reda" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-27-115642.webp" width="1024"/><figcaption>Cintre Reda</figcaption></figure>
-<p>J’ai choisi le modèle Comp Carbon parce qu’il dispose d’un développement arrière SRAM identique à ceux des VTT, une cassette T-type 10-52, indispensable à gravel dès qu’on s’engage dans les forts pourcentages avec un vélo chargé. J’ai effectué quelques modifications :</p>
-<ul>
-<li>Cassette XX1 150 g plus légère.</li>
-<li>Couronne de 38 contre le 40 à l’origine.</li>
-<li>Manivelles Force 170 mm contre 172,5 à l’origine.</li>
-<li>Roues alu troquées pour des Terra carbone.</li>
-<li>Cintre Gera de 460 mm, plus large et plus ergonomique que le 440 mm d’origine.</li>
-<li>Selle Power inconfortable pour moi virée pour une <a href="https://fr.aliexpress.com/item/1005007572627178.html" rel="noopener noreferrer">Ryet</a> de 105 g achetée en Chine (et qui convient à mon séant, pour le moment).</li>
-<li>Potence de 60 mm contre 80 mm à l’origine.</li>
-<li>Pneus de 50 mm, Terra à l’avant, Tracer à l’arrière (combo génial tout en étant léger).</li>
-</ul>
-<p>Le vélo, annoncé sans pédale à 9,7 kg, descend à 9 kg (un bon kilo de plus que les Crux des copains).</p>
-<figure><img alt="Selle Ryet" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-27-115650.webp" width="1024"/><figcaption>Selle Ryet</figcaption></figure>
-<p>Mes premiers coups de pédale ont été magiques. Le confort se doublait d’un dynamisme jamais ressenti à gravel. Sur les chemins ondulés, j’étais aussi bien que sur un VTT. Je pouvais rentrer à fond dans les zones caillouteuses sans me faire éjecter, avec un rendement supérieur à ce que je connaissais sur le Canyon. Je me suis vu m’accrocher à des copains qui d’habitude me lâchaient.</p>
-<figure><img alt="Rangement dans le cadre" height="768" src="https://static.tcrouzet.com/images_tc/2026/03/2026-03-27-115527.webp" width="1024"/><figcaption>Rangement dans le cadre</figcaption></figure>
-<p>Le Diverge 4 est de loin le meilleur gravel sur lequel j’ai posé mes fesses : léger, dynamique, confortable et fort pratique avec sa boîte à outils dans le cadre, où je peux glisser un imperméable en plus des outils. J’adore ce vélo. Il me procure beaucoup de plaisir. Pour rien au monde je ne le troquerais contre un cadre fer ou titane. Quand j’attrape ces vélos, ils me paraissent en plomb.</p>
-<p>Il m’est difficile d’être objectif quand je le compare au Grizl, trop de choses ont changé entre les deux, pas seulement le cadre et le Future Shock : le pédalier plus court et les roues carbone font une grande différence (Cyril, qui roule avec un Grizl équipé du même pédalier et des mêmes roues, le confirme).</p>
-<p>Je suis tellement séduit par les manivelles en 170 mm que je viens d’en commander pour mon VTT. Extraordinaire la différence de sensation avec quelques millimètres de moins. Impression de tourner plus rond, plus fluide. Je vous conseille.</p>
-<p>Quid de tester le Diverge 4 en bikepacking ? Je vais m’y risquer en douceur. Je pars avec rouler quatre jours en Espagne sur une reco <a href="https://727bikepacking.fr/g727-Grand-Depart/" rel="noopener noreferrer">g727</a>, sans bagages, puis je le testerai sur <a href="https://727bikepacking.fr/pou100/" rel="noopener noreferrer">les 270 km de la POU100</a>. Je vous raconterai au retour.</p>
-<p>OK, le Diverge 4 dans ma configuration avoisine les 5 000 €, c’est pas cadeau, <a href="https://tcrouzet.com/tag/isa/">mais la vie est courte.</a></p>]]></description>
-      <guid isPermaLink="false">https://static.tcrouzet.com/2026/03/27/le-meilleur-gravel/</guid>
-      <enclosure url="https://static.tcrouzet.com/images_tc/2026/03/2025-12-11-143910-RoquebrunetSaint-tienne-dAlbagnan.webp" length="0" type="image/webp"/>
-      <pubDate>Fri, 27 Mar 2026 13:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
