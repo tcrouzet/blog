@@ -2,9 +2,9 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://static.tcrouzet.com//2026/05/01/avril-2026/index.html</loc>
-    <lastmod>2026-05-01T18:45:57+02:00</lastmod>
+    <lastmod>2026-05-02T16:50:31+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2026/05/2026-04-06-100315-lamaison.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2026/05/2026-04-16-114114-Peyriac-de-MerPort-la-Nouvelle.jpeg</image:loc>
     </image:image>
   </url>
   <url>
@@ -61,6 +61,13 @@
     <lastmod>2026-04-06T14:07:11+02:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2026/04/2026-04-05-092021-Saint-JulienOlargues.jpeg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://static.tcrouzet.com//2026/04/06/config-tailfin/index.html</loc>
+    <lastmod>2026-05-07T16:46:57+02:00</lastmod>
+    <image:image>
+      <image:loc>https://static.tcrouzet.com/images_tc/2026/04/2026-05-07-121254.jpeg</image:loc>
     </image:image>
   </url>
   <url>
@@ -1414,7 +1421,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2024/05/05/config-bikepacking-2/index.html</loc>
-    <lastmod>2024-06-09T06:38:32+02:00</lastmod>
+    <lastmod>2026-05-07T16:19:34+02:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2024/05/2024-05-04-083412.jpeg</image:loc>
     </image:image>
@@ -2275,7 +2282,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2022/03/31/config-bikepacking-2022/index.html</loc>
-    <lastmod>2024-05-04T20:31:47+02:00</lastmod>
+    <lastmod>2026-05-07T16:00:55+02:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2022/03/IMG_7782.jpeg</image:loc>
     </image:image>
@@ -2702,7 +2709,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2021/03/26/config-bikepacking-avril-2021/index.html</loc>
-    <lastmod>2026-01-03T18:14:15+01:00</lastmod>
+    <lastmod>2026-05-07T16:01:36+02:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2021/03/IMG_8404.jpeg</image:loc>
     </image:image>
@@ -3045,7 +3052,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2020/07/29/config-bikepacking-houblon-tour-2020/index.html</loc>
-    <lastmod>2024-04-30T10:08:23+02:00</lastmod>
+    <lastmod>2026-05-07T16:02:26+02:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2020/07/IMG_2065.jpeg</image:loc>
     </image:image>
@@ -3087,7 +3094,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2020/04/27/configuration-bikepacking-gth/index.html</loc>
-    <lastmod>2026-01-03T18:14:00+01:00</lastmod>
+    <lastmod>2026-05-07T16:02:39+02:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2020/04/IMG_0476.jpeg</image:loc>
     </image:image>
@@ -9180,7 +9187,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//page/abonnement-par-mail/index.html</loc>
-    <lastmod>2025-11-29T15:30:54+01:00</lastmod>
+    <lastmod>2026-05-02T19:58:04+02:00</lastmod>
   </url>
   <url>
     <loc>https://static.tcrouzet.com//page/rss/index.html</loc>
