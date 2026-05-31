@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://static.tcrouzet.com//2026/05/31/digest051/index.html</loc>
+    <lastmod>2026-05-31T15:39:12+02:00</lastmod>
+    <image:image>
+      <image:loc>https://static.tcrouzet.com/images_tc/2026/05/2026-05-31-150622.jpeg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://static.tcrouzet.com//2026/05/17/digest050/index.html</loc>
-    <lastmod>2026-05-17T16:39:59+02:00</lastmod>
+    <lastmod>2026-05-31T15:33:07+02:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2026/05/2026-05-17-150239.jpeg</image:loc>
     </image:image>
@@ -15098,7 +15105,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//page/informations/index.html</loc>
-    <lastmod>2026-03-27T07:11:12+01:00</lastmod>
+    <lastmod>2026-05-30T15:33:34+02:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2006/06/geneve2014g.jpeg</image:loc>
     </image:image>
