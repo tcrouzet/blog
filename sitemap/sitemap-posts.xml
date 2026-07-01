@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://static.tcrouzet.com//2026/07/01/juin-2026/index.html</loc>
+    <lastmod>2026-07-01T21:20:08+02:00</lastmod>
+    <image:image>
+      <image:loc>https://static.tcrouzet.com/images_tc/2026/07/2026-06-15-110829-lamaison.jpeg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://static.tcrouzet.com//2026/06/18/g727-gravel-tailfin-assos/index.html</loc>
-    <lastmod>2026-06-18T21:27:41+02:00</lastmod>
+    <lastmod>2026-06-21T14:48:50+02:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2026/06/2026-06-18-092455.jpeg</image:loc>
     </image:image>
