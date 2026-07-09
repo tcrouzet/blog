@@ -8,7 +8,41 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 02 Jul 2026 08:53:39 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:38:07 +0200</lastBuildDate>
+    <item>
+      <title>L’IA fait le sale boulot</title>
+      <link>https://static.tcrouzet.com/2026/07/09/stupefaction-devant-IA/</link>
+      <description><![CDATA[<img alt="L’IA fait le sale boulot" src="https://static.tcrouzet.com/images_tc/2026/07/codex-gpxweather.webp"/><p>Depuis des semaines, mon fils aîné me pousse à tester Claude Code ou ChatGPT Codex, deux des outils de génération de code les plus puissants. Je suis encore tout étourdi après quelques bidouilles.</p>
+<p>Depuis trois ans, je demande l’aide aux IA quand je code, sur le mode chat. Je n’avais pas franchi le pas des agents : je codais à la main, questionnais les IA, copiais-collais leurs réponses dans mon code avec grande précaution, un mode de développement à l’ancienne.</p>
+<h2>GPX Weather</h2>
+<p>Cette fois, je n’ai pas écrit une ligne pour deux projets. Le premier est lié au vélo. Avec des amis, nous allons partir sur le <a href="https://tourmagne.bike/" rel="noopener noreferrer">Tourmagne</a>, un itinéraire gravel à travers la France. Pour choisir notre équipement, nous avons besoin des prévisions météo tout au long du parcours de près de mille kilomètres. Je me suis dit « Ça serait bien d’avoir une app à qui donner un fichier GPX, qu’elle repère les principales agglomérations et affiche pour chacune les prévisions à deux semaines. »</p>
+<p>Mon fils m’a donné accès à son abonnement OpenAI. Sur ma machine, j’ai créé un dossier gpxweather, l’ai ouvert avec VisualCode et lancé dans le terminal la commande « codex ». Un prompt s’est affiché, j’ai décrit ce que je voulais : « Une web app avec un backend Python qui tournerait sur GitHub et qui serait accessible depuis une GitHub Page. » L’agent s’est mis au travail. Il m’a demandé de créer <a href="https://github.com/tcrouzet/gpx-weather" rel="noopener noreferrer">un repository sur GitHub</a>, l’a configuré pour moi et a commencé à générer l’application, fabriquant tous les fichiers nécessaires, structurant le code comme je le lui avais demandé. Allucinant de le voir travailler, tester, corriger, retester, améliorer.</p>
+<figure><img alt="GPX Weather" height="801" src="https://static.tcrouzet.com/images_tc/2026/07/codex-gpxweather.webp" width="1024"/><figcaption>GPX Weather</figcaption></figure>
+<p>Bien sûr, le premier jet était imparfait, mais à force de discuter, et parce que j’ai tout de même de l’expérience en Python et cartographie, j’ai réussi à guider l’agent pour qu’il produise en une journée une application que j’aurais développée sans lui en deux semaines (ce que je n’aurais pas fait, faute de courage). Le plus bluffant a été sa capacité à gérer GitHub, à y lancer des tâches de fond pour que les données soient mises à jour automatiquement, des trucs que je n’avais jamais faits même si je les savais possibles.</p>
+<figure><img alt="Prévision pour une ville" height="789" src="https://static.tcrouzet.com/images_tc/2026/07/codex-vignette.webp" width="1024"/><figcaption>Prévision pour une ville</figcaption></figure>
+<p>Ma créativité a été stimulée. Plutôt que d’être noyé dans des lignes de code, je demandais exactement ce que je voulais, et j’osais des améliorations qui auraient été compliquées et chronophages, comme les vignettes météo par ville. J’ai donné des exemples d’écrans piqués sur des apps météo pour dire ce que je désirais. Et ça marchait ! Mon app fait maintenant ce dont j’ai besoin. J’ai même ajouté la possibilité de traquer plusieurs traces. Tout ça avec un abonnement OpenAI à 20 €/mois, bien moins puissant que ceux utilisés par les professionnels.</p>
+<p>Ce travail ne m’a occupé qu’à temps partiel sur une journée. Pendant que l’agent calculait, je faisais autre chose. Quand il terminait une tâche, je testais, demandais des modifications et revenais à mes autres occupations. J’étais chef de projet.</p>
+<ul>
+<li><a href="https://github.com/tcrouzet/gpx-weather" rel="noopener noreferrer">Code source sur GitHub</a></li>
+<li><a href="https://tcrouzet.github.io/gpx-weather/" rel="noopener noreferrer">Web app GPX Weather</a></li>
+</ul>
+<h2>Géolecture</h2>
+<p>J’étais si impressionné que je me suis lancé dans un second projet que je retardais depuis des années. En 2017 et 2018, j’ai créé deux <a href="https://tcrouzet.com/books/geolecture/">géolectures, des textes à lire sur le territoire grâce à des apps iOS et Android</a> dont le développement m’avait rendu insomniaque. Comme maintenir ces apps gratuites dans les boutiques me coûtait, je les avais abandonnées. Je me promettais sans cesse de les convertir en web app. C’est chose faite, grâce à Codex. Je lui ai donné l’ancien code en React et lui ai demandé de le convertir.</p>
+<figure><img alt="Deux géolectures disponibles" height="840" src="https://static.tcrouzet.com/images_tc/2026/07/geolecture1.webp" width="1024"/><figcaption>Deux géolectures disponibles</figcaption></figure>
+<p>Dès la première proposition, ça fonctionnait. J’ai demandé des ajustements, passant surtout du temps à retravailler les textes. Je ne me suis pas embêté à prévoir un mode de géolocalisation automatique, ce qui n’aurait guère posé de difficulté. On peut lire les deux géolectures en simulant des déplacements sur une carte. J’ai même fourni les fichiers GPX, si ça vous amuse d’aller lire mes textes <em>in situ</em> à Montpellier ou à Nîmes.</p>
+<figure><img alt="La carte tourne les pages" height="723" src="https://static.tcrouzet.com/images_tc/2026/07/geolecture2.webp" width="1024"/><figcaption>La carte tourne les pages</figcaption></figure>
+<p>Encore une fois, pas la moindre ligne de code de ma part, simplement des directives. Je dialoguais en parallèle avec une seconde IA pour valider les choix techniques de Codex et envisager des optimisations ou des variantes. C’est assez vertigineux. Difficile de voir où tout ça nous mène, sinon à la surchauffe planétaire. Notre seule limite : nos idées. Notre créativité ne peut que bondir.</p>
+<ul>
+<li><a href="https://github.com/tcrouzet/geolecture" rel="noopener noreferrer">Code source sur GitHub</a></li>
+<li><a href="https://tcrouzet.github.io/geolecture/" rel="noopener noreferrer">Web app Géolecture</a></li>
+</ul>
+<h2>Et pour la littérature</h2>
+<p>La différence est énorme. Je n’ai pas analysé le code généré, me contentant de le valider. En quelque sorte, je n’ai pas été regardant sur le style, ce qui est impensable en littérature. Je déteste toujours ce qu’écrivent les IA, malgré les gourous vendant leurs recettes miracles. Mais alors que j’écris ces lignes une idée me vient. Que pourrait faire Codex de mon roman <a href="https://tcrouzet.com/books/une-minute/"><em>One Minute</em></a> ? Là, les possibilités sont immenses, presque délirantes. Je vais explorer quelques pistes avant mon voyage à vélo. Pour le moment, avec l’API de Google Gemini, j’ai essayé de créer une version audio encore approximative, mais là aussi les possibilités sont immenses. Vous en pensez quoi ?</p>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/MYoN2rZDdjw?si=xCvIY5aGAVrDjg0P" title="YouTube video player" width="560"></iframe>]]></description>
+      <guid isPermaLink="false">https://static.tcrouzet.com/2026/07/09/stupefaction-devant-IA/</guid>
+      <enclosure url="https://static.tcrouzet.com/images_tc/2026/07/codex-gpxweather.webp" length="0" type="image/webp"/>
+      <pubDate>Thu, 09 Jul 2026 11:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Juin 2026</title>
       <link>https://static.tcrouzet.com/2026/07/01/juin-2026/</link>
@@ -451,43 +485,6 @@ Seize mathématiciens ont rédigé un texte en onze pages signé par plus de 130
       <guid isPermaLink="false">https://static.tcrouzet.com/2026/06/01/mai-2026/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2026/06/2026-05-01-131234-lamaison.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 01 Jun 2026 13:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>De ma terrasse #51 | Mort du roman et IA trop coûteuses</title>
-      <link>https://static.tcrouzet.com/2026/05/31/digest051/</link>
-      <description><![CDATA[<img alt="De ma terrasse #51 | Mort du roman et IA trop coûteuses" src="https://static.tcrouzet.com/images_tc/2026/05/2026-05-31-150622.webp"/><p><em>Ma sélection du dimanche : <strong>12</strong> liens et une photo prise depuis ma terrasse.</em></p>
-<figure><img alt="Dimanche 31 mai" height="768" src="https://static.tcrouzet.com/images_tc/2026/05/2026-05-31-150622.webp" width="1024"/><figcaption>Dimanche 31 mai</figcaption></figure>
-<h2>Littérature &amp; Culture</h2>
-<p><a href="https://legrandcontinent.eu/fr/2026/05/20/pour-la-premiere-fois-un-prix-nobel-de-litterature-reconnait-se-servir-de-lia-olga-tokarczuk-a-t-elle-acte-la-mort-du-roman/" rel="noopener noreferrer">IA : la prix Nobel de littérature Olga Tokarczuk a-t-elle acté la mort du roman ?</a> • FR • 5 min<br/>
-À Poznań, la lauréate polonaise a confessé utiliser un LLM pour ses recherches et annoncé arrêter le format long. La polémique sur les outils génératifs a éclipsé la nouvelle plus lourde.</p>
-<p><a href="https://artreview.com/why-olga-tokarczuk-is-wrong-about-ai-opinion-helen-charman/" rel="noopener noreferrer">Pourquoi Olga Tokarczuk a tort sur l’IA</a> • EN • 8 min<br/>
-Dans un discours sponsorisé par Mastercard et Uber, la nobélisée polonaise vante les mérites des modèles de langage pour les écrivains. Un plaidoyer qui ressemble à de l’art-washing plutôt qu’à une réflexion sur la création littéraire.</p>
-<p><a href="https://www.openculture.com/2026/05/the-spread-of-christianity-animated-from-antiquity-until-today.html" rel="noopener noreferrer">L’expansion du christianisme de l’Antiquité à nos jours, retracée sur une carte animée</a> • EN • 3 min<br/>
-Une vidéo retrace deux millénaires de géographie religieuse, du Proche-Orient à l’Antarctique. Cette tradition a absorbé les cultures traversées et s’est fragmentée en dizaines de formes distinctes.</p>
-<h2>Philosophie &amp; Société</h2>
-<p><a href="https://bigthink.com/books/private-power-and-democracys-decline/" rel="noopener noreferrer">Quand « la survie du plus fort » légitimait les monopoles et l’effacement de la démocratie</a> • EN • 9 min<br/>
-Les barons du premier âge doré justifiaient leurs cartels par le darwinisme social, avec l’appui d’une corruption politique institutionnalisée. Cette idéologie, refoulée entre 1930 et 1980, structure l’économie de plateforme contemporaine.</p>
-<p><a href="https://thedebrief.org/rethinking-consciousness-could-everything-from-animals-to-ai-be-aware/" rel="noopener noreferrer">Repenser la conscience : les animaux, les plantes et l’IA pourraient-ils être sensibles ?</a> • EN • 8 min<br/>
-La science présuppose que les êtres non humains n'ont pas de vie intérieure. Traiter à tort une entité capable de souffrir comme un simple objet est un risque moral que Jeff Sebo juge sous-évalué.</p>
-<h2>Sciences</h2>
-<p><a href="https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-truly-mean-20260518/" rel="noopener noreferrer">Que signifient vraiment les théorèmes d’incomplétude de Gödel ?</a> • EN • 15 min<br/>
-Logiciens et philosophes restent divisés sur le sens de la démonstration de 1931. Certains y voient une frontière absolue, d’autres l’invitation à bâtir des cadres axiomatiques plus puissants.</p>
-<p><a href="https://www.sciencealert.com/scientists-gave-people-wings-in-vr-and-it-triggered-changes-in-the-brain" rel="noopener noreferrer">Des chercheurs ont doté des volontaires d’ailes en réalité virtuelle, provoquant une reconfiguration cérébrale</a> • EN • 4 min<br/>
-Après huit heures d’entraînement, le cortex occipitotemporal intégrait ces appendices dans sa représentation des membres. Cette plasticité ouvre des perspectives pour la rééducation des amputés.</p>
-<p><a href="https://www.sciencealert.com/almost-50-of-preventable-cancers-linked-to-just-two-lifestyle-habits" rel="noopener noreferrer">Près de 50 % des cancers évitables sont liés à seulement deux habitudes de vie</a> • EN • 3 min<br/>
-Une analyse de l’OMS portant sur 2022 révèle que 38 % des nouveaux diagnostics auraient pu être prévenus. Le tabac à lui seul représentait 15 % de l’ensemble des cas de l’année.</p>
-<h2>Intelligence artificielle</h2>
-<p><a href="https://cleantechnica.com/2026/05/24/why-ai-and-why-now/" rel="noopener noreferrer">Pourquoi l’IA, et pourquoi maintenant ?</a> • EN • 8 min<br/>
-Un data center approuvé en Utah couvrira deux fois Manhattan et augmentera les émissions locales de 64 %. De Memphis à la Chine, les mégainfrastructures numériques révèlent leur coût environnemental et politique.</p>
-<p><a href="https://www.sciencealert.com/stunning-ai-solution-for-80-year-old-problem-shocks-mathematicians" rel="noopener noreferrer">Une solution d’IA à un problème vieux de quatre-vingts ans laisse les mathématiciens stupéfaits</a> • EN • 5 min<br/>
-Un modèle d’OpenAI a réfuté une conjecture d’Erdős de 1946 sur les distances unitaires dans le plan. Le médaillé Fields Timothy Gowers aurait recommandé sa publication sans hésiter.</p>
-<p><a href="https://thenextweb.com/news/openclaw-peter-steinberger-1-3-million-openai-token-bill" rel="noopener noreferrer">Les 100 agents d’IA de Peter Steinberger ont accumulé 1,3 million de dollars de tokens OpenAI en 30 jours sur le projet OpenClaw</a> • EN • 9 min<br/>
-L’expérience, financée par son employeur, constitue le premier cas public permettant de mesurer le coût réel du développement logiciel autonome sans contrainte budgétaire.</p>
-<p><a href="https://thenextweb.com/news/microsoft-claude-code-retreat-ai-cost" rel="noopener noreferrer">Le retrait discret de Microsoft de Claude Code et le vrai coût de l’IA en entreprise</a> • EN • 10 min<br/>
-Les outils de codage coûtent trop cher.</p>]]></description>
-      <guid isPermaLink="false">https://static.tcrouzet.com/2026/05/31/digest051/</guid>
-      <enclosure url="https://static.tcrouzet.com/images_tc/2026/05/2026-05-31-150622.webp" length="0" type="image/webp"/>
-      <pubDate>Sun, 31 May 2026 17:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
