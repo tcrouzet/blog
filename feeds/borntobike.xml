@@ -8,7 +8,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 21 Jun 2026 14:49:28 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 20:25:59 +0200</lastBuildDate>
+    <item>
+      <title>Équiper un gravel pour le voyage</title>
+      <link>https://static.tcrouzet.com/2026/07/13/gravel-voyage/</link>
+      <description><![CDATA[<img alt="Équiper un gravel pour le voyage" src="https://static.tcrouzet.com/images_tc/2026/07/2026-07-11-191523.webp"/><p>Ce sera une première : partir en bikepacking sur un itinéraire gravel, le <a href="https://tourmagne.bike/" rel="noopener noreferrer">Tourmagne</a>, avec un gravel alors que j’avais toujours juré que le VTT était le vélo de voyage idéal. Vous rigolez sans doute. Mais il paraît que seuls les idiots ne changent pas d’avis.</p>
+<figure><img alt="Diverge, prêt pour le Tourmagne" height="768" src="https://static.tcrouzet.com/images_tc/2026/07/2026-07-11-191523.webp" width="1024"/><figcaption>Diverge, prêt pour le Tourmagne</figcaption></figure>
+<p>Trois choses me font réviser mon jugement et tenter l’expérience.</p>
+<ol>
+<li>Le Tourmagne est gravel à tendance route, avec 60 % d’asphalte, alors que j’ai l’habitude de traces avec moins de 30 % (<a href="https://github.com/tcrouzet/img2gpx" rel="noopener noreferrer">estimations d’après la cartographie OSM</a>, voir <a href="https://727bikepacking.fr/static/tourmagne.html" rel="noopener noreferrer">la trace par terrains</a>).</li>
+<li><a href="https://tcrouzet.com/2026/03/27/le-meilleur-gravel/">Mon Diverge est confortable.</a></li>
+<li>J’organise la <a href="https://727bikepacking.fr/g727-Grand-Depart/" rel="noopener noreferrer">g727</a> et la <a href="https://727bikepacking.fr/pou100/" rel="noopener noreferrer">POU100</a>, deux randonnées gravel : ça fait désordre de les rouler à VTT (même si je les reconnais à gravel).</li>
+</ol>
+<a href="https://727bikepacking.fr/static/tourmagne.html" rel="noopener noreferrer" target="_blank"><figure><img alt="Stats du Tourmagne" height="964" src="https://static.tcrouzet.com/images_tc/2026/07/stattourmagne.webp" width="1024"/><figcaption>Stats du Tourmagne</figcaption></figure></a>
+<p>À moins d’une semaine du départ, les prévisions météo s’affinent, et grâce à ma nouvelle web app <a href="https://tcrouzet.github.io/gpx-weather/" rel="noopener noreferrer">gpxWeather</a>, je peux maintenant choisir mon équipement, qui serait quasi identique à VTT (j’ai écrit <a href="https://tcrouzet.com/2026/07/09/stupefaction-devant-IA/">un article sur le développement de l’app</a>). Il fera chaud, mais pas canicule. Il ne devrait pas pleuvoir. Je pars avec un bivy et un tarp léger. <a href="https://docs.google.com/spreadsheets/d/1Co6BJql8z7uWCvAokGcDrKaEyAMb-X_zLue6_id3nB4/edit?usp=sharing" rel="noopener noreferrer">Vous trouverez le détail de ma config dans un tableau comme d’habitude</a>, je me contente de quelques remarques.</p>
+<a href="https://tcrouzet.github.io/gpx-weather/" rel="noopener noreferrer" target="_blank"><figure><img alt="Prévisions" height="668" src="https://static.tcrouzet.com/images_tc/2026/07/tourmagne-prev.webp" width="1024"/><figcaption>Prévisions</figcaption></figure></a>
+<h2>Le gravel</h2>
+<p>Mon Diverge pèse désormais 8,8 kg avec pédales, portes-bidons et support GPS, soit à peine 1,5 kg de moins que mon tout suspendu, quand j’y monte une tige de selle non télescopique et des pneus gravel. Des copains rouleront le Tourmagne avec des VTT semi-rigides à 8,5 kg. Je ne pars pas à gravel pour une question de poids, plutôt pour vivre une autre expérience, même si je crains de finir avec les mains en compote (un cintre plat, c’est très confortable).</p>
+<p>Habitude prise sur le dernier 727 : pour ne pas m’embêter avec l’entretien de la chaîne durant le voyage, <a href="https://silca.cc/en-eu/products/chain-waxing-system-1" rel="noopener noreferrer">je l’ai baignée dans la cire</a>. En théorie, le traitement dure mille bornes. Suffit qu’il ne pleuve pas. Sinon il faudra quelques gouttes de cire liquide tous les soirs.</p>
+<figure><img alt="Légères, solides et inconfortables" height="768" src="https://static.tcrouzet.com/images_tc/2026/07/2026-07-02-125816-lamaison.webp" width="1024"/><figcaption>Légères, solides et inconfortables</figcaption></figure>
+<p><a href="https://tcrouzet.com/2026/06/18/g727-gravel-tailfin-assos/">J’ai testé des pédales en titane ultralégères et de les ai explosées en me mettant en danseuse.</a> J’ai testé <a href="https://liteprobicycle.com/collections/pedal-1/products/litepro-folding-bicycle-3-bearing-titanium-axle-pedal-mountain-bike-carbon-fiber-pedals-178g" rel="noopener noreferrer">une autre paire à 180 g</a>, mais elles n’ont aucun grip, sont trop petites et surtout bombées sur l’axe, si bien que les chaussures flottent. Pourquoi pas pour les sorties du dimanche, mais je ne prends pas le risque de partir avec sur le Tourmagne (à éviter à VTT, ça c’est sûr).</p>
+<a href="https://docs.google.com/spreadsheets/d/1Co6BJql8z7uWCvAokGcDrKaEyAMb-X_zLue6_id3nB4/edit?usp=sharing" rel="noopener noreferrer" target="_blank"><figure><img alt="Bilan de la config" class="portrait portrait" height="586" src="https://static.tcrouzet.com/images_tc/2026/07/bilan.webp" width="494"/><figcaption>Bilan de la config</figcaption></figure></a>
+<h3>La bagagerie</h3>
+<p><a href="https://tcrouzet.com/2026/05/07/config-tailfin/">Comme sur le 727 VTT 2026</a>, je fais confiance à Tailfin. J’arrive à loger un 1,5 litre d’eau et leur sac de cadre de 3,5 litres, plus un toptube de 1,5 litre, ainsi qu’un litre dans les rangements Swat du Diverge. Pour que ça passe, j’utilise les portes-bidons Pulse S2 de Zéfal, faciles à ajuster verticalement. Le bidon sur le tube diagonal est un 550 ml, celui sur le tube vertical un 950 ml, bien sûr en bioplastique.</p>
+<p>Le sac de cadre reste quasi vide : je le réserve pour les encas. Très pratique, on peut y attacher le piquet de tente avec des Velcros. Il dispose aussi d’une discrète poche portefeuille intérieure. Le sac n’est pas léger, mais solide et étanche. Dans le sac arrière, j’ai de la place à revendre. J’aurais pu ajouter ma tente, un duvet plus chaud et davantage de fringues.</p>
+<figure><img alt="Système Swat de Specialized" height="768" src="https://static.tcrouzet.com/images_tc/2026/07/2026-07-13-183009.webp" width="1024"/><figcaption>Système Swat de Specialized</figcaption></figure>
+<p>Les outils et le kit médical se logent dans le tube diagonal du Diverge grâce aux rangements Swat. J’y accède en déverrouillant le porte-bidon.</p>
+<p>Pouquoi ne pas équilibrer le gravel avec un sac de cintre ? Il ajouterait du poids (620 g pour mon Tailfin Cage) et risquerait de frotter contre mes mains, tout en m’offrant du volume inutile. Par ailleurs, bagages compris, je transporte moins de 5 kg de matos, avec 2,8 kg à l’arrière, 2,2 kg sur le cadre. Des masses quasi anecdotiques qui ne déséquilibreront pas le vélo. Avec l’eau, le gros du poids sera dans le triangle.</p>
+<h3>L’alimentation</h3>
+<p>Comme je monte à Paris en TGV, je prends le minimum vital en nourriture, une barre et deux pâtes de fruits, que je ne touche généralement pas pendant mes voyages. J’emporte des graines de chia, indispensables à mon hygiène alimentaire – en bikepacking, j’ai tendance à me déshydrater puis à me constiper. Tout le reste sera acheté sur la route. J’évite de plus en plus les boulangeries qui, pour la plupart, vendent de la merde industrielle. Je préfère les supermarchés où on trouve presque toujours des produits bio et du pain sans gluten. Je ne crache pas sur les restaurants, bien sûr.</p>
+<h3>Les fringues</h3>
+<p>Fatigué des sous-shorts Assos, de plus en plus médiocres, je testerai le <a href="https://eu.monsroyale.com/products/epic-merino-shift-mtb-liner-black-mens-fw23" rel="noopener noreferrer">Mons Royale Epic Merino Bike Liner</a>. Lors de mes essais sur petite distance, la qualité du pad m’a impressionné. Si chez Assos je suis en médium, là j’ai dû choisir du S.</p>
+<p>Pour le maillot, j’ai recherché un mérinos ultra-léger, finissant par découvrir le <a href="https://isadore.com/signature-merino-air-jersey-antique-gold-26" rel="noopener noreferrer">Isadore Signature Merino Air Jersey</a>, supposé parfait pour des températures de 32 et plus. Structure intéressante avec du Polartec delta dans le dos. Isadore me conseille du S, j’ai acheté un L, et franchement plus petit je me serais transformé en saucisse (j’aurais presque dû prendre un XL).</p>
+<p>Ces histoires de tailles, c’est du grand n’importe quoi. J’ai toujours été M et désormais j’oscille entre S et XL. Est-ce pour faire travailler les transporteurs ?</p>
+<h3>Les gains marginaux</h3>
+<figure><img alt="Portefeuille Dyneema" height="768" src="https://static.tcrouzet.com/images_tc/2026/07/2026-07-12-122617.webp" width="1024"/><figcaption>Portefeuille Dyneema</figcaption></figure>
+<p>J’utilise depuis deux ans un portefeuille Dyneema de Zpacks, étanche, parfait pour le cash et mon sifflet de secours. Je traînais depuis des années un modèle en plastique et l’ai troqué pour <a href="https://vargooutdoors.com/products/titanium-emergency-whistle" rel="noopener noreferrer">Vargo en titane</a> (3 g). Il me sert de porte-clés.</p>
+<figure><img alt="Sifflet Vargo" height="768" src="https://static.tcrouzet.com/images_tc/2026/07/2026-07-12-121730.webp" width="1024"/><figcaption>Sifflet Vargo</figcaption></figure>
+<p><a href="https://docs.google.com/spreadsheets/d/1Co6BJql8z7uWCvAokGcDrKaEyAMb-X_zLue6_id3nB4/edit?usp=sharing" rel="noopener noreferrer">Je vous laisse explorer le détail de ma configuration.</a> Si j’apprécie le Tourmagne et <a href="https://727bikepacking.fr/static/tourmagne_road_book.html" rel="noopener noreferrer">les deux cents communes traversées</a>, je partirai avec la même config sur <a href="https://727bikepacking.fr/g727-Grand-Depart/" rel="noopener noreferrer">le g727 fin septembre</a>, sans doute avec la tente à la place du bivy+tarp.</p>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQtXMtpZrGSpN66bcB2kZJOEYfbSKyhhKy6cAtTCVE7unBsf85UIawZni0HyVScCcyS2C1DRbdeiar6/pubhtml?widget=true&amp;headers=false"></iframe>]]></description>
+      <guid isPermaLink="false">https://static.tcrouzet.com/2026/07/13/gravel-voyage/</guid>
+      <enclosure url="https://static.tcrouzet.com/images_tc/2026/07/2026-07-11-191523.webp" length="0" type="image/webp"/>
+      <pubDate>Mon, 13 Jul 2026 21:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>727 gravel, pédales ultra légères et coups de gueule…</title>
       <link>https://static.tcrouzet.com/2026/06/18/g727-gravel-tailfin-assos/</link>
@@ -201,55 +243,6 @@
       <guid isPermaLink="false">https://static.tcrouzet.com/2026/05/07/config-tailfin/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2026/05/2026-05-07-121254.webp" length="0" type="image/webp"/>
       <pubDate>Thu, 07 May 2026 17:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Adieu Garmin, le Dura a tout changé pour le bikepacking</title>
-      <link>https://static.tcrouzet.com/2026/04/24/one-year-with-coros-dura/</link>
-      <description><![CDATA[<img alt="Adieu Garmin, le Dura a tout changé pour le bikepacking" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-172057.webp"/><p>On ne cesse de me demander ce que je pense du <a href="https://fr.coros.com/dura" rel="noopener noreferrer">Dura</a> (sorti en avril 2024), s’il plante toujours, si je suis revenu à un Garmin, si je suis satisfait.</p>
-<p>Mon premier article d’avril 2025 était très négatif. J’y affirmais que <a href="https://tcrouzet.com/2025/04/24/coros-dura-bugs/">le Dura était quasi inutilisable</a>, à cause d’une série de bugs, d’une interface incomplète et d’une cartographie affligeante. En août, <a href="https://tcrouzet.com/2025/08/01/bikepacking-auvergne-bretagne-dura/">je relevais la correction de quelques bugs et l’ajout de la possibilité de désactiver le reroutage, tout en reconnaissant que le Dura était le GPS idéal pour le bikepacking</a>, grâce à son incroyable autonomie. Quelque mois et <a href="https://support.coros.com/hc/fr/articles/32924317141652-Notes-de-version-COROS-DURA" rel="noopener noreferrer">mises à jours plus tard</a>, je suis presque élogieux.</p>
-<p>Je peux désormais partir en bikepacking sans powerbank. Pour moi, le bikepacking, c’est suivre durant plusieurs jours une trace qui, le plus souvent, nous emmène loin de l’asphalte. Le GPS affiche la trace sur un fond de carte et nous positionne. On ne lui demande rien d’autre.</p>
-<p>Si nous voulons sortir de la trace, nous improvisons ou utilisons les cartes embarquées sur nos téléphones, bien plus précises et détaillées. Inutile de dupliquer ces fonctions sur le GPS : nous disposons déjà d’ordinateurs surpuissants dans nos poches. </p>
-<p>L’été dernier, après dix jours de bikepacking en Bretagne, mon Dura n’avait consommé que 50 % de sa batterie, quand les copains avec leurs Garmin, même trois fois plus chers, rechargeaient à minimum tous les deux jours, avec le stress de tomber en panne sèche. Rouler avec un Dura, c’est un souci de moins. Tu le montes sur ton vélo et ne t’en préoccupes plus durant des semaines. Je ne le charge plus qu’avant les départs en voyage. Il tient jusqu’au suivant, même en hiver. Garmin commet l’erreur de vouloir mettre toujours plus de puissance dans ses GPS. C’est absurde.</p>
-<figure><img alt="No re-route, indispensable en bikepacking" class="portrait" height="1024" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-155822.webp" width="1024"/><figcaption>No re-route, indispensable en bikepacking</figcaption></figure>
-<p>Quand nous suivons des traces hors asphalte, les copains avec les Garmin tournent souvent trop tôt ou me disent que je ne suis plus sur la trace alors mon Dura annonce le contraire. Les Garmin sont fébriles dès que nous quittons les secteurs dûment cartographiés. Ils ont tendance à rerouter automatiquement — faut bien qu’ils utilisent leur puissance —, et il est souvent très difficile d’arrêter ce reroutage. En gros, les Garmin ne font pas confiance à la trace, alors que les Dura ferment leur gueule et se contentent de l’afficher. Nous ne leur demandons rien de plus en bikepacking.</p>
-<p>Venant d’un Garmin avec fond de carte IGN, la cartographie du Dura m’est initialement apparue des plus spartiates. Les dernières mises à jour séparent enfin les chemins des petites routes, ce qui était plus que nécessaire et attendu. La carte reste néanmoins le point faible du Dura, tout comme la réactivité. Quand on tourne, l’écran met deux ou trois secondes à réagir, ce qui est gênant quand la trace effectue des tours et détours dans des singles ou des rues avec beaucoup d’embranchements. J’ai appris à anticiper, mais je me trompe plus souvent qu’avec un Garmin.</p>
-<p>Cette imprécision cartographique et cette lenteur sont le prix à payer pour une énorme autonomie, et c’est un prix que j’accepte avec joie. Pour aller plus vite, le Dura devrait embarquer un processeur plus puissant, donc consommer beaucoup plus (le Dura 2 résoudra peut-être ce problème).</p>
-<figure><img alt="Map sur l’app" class="portrait" height="2226" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-161215.webp" width="1024"/><figcaption>Map sur l’app</figcaption></figure>
-<p>L’app Coros sur téléphone a elle aussi fait d’énormes progrès, avec la possibilité d’afficher la trace sur fond satellite ou OSM. Nous utilisons souvent cette fonction lors de nos reconnaissances, même si elle ne fonctionne pas hors ligne (voilà pourquoi je reste fidèle à <a href="https://mapout.app/" rel="noopener noreferrer">MapOut</a>).</p>
-<p>Je recommande donc à tous les bikepackers de troquer leur Garmin pour un Dura. Quand un Garmin fait-il sens ? Je ne sais pas trop, peut-être pour suivre certains programmes d’entraînement. Je n’en suis même pas sûr : on peut connecter le Dura à des capteurs Ant+. Pour les bikepacker et les dilettantes de mon espèce — 11 000 km/an —, le Dura est désormais un no brainer.</p>
-<p>Est-il parfait pour autant ? Loin de là. Voici ce qui lui manque encore.</p>
-<ul>
-<li>Carte personnalisable comme sur les Garmin. Coros devrait fournir aux geeks un générateur de cartes.</li>
-<li>Préréglage du zoom. Au départ d’une trace, je dois systématiquement zoomer au maximum, car le 200 m par défaut ne sert à rien.</li>
-<li>Pouvoir régler le zoom avec les boutons (seule fonction aujourd’hui qui nécessite le tactile).</li>
-<li>Le zoom à 50 m est insuffisant pour le VTT. Un zoom à 30 m comme sur les Garmin serait appréciable.</li>
-<li>Gros bug quand on prend une trace à l’envers ou fait demi-tour (la trace s’efface parfois).</li>
-<li>Réelle personnalisation des écrans, où s’affichent encore des informations non sollicitées comme la distance du prochain point d’intérêt ou le profil des montées (ce que j’apprécie plutôt, mais je ne l’ai pas choisi).</li>
-<li>Impossible d’afficher la distance restante jusqu’à la fin de la trace (seulement jusqu’au prochain POI, affiché automatiquement en bas d’écran).</li>
-<li>Impossible d’afficher la liste des prochains POI.</li>
-<li>Les profils des montées s’arrêtent souvent loin des sommets ou au moindre faux plat descendant.</li>
-<li>L’échelle des couleurs sur les profils n’est pas toujours la même. Standardiser serait bienvenue. Par exemple, rouge après 15 %, noir après 20 %. C’est un peu aléatoire pour le moment.</li>
-<li>Calculer correctement le pourcentage d’une montée. Le Dura se contente de diviser le dénivelé entre le début et la fin par la distance (et non le dénivelé total).</li>
-<li>Possibilité d’inverser le sens d’une trace avant de la lancer.</li>
-<li>Que le no-reroute ne soit pas associé à chaque trace, mais global.</li>
-<li>Que tous les réglages soient accessibles depuis l’app sur le téléphone, ce qui n’est pas le cas. Par exemple, les bips intempestifs se coupent uniquement sur le GPS.</li>
-<li>Mieux gérer les GPX très longs (Garmin ne sait pas faire non plus). J’évite les traces de plus de 250 km. Je ne sais pas à partir de combien de points le Dura commence à perdre les pédales (8 000 pour un Garmin). Il suffirait d’effectuer une découpage automatique sur l’app.</li>
-<li>Gestion des GPX avec traces multiples.</li>
-<li>Calibration de l’altimètre avant le départ. J’habite au bord de la mer et il m’arrive de partir à 200 m d’altitude ou à -100 m.</li>
-<li>Je ne vous ai pas parlé du reroutage sur le Dura, ça n’a aucune utilité. Je préfère recréer des traces à la volée sur mon téléphone et les renvoyer au GPS (possible sur le Dura sans arrêter l’enregistrement en cours, contrairement au Garmin).</li>
-</ul>
-<h2>Ma config</h2>
-<p>Je n’utilise que le profil d’activité VTT (les écrans disponibles et les affichages non sollicités diffèrent selon les profils). Je n’utilise jamais le mode écran partagé. J’ai conservé trois écrans.</p>
-<figure><img alt="Profil VTT" class="portrait" height="2226" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-170255.webp" width="1024"/><figcaption>Profil VTT</figcaption></figure>
-<figure><img alt="Map plein écran" class="portrait" height="2226" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-172057.webp" width="1024"/><figcaption>Map plein écran</figcaption></figure>
-<p>Par défaut, en bikepacking, je suis sur la carte, avec en bas la distance du prochain POI (ce qui s’avère très pratique en longue distance, notamment pour les points d’eau). En montée, le profil s’affiche sur le tiers inférieur de l’écran, ce qui permet de suivre la trace (bien plus sioux que le climb pro des Garmin). Mon but : que la carte occupe la surface maximale. Toute autre information est une distraction.</p>
-<figure><img alt="Écran quand je suis pas de trace" class="portrait" height="2226" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-172424.webp" width="1024"/><figcaption>Écran quand je suis pas de trace</figcaption></figure>
-<p>Le deuxième écran affiche les paramètres essentiels (vitesse, distance, température, dénivelé, heure…). Je n’utilise quasiment jamais le troisième, car je ne branche rarement mon capteur cardiaque.</p>
-<figure><img alt="Paramètres accéssoires" class="portrait" height="2226" src="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-172612.webp" width="1024"/><figcaption>Paramètres accéssoires</figcaption></figure>
-<p>Sur le GPS, je coupe les sons et désactive le reroutage avant de lancer une trace. C’est d’une simplicité biblique comparé à un Garmin. Je vous encourage à essayer.</p>]]></description>
-      <guid isPermaLink="false">https://static.tcrouzet.com/2026/04/24/one-year-with-coros-dura/</guid>
-      <enclosure url="https://static.tcrouzet.com/images_tc/2026/04/2026-04-24-172057.webp" length="0" type="image/webp"/>
-      <pubDate>Fri, 24 Apr 2026 20:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
