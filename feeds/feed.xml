@@ -8,12 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 19 Jul 2026 09:43:15 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 09:46:43 +0200</lastBuildDate>
     <item>
       <title>J’ai transformé un roman en carte interactive du monde</title>
       <link>https://static.tcrouzet.com/2026/07/19/IA-au-secours-de-la litterature/</link>
       <description><![CDATA[<img alt="J’ai transformé un roman en carte interactive du monde" src="https://static.tcrouzet.com/images_tc/2026/07/oneminuteserie.webp"/><p>L’IA peut venir au secours de la littérature, mais pas comme vous vous y attendez. Il n’est pas question de demander aux machines d’écrire à notre place, ni même de nous aider à brainstormer, plutôt de donner à nos textes de nouvelles formes d’existence.</p>
-<p>Quand on écrit des textes nativement numériques, <a href="https://tcrouzet.com/carnet-de-route/">comme mes carnets avec leurs photographies</a>, on les repense nécessairement pour les projeter sur papier. Certaines projections sont homothétiques, les œuvres alors strictement identiques ; d’autres fois il y a une perte comme quand on projette le globe terrestre sur une carte.</p>
+<p>Quand on écrit des textes nativement numériques, <a href="https://tcrouzet.com/carnet-de-route/">comme mes carnets avec leurs photographies</a>, on les repense nécessairement pour les projeter sur papier. Certaines projections sont homothétiques, les œuvres alors strictement identiques ; d’autres fois il y a une perte comme avec le globe terrestre projeté sur une carte.</p>
 <p>Inversement, on peut projeter en numérique des œuvres initialement publiées sur papier, ce qui se fait le plus souvent de façon homothétique avec les ebooks.</p>
 <figure><img alt="Les quatre tomes de One Minute" height="460" src="https://static.tcrouzet.com/images_tc/2026/07/oneminuteserie.webp" width="1024"/><figcaption>Les quatre tomes de One Minute</figcaption></figure>
 <p>J’ai eu envie de tenter une expérience un peu différente.</p>
