@@ -8,7 +8,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 13 Jul 2026 20:33:20 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 09:43:15 +0200</lastBuildDate>
+    <item>
+      <title>J’ai transformé un roman en carte interactive du monde</title>
+      <link>https://static.tcrouzet.com/2026/07/19/IA-au-secours-de-la litterature/</link>
+      <description><![CDATA[<img alt="J’ai transformé un roman en carte interactive du monde" src="https://static.tcrouzet.com/images_tc/2026/07/oneminuteserie.webp"/><p>L’IA peut venir au secours de la littérature, mais pas comme vous vous y attendez. Il n’est pas question de demander aux machines d’écrire à notre place, ni même de nous aider à brainstormer, plutôt de donner à nos textes de nouvelles formes d’existence.</p>
+<p>Quand on écrit des textes nativement numériques, <a href="https://tcrouzet.com/carnet-de-route/">comme mes carnets avec leurs photographies</a>, on les repense nécessairement pour les projeter sur papier. Certaines projections sont homothétiques, les œuvres alors strictement identiques ; d’autres fois il y a une perte comme quand on projette le globe terrestre sur une carte.</p>
+<p>Inversement, on peut projeter en numérique des œuvres initialement publiées sur papier, ce qui se fait le plus souvent de façon homothétique avec les ebooks.</p>
+<figure><img alt="Les quatre tomes de One Minute" height="460" src="https://static.tcrouzet.com/images_tc/2026/07/oneminuteserie.webp" width="1024"/><figcaption>Les quatre tomes de One Minute</figcaption></figure>
+<p>J’ai eu envie de tenter une expérience un peu différente.</p>
+<ul>
+<li>En 2015, j’ai publié en numérique <a href="https://tcrouzet.com/books/une-minute/"><em>One Minute</em></a>, un roman quasi interactif, nourri au fil des jours par les commentaires des lecteurs.</li>
+<li>En 2022, <em>One Minute</em> a été publié dans sa version définitive, sans les commentaires, sur papier.</li>
+<li>Aujourd’hui, en 2026, je republie le roman sous forme numérique, mais pas d’un ebook, plutôt d’<a href="https://tcrouzet.github.io/OneMinute/" rel="noopener noreferrer">une web app</a> où j’explore la dimension géographique et non temporelle du récit, puisque les 380 chapitres se jouent à la même minute UTC.</li>
+</ul>
+<p>Je rêvais depuis longtemps de cette mise en forme. J’ai vibe codé l’app, mais en disant exactement ce que je voulais, allant jusqu’à nommer les fonctions pour les protéger des modifications intempestives. J’aurais aimé que les chapitres soient lus à voix haute, mais je n’ai pas réussi à générer des lectures convaincantes. J’en suis maintenant à rêver d’une vidéo par chapitre.</p>
+<p>Cette petite expérience laisse entrevoir une seconde vie pour les textes, en leur ajoutant du code. Certes la structure de <em>One Minute</em> se prête à ce jeu, mais l’expérience pourrait être reproduite pour beaucoup de textes, à des fins ludiques, promotionnelles, expérimentales…</p>
+<p><a href="https://tcrouzet.github.io/OneMinute/" rel="noopener noreferrer">Peut-être qu’explorer le monde avec la web app <em>One Minute</em> vous donnera envie de lire dans le calme et loin des écrans les magnifiques livres publiés par PVH.</a></p>
+<figure><img alt="Le globe One Minute" height="497" src="https://static.tcrouzet.com/images_tc/2026/07/OM01.jpg" width="1024"/><figcaption>Le globe One Minute</figcaption></figure>
+<figure><img alt="Tout commence à Versailles" height="773" src="https://static.tcrouzet.com/images_tc/2026/07/OM04.jpg" width="1024"/><figcaption>Tout commence à Versailles</figcaption></figure>
+<figure><img alt="Interface de lecture" height="812" src="https://static.tcrouzet.com/images_tc/2026/07/OM05.jpg" width="1024"/><figcaption>Interface de lecture</figcaption></figure>
+<figure><img alt="Mode RSVP" height="814" src="https://static.tcrouzet.com/images_tc/2026/07/OM06.jpg" width="1024"/><figcaption>Mode RSVP</figcaption></figure>
+<figure><img alt="Tableau de bord" height="827" src="https://static.tcrouzet.com/images_tc/2026/07/OM02.jpg" width="1024"/><figcaption>Tableau de bord</figcaption></figure>
+<figure><img alt="Mode jeu vidéo" height="678" src="https://static.tcrouzet.com/images_tc/2026/07/OM03.jpg" width="1024"/><figcaption>Mode jeu vidéo</figcaption></figure>
+<p><a href="https://github.com/tcrouzet/OneMinute" rel="noopener noreferrer">Le GitHub du projet <em>One Minute</em>…</a></p>]]></description>
+      <guid isPermaLink="false">https://static.tcrouzet.com/2026/07/19/IA-au-secours-de-la litterature/</guid>
+      <enclosure url="https://static.tcrouzet.com/images_tc/2026/07/oneminuteserie.webp" length="0" type="image/webp"/>
+      <pubDate>Sun, 19 Jul 2026 11:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>L’IA fait le sale boulot : quand l’idée suffit</title>
       <link>https://static.tcrouzet.com/2026/07/09/stupefaction-devant-IA/</link>
@@ -151,45 +178,6 @@
       <guid isPermaLink="false">https://static.tcrouzet.com/2026/04/03/connection-directe/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2026/04/2008-09-28-115327.webp" length="0" type="image/webp"/>
       <pubDate>Fri, 03 Apr 2026 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ni POSSE, ni Facebook : un blog, simplement</title>
-      <link>https://static.tcrouzet.com/2026/03/26/digital-freedom/</link>
-      <description><![CDATA[<img alt="Ni POSSE, ni Facebook : un blog, simplement" src="https://static.tcrouzet.com/images_tc/2026/03/crouzetmap.webp"/><p>Il y a quelques jours, un lecteur photographe m’a écrit pour me demander de l’aide. Au prétexte qu’il a publié des images érotiques mais pas plus choquantes que celles d’Helmut Newton, Bettina Rheims ou Jeanloup Sieff, Facebook a fermé son compte : il a perdu ses publications depuis 2009, sans même parler de son réseau.</p>
-<p>Que lui dire sinon « C’est dommage » et « Débrouille-toi avec le bon vouloir de Facebook » ? Cette mésaventure est fort banale. Depuis longtemps, nous sommes nombreux à dénoncer la toute-puissance des plateformes centralisées. Nous devrions nous détourner de ces services quand ils ne nous donnent pas la main sur nos données et se permettent de filtrer nos messages.</p>
-<p>Communiquer sur les réseaux sociaux privatifs, c’est comme publier des livres dont les libraires déchireraient la plupart des pages. La règle du jeu est connue : les plateformes sont des zones de non-droit qui tiennent de la dictature plus que de la démocratie. On peut s’y exprimer librement tant que ça ne nuit pas au gouvernement, exactement comme en Chine.</p>
-<p>Si nous ne prenons pas en main notre vie numérique, si nous n’utilisons pas des services dont nous disposons des clés, la mésaventure qui frappe mon lecteur risque de nous arriver tôt ou tard, ne serait-ce que parce que nous tiendrons des propos politiques en désaccord avec le boss de la plateforme.</p>
-<h2>D’où l’intérêt du blog</h2>
-<p>Fort de ce constat, un autre lecteur a décidé de publier chez lui, c’est-à-dire de créer <a href="https://brouillonsetbuvards.sitelf.fr/" rel="noopener noreferrer">un blog</a>. Presque que des avantages :</p>
-<ul>
-<li>Ne plus offrir gratuitement des contenus aux plateformes.</li>
-<li>S’opposer à leur force de centralisation du web (ce qui revient à une prise de pouvoir).</li>
-<li>Parler sans censure.</li>
-<li><a href="https://tcrouzet.com/2025/11/16/smolweb-smolnet/">Minimiser l’impact écologique.</a></li>
-<li>Accessibilité dans le temps (les articles ne disparaissent pas dans une timeline).</li>
-<li>Mobilité des données (avec l’exigence d’effectuer des backups — <a href="https://tcrouzet.com/2025/11/25/substack-moral-choice/">ça reste le cas avec Substack, voilà pourquoi je l’utilise pour ma newsletter</a>).</li>
-<li>Possibilité d’offrir de multiples formats (web, markdown, Gemini, mail, RSS…).</li>
-<li>Personnalisation infinie.</li>
-</ul>
-<p>OK, c’est un peu plus compliqué que sur Facebook ou Instagram, mais la liberté a un prix. On nous dit toujours « les réseaux sociaux, c’est simple ». On nous dit moins souvent « les réseaux sociaux sont des dictatures ».</p>
-<h2>L’indieWeb ou le web prétendument indépendant</h2>
-<p>Lors de la création de son nouveau blog, mon lecteur s’est inspiré <a href="https://themimitoof.fr/pourquoi-vous-devriez-lancer-un-blog/" rel="noopener noreferrer">d’un article</a> qui fait l’éloge de l’<a href="https://indieweb.org/" rel="noopener noreferrer">indieWeb</a> (le web indépendant), lui-même construit autour du concept <a href="https://indieweb.org/POSSE-fr" rel="noopener noreferrer">POSSE</a>, acronyme de Publish (on your) Own Site, Syndicate Elsewhere. L’idée est simple : on publie chez soi, puis on diffuse partout ailleurs où c’est possible. J’ai longtemps joué ce jeu avant de faire marche arrière.</p>
-<p>Voilà les trois principes défendus par les membres de la communauté indieWeb :</p>
-<ol>
-<li><strong>Vos contenus vous appartiennent</strong> (ce qui n’est pas le cas avec Facebook et autres : vous cédez vos droits).</li>
-<li><strong>Vous êtes mieux connecté</strong> (puisque vous diffusez partout depuis votre base de lancement personnelle — j’appelais ça la propulsion il y a presque 20 ans).</li>
-<li><strong>Vous gardez le contrôle</strong> (puisque vous publiez ce que vous voulez).</li>
-</ol>
-<p>Selon POSSE, il serait bon de diffuser tant et plus, par tous les moyens, mais c’est très coûteux en énergie, donc irresponsable, et politiquement très douteux.</p>
-<p>Je ne publie plus sur Facebook et consorts à cause de leur politique de filtrage, de leur technofascisme affiché, de leur promotion des fakenews, de leur capacité à me faire taire du jour au lendemain, de leur appropriation de mes données, de leur propension à m’abrutir… Je refuse de collaborer à ce système. Donc, non, il n’est plus question de syndiquer mes contenus aveuglément dans l’idée de maximiser ma visibilité.</p>
-<p>Je préfère être invisible et rester en accord avec mes valeurs. Je ne poursuis pas la connexion à tout prix. Je cherche seulement des connexions de qualité. <a href="https://tcrouzet.com/tag/isa/">Voilà ce qui importe quand il nous arrive des coups durs dans la vie.</a> Je préfère dix messages écrits avec amour que des milliers de likes et de partages.</p>
-<p>Par ailleurs, même quand nous publions chez nous, nous perdons le contrôle du référencement comme de ce que lecteurs et algorithmes font de nos contenus. Si par malheur nous syndiquons, nous contrôlons encore moins. À vrai dire, le contrôle ne m’intéresse pas. Voilà pourquoi je publie sous licence libre.</p>
-<p>Je tente de rester autonome, mais indépendant, surtout pas. J’ai besoin de vous, dépends de vous, et aujourd’hui que je suis veuf, plus que jamais. Je ne publie que parce que vous êtes là. L’indépendance est une chimère libéraliste. En un temps de dérèglements climatiques, l’indépendance est une idée à combattre. Je préfère prendre conscience de mes dépendances et cultiver celles qui me grandissent tout en m’opposant à celles qui réduisent nos libertés.</p>
-<figure><img alt="Violet : miroirs Jaune : backups Orange : Social" height="566" src="https://static.tcrouzet.com/images_tc/2026/03/crouzetmap.webp" width="1024"/><figcaption>Violet : miroirs Jaune : backups Orange : Social</figcaption></figure>
-<p><em>PS : Je ne sais où j’ai trouvé la force de cet article, peut-être parce que j’y rabâche des idées éculées, qui ne semblent pourtant pas encore évidentes pour tout le monde.</em></p>]]></description>
-      <guid isPermaLink="false">https://static.tcrouzet.com/2026/03/26/digital-freedom/</guid>
-      <enclosure url="https://static.tcrouzet.com/images_tc/2026/03/crouzetmap.webp" length="0" type="image/webp"/>
-      <pubDate>Thu, 26 Mar 2026 20:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
