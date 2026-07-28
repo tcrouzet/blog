@@ -1,10 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://static.tcrouzet.com//2026/07/19/IA-au-secours-de-la litterature/index.html</loc>
-    <lastmod>2026-07-19T09:42:26+02:00</lastmod>
+    <loc>https://static.tcrouzet.com//2026/07/28/tourmagne-gravel-bikepacking-des-origines/index.html</loc>
+    <lastmod>2026-07-28T19:50:45+02:00</lastmod>
     <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2026/07/oneminuteserie.jpeg</image:loc>
+      <image:loc>https://static.tcrouzet.com/images_tc/2026/07/2026-07-20-131536.jpeg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://static.tcrouzet.com//2026/07/19/IA-au-secours-de-la litterature/index.html</loc>
+    <lastmod>2026-07-19T09:54:20+02:00</lastmod>
+    <image:image>
+      <image:loc>https://static.tcrouzet.com/images_tc/2026/07/OM01.jpeg</image:loc>
     </image:image>
   </url>
   <url>
