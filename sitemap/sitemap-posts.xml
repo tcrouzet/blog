@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://static.tcrouzet.com//2026/08/03/g727-en-approche/index.html</loc>
+    <lastmod>2026-08-03T18:58:58+02:00</lastmod>
+    <image:image>
+      <image:loc>https://static.tcrouzet.com/images_tc/2026/08/727logo_noir.jpeg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://static.tcrouzet.com//2026/07/28/tourmagne-gravel-bikepacking-des-origines/index.html</loc>
-    <lastmod>2026-07-28T19:50:45+02:00</lastmod>
+    <lastmod>2026-07-28T21:24:43+02:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2026/07/2026-07-20-131536.jpeg</image:loc>
     </image:image>
@@ -16,7 +23,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2026/07/13/gravel-voyage/index.html</loc>
-    <lastmod>2026-07-13T20:32:17+02:00</lastmod>
+    <lastmod>2026-07-30T16:11:01+02:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2026/07/2026-07-11-191523.jpeg</image:loc>
     </image:image>
@@ -222,13 +229,6 @@
     <lastmod>2026-03-15T16:13:46+01:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2026/03/2026-03-14-181619.jpeg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://static.tcrouzet.com//2026/03/13/pour-le plaisir/index.html</loc>
-    <lastmod>2026-03-13T08:58:36+01:00</lastmod>
-    <image:image>
-      <image:loc>https://static.tcrouzet.com/images_tc/2026/03/mapPOU100.jpeg</image:loc>
     </image:image>
   </url>
   <url>
@@ -1855,7 +1855,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2023/10/23/enrichir-automatiquement-vos-itineraires-avec-des-points-dinteret/index.html</loc>
-    <lastmod>2024-06-09T06:42:31+02:00</lastmod>
+    <lastmod>2026-07-31T07:24:29+02:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2023/10/pois.jpeg</image:loc>
     </image:image>
@@ -1953,7 +1953,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2023/04/06/quelques-notes-post-727-2023/index.html</loc>
-    <lastmod>2026-01-03T18:15:11+01:00</lastmod>
+    <lastmod>2026-07-31T07:24:34+02:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2023/04/IMG_1623.jpeg</image:loc>
     </image:image>
@@ -2226,7 +2226,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2022/09/29/heatmap-le-tracage-social-pour-gravel-et-vtt/index.html</loc>
-    <lastmod>2024-04-30T08:24:30+02:00</lastmod>
+    <lastmod>2026-07-31T07:24:29+02:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2022/09/IMG_9353.jpeg</image:loc>
     </image:image>
@@ -2289,7 +2289,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2022/07/15/une-traversee-de-la-france-a-vtt/index.html</loc>
-    <lastmod>2024-05-01T09:01:06+02:00</lastmod>
+    <lastmod>2026-07-31T07:24:29+02:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2022/07/IMG_8185.jpeg</image:loc>
     </image:image>
@@ -2345,7 +2345,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2022/04/30/paris-to-sete-2022-cest-parti/index.html</loc>
-    <lastmod>2024-06-09T06:43:41+02:00</lastmod>
+    <lastmod>2026-07-31T07:24:29+02:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2022/04/P27map-1.jpeg</image:loc>
     </image:image>
@@ -2366,7 +2366,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//2022/03/31/config-bikepacking-2022/index.html</loc>
-    <lastmod>2026-05-07T16:00:55+02:00</lastmod>
+    <lastmod>2026-07-31T07:24:29+02:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2022/03/IMG_7782.jpeg</image:loc>
     </image:image>
@@ -15161,7 +15161,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com//page/informations/index.html</loc>
-    <lastmod>2026-05-30T15:33:34+02:00</lastmod>
+    <lastmod>2026-07-29T07:25:32+02:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2006/06/geneve2014g.jpeg</image:loc>
     </image:image>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 02 Jul 2026 08:53:40 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 18:59:57 +0200</lastBuildDate>
     <item>
       <title>Juin 2026</title>
       <link>https://static.tcrouzet.com/2026/07/01/juin-2026/</link>
@@ -219,7 +219,7 @@
 <p>Passage de Laurence. Ça me fait toujours du bien de parler d’Isa avec ses amies.</p>
 <h2>Mercredi 6, Balaruc</h2>
 <p>Hier soir, Line et Philippe me disent que sur la couverture de <em>Clair de femme</em>, le portrait d’Elena Povolozky (1882-1979) par Modigliani leur fait penser à Isa. Les yeux bleu-vert m’ont empêché de voir la ressemblance, mais oui : même haut front, même menton, mêmes cheveux. Isa avait simplement les lèvres plus amples, plus pleines. Dans les années 1990, avant que je la rencontre, a-t-elle acheté <em>Clair de femme</em> à cause de la ressemblance ? Le lui avait-on offert pour cette raison ? Mais le roman ne pouvait être en haut de la pile à cause de cette ressemblance. Je commence à me poser des questions auxquelles je n’aurai jamais de réponse.</p>
-<figure><img alt="Elena Povolozky par Modigliani" class="portrait" height="1354" src="https://static.tcrouzet.com/images_tc/2026/06/modigliani.webp" width="1024"/><figcaption>Elena Povolozky par Modigliani</figcaption></figure>
+<figure class="portrait-figure"><img alt="Elena Povolozky par Modigliani" class="portrait" height="1354" src="https://static.tcrouzet.com/images_tc/2026/06/modigliani.webp" width="1024"/><figcaption>Elena Povolozky par Modigliani</figcaption></figure>
 <h2>Jeudi 7, Balaruc</h2>
 <figure><img alt="Sète" height="768" src="https://static.tcrouzet.com/images_tc/2026/06/2026-05-07-121653-PoussanetBouzigues.webp" width="1024"/><figcaption>Sète</figcaption></figure>
 <figure><img alt="Bouzigues" height="768" src="https://static.tcrouzet.com/images_tc/2026/06/2026-05-07-123118-PoussanetBouzigues.webp" width="1024"/><figcaption>Bouzigues</figcaption></figure>
@@ -245,9 +245,9 @@
 <h2>Samedi 16, Balaruc</h2>
 <figure><img alt="Henri Martin" class="portrait" height="776" src="https://static.tcrouzet.com/images_tc/2026/06/henrimartin.webp" width="799"/><figcaption>Henri Martin</figcaption></figure>
 <p>M m’envoie un <a href="https://pop.culture.gouv.fr/notice/joconde/04670000407" rel="noopener noreferrer">portrait de femme par Henri Martin</a> qui évoque Isa, une Isa tristounette, des yeux bleus, mais on retrouve le haut front, l’ovale du visage, les lèvres pleines. Je trouve un autre portrait de cette femme, moins évocateur.</p>
-<figure><img alt="Henri Marin" class="portrait portrait" height="510" src="https://static.tcrouzet.com/images_tc/2026/06/henrimartin2.webp" width="331"/><figcaption>Henri Marin</figcaption></figure>
+<figure class="portrait-figure"><img alt="Henri Marin" class="portrait portrait" height="510" src="https://static.tcrouzet.com/images_tc/2026/06/henrimartin2.webp" width="331"/><figcaption>Henri Marin</figcaption></figure>
 <p>Jamais Isa n’aurait pu rester aussi froide. Elle avait un côté plus fougueux, que j’ai toujours défini « années folles », pensant à la <a href="https://levoleurdimages.paris/chronique/65-renee-biarritz/" rel="noopener noreferrer">Renée de Jacques Henri Lartigue</a>, mais en moins sophistiquée.</p>
-<figure><img alt="Renée, Biarritz, 1930" class="portrait portrait" height="1050" src="https://static.tcrouzet.com/images_tc/2026/06/Renee.webp" width="764"/><figcaption>Renée, Biarritz, 1930</figcaption></figure>
+<figure class="portrait-figure"><img alt="Renée, Biarritz, 1930" class="portrait portrait" height="1050" src="https://static.tcrouzet.com/images_tc/2026/06/Renee.webp" width="764"/><figcaption>Renée, Biarritz, 1930</figcaption></figure>
 <h2>Dimanche 17, Balaruc</h2>
 <p>Dans un monde obsédé par la rentabilité, l’efficacité, les rendements, faire des choses inutiles, ou qui n’ont de sens que pour mon plaisir, comme arracher les mauvaises herbes dans le jardin devant la maison. Inutiles pour les autres, mais pas pour moi, puisque ces gestes simples m’apaisent depuis qu’Isa est tombée malade. Je les prolonge aujourd’hui, souvent avec un pincement au cœur. L’inutile me devient utile.</p>
 <hr/>
@@ -523,7 +523,7 @@
 <p>« Rien, dans ce qui nous unissait n’était à nous seuls, rien n’était différent, unique, rare ou exceptionnel, il y avait permanence et pérennité, il y avait couple, nous étions plus anciens que mémoire humaine. »</p>
 <p>« S’imaginer que tout est fini parce qu’on a perdu la seule femme que l’on ait aimée, c’est un manque d’amour. »</p>
 <p>Reste que Gary tire à la ligne, délaie, enchaîne les dialogues vides. Mais, de temps à autre, il lâche une phrase puissante, qui me donne le courage de poursuivre.</p>
-<figure><img alt="Clair de femm" class="portrait portrait" height="1500" src="https://static.tcrouzet.com/images_tc/2026/05/clairdefemme.webp" width="911"/><figcaption>Clair de femm</figcaption></figure>
+<figure class="portrait-figure"><img alt="Clair de femm" class="portrait portrait" height="1500" src="https://static.tcrouzet.com/images_tc/2026/05/clairdefemme.webp" width="911"/><figcaption>Clair de femm</figcaption></figure>
 <h2>Jeudi 23, Balaruc</h2>
 <p>Je continue de lire <em>Clair de femme</em>, sans grand enthousiasme, beaucoup de mots inutiles, improvisation virtuose sans grande portée, jusqu’à ce qu’une nouvelle phrase me saisisse : « Il fallait faire face, laisser mourir, aimer pour garder en vie. » On ne laisse pas mourir, on n’a pas le choix, j’ai fait ce que j’ai pu pour retarder la mort d’Isa, puis ça n’avait plus de sens, c’était devenu impossible pour quiconque. On ne peut que laisser mourir en soi. Ça ne veut pas dire grand-chose. On accepte, au mieux. C’est un préalable à la guérison. Aimer pour garder en vie, ça oui, en revanche : aimer Isa, les enfants, la famille, les amis et les inconnus à venir.</p>
 <hr/>
