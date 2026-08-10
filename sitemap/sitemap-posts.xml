@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://static.tcrouzet.com/2026/08/10/modele-economique/</loc>
+    <lastmod>2026-08-10T14:08:46+02:00</lastmod>
+    <image:image>
+      <image:loc>https://static.tcrouzet.com/images_tc/2026/08/lulu01.jpeg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://static.tcrouzet.com/2026/08/09/digest053/</loc>
     <lastmod>2026-08-09T15:51:59+02:00</lastmod>
     <image:image>
@@ -969,7 +976,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com/books/livre-contre-attaque/</loc>
-    <lastmod>2025-05-16T14:10:58+02:00</lastmod>
+    <lastmod>2026-08-09T17:06:32+02:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2025/04/livre-contre-attaque-cover.jpeg</image:loc>
     </image:image>
