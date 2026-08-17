@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="770" viewBox="0 0 1080 770">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#222}.title{font-size:20px;font-weight:700}.value{font-size:14px;font-weight:700;fill:white;paint-order:stroke;stroke:#333;stroke-width:3px}.legend{font-size:14px}</style>
+<text class="title" x="180" y="28" text-anchor="middle">IA</text>
+<path d="M 180 170 L 180.00 50.00 A 120 120 0 0 1 289.52 219.04 Z" fill="#3d70a3"/>
+<text class="value" x="245.46" y="127.59" text-anchor="middle">32 %</text>
+<path d="M 180 170 L 289.52 219.04 A 120 120 0 0 1 281.32 234.30 Z" fill="#75a843"/>
+<path d="M 180 170 L 281.32 234.30 A 120 120 0 0 1 170.96 289.66 Z" fill="#efb349"/>
+<text class="value" x="214.97" y="239.72" text-anchor="middle">17 %</text>
+<path d="M 180 170 L 170.96 289.66 A 120 120 0 0 1 121.53 65.21 Z" fill="#ca4038"/>
+<text class="value" x="103.83" y="186.78" text-anchor="middle">41 %</text>
+<path d="M 180 170 L 121.53 65.21 A 120 120 0 0 1 180.00 50.00 Z" fill="#835692"/>
+<text class="value" x="160.36" y="94.51" text-anchor="middle">8 %</text>
+<text class="title" x="540" y="28" text-anchor="middle">Crouzet</text>
+<path d="M 540 170 L 540.00 50.00 A 120 120 0 0 1 627.59 252.03 Z" fill="#3d70a3"/>
+<text class="value" x="611.56" y="138.97" text-anchor="middle">37 %</text>
+<path d="M 540 170 L 627.59 252.03 A 120 120 0 0 1 599.36 274.29 Z" fill="#75a843"/>
+<text class="value" x="588.30" y="231.24" text-anchor="middle">5 %</text>
+<path d="M 540 170 L 599.36 274.29 A 120 120 0 0 1 500.75 283.40 Z" fill="#efb349"/>
+<text class="value" x="547.17" y="247.67" text-anchor="middle">14 %</text>
+<path d="M 540 170 L 500.75 283.40 A 120 120 0 0 1 461.68 79.08 Z" fill="#ca4038"/>
+<text class="value" x="463.39" y="184.65" text-anchor="middle">33 %</text>
+<path d="M 540 170 L 461.68 79.08 A 120 120 0 0 1 539.95 50.00 Z" fill="#835692"/>
+<text class="value" x="512.83" y="96.88" text-anchor="middle">11 %</text>
+<text class="title" x="900" y="28" text-anchor="middle">Duras</text>
+<path d="M 900 170 L 900.00 50.00 A 120 120 0 0 1 1002.46 232.46 Z" fill="#3d70a3"/>
+<text class="value" x="968.01" y="131.81" text-anchor="middle">34 %</text>
+<path d="M 900 170 L 1002.46 232.46 A 120 120 0 0 1 990.91 248.33 Z" fill="#75a843"/>
+<path d="M 900 170 L 990.91 248.33 A 120 120 0 0 1 875.67 287.51 Z" fill="#efb349"/>
+<text class="value" x="925.11" y="243.85" text-anchor="middle">17 %</text>
+<path d="M 900 170 L 875.67 287.51 A 120 120 0 0 1 826.27 75.33 Z" fill="#ca4038"/>
+<text class="value" x="824.03" y="187.69" text-anchor="middle">36 %</text>
+<path d="M 900 170 L 826.27 75.33 A 120 120 0 0 1 899.81 50.00 Z" fill="#835692"/>
+<text class="value" x="874.60" y="96.25" text-anchor="middle">11 %</text>
+<text class="title" x="180" y="368" text-anchor="middle">Echenoz</text>
+<path d="M 180 510 L 180.00 390.00 A 120 120 0 0 1 278.03 579.21 Z" fill="#3d70a3"/>
+<text class="value" x="249.26" y="474.12" text-anchor="middle">35 %</text>
+<path d="M 180 510 L 278.03 579.21 A 120 120 0 0 1 238.20 614.94 Z" fill="#75a843"/>
+<text class="value" x="232.09" y="568.06" text-anchor="middle">7 %</text>
+<path d="M 180 510 L 238.20 614.94 A 120 120 0 0 1 123.18 615.70 Z" fill="#efb349"/>
+<text class="value" x="180.51" y="588.00" text-anchor="middle">16 %</text>
+<path d="M 180 510 L 123.18 615.70 A 120 120 0 0 1 105.41 416.00 Z" fill="#ca4038"/>
+<text class="value" x="102.31" y="516.91" text-anchor="middle">31 %</text>
+<path d="M 180 510 L 105.41 416.00 A 120 120 0 0 1 180.06 390.00 Z" fill="#835692"/>
+<text class="value" x="154.35" y="436.34" text-anchor="middle">11 %</text>
+<text class="title" x="540" y="368" text-anchor="middle">Houellebecq</text>
+<path d="M 540 510 L 540.00 390.00 A 120 120 0 0 1 623.25 596.43 Z" fill="#3d70a3"/>
+<text class="value" x="612.34" y="480.83" text-anchor="middle">38 %</text>
+<path d="M 540 510 L 623.25 596.43 A 120 120 0 0 1 591.05 618.60 Z" fill="#75a843"/>
+<text class="value" x="584.24" y="574.24" text-anchor="middle">5 %</text>
+<path d="M 540 510 L 591.05 618.60 A 120 120 0 0 1 492.34 620.13 Z" fill="#efb349"/>
+<text class="value" x="541.21" y="587.99" text-anchor="middle">13 %</text>
+<path d="M 540 510 L 492.34 620.13 A 120 120 0 0 1 450.11 430.50 Z" fill="#ca4038"/>
+<text class="value" x="463.87" y="526.96" text-anchor="middle">30 %</text>
+<path d="M 540 510 L 450.11 430.50 A 120 120 0 0 1 539.95 390.00 Z" fill="#835692"/>
+<text class="value" x="507.94" y="438.89" text-anchor="middle">13 %</text>
+<text class="title" x="900" y="368" text-anchor="middle">Michon</text>
+<path d="M 900 510 L 900.00 390.00 A 120 120 0 0 1 973.80 604.62 Z" fill="#3d70a3"/>
+<text class="value" x="973.76" y="484.64" text-anchor="middle">39 %</text>
+<path d="M 900 510 L 973.80 604.62 A 120 120 0 0 1 947.21 620.32 Z" fill="#75a843"/>
+<text class="value" x="939.66" y="577.17" text-anchor="middle">4 %</text>
+<path d="M 900 510 L 947.21 620.32 A 120 120 0 0 1 852.12 620.03 Z" fill="#efb349"/>
+<text class="value" x="899.76" y="588.00" text-anchor="middle">13 %</text>
+<path d="M 900 510 L 852.12 620.03 A 120 120 0 0 1 800.14 443.46 Z" fill="#ca4038"/>
+<text class="value" x="825.17" y="532.03" text-anchor="middle">28 %</text>
+<path d="M 900 510 L 800.14 443.46 A 120 120 0 0 1 900.12 390.00 Z" fill="#835692"/>
+<text class="value" x="863.22" y="441.21" text-anchor="middle">16 %</text>
+<rect x="242.0" y="722" width="16" height="16" rx="2" fill="#3d70a3"/>
+<text class="legend" x="265.0" y="735">Noms communs</text>
+<rect x="383.0" y="722" width="16" height="16" rx="2" fill="#75a843"/>
+<text class="legend" x="406.0" y="735">Noms propres</text>
+<rect x="524.0" y="722" width="16" height="16" rx="2" fill="#efb349"/>
+<text class="legend" x="547.0" y="735">Adverbes</text>
+<rect x="637.0" y="722" width="16" height="16" rx="2" fill="#ca4038"/>
+<text class="legend" x="660.0" y="735">Verbes</text>
+<rect x="736.0" y="722" width="16" height="16" rx="2" fill="#835692"/>
+<text class="legend" x="759.0" y="735">Adjectifs</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="780" viewBox="0 0 1000 780">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#222}.axis{font-size:13px}.legend{font-size:14px}.grid{fill:none;stroke:#ccd1d5;stroke-width:1}.spoke{stroke:#d9dddf;stroke-width:1}</style>
+<polygon class="grid" points="500.0,328.5 517.0,334.7 526.1,350.4 522.9,368.2 509.1,379.9 490.9,379.9 477.1,368.2 473.9,350.4 483.0,334.7"/>
+<polygon class="grid" points="500.0,288.8 542.6,304.2 565.2,343.5 557.4,388.1 522.7,417.3 477.3,417.3 442.6,388.1 434.8,343.5 457.4,304.2"/>
+<polygon class="grid" points="500.0,222.5 585.2,253.5 630.5,332.0 614.7,421.2 545.3,479.5 454.7,479.5 385.3,421.3 369.5,332.0 414.8,253.5"/>
+<polygon class="grid" points="500.0,156.2 627.8,202.7 695.7,320.5 672.1,454.4 568.0,541.8 432.0,541.8 327.9,454.4 304.3,320.5 372.2,202.7"/>
+<polygon class="grid" points="500.0,90.0 670.3,152.0 761.0,309.0 729.5,487.5 590.6,604.0 409.4,604.0 270.5,487.5 239.0,309.0 329.7,152.0"/>
+<line class="spoke" x1="500" y1="355" x2="500.0" y2="90.0"/>
+<text class="axis" x="500.0" y="45.0" text-anchor="middle">Ponctuation (signes/300 mots)</text>
+<line class="spoke" x1="500" y1="355" x2="670.3" y2="152.0"/>
+<text class="axis" x="699.3" y="117.5" text-anchor="start">Diversité de ponctuation</text>
+<line class="spoke" x1="500" y1="355" x2="761.0" y2="309.0"/>
+<text class="axis" x="805.3" y="301.2" text-anchor="start">Diversité des structures</text>
+<line class="spoke" x1="500" y1="355" x2="729.5" y2="487.5"/>
+<text class="axis" x="768.5" y="510.0" text-anchor="start">Rythme des structures</text>
+<line class="spoke" x1="500" y1="355" x2="590.6" y2="604.0"/>
+<text class="axis" x="606.0" y="646.3" text-anchor="start">Profondeur syntaxique</text>
+<line class="spoke" x1="500" y1="355" x2="409.4" y2="604.0"/>
+<text class="axis" x="394.0" y="646.3" text-anchor="end">Diversité des débuts de phrase</text>
+<line class="spoke" x1="500" y1="355" x2="270.5" y2="487.5"/>
+<text class="axis" x="231.5" y="510.0" text-anchor="end">Burstiness</text>
+<line class="spoke" x1="500" y1="355" x2="239.0" y2="309.0"/>
+<text class="axis" x="194.7" y="301.2" text-anchor="end">Ratio noms/verbes</text>
+<line class="spoke" x1="500" y1="355" x2="329.7" y2="152.0"/>
+<text class="axis" x="300.7" y="117.5" text-anchor="end">Répétitions lexicales</text>
+<polygon points="500.0,158.1 623.0,208.4 599.3,337.5 606.6,416.6 524.7,422.7 450.2,491.9 395.5,415.3 353.5,329.2 389.3,223.1" fill="#d13c36" fill-opacity="0.09" stroke="#d13c36" stroke-width="3" stroke-opacity="0.88"/>
+<polygon points="500.0,211.0 537.7,310.1 625.5,332.9 618.2,423.3 531.7,442.0 470.0,437.4 349.4,441.9 388.5,335.3 491.5,344.8" fill="#3478b8" fill-opacity="0.09" stroke="#3478b8" stroke-width="3" stroke-opacity="0.88"/>
+<polygon points="500.0,257.4 559.9,283.6 674.7,324.2 631.6,431.0 577.5,567.9 439.7,520.7 425.2,398.2 340.8,326.9 424.7,265.3" fill="#57a052" fill-opacity="0.09" stroke="#57a052" stroke-width="3" stroke-opacity="0.88"/>
+<polygon points="500.0,193.4 639.3,189.0 626.6,332.7 599.4,412.4 538.7,461.4 443.0,511.5 435.3,392.3 358.4,330.0 421.1,261.0" fill="#8b55a2" fill-opacity="0.09" stroke="#8b55a2" stroke-width="3" stroke-opacity="0.88"/>
+<polygon points="500.0,208.2 613.9,219.3 699.2,319.9 668.0,452.0 561.3,523.4 442.8,512.1 314.8,461.9 336.1,326.1 376.1,207.3" fill="#e19a2d" fill-opacity="0.09" stroke="#e19a2d" stroke-width="3" stroke-opacity="0.88"/>
+<polygon points="500.0,306.8 537.2,310.7 557.6,344.8 564.6,392.3 538.1,459.6 482.3,403.5 391.3,417.8 439.9,344.4 371.6,201.9" fill="#4a2c20" fill-opacity="0.15" stroke="#4a2c20" stroke-width="4" stroke-opacity="0.88"/>
+<line x1="148.0" y1="745" x2="173.0" y2="745" stroke="#4a2c20" stroke-width="4"/>
+<text class="legend" x="181.0" y="750">IA</text>
+<line x1="238.0" y1="745" x2="263.0" y2="745" stroke="#d13c36" stroke-width="4"/>
+<text class="legend" x="271.0" y="750">Crouzet</text>
+<line x1="363.0" y1="745" x2="388.0" y2="745" stroke="#3478b8" stroke-width="4"/>
+<text class="legend" x="396.0" y="750">Duras</text>
+<line x1="474.0" y1="745" x2="499.0" y2="745" stroke="#57a052" stroke-width="4"/>
+<text class="legend" x="507.0" y="750">Echenoz</text>
+<line x1="599.0" y1="745" x2="624.0" y2="745" stroke="#8b55a2" stroke-width="4"/>
+<text class="legend" x="632.0" y="750">Houellebecq</text>
+<line x1="752.0" y1="745" x2="777.0" y2="745" stroke="#e19a2d" stroke-width="4"/>
+<text class="legend" x="785.0" y="750">Michon</text>
+</svg>
