@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 17 Aug 2026 20:16:18 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 21:16:25 +0200</lastBuildDate>
     <item>
       <title>La question n’est pas si c’est de l’IA mais si c’est bon</title>
       <link>https://static.tcrouzet.com/2026/08/17/ia-texte-origine-ou-qualite/</link>
@@ -24,7 +24,7 @@
 <h2>Au-delà du cadre législatif</h2>
 <p>Et de fil en aiguille, à la recherche d’une martingale pour savoir si un texte était généré par IA, j’ai abouti à tout autre chose, de plus intéressant à mes yeux.</p>
 <p>Une fois ma première expérience de lecteur dépassée, je m’intéresse à l’auteur, à ses outils, à ses nuances stylistiques. Plus particulièrement, je me demande quels sont les travers des IA par rapport aux nôtres – des travers perçus instinctivement, qui me font rejeter les créations artificielles à visées littéraires ? Comment différencier ce que les machines écrivent de ce que nous écrivons ?</p>
-<p><a href="https://arxiv.org/abs/2502.12150" rel="noopener noreferrer">Les chercheurs distinguent les modèles IA avec 97 % de réussite</a>. Cela revient à créer leur signature stylistique. Je me suis dit : pourquoi ne oas refaire le job à ma sauce et l’appliquer à des auteurs humains ? J’ai parcouru la littérature consacrée à la détection IA, bricolé quelques indices de mesure, puis <a href="https://github.com/tcrouzet/unshiter" rel="noopener noreferrer">créé une application d’analyse</a>. Il semble impossible de détecter la prose IA à coup sûr sans utiliser d’IA, ce qui me paraît le comble de l’ironie : nous sommes prisonniers d’une boucle étrange dont nous ne sortirons plus.</p>
+<p><a href="https://arxiv.org/abs/2502.12150" rel="noopener noreferrer">Les chercheurs distinguent les modèles IA avec 97 % de réussite</a>. Cela revient à créer leur signature stylistique. Je me suis dit : pourquoi ne pas refaire le job à ma sauce et l’appliquer à des auteurs humains ? J’ai parcouru la littérature consacrée à la détection IA, bricolé quelques indices de mesure, puis <a href="https://github.com/tcrouzet/unshiter" rel="noopener noreferrer">créé une application d’analyse</a>. Il semble impossible de détecter la prose IA à coup sûr sans utiliser d’IA, ce qui me paraît le comble de l’ironie : nous sommes prisonniers d’une boucle étrange dont nous ne sortirons plus.</p>
 <p>Pour tester mon appli, j’ai comparé six textes :</p>
 <ul>
 <li><a href="https://github.com/tcrouzet/unshiter/blob/main/sources/lettre1.md" rel="noopener noreferrer">Lettre 1 purement IA</a>, tirée de <a href="https://tcrouzet.com/2026/08/14/correspondance-amoureuse/">ma correspondance amoureuse</a>.</li>
