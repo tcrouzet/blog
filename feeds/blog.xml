@@ -8,7 +8,97 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 16:20:22 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 20:22:31 +0200</lastBuildDate>
+    <item>
+      <title>Je n’utilise pas l’IA pour écrire mais pour me lire</title>
+      <link>https://static.tcrouzet.com/2026/08/28/comment-ecrivez-vous/</link>
+      <description><![CDATA[<img alt="Je n’utilise pas l’IA pour écrire mais pour me lire" src="https://static.tcrouzet.com/images_tc/2026/08/big5.webp"/><p>Plus personne ou presque ne lit, mais nous restons nombreux à écrire. Alors sommes-nous plutôt classiques ou baroques, émotionnels ou neutres, discursifs ou narratifs ? Je connais des écrivains qui ne se posent pas la question – ils écrivent, point. Moi, au contraire, j’ai toujours tenté de me situer.</p>
+<p><a href="https://tcrouzet.com/tag/textstat/">Depuis que je joue avec les statistiques textuelles</a>, on me dit « Seul importe l’émotion », « Tu perds ton temps » ou « Les chiffres ne peuvent rien dire de la littérature », étonnant remarque alors que les machines produisent des textes sans relâche. Des maths engendrent des textes et les maths n’auraient aucun rapport avec la littérature ?</p>
+<p>Une lectrice – il en reste quelques-unes – vient de m’envoyer une célèbre citation de Proust, extraite du <em>Temps retrouvé</em> : « Car le style pour l’écrivain aussi bien que la couleur pour le peintre est une question non de technique mais de vision. Il est la révélation, qui serait impossible par des moyens directs et conscients, de la différence qualitative qu’il y a dans la façon dont nous apparaît le monde, différence qui, s’il n’y avait pas l’art, resterait le secret éternel de chacun. » Si on en restait là, on en serait encore à regarder le ciel sans se demander pourquoi il est bleu. S’émouvoir face à une œuvre n’empêche pas de chercher l’origine de nos émotions, ni de se demander pourquoi un style nous parle, un autre pas. Comme si Proust n’était pas aux aguets, lui qui distend la structure syntaxique pour détruire la notion de temps. N’est-ce qu’une affaire de vision ?</p>
+<p>Dans une lettre à Jean-Louis Vaudoyer du 12 avril 1913, il s’explique : « Il ne reste pas une ligne sur vingt du texte primitif (remplacé d’ailleurs par un autre). C’est rayé, corrigé dans toutes les parties blanches que je peux trouver, et je colle des papiers en haut, en bas, à droite, à gauche, etc. […] Je suis en train de faire sur les épreuves un travail de remaniement, de réécriture, qui est une véritable folie. » Cette folie n’est possible que grâce à une immense maîtrise technique : non une simple intuition, mais une forme d’objectivité, une conscience littéraire aiguë. Il serait dangereux de confondre l’inspiration, le <a href="https://tcrouzet.com/books/rush/">rush</a>, et le travail subséquent. Proust témoigne de cette dualité.</p>
+<p>Les maths ne sont pas la littérature, à coup sûr, mais elles peuvent nous aider à mieux la comprendre, à différencier les œuvres et les auteurs. Les maths arrivent après, sans être inutiles, un outil de plus comme les dictionnaires de synonymes. Pour me prouver que je ne suis pas dingue, j’ai établi une brève chronologie des recherches dans ce domaine.</p>
+<h2>Chronologie</h2>
+<ul>
+<li><strong>1851</strong> Dans une lettre, le logicien <a href="https://en.wikipedia.org/wiki/Augustus_De_Morgan" rel="noopener noreferrer">Augustus de Morgan</a> suggère de <a href="https://archive.org/details/memoirofaugustus00demouoft" rel="noopener noreferrer">comparer la longueur moyenne des mots pour trancher une question d’attribution d’auteur</a>.</li>
+<li><strong>1887</strong> Le statisticien T. C. Mendenhall compare les distributions de longueurs de mots chez Dickens, Thackeray et Mill.</li>
+<li><strong>1898</strong> Le philosophe <a href="https://fr.wikipedia.org/wiki/Wincenty_Lutos%C5%82awski" rel="noopener noreferrer">Wincenty Lutosławski</a> invente le mot <a href="https://www.persee.fr/doc/reg_0035-2039_1898_num_11_41_5847" rel="noopener noreferrer">stylométrie</a> pour dater les dialogues de Platon par comparaison de leur style.</li>
+<li><strong>1935</strong> Dans <a href="https://mitpress.mit.edu/9780262240055/the-psycho-biology-of-language/" rel="noopener noreferrer"><em>The Psycho-Biology of Language</em></a>, le linguiste <a href="https://fr.wikipedia.org/wiki/Loi_de_Zipf" rel="noopener noreferrer">George Kingsley Zipf</a> découvre que la fréquence d’un mot est inversement proportionnelle à son rang quel que soit l’auteur. Une loi si universelle qu’elle ne distingue personne.</li>
+<li><strong>1944</strong> Dans <a href="https://books.google.fr/books/about/The_Statistical_Study_of_Literary_Vocabu.html?id=DaCCAAAAIAAJ&amp;redir_esc=y" rel="noopener noreferrer"><em>The Statistical Study of Literary Vocabulary</em></a>, George Udny Yule pose les bases de la richesse lexicale mesurée statistiquement.</li>
+<li><strong>1959</strong> Cox et Brandwood publient <a href="https://academic.oup.com/jrsssb/article/21/1/195/7035315" rel="noopener noreferrer"><em>On a Discriminatory Problem Connected with the Works of Plato</em></a>.</li>
+<li><strong>1962</strong> Dans <a href="https://books.google.com/books/about/A_Statistical_Method_for_Determining_Aut.html?id=oJJO0gEACAAJ" rel="noopener noreferrer"><em>A Statistical Method for Determining Authorship: The Junius Letters, 1769-1772</em></a>, Alvar Ellegård affine les classifications chronologiques et les attributions.</li>
+<li><strong>1963</strong> Dans une étude fondatrice, <a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.1963.10500849" rel="noopener noreferrer"><em>Inference in an Authorship Problem</em></a>, Frederick Mosteller et David Wallace utilisent les fréquences de mots-outils et l’inférence bayésienne pour départager Hamilton et Madison.</li>
+<li><strong>1960-1970</strong> En France, l’école de la statistique textuelle se développe avec Charles Muller, <a href="https://fr.wikipedia.org/wiki/Jean-Paul_Benz%C3%A9cri" rel="noopener noreferrer">Jean-Paul Benzécri</a>, puis Étienne Brunet et Charles Bernet.</li>
+<li><strong>2002</strong> Avec <a href="https://www.researchgate.net/publication/240956478_’Delta’_a_Measure_of_Stylistic_Difference_and_a_Guide_to_Likely_Authorship" rel="noopener noreferrer"><em>’Delta’: a Measure of Stylistic Difference and a Guide to Likely Authorship</em></a>, John Burrows propose une méthode dès lors standard pour comparer les empreintes stylistiques des auteurs (je l’utilise).</li>
+<li><strong>2010-2020</strong> Machine learning et deep learning appliqués à la stylométrie, notamment dans des affaires judiciaires (<a href="https://www.radiofrance.fr/franceinfo/podcasts/les-documents-franceinfo/affaire-gregory-la-stylometrie-permet-de-savoir-qui-parle-a-partir-de-la-langue-employee-explique-florian-cafiero-7459843" rel="noopener noreferrer">l’affaire Grégory, avec Florian Cafiero</a>).</li>
+<li><strong>2020-2026</strong> Les <a href="https://fr.wikipedia.org/wiki/Grand_mod%C3%A8le_de_langage" rel="noopener noreferrer">grands modèles de langage</a> ne se contentent plus d’analyser la littérature, ils en produisent aussi.</li>
+</ul>
+<h2>Et ça continue</h2>
+<p><a href="https://www.ecrireclair.net/posts/cinq-curseurs-un-167808486" rel="noopener noreferrer">Sébastien Bailly pointe une nouvelle étude</a>, <a href="https://github.com/Znull-1220/LiteraryBigFive" rel="noopener noreferrer">LiteraryBigFive</a>, qui propose de cartographier les œuvres selon cinq axes. Comme je venais de publier <a href="https://tcrouzet.com/2026/08/23/statistiques-litteraires/">mon application de cartographie littéraire</a>, j’ai eu envie de rebondir.</p>
+<p>Le principe de LiteraryBigFive : donner à lire à un LLM, un Llama-2-7B-chat-hf, des textes annotés selon cinq traits (Classicism, Ornateness, Narrativity, Emotionality, Analyticity), puis des versions neutres des mêmes textes. Au cœur du modèle, la lecture laisse en empreinte un vecteur de 4096 nombres. La différence moyenne entre ces vecteurs, calculée séparément pour chaque trait sur l’ensemble du jeu de données, donne cinq directions, rendues indépendantes les unes des autres par une décomposition mathématique. On peut ensuite situer un auteur donné en projetant ses textes sur les cinq directions. Reste une question ouverte : rien ne garantit que la direction mathématique obtenue corresponde exactement à ce que le nom du trait annoté suggère.</p>
+<p>Mon Mac prend de l’âge et ne peut pas exécuter ce vieux Llama : j’ai décidé de reprendre l’idée mais de façon déterministe. D’après les données de LiteraryBigFive, j’ai recréé leurs cinq axes en combinant des mesures objectives (<a href="https://github.com/tcrouzet/unshiter" rel="noopener noreferrer">les détails sur le GitHub</a>). Je peux ainsi à mon tour créer un radar pour y situer des œuvres ou des auteurs.</p>
+<figure><img alt="Mes axes" height="437" src="https://static.tcrouzet.com/images_tc/2026/08/big5.webp" width="1024"/><figcaption>Mes axes</figcaption></figure>
+<p>J’ai eu beaucoup de mal à comprendre ce que les chercheurs désignent par leurs cinq axes. Ils sont nommés, sans que soit nommée leur valeur plancher. C’est quoi le contraire de classique ? Et le contraire de narratif, n’est-ce pas analytique ? On a pourtant deux axes différents pour ces valeurs.</p>
+<p>J’ai donc tenté de recréer des axes non qualificatifs, mais esthétiques. Par exemple, un texte a une chance d’être plus classique s’il est écrit au passé simple plutôt qu’au présent. J’ai ainsi créé des formules combinant la cinquantaine de mesures à ma disposition pour générer des axes lisibles.</p>
+<figure><img alt="Axe classique/contemporain" height="584" src="https://static.tcrouzet.com/images_tc/2026/08/classique.svg" width="2330"/><figcaption>Axe classique/contemporain</figcaption></figure>
+<p>Pour tester puis valider, j’ai regardé comment se classaient quelques œuvres et auteurs sur les différents axes.</p>
+<h2>Quelle utilité ?</h2>
+<p>Pour moi, elle n’est pas négligeable. Par exemple, quand j’analyse <em>L’expérience humaine</em>, je vois que le texte n’est pas discursif mais plutôt émotionnel, ce qui est mon objectif. Je pourrais peut-être le rendre plus maximaliste et varier davantage la longueur de mes phrases, du moins je n’ai pas à chasser obsessionnellement les relatives. Ce radar décrit le texte avec froideur. Il me permet de le regarder avec une certaine objectivité, ce qui n’est jamais facile pour un auteur.</p>
+<figure><img alt="L’expérience humaine" height="1045" src="https://static.tcrouzet.com/images_tc/2026/08/radar-big5-crouzet.svg" width="2330"/><figcaption>L’expérience humaine</figcaption></figure>
+<p>L’autre utilité de l’application est de générer une empreinte stylistique d’une œuvre, d’un auteur ou d’auteurs en exportant leurs statistiques au format json. À partir de ces données, on peut alors demander à un LLM d’écrire un prompt de réécriture.</p>
+<pre><code>À partir des données stylistiques détaillées dans le fichier json attaché crée un prompt de réécriture dans ce style. Attention de ne pas produire un prompt que tu serais incapable de mettre en œuvre car trop complexe. Écarte les mesures dont la dispersion est inférieure à 0.1 (10%).
+</code></pre>
+<p>Voici le résultat pour le json des <em>Particules élémentaires</em> de Houellebecq.</p>
+<pre><code>Tu es un correcteur stylistique. Réécris le texte fourni en conservant intégralement son sens, ses informations et sa structure narrative, mais en transformant son style pour qu'il corresponde au profil suivant.
+
+REGISTRE GÉNÉRAL
+- Style classique et écrit : passé simple pour la narration, syntaxe active, aucune familiarité orale hors dialogue, aucun futur périphrastique ("il va faire" → "il fera").
+- Tendance plutôt maximaliste que minimaliste : groupes nominaux étoffés, vocabulaire assez recherché, sans tomber dans la préciosité systématique.
+- Équilibre scène/discours : ni pur récit d'action ni essai argumentatif ; quelques connecteurs logiques, mais la scène prime sur le commentaire.
+
+PHRASES ET RYTHME
+- Phrases plutôt longues (autour de 100-120 caractères / ~20 mots en moyenne), avec une amplitude réelle : alterner quelques phrases courtes et sèches avec des phrases nettement plus longues (fourchette large, du très court à plus de 200 caractères).
+- Peu de subordination empilée : préfère la juxtaposition et la coordination à l'enchâssement de relatives ou de subordonnées. Profondeur syntaxique plutôt basse.
+- Voix active dominante, verbes de mouvement/action.
+- Paragraphes de longueur variable, parfois très inégale (ne pas viser une régularité mécanique).
+
+LEXIQUE ET GROUPES NOMINAUX
+- Adjectifs fréquents et noms bien modifiés : ajoute volontiers un complément du nom, une relative courte ou un adjectif aux noms importants, sans les empiler à l'excès.
+- Vocabulaire assez rare/soutenu par endroits, sans jargon.
+- Chaînes d'adjectifs coordonnés rares mais possibles, et plutôt longues quand elles apparaissent ("grand, sombre et silencieux" plutôt qu'un seul adjectif isolé).
+- Comparaisons ("comme...") très occasionnelles seulement, ne pas en abuser.
+- Quelques noms abstraits, sans excès théorique.
+
+TEMPS ET MODES
+- Passé simple net pour la narration ; passé narratif hors dialogue assez présent.
+- Pas de subjonctif imparfait/plus-que-parfait, pas de tournures archaïsantes recherchées.
+- Présent gnomique (vérités générales) possible mais rare.
+
+PONCTUATION
+- Densité de ponctuation modérée (ni haché ni fluide à l'excès).
+- Varier les signes : point-virgule, deux-points, tirets, guillemets, parenthèses — pas seulement points et virgules.
+- Aucune exclamation, aucune tournure exclamative ("Que...!", "Comme...!").
+
+DIALOGUE ET AFFECT
+- Le dialogue peut occuper une part notable du texte (environ un tiers), introduit par un tiret cadratin ; c'est dans ces répliques, pas dans la narration, que peut apparaître une légère familiarité orale.
+- Verbes de réaction affective (trembler, pâlir, rire...) autorisés ponctuellement pour montrer l'émotion sans la nommer abstraitement.
+- Peu de phrases négatives.
+
+À ÉVITER
+- Futur périphrastique, subjonctif littéraire, exclamations, comparaisons répétées, empilement de subordonnées, phrases nominales fréquentes, répétitions lexicales rapprochées du même mot (varie les synonymes et les lemmes sur une fenêtre d'une vingtaine de mots).
+
+Applique ces consignes de façon organique, sans les mentionner ni les lister dans le texte réécrit. Le résultat doit se lire comme une prose naturelle et cohérente, pas comme une démonstration technique.
+
+TEXTE À RÉÉCRIRE :
+[insérer le texte ici]
+</code></pre>
+<p>Je trouve toujours amusant de demander la réécriture de textes à la mode d’un tel ou d’un tel – ça ne marche qu’approximativement, la preuve : ma réécriture à la mode Duras qui ne ressemble pas à du Duras –, mais ça me donne des idées et m’aide à changer de perspective.</p>
+<figure><img alt="Bod la mode Duras" height="279" src="https://static.tcrouzet.com/images_tc/2026/08/duras.svg" width="870"/><figcaption>Bod la mode Duras</figcaption></figure>
+<p>Je n’utilise pas l’IA pour écrire mais pour me lire – la réécriture exige de lire, alors je vois ce qui échappe à l’IA et ses incompréhensions m’aident à préciser ou à brouiller davantage – souvent des idées m’arrivent. L’IA devient pour moi un miroir littéraire, jamais dans les moments créatifs, mais quand je relis, taille, ajoute, ouvre des parenthèses comme Proust avec ses paperoles.</p>
+<p>Tous les jours, je me jure d’arrêter ces histoires de statistiques, ces fantaisies – je ne prétends à aucune vérité –, puis j’en rajoute, parce que j’ai la trouille de me remettre à la seconde version de <em>L’expérience humaine</em>, la trouille d’ouvrir les vannes, la trouille de me mettre en danger. J’attends la fin des vacances des enfants. J’attends d’être seul face à l’étang, face au texte. Une bonne excuse.</p>]]></description>
+      <guid isPermaLink="false">https://static.tcrouzet.com/2026/08/28/comment-ecrivez-vous/</guid>
+      <enclosure url="https://static.tcrouzet.com/images_tc/2026/08/big5.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 28 Aug 2026 17:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Qu’est-ce qui différencie l’homme de la machine ?</title>
       <link>https://static.tcrouzet.com/2026/08/23/statistiques-litteraires/</link>
@@ -263,55 +353,6 @@
       <guid isPermaLink="false">https://static.tcrouzet.com/2026/08/10/modele-economique/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2026/08/lulu01.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 10 Aug 2026 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Êtes-vous humains ?</title>
-      <link>https://static.tcrouzet.com/2026/08/06/are-you-human/</link>
-      <description><![CDATA[<img alt="Êtes-vous humains ?" src="https://static.tcrouzet.com/images_tc/2026/08/iaslop01.webp"/><p>Les frontières se brouillent maintenant que les machines parlent, écrivent, dessinent, ne pensent peut-être pas encore mais en donnent l’illusion ; maintenant, et ce n’est pas nouveau, que des êtres à l’apparence humaine se comportent comme des bêtes ; maintenant que nous attribuons des sentiments aux animaux. Pas simple de se situer dans un continuum existentiel de plus en plus fluide.</p>
-<figure><img alt="Justdone" class="portrait" height="744" src="https://static.tcrouzet.com/images_tc/2026/08/iaslop01.webp" width="990"/><figcaption>Justdone</figcaption></figure>
-<p>J’ai été ramené à un haut degré d’incertitude quant à ma nature en soumettant à <a href="https://justdone.com/fr/word-counter" rel="noopener noreferrer">Justdone, un détecteur IA,</a> le chapitre inaugural de <em>L’expérience humaine</em>. Le verdict est sans appel : je serais une machine à 68 % – comme je n’ai pas confié à une machine le soin d’écrire un livre sur ma femme décédée, je suis donc une machine par-devers moi.</p>
-<p>Quand j’ai publié sur Substack une note à ce sujet, un lecteur m’a raconté qu’une de ses amies freelance a été remerciée sans être payée pour avoir produit un texte IA, selon un outil du même genre.</p>
-<p>Pourquoi des outils de détection existent-ils ? Je suppose qu’ils se destinent à ceux d’entre nous incapables de détecter les productions IA ou qui ne veulent pas se laisser abuser – les professeurs par leurs élèves – ou qui ne veulent surtout pas toucher à cette marchandise factice pour des raisons politiques, écologiques, philosophiques…</p>
-<p>À ce jour, l’existence des outils de détection démontre que deux façons d’écrire s’opposent, l’une IA et l’autre humaine, ce qui n’est pas aussi simple puisqu’il existe autant de façons IA que d’IA, autant de façons humaines que d’humains.</p>
-<p>Justdone a l’audace de proposer un service payant pour réécrire des textes de façon qu’ils ne sonnent plus IA – <a href="https://arxiv.org/pdf/2501.03437" rel="noopener noreferrer">fonction d’humanisation qui fonctionne au mieux à 26 %</a>. Ce glissement est en soi alarmant. On demande à une machine qui ne sait pas écrire humain de rendre des textes plus humains, et même des textes 100 % humains comme le mien. C’est à donner le vertige, surtout à ficher la trouille : les machines jugeraient notre humanité et en deviendraient l’alpha et l’oméga, capables de nous discréditer comme elles l’ont fait avec l’amie freelance de mon lecteur, capables de juger et de punir.</p>
-<p>Bien sûr, Justdone vend une imposture parce que les IA ne savent pas encore écrire humain et aucune IA ne peut rendre un texte plus humain (tout au plus moins IA). Justdone tente sans grand succès de transformer un texte pour qu’il ne déclenche aucune alerte dans les outils de détection qu’il estime de référence : <a href="https://gptzero.me" rel="noopener noreferrer">GPTzero</a>, <a href="https://www.scribbr.fr/detecteur-ia/" rel="noopener noreferrer">Scribbr</a>, <a href="https://originality.ai" rel="noopener noreferrer">Originality</a> et <a href="https://www.grammarly.com/ai-detector" rel="noopener noreferrer">Grammarly</a>. Ce texte transformé n’est en rien plus humain – il a été transformé par une machine –, il ne semble humain que pour d’autres machines de peu de jugement.</p>
-<figure><img alt="Textguard" class="portrait" height="736" src="https://static.tcrouzet.com/images_tc/2026/08/iaslop02.webp" width="844"/><figcaption>Textguard</figcaption></figure>
-<p>Convaincu que Justdone était un service merdique, j’ai alors testé <a href="https://textguard.ai/" rel="noopener noreferrer">Textguard</a> (lui aussi mis en avant par les publicités Google). Encore mieux, je suis maintenant IA à 76 %. J’ai décidé de tester directement les outils soi-disant utilisés par les deux services, auxquels j’ai ajouté <a href="https://www.pangram.com/" rel="noopener noreferrer">Pangram</a>, <a href="https://papercheck.in/" rel="noopener noreferrer">Turnitin</a> et <a href="https://copyleaks.com/fr/ai-detector" rel="noopener noreferrer">Copyleaks</a>, des outils <a href="https://link.springer.com/article/10.1007/s40979-026-00226-w" rel="noopener noreferrer">mis à l’épreuve dans une étude académique belge récente</a>.</p>
-<figure><img alt="GPTzero" height="376" src="https://static.tcrouzet.com/images_tc/2026/08/iaslop03.webp" width="1024"/><figcaption>GPTzero</figcaption></figure>
-<figure><img alt="Scribbr" class="portrait" height="400" src="https://static.tcrouzet.com/images_tc/2026/08/iaslop04.webp" width="712"/><figcaption>Scribbr</figcaption></figure>
-<figure class="portrait-figure"><img alt="Originality" class="portrait portrait" height="906" src="https://static.tcrouzet.com/images_tc/2026/08/iaslop05.webp" width="794"/><figcaption>Originality</figcaption></figure>
-<figure><img alt="Grammarly" height="486" src="https://static.tcrouzet.com/images_tc/2026/08/iaslop06.webp" width="1024"/><figcaption>Grammarly</figcaption></figure>
-<figure class="portrait-figure"><img alt="Pangram" class="portrait portrait" height="790" src="https://static.tcrouzet.com/images_tc/2026/08/iaslop07.webp" width="738"/><figcaption>Pangram</figcaption></figure>
-<figure><img alt="Turnitin" height="435" src="https://static.tcrouzet.com/images_tc/2026/08/iaslop08.webp" width="1024"/><figcaption>Turnitin</figcaption></figure>
-<figure><img alt="Copyleaks" class="portrait" height="412" src="https://static.tcrouzet.com/images_tc/2026/08/iaslop09.webp" width="890"/><figcaption>Copyleaks</figcaption></figure>
-<p>Mon taux d’IA varie désormais entre 0 et 15 %. Justdone et Textguard sont donc deux services attrape-couillons (clones l’un de l’autre et poussés sans scrupule par Google qui contribue activement à la merdification d’internet). Ils affichent des statistiques erronées pour nous inciter à payer une réécriture – ça s’appelle de l’escroquerie. Reste qu’il subsiste en moi une petite part IA selon Originality (faux positif), à moins que ce ne soit le contraire, que les IA aient réussi à s’accaparer à ce jour jusqu’à 15 % de notre humanité – ce qui serait logique puisqu’elles apprennent en nous imitant.</p>
-<figure><img alt="Part d’IA détectée selon l’étude belge" height="288" src="https://static.tcrouzet.com/images_tc/2026/08/iaslop10.webp" width="1024"/><figcaption>Part d’IA détectée selon l’étude belge</figcaption></figure>
-<p>Dans l’étude belge, seul Pangram tire son épingle du jeu – <a href="https://www.nature.com/articles/d41586-026-01358-2" rel="noopener noreferrer">un article de Nature explique pourquoi la plupart des détecteurs échouent</a>. Il détecte un texte 100 % IA comme IA à 86 % (faux négatif), ce qui revient à leur accorder 14 % d’humanité, une part qui ne cessera d’augmenter. Plus amusant, Pangram détecte les textes hybrides coécrits avec IA et les textes humanisés, ce qui rend absurde l’usage des outils d’humanisation. Entre les faux positifs et négatifs se déploie une bande d’incertitude où écriture humaine et artificielle se confondent – et plus personne ne peut le nier.</p>
-<p>Quand on parle d’humain en écriture, on évoque trois choses différentes :</p>
-<ul>
-<li>Un texte produit par un humain, certifié 100 % bio.</li>
-<li>Un style à l’apparence humaine dont l’origine est indiscernable (et nous venons de voir que les machines n’en sont pas encore là).</li>
-<li>Un texte qui implique un lien existentiel entre un auteur et des lecteurs (là, vous ête en train de me lire), ce qui n’a aucun lien avec le 100 % bio susceptible de produire des textes merdiques et désincarnés.</li>
-</ul>
-<p>Tout se complique. J’utilise toujours des <a href="https://www.fastcompany.com/91584243/how-to-identify-ai-generated-writing-viral-report-has-surprising-new-clues-economist" rel="noopener noreferrer">tirets cadratins dans mes textes, longtemps concidérés comme un signe d’IA quand ChatGPT dans ses premières versions en abusait</a>. Je n’ai pas envie de transformer mon écriture, ou ne serait-ce que ma ponctuation, pour faire moins IA. J’écris comme j’écris, et souvent j’utilise des séries de trois qualificatifs ou subordonnées pour enfoncer le clou (1), proposer un contrepoint (2), une note déroutante (3). Cette façon d’écrire serait aussi IA. J’ai toujours aimé ces trinités pour leur équilibre formel et musical, et de nombreux auteurs aussi, voilà pourquoi les IA en abusent. Ça ne veut pas dire que cette forme est à proscrire. Ce serait un drame de nous interdire des formules parce que les machines les adoptent.</p>
-<p>Nous n’avons pas arrêté de jouer aux échecs depuis que les ordinateurs battent les champions ; au contraire, le jeu est plus populaire que jamais (et les joueurs plus paranos que jamais face à la triche – un peu comme nos universitaires avec les textes). <a href="https://www.chess.com" rel="noopener noreferrer">Chess.com</a> a franchi les 200 millions de comptes en 2025, le Championnat du monde 2024 a atteint 10 millions de spectateurs simultanés.</p>
-<p>Que des machines écrivent désormais ne nous empêchera pas de continuer d’écrire, et même plus que jamais, parce que l’écriture est un des moyens les plus puissants pour témoigner de l’expérience humaine. Qu’une machine utilise une figure de style ne devrait pas nous dissuader de l’utiliser. Je tiens à ma liberté, devinant autour de nous une nouvelle pression liberticide aux origines troubles.</p>
-<p>Un texte 100 % bio peut parfois laisser croire à l’intervention des machines du seul fait qu’elles passent leur temps à nous imiter. Reste que leurs tics nous influencent. J’ai souvent coupé des structures en trinité dans <em>L’expérience humaine</em> parce que les IA me les rendent de plus en plus insupportables. <a href="https://www.politis.fr/articles/2026/07/idees-ce-que-lintelligence-artificielle-fait-au-langage-humain" rel="noopener noreferrer">Les machines transforment ma façon d’écrire</a>. J’anticipe un avenir proche où nos textes et les leurs seront indiscernables. Il en sera fini du business des détecteurs. Nous apprendrons à nous fier à des auteurs de confiance, sans douter de leur humanité et de leur désir de partager l’expérience humaine. Nous serons à la recherche d’une intimité (1), d’une proximité (2), d’un partage d’expérience <a href="https://tcrouzet.com/carnet-de-route/">comme je le fais dans mes carnets</a> (3).</p>
-<p>On aura besoin de toucher les auteurs, de les voir travailler, et tout ça n’aura de sens que s’ils se démarquent des machines (1), que s’ils explorent de nouvelles perspectives (2), que s’ils travaillent ce qui nous terrifie et nous émerveille (3). J’y crois et j’ai peur : de nombreuses productions littéraires de masse s’apparentent à ce que les IA maîtrisent, et ça ne dérange guère les lecteurs, qui n’y voient rien d’inhumain, ce qui, en soi, est flippant.</p>
-<p>Après tout, peu importe comment un texte est produit du moment qu’il nous touche. Tout se joue dans la relation auteur-lecteur. Si vous avez confiance en mon travail, si demain je publie un livre où j’aurai utilisé les IA pour explorer des terrains vierges à mes yeux – <a href="https://static.tcrouzet.com/books/le-code-houellebecq/" rel="noopener noreferrer">déjà fait avec <em>Le code Houellebecq</em></a> –, pourquoi ça vous dérangerait ?</p>
-<p>Je trouve risquée l’injonction de déclarer si nous utilisons les IA ou non, et pourquoi pas alors ce que nous prenons au petit déjeuner – ce que je mange influence aussi ce que j’écris ? Déclarer « j’utilise des IA » entraîne un biais cognitif chez le lecteur, <a href="https://www.sciencedirect.com/science/article/pii/S0749597825000172" rel="noopener noreferrer">une contestation immédiate de la qualité produite</a>, alors que sans alerte un habile praticien peut glisser des passages IA réécrits à sa sauce pour qu’ils tombent juste. Cette affaire n’est pas une question de style, d’apparence humaine ou même de 100 % bio, c’est une question d’expérience humaine. J’utilise tous les moyens à ma disposition pour témoigner de cette expérience. Si les machines peuvent m’aider, pourquoi pas.</p>
-<p>À la limite, pour les écologistes, un livre devrait arriver avec le bilan carbone de l’auteur pour la période d’écriture. Des auteurs opposés à l’IA font flamber la planète en voyageant en avion. Je ne vois guère que la confiance pour nous relier, et pas la confiance frelatée des réseaux sociaux, une confiance enracinée dans la fraternité et le compagnonnage.</p>
-<figure class="portrait-figure"><img alt="Cet article est 100% humain" class="portrait portrait" height="770" src="https://static.tcrouzet.com/images_tc/2026/08/iaslop11.webp" width="718"/><figcaption>Cet article est 100% humain</figcaption></figure>
-<p>Rassurez-vous, cet article est 100 % humain selon Pangram, pourtant j’ai utilisé trois agents IA :</p>
-<ul>
-<li>Le premier pour me challenger après la version initiale (il m’a donné des sources à lire, m’a poussé à argumenter certains points, à corriger des chiffres… autant de choses indétectables si je n’en parlais pas).</li>
-<li>Le deuxième pour la correction orthotypo.</li>
-<li>Le troisième pour les métabalises.</li>
-</ul>
-<p>Un texte n’a pas besoin d’être écrit par une IA pour contenir une part d’IA.</p>]]></description>
-      <guid isPermaLink="false">https://static.tcrouzet.com/2026/08/06/are-you-human/</guid>
-      <enclosure url="https://static.tcrouzet.com/images_tc/2026/08/iaslop01.webp" length="0" type="image/webp"/>
-      <pubDate>Thu, 06 Aug 2026 13:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

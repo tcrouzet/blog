@@ -8,7 +8,97 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 23 Aug 2026 16:20:23 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 20:22:31 +0200</lastBuildDate>
+    <item>
+      <title>Je n’utilise pas l’IA pour écrire mais pour me lire</title>
+      <link>https://static.tcrouzet.com/2026/08/28/comment-ecrivez-vous/</link>
+      <description><![CDATA[<img alt="Je n’utilise pas l’IA pour écrire mais pour me lire" src="https://static.tcrouzet.com/images_tc/2026/08/big5.webp"/><p>Plus personne ou presque ne lit, mais nous restons nombreux à écrire. Alors sommes-nous plutôt classiques ou baroques, émotionnels ou neutres, discursifs ou narratifs ? Je connais des écrivains qui ne se posent pas la question – ils écrivent, point. Moi, au contraire, j’ai toujours tenté de me situer.</p>
+<p><a href="https://tcrouzet.com/tag/textstat/">Depuis que je joue avec les statistiques textuelles</a>, on me dit « Seul importe l’émotion », « Tu perds ton temps » ou « Les chiffres ne peuvent rien dire de la littérature », étonnant remarque alors que les machines produisent des textes sans relâche. Des maths engendrent des textes et les maths n’auraient aucun rapport avec la littérature ?</p>
+<p>Une lectrice – il en reste quelques-unes – vient de m’envoyer une célèbre citation de Proust, extraite du <em>Temps retrouvé</em> : « Car le style pour l’écrivain aussi bien que la couleur pour le peintre est une question non de technique mais de vision. Il est la révélation, qui serait impossible par des moyens directs et conscients, de la différence qualitative qu’il y a dans la façon dont nous apparaît le monde, différence qui, s’il n’y avait pas l’art, resterait le secret éternel de chacun. » Si on en restait là, on en serait encore à regarder le ciel sans se demander pourquoi il est bleu. S’émouvoir face à une œuvre n’empêche pas de chercher l’origine de nos émotions, ni de se demander pourquoi un style nous parle, un autre pas. Comme si Proust n’était pas aux aguets, lui qui distend la structure syntaxique pour détruire la notion de temps. N’est-ce qu’une affaire de vision ?</p>
+<p>Dans une lettre à Jean-Louis Vaudoyer du 12 avril 1913, il s’explique : « Il ne reste pas une ligne sur vingt du texte primitif (remplacé d’ailleurs par un autre). C’est rayé, corrigé dans toutes les parties blanches que je peux trouver, et je colle des papiers en haut, en bas, à droite, à gauche, etc. […] Je suis en train de faire sur les épreuves un travail de remaniement, de réécriture, qui est une véritable folie. » Cette folie n’est possible que grâce à une immense maîtrise technique : non une simple intuition, mais une forme d’objectivité, une conscience littéraire aiguë. Il serait dangereux de confondre l’inspiration, le <a href="https://tcrouzet.com/books/rush/">rush</a>, et le travail subséquent. Proust témoigne de cette dualité.</p>
+<p>Les maths ne sont pas la littérature, à coup sûr, mais elles peuvent nous aider à mieux la comprendre, à différencier les œuvres et les auteurs. Les maths arrivent après, sans être inutiles, un outil de plus comme les dictionnaires de synonymes. Pour me prouver que je ne suis pas dingue, j’ai établi une brève chronologie des recherches dans ce domaine.</p>
+<h2>Chronologie</h2>
+<ul>
+<li><strong>1851</strong> Dans une lettre, le logicien <a href="https://en.wikipedia.org/wiki/Augustus_De_Morgan" rel="noopener noreferrer">Augustus de Morgan</a> suggère de <a href="https://archive.org/details/memoirofaugustus00demouoft" rel="noopener noreferrer">comparer la longueur moyenne des mots pour trancher une question d’attribution d’auteur</a>.</li>
+<li><strong>1887</strong> Le statisticien T. C. Mendenhall compare les distributions de longueurs de mots chez Dickens, Thackeray et Mill.</li>
+<li><strong>1898</strong> Le philosophe <a href="https://fr.wikipedia.org/wiki/Wincenty_Lutos%C5%82awski" rel="noopener noreferrer">Wincenty Lutosławski</a> invente le mot <a href="https://www.persee.fr/doc/reg_0035-2039_1898_num_11_41_5847" rel="noopener noreferrer">stylométrie</a> pour dater les dialogues de Platon par comparaison de leur style.</li>
+<li><strong>1935</strong> Dans <a href="https://mitpress.mit.edu/9780262240055/the-psycho-biology-of-language/" rel="noopener noreferrer"><em>The Psycho-Biology of Language</em></a>, le linguiste <a href="https://fr.wikipedia.org/wiki/Loi_de_Zipf" rel="noopener noreferrer">George Kingsley Zipf</a> découvre que la fréquence d’un mot est inversement proportionnelle à son rang quel que soit l’auteur. Une loi si universelle qu’elle ne distingue personne.</li>
+<li><strong>1944</strong> Dans <a href="https://books.google.fr/books/about/The_Statistical_Study_of_Literary_Vocabu.html?id=DaCCAAAAIAAJ&amp;redir_esc=y" rel="noopener noreferrer"><em>The Statistical Study of Literary Vocabulary</em></a>, George Udny Yule pose les bases de la richesse lexicale mesurée statistiquement.</li>
+<li><strong>1959</strong> Cox et Brandwood publient <a href="https://academic.oup.com/jrsssb/article/21/1/195/7035315" rel="noopener noreferrer"><em>On a Discriminatory Problem Connected with the Works of Plato</em></a>.</li>
+<li><strong>1962</strong> Dans <a href="https://books.google.com/books/about/A_Statistical_Method_for_Determining_Aut.html?id=oJJO0gEACAAJ" rel="noopener noreferrer"><em>A Statistical Method for Determining Authorship: The Junius Letters, 1769-1772</em></a>, Alvar Ellegård affine les classifications chronologiques et les attributions.</li>
+<li><strong>1963</strong> Dans une étude fondatrice, <a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.1963.10500849" rel="noopener noreferrer"><em>Inference in an Authorship Problem</em></a>, Frederick Mosteller et David Wallace utilisent les fréquences de mots-outils et l’inférence bayésienne pour départager Hamilton et Madison.</li>
+<li><strong>1960-1970</strong> En France, l’école de la statistique textuelle se développe avec Charles Muller, <a href="https://fr.wikipedia.org/wiki/Jean-Paul_Benz%C3%A9cri" rel="noopener noreferrer">Jean-Paul Benzécri</a>, puis Étienne Brunet et Charles Bernet.</li>
+<li><strong>2002</strong> Avec <a href="https://www.researchgate.net/publication/240956478_’Delta’_a_Measure_of_Stylistic_Difference_and_a_Guide_to_Likely_Authorship" rel="noopener noreferrer"><em>’Delta’: a Measure of Stylistic Difference and a Guide to Likely Authorship</em></a>, John Burrows propose une méthode dès lors standard pour comparer les empreintes stylistiques des auteurs (je l’utilise).</li>
+<li><strong>2010-2020</strong> Machine learning et deep learning appliqués à la stylométrie, notamment dans des affaires judiciaires (<a href="https://www.radiofrance.fr/franceinfo/podcasts/les-documents-franceinfo/affaire-gregory-la-stylometrie-permet-de-savoir-qui-parle-a-partir-de-la-langue-employee-explique-florian-cafiero-7459843" rel="noopener noreferrer">l’affaire Grégory, avec Florian Cafiero</a>).</li>
+<li><strong>2020-2026</strong> Les <a href="https://fr.wikipedia.org/wiki/Grand_mod%C3%A8le_de_langage" rel="noopener noreferrer">grands modèles de langage</a> ne se contentent plus d’analyser la littérature, ils en produisent aussi.</li>
+</ul>
+<h2>Et ça continue</h2>
+<p><a href="https://www.ecrireclair.net/posts/cinq-curseurs-un-167808486" rel="noopener noreferrer">Sébastien Bailly pointe une nouvelle étude</a>, <a href="https://github.com/Znull-1220/LiteraryBigFive" rel="noopener noreferrer">LiteraryBigFive</a>, qui propose de cartographier les œuvres selon cinq axes. Comme je venais de publier <a href="https://tcrouzet.com/2026/08/23/statistiques-litteraires/">mon application de cartographie littéraire</a>, j’ai eu envie de rebondir.</p>
+<p>Le principe de LiteraryBigFive : donner à lire à un LLM, un Llama-2-7B-chat-hf, des textes annotés selon cinq traits (Classicism, Ornateness, Narrativity, Emotionality, Analyticity), puis des versions neutres des mêmes textes. Au cœur du modèle, la lecture laisse en empreinte un vecteur de 4096 nombres. La différence moyenne entre ces vecteurs, calculée séparément pour chaque trait sur l’ensemble du jeu de données, donne cinq directions, rendues indépendantes les unes des autres par une décomposition mathématique. On peut ensuite situer un auteur donné en projetant ses textes sur les cinq directions. Reste une question ouverte : rien ne garantit que la direction mathématique obtenue corresponde exactement à ce que le nom du trait annoté suggère.</p>
+<p>Mon Mac prend de l’âge et ne peut pas exécuter ce vieux Llama : j’ai décidé de reprendre l’idée mais de façon déterministe. D’après les données de LiteraryBigFive, j’ai recréé leurs cinq axes en combinant des mesures objectives (<a href="https://github.com/tcrouzet/unshiter" rel="noopener noreferrer">les détails sur le GitHub</a>). Je peux ainsi à mon tour créer un radar pour y situer des œuvres ou des auteurs.</p>
+<figure><img alt="Mes axes" height="437" src="https://static.tcrouzet.com/images_tc/2026/08/big5.webp" width="1024"/><figcaption>Mes axes</figcaption></figure>
+<p>J’ai eu beaucoup de mal à comprendre ce que les chercheurs désignent par leurs cinq axes. Ils sont nommés, sans que soit nommée leur valeur plancher. C’est quoi le contraire de classique ? Et le contraire de narratif, n’est-ce pas analytique ? On a pourtant deux axes différents pour ces valeurs.</p>
+<p>J’ai donc tenté de recréer des axes non qualificatifs, mais esthétiques. Par exemple, un texte a une chance d’être plus classique s’il est écrit au passé simple plutôt qu’au présent. J’ai ainsi créé des formules combinant la cinquantaine de mesures à ma disposition pour générer des axes lisibles.</p>
+<figure><img alt="Axe classique/contemporain" height="584" src="https://static.tcrouzet.com/images_tc/2026/08/classique.svg" width="2330"/><figcaption>Axe classique/contemporain</figcaption></figure>
+<p>Pour tester puis valider, j’ai regardé comment se classaient quelques œuvres et auteurs sur les différents axes.</p>
+<h2>Quelle utilité ?</h2>
+<p>Pour moi, elle n’est pas négligeable. Par exemple, quand j’analyse <em>L’expérience humaine</em>, je vois que le texte n’est pas discursif mais plutôt émotionnel, ce qui est mon objectif. Je pourrais peut-être le rendre plus maximaliste et varier davantage la longueur de mes phrases, du moins je n’ai pas à chasser obsessionnellement les relatives. Ce radar décrit le texte avec froideur. Il me permet de le regarder avec une certaine objectivité, ce qui n’est jamais facile pour un auteur.</p>
+<figure><img alt="L’expérience humaine" height="1045" src="https://static.tcrouzet.com/images_tc/2026/08/radar-big5-crouzet.svg" width="2330"/><figcaption>L’expérience humaine</figcaption></figure>
+<p>L’autre utilité de l’application est de générer une empreinte stylistique d’une œuvre, d’un auteur ou d’auteurs en exportant leurs statistiques au format json. À partir de ces données, on peut alors demander à un LLM d’écrire un prompt de réécriture.</p>
+<pre><code>À partir des données stylistiques détaillées dans le fichier json attaché crée un prompt de réécriture dans ce style. Attention de ne pas produire un prompt que tu serais incapable de mettre en œuvre car trop complexe. Écarte les mesures dont la dispersion est inférieure à 0.1 (10%).
+</code></pre>
+<p>Voici le résultat pour le json des <em>Particules élémentaires</em> de Houellebecq.</p>
+<pre><code>Tu es un correcteur stylistique. Réécris le texte fourni en conservant intégralement son sens, ses informations et sa structure narrative, mais en transformant son style pour qu'il corresponde au profil suivant.
+
+REGISTRE GÉNÉRAL
+- Style classique et écrit : passé simple pour la narration, syntaxe active, aucune familiarité orale hors dialogue, aucun futur périphrastique ("il va faire" → "il fera").
+- Tendance plutôt maximaliste que minimaliste : groupes nominaux étoffés, vocabulaire assez recherché, sans tomber dans la préciosité systématique.
+- Équilibre scène/discours : ni pur récit d'action ni essai argumentatif ; quelques connecteurs logiques, mais la scène prime sur le commentaire.
+
+PHRASES ET RYTHME
+- Phrases plutôt longues (autour de 100-120 caractères / ~20 mots en moyenne), avec une amplitude réelle : alterner quelques phrases courtes et sèches avec des phrases nettement plus longues (fourchette large, du très court à plus de 200 caractères).
+- Peu de subordination empilée : préfère la juxtaposition et la coordination à l'enchâssement de relatives ou de subordonnées. Profondeur syntaxique plutôt basse.
+- Voix active dominante, verbes de mouvement/action.
+- Paragraphes de longueur variable, parfois très inégale (ne pas viser une régularité mécanique).
+
+LEXIQUE ET GROUPES NOMINAUX
+- Adjectifs fréquents et noms bien modifiés : ajoute volontiers un complément du nom, une relative courte ou un adjectif aux noms importants, sans les empiler à l'excès.
+- Vocabulaire assez rare/soutenu par endroits, sans jargon.
+- Chaînes d'adjectifs coordonnés rares mais possibles, et plutôt longues quand elles apparaissent ("grand, sombre et silencieux" plutôt qu'un seul adjectif isolé).
+- Comparaisons ("comme...") très occasionnelles seulement, ne pas en abuser.
+- Quelques noms abstraits, sans excès théorique.
+
+TEMPS ET MODES
+- Passé simple net pour la narration ; passé narratif hors dialogue assez présent.
+- Pas de subjonctif imparfait/plus-que-parfait, pas de tournures archaïsantes recherchées.
+- Présent gnomique (vérités générales) possible mais rare.
+
+PONCTUATION
+- Densité de ponctuation modérée (ni haché ni fluide à l'excès).
+- Varier les signes : point-virgule, deux-points, tirets, guillemets, parenthèses — pas seulement points et virgules.
+- Aucune exclamation, aucune tournure exclamative ("Que...!", "Comme...!").
+
+DIALOGUE ET AFFECT
+- Le dialogue peut occuper une part notable du texte (environ un tiers), introduit par un tiret cadratin ; c'est dans ces répliques, pas dans la narration, que peut apparaître une légère familiarité orale.
+- Verbes de réaction affective (trembler, pâlir, rire...) autorisés ponctuellement pour montrer l'émotion sans la nommer abstraitement.
+- Peu de phrases négatives.
+
+À ÉVITER
+- Futur périphrastique, subjonctif littéraire, exclamations, comparaisons répétées, empilement de subordonnées, phrases nominales fréquentes, répétitions lexicales rapprochées du même mot (varie les synonymes et les lemmes sur une fenêtre d'une vingtaine de mots).
+
+Applique ces consignes de façon organique, sans les mentionner ni les lister dans le texte réécrit. Le résultat doit se lire comme une prose naturelle et cohérente, pas comme une démonstration technique.
+
+TEXTE À RÉÉCRIRE :
+[insérer le texte ici]
+</code></pre>
+<p>Je trouve toujours amusant de demander la réécriture de textes à la mode d’un tel ou d’un tel – ça ne marche qu’approximativement, la preuve : ma réécriture à la mode Duras qui ne ressemble pas à du Duras –, mais ça me donne des idées et m’aide à changer de perspective.</p>
+<figure><img alt="Bod la mode Duras" height="279" src="https://static.tcrouzet.com/images_tc/2026/08/duras.svg" width="870"/><figcaption>Bod la mode Duras</figcaption></figure>
+<p>Je n’utilise pas l’IA pour écrire mais pour me lire – la réécriture exige de lire, alors je vois ce qui échappe à l’IA et ses incompréhensions m’aident à préciser ou à brouiller davantage – souvent des idées m’arrivent. L’IA devient pour moi un miroir littéraire, jamais dans les moments créatifs, mais quand je relis, taille, ajoute, ouvre des parenthèses comme Proust avec ses paperoles.</p>
+<p>Tous les jours, je me jure d’arrêter ces histoires de statistiques, ces fantaisies – je ne prétends à aucune vérité –, puis j’en rajoute, parce que j’ai la trouille de me remettre à la seconde version de <em>L’expérience humaine</em>, la trouille d’ouvrir les vannes, la trouille de me mettre en danger. J’attends la fin des vacances des enfants. J’attends d’être seul face à l’étang, face au texte. Une bonne excuse.</p>]]></description>
+      <guid isPermaLink="false">https://static.tcrouzet.com/2026/08/28/comment-ecrivez-vous/</guid>
+      <enclosure url="https://static.tcrouzet.com/images_tc/2026/08/big5.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 28 Aug 2026 17:00:00 +0200</pubDate>
+    </item>
     <item>
       <title>Qu’est-ce qui différencie l’homme de la machine ?</title>
       <link>https://static.tcrouzet.com/2026/08/23/statistiques-litteraires/</link>
@@ -263,55 +353,6 @@
       <guid isPermaLink="false">https://static.tcrouzet.com/2026/08/10/modele-economique/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2026/08/lulu01.webp" length="0" type="image/webp"/>
       <pubDate>Mon, 10 Aug 2026 14:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>De ma terrasse #53 : IA best-seller, ancêtres fantômes, super-Terre à portée</title>
-      <link>https://static.tcrouzet.com/2026/08/09/digest053/</link>
-      <description><![CDATA[<img alt="De ma terrasse #53 : IA best-seller, ancêtres fantômes, super-Terre à portée" src="https://static.tcrouzet.com/images_tc/2026/08/2026-08-07-210709.webp"/><p><em>Ma sélection du dimanche : 19 liens et une photo prise depuis ma terrasse (je n’ai pas renoncé aux digests, mais trouve peu de trucs intéressants).</em></p>
-<figure><img alt="Vendredi 7 août" height="768" src="https://static.tcrouzet.com/images_tc/2026/08/2026-08-07-210709.webp" width="1024"/><figcaption>Vendredi 7 août</figcaption></figure>
-<h2>Arts</h2>
-<p><a href="https://www.openculture.com/2026/06/this-man-has-been-drawing-a-map-of-an-imaginary-land-since-1963.html" rel="noopener noreferrer">Cet homme dessine la carte d’un pays imaginaire depuis 1963</a> • EN • 3 min</p>
-<p>Jerry Gretzinger, 85 ans, agrandit chaque jour son pays fictif d’un nouveau panneau, selon des règles dictées par un jeu de cartes. (projet totalement dingue et magnifique – une réincarnation du Facteur Cheval.)</p>
-<p><a href="https://nofilmschool.com/five-steps-to-better-dialogue" rel="noopener noreferrer">Cinq étapes pour écrire de meilleurs dialogues</a> • EN • 5 min</p>
-<p>Le scénariste Tucker Berke défend sa méthode de l’iceberg : tant qu’un personnage ne veut rien dans la scène, ses répliques sonnent faux et l’exposition prend toute la place.</p>
-<p><a href="https://tvovermind.com/amazing-beautiful-architecture-pics/" rel="noopener noreferrer">137 exemples d’architectures presque irréelles</a> • EN • 2 min</p>
-<p>Une compilation de façades et de volumes photographiés aux quatre coins du monde. (Des lieux vraiment étonnants.)</p>
-<h2>Médias</h2>
-<p><a href="https://www.theatlantic.com/technology/2026/07/daggermouth-novel-bestseller-ai/688067/" rel="noopener noreferrer">Un best-seller écrit par une IA ?</a> • EN • 8 min</p>
-<p><em>Daggermouth</em> trône en tête des ventes Amazon et Simon &amp; Schuster a payé sept chiffres pour la suite. Les universitaires l’ont aussi classé premier des romans largement rédigés par une machine.</p>
-<p><a href="https://bigthink.com/history-society/as-print-literacy-fades-our-perception-of-truth-is-warping/" rel="noopener noreferrer">À mesure que la culture de l’imprimé s’efface, notre perception de la vérité se déforme</a> • EN • 11 min</p>
-<p>Chaque support impose son contrat avec les faits. (Article très important pour comprendre notre époque.)</p>
-<p><a href="https://www.sciencedaily.com/releases/2014/01/140103204428.htm" rel="noopener noreferrer">Un nouveau regard sur la façon dont les histoires modifient le cerveau</a> • EN • 4 min</p>
-<p>Vingt et un étudiants d’Emory ont lu <em>Pompéi</em> de Robert Harris pendant dix-neuf jours. L’IRM révèle une connectivité neuronale altérée qui persiste après la dernière page.</p>
-<p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8898315/" rel="noopener noreferrer">Habitudes télévisuelles au long cours et volume de matière grise à la cinquantaine</a> • EN • 11 min</p>
-<p>Plus on a passé de temps devant l’écran entre 25 et 50 ans, moins le cerveau compte de neurones à l’arrivée. Faire du sport à côté ne compense rien.</p>
-<h2>Santé</h2>
-<p><a href="https://www.sciencealert.com/sugar-free-diets-may-have-a-hidden-side-effect-study-in-mice-suggests" rel="noopener noreferrer">Les régimes sans sucre pourraient avoir un effet secondaire caché, suggère une étude chez la souris</a> • EN • 4 min</p>
-<p>Douze rongeurs privés de saccharose pendant seize semaines finissent avec une flore intestinale appauvrie en souches protectrices et enrichie en souches inflammatoires.</p>
-<p><a href="https://futurism.com/health-medicine/glp-1-drugs-cancer-research" rel="noopener noreferrer">Les médicaments GLP-1 semblent prévenir le cancer, selon de nouveaux travaux</a> • EN • 3 min</p>
-<p>Sur 110 000 femmes suivies, celles traitées présentent 30 % de tumeurs mammaires en moins. La perte de poids n’explique pas l’ampleur de l’effet, l’action anti-inflammatoire non plus.</p>
-<p><a href="https://www.sciencealert.com/deep-breathing-to-calm-your-nerves-may-actually-increase-risk-taking-behavior" rel="noopener noreferrer">Les grandes respirations apaisantes pourraient augmenter la prise de risque</a> • EN • 5 min</p>
-<p>Souffler lentement avant de décider ne rend pas prudent, cela rend audacieux. Les volontaires ainsi préparés ont misé sur les paris les plus dangereux, comme si le gain leur semblait soudain plus beau.</p>
-<p><a href="https://www.presse-citron.net/bryan-johnson-millionnaire-obsede-limmortalite-rattrape-karma-maladie-chroniqu-combat-contre-vieillissement/" rel="noopener noreferrer">Bryan Johnson, le millionnaire obsédé par l’immortalité a été rattrapé par le karma : une maladie chronique met fin à son combat contre le vieillissement</a> • FR • 7 min</p>
-<p>Deux millions de dollars par an, une centaine de pilules quotidiennes, trente praticiens à demeure et des transfusions de plasma filial n’empêchent pas son estomac de s’autodétruire.</p>
-<h2>Sciences et techno</h2>
-<p><a href="https://www.popularmechanics.com/space/a71798195/consciousness-on-space-travel/" rel="noopener noreferrer">Selon des scientifiques, la gravité maintient votre conscience en place</a> • EN • 4 min</p>
-<p>Privé de son ancrage terrestre, le cerveau se réorganise comme sous psychédéliques, ce qui expliquerait le sentiment d’expansion décrit par les astronautes.</p>
-<p><a href="https://www.sciencealert.com/potentially-habitable-super-earth-found-just-25-light-years-away" rel="noopener noreferrer">Une super-Terre potentiellement habitable découverte à seulement 25 années-lumière</a> • EN • 5 min</p>
-<p>GJ 3378b tourne autour d’une naine rouge et sa masse vient d’être révisée de 5,3 à 2,3 fois celle de notre planète, ce qui renforce l’hypothèse rocheuse.</p>
-<p><a href="https://www.euronews.com/health/2026/08/01/mysterious-dna-two-unknown-ancestors-found-in-human-genome" rel="noopener noreferrer">ADN mystérieux : deux ancêtres inconnus découverts dans le génome humain</a> • EN • 5 min</p>
-<p>Des lignées fantômes séparées de la nôtre voici 800 000 ans. Leur héritage pèse aujourd’hui près de 1 % de notre patrimoine, autant que Neandertal.</p>
-<p><a href="https://www.sciencealert.com/its-official-third-galaxy-found-with-no-dark-matter-may-solve-an-epic-mystery" rel="noopener noreferrer">C’est officiel : une troisième galaxie sans matière noire pourrait résoudre un immense mystère</a> • EN • 5 min</p>
-<p>NGC 1052-DF9 s’aligne avec DF2 et DF4 sur un même chapelet cosmique : on y lit la trace d’une collision violente qui aurait séparé le visible de l’invisible.</p>
-<p><a href="https://www.sciencealert.com/gobsmacking-study-finds-life-on-earth-emerged-4-2-billion-years-ago" rel="noopener noreferrer">Une étude sidérante situe l’apparition de la vie terrestre voici 4,2 milliards d’années</a> • EN • 4 min</p>
-<p>L’ancêtre commun universel serait apparu quand notre planète en avait à peine 300 millions. Les généticiens de Bristol l’ont daté en remontant les génomes actuels.</p>
-<p><a href="https://apple.news/Ac3tqIybkSuarKq3OxYA2fw" rel="noopener noreferrer">Les capital-risqueurs écœurés par le solaire, qui produit trop d’électricité propre pour être obscènement rentable</a> • EN • 4 min</p>
-<p>L’abondance fait chuter les prix et ruine les marges attendues. Le financement se détourne d’une technologie devenue trop efficace pour enrichir ses bailleurs.</p>
-<p><a href="https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again" rel="noopener noreferrer">Pourquoi le minuscule VibeThinker-3B de Weibo relance la querelle des benchmarks</a> • EN • 11 min</p>
-<p>Trois milliards de paramètres suffisent à égaler des systèmes deux cents fois plus gros sur les olympiades de mathématiques.</p>]]></description>
-      <guid isPermaLink="false">https://static.tcrouzet.com/2026/08/09/digest053/</guid>
-      <enclosure url="https://static.tcrouzet.com/images_tc/2026/08/2026-08-07-210709.webp" length="0" type="image/webp"/>
-      <pubDate>Sun, 09 Aug 2026 17:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
