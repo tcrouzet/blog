@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 540" width="1280" height="540" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="1280" height="540" fill="#ffffff"/>
+
+  <text x="640" y="34" text-anchor="middle" font-size="20" font-weight="bold" fill="#1e3a5f">
+    Réglementation des manifestations cyclistes — bikepacking dispersé (Europe)
+  </text>
+
+  <!-- Header -->
+  <rect x="20" y="60" width="1230" height="56" fill="#1e3a5f"/>
+  <text x="30" y="94" font-size="14" font-weight="bold" fill="#ffffff">Pays</text>
+  <text x="180" y="94" font-size="14" font-weight="bold" fill="#ffffff">Texte de référence</text>
+  <text x="420" y="94" font-size="14" font-weight="bold" fill="#ffffff">Seuil</text>
+  <text x="620" y="94" font-size="14" font-weight="bold" fill="#ffffff">Ce qui déclenche le régime</text>
+  <text x="1020" y="86" font-size="14" font-weight="bold" fill="#ffffff">
+    <tspan x="1020" dy="0">S'applique au bikepacking</tspan>
+    <tspan x="1020" dy="16">dispersé ?</tspan>
+  </text>
+
+  <!-- Row backgrounds -->
+  <rect x="20" y="116" width="1230" height="64" fill="#f5f7fa"/>
+  <rect x="20" y="180" width="1230" height="64" fill="#ffffff"/>
+  <rect x="20" y="244" width="1230" height="64" fill="#f5f7fa"/>
+  <rect x="20" y="308" width="1230" height="140" fill="#ffffff"/>
+  <rect x="20" y="448" width="1230" height="64" fill="#f5f7fa"/>
+
+  <!-- Row 1 : France -->
+  <text x="30" y="142" font-size="14" font-weight="bold" fill="#1e3a5f">France</text>
+  <text x="180" y="142" font-size="13" fill="#222">Art. R331-6,</text>
+  <text x="180" y="158" font-size="13" fill="#222">Code du sport</text>
+  <text x="420" y="142" font-size="13" fill="#222">100 participants</text>
+  <text x="620" y="142" font-size="13" fill="#222">
+    <tspan x="620" dy="0">Total des inscrits à la manifestation,</tspan>
+    <tspan x="620" dy="16">sans condition de regroupement physique</tspan>
+  </text>
+  <text x="1020" y="142" font-size="13" font-weight="bold" fill="#0a7d34">Oui</text>
+
+  <!-- Row 2 : Espagne -->
+  <text x="30" y="206" font-size="14" font-weight="bold" fill="#1e3a5f">Espagne</text>
+  <text x="180" y="198" font-size="13" fill="#222">
+    <tspan x="180" dy="0">Art. 55 + Anexo II,</tspan>
+    <tspan x="180" dy="16">Reglamento General de Circulación</tspan>
+  </text>
+  <text x="420" y="206" font-size="13" fill="#222">50 participants</text>
+  <text x="620" y="198" font-size="13" fill="#222">
+    <tspan x="620" dy="0">Circulation groupée dans un espace</tspan>
+    <tspan x="620" dy="16">délimité par véhicules balise</tspan>
+  </text>
+  <text x="1020" y="198" font-size="13" font-weight="bold" fill="#b3261e">
+    <tspan x="1020" dy="0">Non — hors de cet espace,</tspan>
+    <tspan x="1020" dy="16" font-weight="normal" fill="#222">usagers normaux de la route</tspan>
+  </text>
+
+  <!-- Row 3 : Belgique -->
+  <text x="30" y="270" font-size="14" font-weight="bold" fill="#1e3a5f">Belgique</text>
+  <text x="180" y="262" font-size="13" fill="#222">
+    <tspan x="180" dy="0">Code de la route + AR du</tspan>
+    <tspan x="180" dy="16">28/06/2019</tspan>
+  </text>
+  <text x="420" y="262" font-size="13" fill="#222">
+    <tspan x="420" dy="0">15 (règles allégées) /</tspan>
+    <tspan x="420" dy="16">150 (escorte obligatoire)</tspan>
+  </text>
+  <text x="620" y="270" font-size="13" fill="#222">Groupe compact circulant ensemble</text>
+  <text x="1020" y="270" font-size="13" font-weight="bold" fill="#b3261e">Non</text>
+
+  <!-- Row 4 : Italie -->
+  <text x="30" y="334" font-size="14" font-weight="bold" fill="#1e3a5f">Italie</text>
+  <text x="180" y="334" font-size="13" fill="#222">Art. 9, Codice della Strada</text>
+  <text x="420" y="334" font-size="13" fill="#222">Pas de seuil chiffré</text>
+  <text x="620" y="326" font-size="13" fill="#222">
+    <tspan x="620" dy="0">Uniquement les compétitions avec</tspan>
+    <tspan x="620" dy="16">classement/chronométrage ; une</tspan>
+    <tspan x="620" dy="16">manifestation amateur non</tspan>
+    <tspan x="620" dy="16">agonistique échappe à l'art. 9,</tspan>
+    <tspan x="620" dy="16">sauf clause vague pour « nombre</tspan>
+    <tspan x="620" dy="16">considérable de participants »</tspan>
+    <tspan x="620" dy="16">(non quantifiée)</tspan>
+  </text>
+  <text x="1020" y="342" font-size="13" font-weight="bold" fill="#b3261e">
+    <tspan x="1020" dy="0">Non dans la plupart des cas,</tspan>
+    <tspan x="1020" dy="16" font-weight="normal" fill="#222">sous réserve de cette clause</tspan>
+    <tspan x="1020" dy="16" font-weight="normal" fill="#222">floue</tspan>
+  </text>
+
+  <!-- Row 5 : Royaume-Uni -->
+  <text x="30" y="474" font-size="14" font-weight="bold" fill="#1e3a5f">Royaume-Uni</text>
+  <text x="180" y="466" font-size="13" fill="#222">
+    <tspan x="180" dy="0">Pas de texte spécifique</tspan>
+    <tspan x="180" dy="16">(guidance Cycling UK)</tspan>
+  </text>
+  <text x="420" y="474" font-size="13" fill="#222">Aucun seuil légal</text>
+  <text x="620" y="466" font-size="13" fill="#222">
+    <tspan x="620" dy="0">Aucune notification obligatoire,</tspan>
+    <tspan x="620" dy="16">sauf fermeture de route</tspan>
+  </text>
+  <text x="1020" y="474" font-size="13" font-weight="bold" fill="#b3261e">Non</text>
+
+  <!-- Grid lines -->
+  <g stroke="#d0d7de" stroke-width="1">
+    <!-- horizontal -->
+    <line x1="20" y1="60" x2="1250" y2="60"/>
+    <line x1="20" y1="116" x2="1250" y2="116"/>
+    <line x1="20" y1="180" x2="1250" y2="180"/>
+    <line x1="20" y1="244" x2="1250" y2="244"/>
+    <line x1="20" y1="308" x2="1250" y2="308"/>
+    <line x1="20" y1="448" x2="1250" y2="448"/>
+    <line x1="20" y1="512" x2="1250" y2="512"/>
+    <!-- vertical -->
+    <line x1="20" y1="60" x2="20" y2="512"/>
+    <line x1="170" y1="60" x2="170" y2="512"/>
+    <line x1="410" y1="60" x2="410" y2="512"/>
+    <line x1="610" y1="60" x2="610" y2="512"/>
+    <line x1="1010" y1="60" x2="1010" y2="512"/>
+    <line x1="1250" y1="60" x2="1250" y2="512"/>
+  </g>
+  <!-- outer border -->
+  <rect x="20" y="60" width="1230" height="452" fill="none" stroke="#1e3a5f" stroke-width="2"/>
+</svg>
