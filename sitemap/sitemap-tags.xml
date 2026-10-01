@@ -7,13 +7,16 @@
     <loc>https://static.tcrouzet.com/tag/ia/</loc>
   </url>
   <url>
-    <loc>https://static.tcrouzet.com/tag/textstat/</loc>
-  </url>
-  <url>
     <loc>https://static.tcrouzet.com/tag/bikepacking/</loc>
   </url>
   <url>
+    <loc>https://static.tcrouzet.com/tag/gps/</loc>
+  </url>
+  <url>
     <loc>https://static.tcrouzet.com/borntobike/</loc>
+  </url>
+  <url>
+    <loc>https://static.tcrouzet.com/tag/textstat/</loc>
   </url>
   <url>
     <loc>https://static.tcrouzet.com/tag/727bikepacking/</loc>
@@ -32,9 +35,6 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com/tag/config_bikepacking/</loc>
-  </url>
-  <url>
-    <loc>https://static.tcrouzet.com/tag/gps/</loc>
   </url>
   <url>
     <loc>https://static.tcrouzet.com/tag/p27/</loc>
