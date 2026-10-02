@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 02 Oct 2026 13:59:01 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 14:37:56 +0200</lastBuildDate>
     <item>
       <title>Écrivains anti-IA : conviction, naïveté ou hypocrisie ?</title>
       <link>https://static.tcrouzet.com/2026/10/02/hypocrisie-editoriale/</link>
@@ -55,6 +55,12 @@
 <p>Je suis à cheval entre l’offpunk et l’hyperconnexion, utilisant l’IA à haute dose depuis quatre ans, et très souvent les modèles centralisés d’Anthropic et OpenAI. J’attends avec impatience les nouveaux <a href="https://www.macrumors.com/2026/09/14/oled-macbook-pro-macos-27-1-testing/" rel="noopener noreferrer">MacBook Pro M7</a>, optimisés pour les modèles locaux. Je dis que j’apprends à connaître nos nouveaux ennemis pour mieux les combattre, quand en vérité je m’électrise le cerveau avec la révolution IA. D’une certaine façon, je vis l’époque dans toutes ses contradictions et aberrations. Mais que peut faire d’autre un écrivain à part parler de ce qu’il embrasse ou de ce qu’il rejette ?</p>
 <h2>Retour à la naïveté de Fiat</h2>
 <p>Un des amis de Fiat demande à Claude d’écrire un poème à la manière de Fiat, et Claude produit un texte convaincant, qui évoque une récente rupture amoureuse non rendue publique. Fiat en conclut que Claude l’espionne, ce qui m’amuse. Les poids d’un modèle ne contiennent pas les conversations des utilisateurs et il n’y a pas de circulation de données d’un compte à l’autre. Le Claude de l’ami ne sait rien d’autre de Fiat que ce qui est public ou qu’il a lui-même donné à Claude.</p>
+<blockquote>
+<p>Mon cœur est i-Phone en mode avion.<br/>
+Je capte plus rien, mais je vibre encore.<br/>
+Quelque chose comme de l’amour ou du wi-fi<br/>
+Clignote dans le noir, puis s’éteint.</p>
+</blockquote>
 <p>Fiat a été victime d’un <a href="https://fr.wikipedia.org/wiki/Effet_Barnum" rel="noopener noreferrer">biais cognitif</a>. Claude aurait pu lui expliquer : « La rupture amoureuse est le thème le plus générique de la poésie lyrique, surtout chez un poète comme Fiat dont l’œuvre tourne depuis toujours autour de figures féminines, de l’amour et de la perte. Demander à un modèle « écris un poème à la manière de Fiat » l’amène statistiquement à piocher dans le registre thématique le plus représenté dans son corpus d’entraînement pour Fiat – et « cœur brisé », « silence du téléphone », « côté vide du lit » sont des images tellement universelles qu’elles « tombent juste » par simple probabilité, pas par connaissance factuelle. C’est le même mécanisme qui fait qu’un horoscope ou une voyante semblent « lire » en vous : on surinterprète une formulation vague comme une révélation précise, parce qu’elle résonne avec notre vécu du moment. »</p>]]></description>
       <guid isPermaLink="false">https://static.tcrouzet.com/2026/10/02/hypocrisie-editoriale/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2026/10/antiai.webp" length="0" type="image/webp"/>
