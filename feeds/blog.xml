@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 02 Oct 2026 14:37:56 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 14:50:09 +0200</lastBuildDate>
     <item>
       <title>Écrivains anti-IA : conviction, naïveté ou hypocrisie ?</title>
       <link>https://static.tcrouzet.com/2026/10/02/hypocrisie-editoriale/</link>
@@ -17,10 +17,10 @@
 <p>Une incohérence me saute aux yeux : « je n’utilise pas l’IA » mais « j’utilise les réseaux sociaux » alors que ces derniers sont bourrés d’IA qui analysent tout, mettent en avant ce qui nous maintient en ligne, nous espionnent, nous volent nos données, nous manipulent tant et plus. On ne peut tout simplement pas affirmer une chose et son contraire. Fiat utilise les IA pour faciliter sa vie littéraire, et peut-être la stimuler, même si c’est par devers lui.</p>
 <p>Comme lui, les auteurs et éditeurs adversaires de l’IA qui se promeuvent sur les réseaux sociaux utilisent les IA à très haute dose, peut-être plus que moi qui expérimente avec elles tout en ayant renoncé aux réseaux sociaux centralisés, devenus des terrains de jeux pour les machines plus que les humains.</p>
 <p>Il semble difficilement tenable de dire « Interdiction d’utiliser l’IA pour la création », mais « Autorisation de l’utiliser pour le marketing ». C’est pour le moins hypocrite, ou révèle une méconnaissance du haut degré de pénétration des IA dans les infrastructures numériques des réseaux sociaux centralisés et des GAFAM.</p>
-<p>On a bien le droit de ne pas utiliser l’IA en littérature, mais ce choix n’implique pas de lancer des anathèmes contre ceux qui l’utilisent. La nuance me paraît importante. Je vais remonter aux arguments des lanceurs d’anathèmes, certains avertis, d’autres, peut-être les plus nombreux, qui, à la façon de Fiat, ne s’opposent à l’IA que quand ça les arrange.</p>
+<p>On a bien le droit de ne pas utiliser l’IA en littérature, mais ce choix n’implique pas de lancer des anathèmes contre ceux qui l’utilisent. La nuance me paraît importante. Je vais remonter aux arguments des lanceurs d’anathèmes, certains avertis, d’autres, peut-être les plus nombreux, qui ne s’opposent à l’IA que quand ça les arrange.</p>
 <figure><img alt="" height="618" src="https://static.tcrouzet.com/images_tc/2026/10/antiai.webp" width="1024"/><figcaption></figcaption></figure>
 <h2>Balayer l’argument écologique</h2>
-<p>Les opposants aux IA en littérature avancent souvent la surchauffe planétaire, la consommation d’eau, l’empreinte carbone… Je ne remettrais pas en cause ces inquiétudes fondées, mais c’est oublier qu’il existe deux formes d’IA, celles qui tournent sur les data centers et celles qui tournent en local, comme Qwen, Gemma ou Mistral Small, exécutables par <a href="https://ollama.com/" rel="noopener noreferrer">Ollama</a> sur les ordinateurs personnels, avec deux avantages : grande possibilité de personnalisation et aucun risque de fuite de données.</p>
+<p>Les opposants aux IA en littérature avancent souvent la surchauffe planétaire, la consommation d’eau, l’empreinte carbone… Je ne remettrais pas en cause ces inquiétudes fondées, mais c’est oublier qu’il existe deux formes d’IA, celles qui tournent sur les data centers et celles qui tournent en local, comme Qwen, Gemma ou Mistral Small, exécutables par <a href="https://ollama.com/" rel="noopener noreferrer">Ollama</a> sur les ordinateurs personnels, avec deux avantages : possibilité de personnalisation et aucun risque de fuite de données.</p>
 <p>Ces modèles ont été entraînés dans des data centers, mais leur usage privé en local – l’inférence, c’est-à-dire la réponse aux prompts – ne consomme presque pas d’énergie, et pas d’eau. En parallèle, l’entraînement décentralisé se développe, pour éviter les points chauds que sont les data centers.</p>
 <p>Si les IA de type ChatGPT ou Claude ont un impact écologique notoire, <a href="https://blog.andymasley.com/p/individual-ai-use-is-not-bad-for" rel="noopener noreferrer">des heures de streaming ou de réseaux sociaux peuvent avoir, à l’échelle individuelle, un impact supérieur</a>. On ne peut pas s’interdire toutes les IA pour des usages littéraires au nom des problèmes écologiques, à moins de renoncer quasiment à tout le numérique.</p>
 <h2>Balayer l’argument juridique</h2>
