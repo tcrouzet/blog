@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://static.tcrouzet.com/sitemap-posts.xml</loc>
-    <lastmod>2025-11-27T19:11:53+01:00</lastmod>
+    <loc>https://static.tcrouzet.com/sitemap/sitemap-posts.xml</loc>
+    <lastmod>2026-10-05T11:31:57+02:00</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://static.tcrouzet.com/sitemap-main.xml</loc>
-    <lastmod>2025-11-27T19:11:53+01:00</lastmod>
+    <loc>https://static.tcrouzet.com/sitemap/sitemap-main.xml</loc>
+    <lastmod>2026-10-05T11:31:57+02:00</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://static.tcrouzet.com/sitemap-tags.xml</loc>
-    <lastmod>2025-11-27T19:11:53+01:00</lastmod>
+    <loc>https://static.tcrouzet.com/sitemap/sitemap-tags.xml</loc>
+    <lastmod>2026-10-05T11:31:57+02:00</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://static.tcrouzet.com/sitemap-years.xml</loc>
-    <lastmod>2025-11-27T19:11:53+01:00</lastmod>
+    <loc>https://static.tcrouzet.com/sitemap/sitemap-years.xml</loc>
+    <lastmod>2026-10-05T11:31:57+02:00</lastmod>
   </sitemap>
 </sitemapindex>
