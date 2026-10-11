@@ -4,6 +4,9 @@
     <loc>https://static.tcrouzet.com/carnet-de-route/</loc>
   </url>
   <url>
+    <loc>https://static.tcrouzet.com/tag/netculture/</loc>
+  </url>
+  <url>
     <loc>https://static.tcrouzet.com/tag/buzz/</loc>
   </url>
   <url>
@@ -44,9 +47,6 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com/tag/gravel/</loc>
-  </url>
-  <url>
-    <loc>https://static.tcrouzet.com/tag/netculture/</loc>
   </url>
   <url>
     <loc>https://static.tcrouzet.com/tag/geolecture/</loc>
