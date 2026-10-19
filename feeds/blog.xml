@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 19 Oct 2026 19:29:03 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 19:49:54 +0200</lastBuildDate>
     <item>
       <title>Au risque de tuer une entreprise</title>
       <link>https://static.tcrouzet.com/2026/10/19/tuer-entreprise-rea-codex/</link>
@@ -36,7 +36,7 @@
 <p>Des heures plus tard, mon correcteur est beaucoup plus puissant que Grammalecte, même s’il est plus lent et moins précis que celui d’Antidote, qui tourne en temps réel grâce à un code compilé, alors que Finition tourne en TypeScript, le langage exigé pour les plugins <a href="https://obsidian.md/" rel="noopener noreferrer">Obsidian</a>.</p>
 <p>En fin de journée, je me sens coupable. Je renonce à publier une nouvelle version de Finition, qui intègre en son cœur le modèle neuronal d’Antidote, construit par eux depuis des années.</p>
 <h2>Lundi 19</h2>
-<p>Cinq heures du matin, je m’éveille avec les idées plus claires. Pourquoi ne pas proposer aux utilisateurs de créer leur propre modèle neuronal ? C’est un énorme travail : créer un dataset de dizaines de milliers de phrases fautives avec leur version correcte, puis entraîner un modèle sur une machine musclée, voire sur les serveurs de <a href="https://huggingface.co" rel="noopener noreferrer">Hugging Face</a>. En attendant, j’utilise <a href="https://huggingface.co/docs/transformers/model_doc/camembert" rel="noopener noreferrer">CamemBERT</a>, un modèle libre, dont la dernière itération date de 2025 : résultats moins bons qu’avec le modèle Antidote chargé dans Finition, mais satisfaisants, surtout quand, derrière, j’appelle à la rescousse la surpuissante correction IA.</p>
+<p>Cinq heures du matin, je m’éveille avec les idées plus claires. Pourquoi ne pas proposer aux utilisateurs de créer leur propre modèle neuronal ? C’est un énorme travail : créer un dataset de dizaines de milliers de phrases fautives avec leur version correcte, puis entraîner un modèle sur une machine musclée, voire sur les serveurs de <a href="https://huggingface.co" rel="noopener noreferrer">Hugging Face</a>. En attendant, j’utilise <a href="https://huggingface.co/almanach/camembertv2-base" rel="noopener noreferrer">CamemBERT</a>, un modèle libre, dont la dernière itération date de 2024 : résultats moins bons qu’avec le modèle Antidote chargé dans Finition, mais satisfaisants, surtout quand, derrière, j’appelle à la rescousse la surpuissante correction IA.</p>
 <p>Poussé plus loi, REA remonte les dictionnaires d’Antidote : synonymes, antonymes, rimes… Je recherche en ligne des ressources libres pour les remplacer et fabrique un format standardisé pour les intégrer à Finition à la demande. Cette base est extensible.</p>
 <p>Suis-je un voleur ? Est-ce que vous me volez quand vous lisez des passages de mes livres ? Non. REA n’a fait que lire le code d’Antidote. Si je transposais exactement ce code, je serais un plagiaire, surtout si je piquais le modèle de 40 Mo et les dictionnaires pour les publier, mais je ne les utilise qu’à titre de benchmark pour les comparer à mes reconstructions depuis des sources publiques.</p>
 <p>Il ne faudrait pas oublier comment cette histoire a commencé : par le pillage de tous les contenus accessibles publiquement, les miens compris. Ce pillage a rendu les IA possibles, qui permettent à leur tour le pillage des logiciels privatifs.</p>
