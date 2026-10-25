@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://static.tcrouzet.com/2026/10/25/ia-vie-ethique-cancer/</loc>
+    <lastmod>2026-10-25T16:41:35+01:00</lastmod>
+    <image:image>
+      <image:loc>https://static.tcrouzet.com/images_tc/2026/10/2026-10-24-160414.jpeg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://static.tcrouzet.com/2026/10/22/eloge-thelyson-orelien/</loc>
     <lastmod>2026-10-22T19:26:07+02:00</lastmod>
     <image:image>
