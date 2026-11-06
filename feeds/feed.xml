@@ -8,7 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 02 Nov 2026 11:02:06 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:49:34 +0100</lastBuildDate>
+    <item>
+      <title>Text Machine : le Substack littérature et IA</title>
+      <link>https://static.tcrouzet.com/2026/11/06/automatiser-newsletters/</link>
+      <description><![CDATA[<img alt="Text Machine : le Substack littérature et IA" src="https://static.tcrouzet.com/images_tc/2026/11/textmachine03.webp"/><p>Le domaine de la littérature et de l’IA bouge à une vitesse extraordinaire : pas une journée sans nouvelle expérience, nouvelle étude, nouvelle controverse. Je m’informais de façon désordonnée, faisant confiance au hasard, jusqu’à ce que je fabrique <a href="https://textmachine.substack.com/" rel="noopener noreferrer">Text Machine</a>, une newsletter de veille, <a href="https://danslesalgorithmes.net/2025/01/13/vers-un-internet-plein-de-vide/" rel="noopener noreferrer">en espérant Hubert Guillaud ne m’en voudra pas trop de participer à l’IA Slop</a>.</p>
+<p>Mon inspiration première : <a href="https://www.radiofrance.fr/franceinter/podcasts/la-revue-de-presse" rel="noopener noreferrer">la revue de presse matinale sur France Inter</a>. J’avais envie de la même chose sur la littérature et l’IA, mais sans en faire un job à plein temps. Je l’ai donc automatisée. Et <a href="https://community.obsidian.md/plugins/text-machine" rel="noopener noreferrer">Text Machine</a> est aussi devenu un plugin <a href="https://tcrouzet.com/2026/10/27/obsidian-contre-word/">Obsidian</a> pour créer ma newsletter, mais il peut servir à en créer sur d’autres sujets.</p>
+<p>Le principe : une boîte Gmail reçoit des alertes Google ou des messages envoyés par moi ou par vous, avec l’objet « Text Machine » et, dans le corps du texte, des liens vers des articles. C’est donc potentiellement une revue de presse collective (demandez moi l’email pour participer).</p>
+<p>Des filtres Gmail dirigent les messages vers un libellé « text-machine » ou tout autre nom au choix.</p>
+<figure><img alt="La collecte du matin" height="229" src="https://static.tcrouzet.com/images_tc/2026/11/textmachine01.webp" width="1024"/><figcaption>La collecte du matin</figcaption></figure>
+<p>Quand je lance le plugin Text Machine depuis Obsidian, il lit les nouveaux messages, tente de lire les articles s’ils ne sont pas bloqués derrière un paywall, vérifie leur adéquation avec le thème de la newsletter et s’assure que leur sujet n’a pas déjà été traité les jours précédents. En parallèle, il lit une série de fils d’actualité, dont celui de <a href="https://danslesalgorithmes.net" rel="noopener noreferrer"><em>Dans les algorithmes</em></a>.</p>
+<figure><img alt="Text Machine au travail" height="1003" src="https://static.tcrouzet.com/images_tc/2026/11/textmachine02.webp" width="1024"/><figcaption>Text Machine au travail</figcaption></figure>
+<p>Une fois ces informations consolidées, il rédige la newsletter et l’illustre. Cette opération automatique, paramétrable à l’aide de prompts, nécessite Codex, ou une IA locale ou une clé API pour accéder à ChatGPT ou Claude. <a href="https://github.com/tcrouzet/textmachine/blob/main/doc/processus.svg" rel="noopener noreferrer">La procédure dure cinq minutes environ.</a> Quand la newsletter est prête, elle s’affiche dans Obsidian. J’utilise <a href="https://community.obsidian.md/plugins/to-substack" rel="noopener noreferrer">To Substack</a> pour la publier.</p>
+<figure><img alt="Sur Substack" class="portrait" height="629" src="https://static.tcrouzet.com/images_tc/2026/11/textmachine03.webp" width="871"/><figcaption>Sur Substack</figcaption></figure>
+<p>L’avenir me dira si la méthode m’apporte les informations désirées et si j’ai la patience de lancer la procédure dès que ma boîte mail se remplira. Souvent, mettre en place ce genre de mécanique m’amuse plus que le résultat.</p>
+<p>J’ai ainsi perdu l’envie de publier <a href="https://tcrouzet.com/tag/digest/">mon digest dominical</a>. Je le faisais pour Isa et, depuis sa mort, j’ai beaucoup de mal à m’y remettre. J’ai besoin de quelque chose de plus fluide, de plus dynamique et interactif, de vous partager mes trouvailles au fil de l’eau. Je me contenterai de notes sur <a href="https://tcrouzet.substack.com/notes" rel="noopener noreferrer">Substack</a> et <a href="https://mamot.fr/@tcrouzet" rel="noopener noreferrer">Mastodon</a>.</p>
+<p>Rien ne dure dans l’espace numérique : on essaie, on se rétracte. Chez moi, seul le blog se maintient, cette possibilité de diffuser des pensées longues, de dialoguer, de rebondir, mais en prenant le temps, l’espace nécessaire. Il y a les choses passagères, celles qui s’accrochent, deviennent des pratiques, presque des thérapeutiques.</p>
+<p>Vous pouvez vous abonner à <a href="https://community.obsidian.md/plugins/text-machine" rel="noopener noreferrer">Text Machine</a> et me dire ce que je peux améliorer pour rendre la newsletter plus utile, mais ne me demandez pas, comme l’a fait un copain, d’éditorialiser le contenu en détail – je lis, coupe éventuellement, change un ou deux mots. C’est une revue de presse quasi automatique, avec les imperfections propres à toute expérimentation. J’ai au moins la franchise d’être transparent sur la méthode, quand beaucoup d’autres ne le sont pas et tentent de nous faire avaler des couleuvres.</p>]]></description>
+      <guid isPermaLink="false">https://static.tcrouzet.com/2026/11/06/automatiser-newsletters/</guid>
+      <enclosure url="https://static.tcrouzet.com/images_tc/2026/11/textmachine03.webp" length="0" type="image/webp"/>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 +0100</pubDate>
+    </item>
     <item>
       <title>Octobre 2026</title>
       <link>https://static.tcrouzet.com/2026/11/02/octobre-2026/</link>
@@ -118,7 +138,7 @@
 <h2>Vendredi 30, Balaruc</h2>
 <p>Je continue à lisser <em>L’expérience humaine</em>. Toujours le silence du côté des éditeurs. Je devrais m’en foutre, tant le fossé entre eux et moi a toujours été gigantesque et ne cesse de se creuser depuis que j’écris sur l’IA, mais cette distance me fait souvent douter de moi, de mon travail, de ma pertinence.</p>
 <h2>Samedi 31, Balaruc</h2>
-<p>Hier, une vieille connaissance, à cheval entre l’édition parisienne et les frontières où je navigue, connue de tous, avec une certaine influence, me disait de continuer comme je le fais, à sculpter mon œuvre à l’écart des dinosaures. C’est drôle d’avoir des supporters, toujours à la marge, et malgré tout d’être attiré par les vieilles lumières : une forme de nostalgie, de conservatisme, un besoin de reconnaissance institutionnelle alors que je ne cesse de répéter que les institutions sont obsolètes. Je ne suis pas à un paradoxe près. Mais <em>L’expérience humaine</em> se veut, comme Isa, un pont pacificateur entre les mondes. Que le texte reste en suspens me blesse.</p>
+<p>Hier, une vieille connaissance, à cheval entre l’édition parisienne et les frontières où je navigue, connue de tous, avec une certaine influence, me disait de continuer comme je le fais, à sculpter mon œuvre à l’écart des dinosaures. C’est drôle d’avoir des supporters, toujours à la marge, et malgré tout d’être attiré par les vieilles lumières : une forme de nostalgie, de conservatisme, un besoin de reconnaissance institutionnelle alors que je ne cesse de dénoncer l’obsolescence des institutions. Je ne suis pas à un paradoxe près. Mais <em>L’expérience humaine</em> se veut, comme Isa, un pont pacificateur entre les mondes. Que le texte reste en suspens me blesse.</p>
 <p>Mon ami me disait aussi que les éditeurs devaient craindre mes billets. S’ils me lisaient, ils ne défendraient pas des positions aussi arriérées. Ils ne peuvent pas me lire, ils ne m’ont jamais lu, ils ne me respectent pas : ils ne respectent que leurs semblables. Les quelques éditeurs qui me lisent sont aussi marginaux que moi. Pour les autres, je n’existe pas, mon nom ne leur dit rien, alors que j’écris depuis des décennies sur la littérature. L’autiste, c’est qui ?</p>]]></description>
       <guid isPermaLink="false">https://static.tcrouzet.com/2026/11/02/octobre-2026/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2026/11/2026-10-08-191144-lamaison.webp" length="0" type="image/webp"/>
@@ -278,51 +298,6 @@
       <guid isPermaLink="false">https://static.tcrouzet.com/2026/10/25/ia-vie-ethique-cancer/</guid>
       <enclosure url="https://static.tcrouzet.com/images_tc/2026/10/2026-10-24-160414.webp" length="0" type="image/webp"/>
       <pubDate>Sun, 25 Oct 2026 17:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Éloge de Thélyson Orélien</title>
-      <link>https://static.tcrouzet.com/2026/10/22/eloge-thelyson-orelien/</link>
-      <description><![CDATA[<img alt="Éloge de Thélyson Orélien" src="https://static.tcrouzet.com/images_tc/2026/10/orelien.webp"/><p>Tu étais présenté par ton éditeur canadien et ton éditeur français comme un nouveau génie de la littérature, les critiques, presque unanimes, t’ont élevé au pinacle, les jurés des prix littéraires t’ont promis les plus hautes récompenses, les lecteurs t’ont plébiscité en achetant ton livre par dizaines de milliers, et maintenant tous te tournent le dos parce que tu aurais écrit ton texte avec les IA.</p>
-<figure><img alt="Thélyson Orélien (JOEL SAGET/AFP)" height="576" src="https://static.tcrouzet.com/images_tc/2026/10/orelien.webp" width="1024"/><figcaption>Thélyson Orélien (JOEL SAGET/AFP)</figcaption></figure>
-<p>Depuis le début, cette affaire est ridicule. Des universitaires désireux de défendre leur pré carré, <a href="https://tcrouzet.com/2026/10/04/je-suis%20humain/">opposés à l’usage de l’IA pour la rédaction des articles universitaire</a>, t’ont d’abord dénoncé anonymement, un procédé digne des régimes autoritaires, <a href="https://www.huffingtonpost.fr/tech-futurs/article/balance-ton-claude-samuel-fitoussi-dit-etre-derriere-la-polemique-orelien-et-se-justifie-mais-le-flou-persiste_331193.html" rel="noopener noreferrer">avant de profiter de ta gloire naissante pour attirer la lumière sur eux</a>.</p>
-<p>Ils s’opposent à l’IA mais l’utilisent avec un certain talent, puisqu’ils t’ont attrapé grâce à elle. À leur suite, tes premiers panégyristes ont fait de toi un faussaire, te mettant au banc de la société, avec une violence qui n’a d’égale que leur enthousiasme initial. À ton crédit, tu ne laisses personne indifférent, surtout ceux que tu as ridiculisés dans leurs jugements.</p>
-<p>Grâce à toi, nous avons découvert qu’il était licite de s’opposer aux IA rédactrices, mais pas aux IA juges. On aurait pu s’attendre au contraire, la littérature étant désormais un art secondaire, alors que la justice reste le dernier rempart de nos démocraties en danger. Accepter le tribunal des IA paraît beaucoup plus aventureux, surtout de la part des gens de lettres censés nous illuminer.</p>
-<p>Désormais, ton éditeur évoque <a href="https://www.franceinfo.fr/culture/livres/affaire-thelyson-orelien/l-intelligence-artificielle-a-ete-utilisee-dans-l-ecriture-du-roman-de-thelyson-orelien-affirme-son-editeur-canadien-qui-met-fin-a-sa-relation-avec-l-ecrivain_8247700.html" rel="noopener noreferrer">« des traces de balises d’IA dans les métadonnées de certains documents »</a>. Il te lâche brutalement, avec une justification pour le moins oiseuse. Je me demande bien quelles métadonnées te trahissent. Tu aurais pu donner ton manuscrit à une IA pour le corriger et elle te l’aurait renvoyé au format Docx en glissant sa signature dans l’en-tête du fichier. Ça n’aurait en rien prouvé que tu as écrit avec les IA, juste que tu les as utilisées pour des services annexes, comme presque tous les humains de cette planète.</p>
-<p>Tu dois être bien malheureux. Tu as craché que tu étais un plagiaire, que c’était impardonnable. Tu as bien fait d’avouer, parce que plagier, c’est en premier lieu un manque de respect pour celui que tu plagies, en deuxième, un manque de respect pour tes lecteurs, en troisième, pour toi-même. Vraiment pas beau. Tu as fait ton mea culpa. On peut te pardonner. Mais ton autre faute ne s’inscrit dans aucune tradition, elle n’est en rien biblique ni prohibée, seulement invoquée au nom d’une pureté artistique. On est dans le religieux.</p>
-<p>Partout d’illustres spécialistes ont juré que ta prose transpirait l’IA. Quand j’ai lu ton premier paragraphe, j’ai aussi tiqué, parce que tu abuses des tricolons.</p>
-<p>Un tricolon est une suite de trois membres consécutifs, comme dans « <em>Veni, vidi, vici</em> » de Jules César ou « Demandez, et l’on vous donnera ; cherchez, et vous trouverez ; frappez, et l’on vous ouvrira » dans l’Évangile selon Matthieu. Je retiens : ça sonne 1, 2, 3. Les IA produisent des tricolons à la tonne, avec gourmandise.</p>
-<p>Mais pourquoi écrivent-elles de cette façon ? Quelques hypothèses :</p>
-<ul>
-<li>Elles sont des machines à prédire le mot suivant. Après deux membres construits à l’identique, il suffit de prolonger.</li>
-<li>Les corpus d’entraînement contiennent des tricolons, un truc de rhétorique pour paraître équilibré et soigné. Le rythme ternaire donne une impression de complétude et de maîtrise. Ça ne coûte pas cher.</li>
-<li>Ajouter mécaniquement des adjectifs, des compléments ou des subordonnées qui répètent la même chose est une façon de masquer l’absence de contenu ; aller au-delà de trois serait exagéré.</li>
-</ul>
-<p>Pour mieux analyser ton premier paragraphe, j’utilise la fonction <a href="https://github.com/tcrouzet/finition" rel="noopener noreferrer">Structure de Finition</a>, qui encode de façon schématique le texte.</p>
-<p>1/ <em>Je vous jure, ce jour-là, j’ai ri.</em></p>
-<p>SUJET VERBE (1), COMPLÉMENT (2), SUJET VERBE (3).</p>
-<p>2/ <em>Oui, moi, Jonas Dorléon, fils de Marthe la couturière et de Dieudonné le pêcheur fainéant, né à Carrefour-Feuilles, élevé au goût du sel, du rhum clair et de l’école publique, j’ai ri comme un idiot, un imbécile fini, un fou à l’élastique trop tendu.</em></p>
-<p>NOM (1), NOM (2), NOM (3), COMPLÉMENT (1), COMPLÉMENT (2), COMPLÉMENT (3), SUJET VERBE COMPLÉMENT (1), COMPLÉMENT (2), COMPLÉMENT (3).</p>
-<p>Un des compléments est lui-même en tricolon : « élevé au goût du sel, du rhum clair et de l’école publique ».</p>
-<p>3/ Pas un rire joyeux ni même un rire nerveux comme celui qu’on pousse quand on évite une bouse de vache dans la rue.</p>
-<p>NOM COMPLÉMENT.</p>
-<p>Pas un tricolon, mais une structure fréquente dans la prose générative : (PAS) (NI).</p>
-<p>4/ <em>Un rire sec, maigre, tordu comme un arbre qui a grandi dans une ruelle sans soleil.</em></p>
-<p>NOM COMPLÉMENT (1), COMPLÉMENT (2), COMPLÉMENT (3).</p>
-<p>On a célébré ta prose, mais tu abuses des « comme », tu nous en balances des brouettes.</p>
-<p>5/ <em>J’ai ri pendant que ma maison flambait, pendant que la voisine lançait des seaux d’eau dans le vide, pendant que les petits criaient « Manman ! », comme si leur mère avait le pouvoir d’arrêter les balles qui fusaient tout autour.</em></p>
-<p>SUJET VERBE pendant SUBORDONNÉE (1), pendant SUBORDONNÉE (2), pendant SUBORDONNÉE (3), comme SUBORDONNÉE.</p>
-<p>6/ <em>J’ai ri, parce que je savais que, si je ne riais pas, j’allais hurler, me pisser dessus, ou courir droit vers une balle, pour en finir une fois pour toutes.</em></p>
-<p>SUJET VERBE, parce SUBORDONNÉE, si SUBORDONNÉE, SUJET VERBE, SUJET VERBE COMPLÉMENT, VERBE COMPLÉMENT, pour SUBORDONNÉE.</p>
-<p>Encore une structure en opposition classique chez les IA.</p>
-<p>7/ <em>Et j’étais trop lâche pour mourir dignement.</em></p>
-<p>SUJET VERBE COMPLÉMENT.</p>
-<p>C’est le paragraphe le plus chargé en tricolons du roman, aussi un des paragraphes aux phrases les plus longues, comme pour impressionner le lecteur qui débarque. J’aurais pu dire que j’avais la preuve de la supercherie, sauf que dans la suite, tu n’utilises pas plus de tricolons que tes contemporains, et moins que les classiques. J’ai soumis ton texte à des centaines de mesures statistiques et <a href="https://tcrouzet.com/2026/10/16/finition-vibe-coding-antidote-obsidian/">il ne se différencie en rien dans mon corpus de référence</a>.</p>
-<p>J’ai envie de te célébrer, au cas où tu aurais écrit ton roman avec les IA, comme les lecteurs te célèbrent en continuant à acheter ton bouquin, au grand mépris de l’intelligentsia parisienne. Bravo, tu as trompé ton monde, tu as peut-être montré que les IA pouvaient être d’extraordinaires assistantes littéraires, qu’elles pouvaient stimuler la créativité, même chez un auteur qui n’est pas un spécialiste des belles lettres.</p>
-<p>Tu ouvres des perspectives à tous ceux qui rêvent d’écrire et n’y parviennent pas, faute de technique ou de persévérance. Demain, on te regardera comme un pionnier. Tes détracteurs poussiéreux seront tous oubliés qu’on se souviendra encore de toi.</p>
-<p>J’ai une prière à te soumettre. Si tu as écrit avec les IA, explique-nous ta méthode. C’est dans la maîtrise des outils d’aujourd’hui que tu es un caïd. <a href="https://www.liberation.fr/culture/livres/lia-a-ete-utilisee-dans-lecriture-du-roman-de-thelyson-orelien-annonce-son-editeur-canadien-20261021_NRWJZZYDHZFPVNC4OFTP4C3FLU/" rel="noopener noreferrer">Tu déclares</a> : « Le livre a été écrit par moi, ce n’est pas comme si c’est l’IA qui l’a écrit. » Tu ajoutes : « présentement je ne pense pas que ma parole vaille quelque chose. » Au contraire, tu as beaucoup à nous apprendre.</p>]]></description>
-      <guid isPermaLink="false">https://static.tcrouzet.com/2026/10/22/eloge-thelyson-orelien/</guid>
-      <enclosure url="https://static.tcrouzet.com/images_tc/2026/10/orelien.webp" length="0" type="image/webp"/>
-      <pubDate>Thu, 22 Oct 2026 19:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
