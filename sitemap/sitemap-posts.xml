@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://static.tcrouzet.com/2026/11/11/rire-ou-pleurer/</loc>
+    <lastmod>2026-11-11T11:08:06+01:00</lastmod>
+    <image:image>
+      <image:loc>https://static.tcrouzet.com/images_tc/2026/11/pascaline.jpeg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://static.tcrouzet.com/2026/11/06/automatiser-newsletters/</loc>
     <lastmod>2026-11-06T07:56:48+01:00</lastmod>
     <image:image>
@@ -72,7 +79,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com/2026/10/06/septembre-2026/</loc>
-    <lastmod>2026-10-06T18:48:34+02:00</lastmod>
+    <lastmod>2026-11-11T10:29:52+01:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2026/10/2026-09-21-200329.jpeg</image:loc>
     </image:image>
@@ -163,7 +170,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com/2026/08/14/correspondance-amoureuse/</loc>
-    <lastmod>2026-08-14T16:47:57+02:00</lastmod>
+    <lastmod>2026-11-08T07:53:10+01:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2026/08/2026-08-14-164502.jpeg</image:loc>
     </image:image>
