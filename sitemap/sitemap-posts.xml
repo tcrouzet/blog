@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://static.tcrouzet.com/2026/11/18/flickerguard/</loc>
-    <lastmod>2026-11-18T22:18:29+01:00</lastmod>
+    <lastmod>2026-11-19T15:26:47+01:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2026/11/flicker.jpeg</image:loc>
     </image:image>
@@ -6467,7 +6467,7 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com/books/clitoria/</loc>
-    <lastmod>2026-11-19T07:20:12+01:00</lastmod>
+    <lastmod>2026-11-19T13:18:36+01:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2014/10/clitoria-couv.jpeg</image:loc>
     </image:image>
@@ -14662,14 +14662,14 @@
   </url>
   <url>
     <loc>https://static.tcrouzet.com/books/cinquieme-pouvoir/le-cinquieme-pouvoir/</loc>
-    <lastmod>2024-04-30T08:24:31+02:00</lastmod>
+    <lastmod>2026-11-19T13:19:17+01:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2006/12/5thcouv.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>https://static.tcrouzet.com/books/le-peuple/le-peuple-des-connecteurs/</loc>
-    <lastmod>2024-04-30T08:24:31+02:00</lastmod>
+    <lastmod>2026-11-19T13:19:00+01:00</lastmod>
     <image:image>
       <image:loc>https://static.tcrouzet.com/images_tc/2006/12/peuple-cover.jpeg</image:loc>
     </image:image>
